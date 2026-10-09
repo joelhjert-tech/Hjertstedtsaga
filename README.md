@@ -10,7 +10,7 @@ A searchable writing reference for **Tales from the Known Reach / The Shattered 
 - [Source edition and integrity manifest](sources/manifest.json)
 - [Old-to-revised chapter/scene mapping](sources/novel-revision-map.json)
 
-The first import is the text from website release `issue03-2026-10-08-v01`, copied on 9 October 2026. Chapter files preserve the published prose. Scene indexes are navigation aids, not generated plot summaries. This is a snapshot; it does not automatically follow website edits or unpublished drafts.
+The first import is the text from website release `issue03-2026-10-08-v01`, copied on 9 October 2026. Chapter files preserve the published prose. Scene indexes are navigation aids, not generated plot summaries. Under the [standing sync guideline](guidelines/novel-github-sync-v01.md), agents must update this repository whenever the user adds a new novel story, chapter or accepted revision. This is a task completion requirement, not a background watcher.
 
 ## Use in a writing chat
 
@@ -30,4 +30,6 @@ The novel is the source for events in this edition. Website dossiers supplement 
 
 This reference library does not supersede the production workspace's canon locks, approved visual assets, image gates or publication approvals. No unpublished drafts, production logs, artwork or credentials are included.
 
-Refresh only from an explicitly selected approved release. Run `python tools/import_release.py PATH_TO_RELEASE_SITE --release RELEASE_NAME`, inspect the changes, then commit and push the intended files. The importer verifies that splitting chapters preserves all novel prose. Check removed/renamed entries before committing; the importer does not delete old files. Changes here do not publish to the website.
+Sync new user-added stories directly from their exact source; a website release is not a prerequisite. Follow the standing guideline to update navigation, references and provenance, commit, push and verify. Explicit private, draft-only or hold instructions remain controlling. Changes here do not publish to the website.
+
+For the original eight-chapter website snapshot only, `python tools/import_release.py PATH_TO_RELEASE_SITE --release RELEASE_NAME` imports an explicitly selected approved release and verifies prose fidelity. This importer is fixed to eight chapters: extend it before using it for additional chapters, and never let an older release overwrite newer story additions. Inspect removed/renamed entries; it does not delete old files.
