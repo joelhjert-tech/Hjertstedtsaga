@@ -1,0 +1,930 @@
+[
+  {
+    "chapter": 1,
+    "scene": 1,
+    "title": "The Unwanted Fortress",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 3,
+    "end_line": 360
+  },
+  {
+    "chapter": 1,
+    "scene": 2,
+    "title": "Run the Gate",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 361,
+    "end_line": 842
+  },
+  {
+    "chapter": 1,
+    "scene": 3,
+    "title": "The Abandoned Garrison",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 843,
+    "end_line": 1308
+  },
+  {
+    "chapter": 1,
+    "scene": 4,
+    "title": "The Captain’s Contract",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 1309,
+    "end_line": 2022
+  },
+  {
+    "chapter": 1,
+    "scene": 5,
+    "title": "The Winning Bet",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 2023,
+    "end_line": 2762
+  },
+  {
+    "chapter": 1,
+    "scene": 6,
+    "title": "Two Battles at Once",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 2763,
+    "end_line": 2982
+  },
+  {
+    "chapter": 1,
+    "scene": 7,
+    "title": "The Truth Behind the Passengers",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 2983,
+    "end_line": 3696
+  },
+  {
+    "chapter": 1,
+    "scene": 8,
+    "title": "The Trap Breaks",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 3697,
+    "end_line": 4400
+  },
+  {
+    "chapter": 1,
+    "scene": 9,
+    "title": "Bring Them Home",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 4401,
+    "end_line": 5156
+  },
+  {
+    "chapter": 1,
+    "scene": 10,
+    "title": "The Voice of Command",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 5157,
+    "end_line": 5994
+  },
+  {
+    "chapter": 1,
+    "scene": 11,
+    "title": "The House Answers",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 5995,
+    "end_line": 6826
+  },
+  {
+    "chapter": 1,
+    "scene": 12,
+    "title": "Take the Station",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 6827,
+    "end_line": 7796
+  },
+  {
+    "chapter": 1,
+    "scene": 13,
+    "title": "Family Business",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 7797,
+    "end_line": 8478
+  },
+  {
+    "chapter": 1,
+    "scene": 14,
+    "title": "Hunt the Admiral",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 8479,
+    "end_line": 9330
+  },
+  {
+    "chapter": 1,
+    "scene": 15,
+    "title": "Surrender",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 9331,
+    "end_line": 10032
+  },
+  {
+    "chapter": 1,
+    "scene": 16,
+    "title": "The Acceptance Table",
+    "file": "novel/chapters/chapter-01.md",
+    "start_line": 10033,
+    "end_line": 10790
+  },
+  {
+    "chapter": 2,
+    "scene": 1,
+    "title": "Return to Kestrel",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 3,
+    "end_line": 814
+  },
+  {
+    "chapter": 2,
+    "scene": 2,
+    "title": "The Next Contract",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 815,
+    "end_line": 1430
+  },
+  {
+    "chapter": 2,
+    "scene": 3,
+    "title": "The Bounty Hunter’s Contract",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 1431,
+    "end_line": 2192
+  },
+  {
+    "chapter": 2,
+    "scene": 4,
+    "title": "The Unmarked Entry",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 2193,
+    "end_line": 3000
+  },
+  {
+    "chapter": 2,
+    "scene": 5,
+    "title": "Assault Crew",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 3001,
+    "end_line": 3745
+  },
+  {
+    "chapter": 2,
+    "scene": 6,
+    "title": "The Prisoner Moves",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 3746,
+    "end_line": 4465
+  },
+  {
+    "chapter": 2,
+    "scene": 7,
+    "title": "Full Combat Load",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 4466,
+    "end_line": 5229
+  },
+  {
+    "chapter": 2,
+    "scene": 8,
+    "title": "The Boarding Cutter",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 5230,
+    "end_line": 5921
+  },
+  {
+    "chapter": 2,
+    "scene": 9,
+    "title": "The Loudest Professionals",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 5922,
+    "end_line": 6919
+  },
+  {
+    "chapter": 2,
+    "scene": 10,
+    "title": "First to the Bridge",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 6920,
+    "end_line": 7773
+  },
+  {
+    "chapter": 2,
+    "scene": 11,
+    "title": "Race to the Bridge",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 7774,
+    "end_line": 8771
+  },
+  {
+    "chapter": 2,
+    "scene": 12,
+    "title": "The Deal and the Hunter",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 8772,
+    "end_line": 9599
+  },
+  {
+    "chapter": 2,
+    "scene": 13,
+    "title": "The Trojan Horse",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 9600,
+    "end_line": 10545
+  },
+  {
+    "chapter": 2,
+    "scene": 14,
+    "title": "Special Custody Falls",
+    "file": "novel/chapters/chapter-02.md",
+    "start_line": 10546,
+    "end_line": 11517
+  },
+  {
+    "chapter": 3,
+    "scene": 1,
+    "title": "Beneath Special Custody",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 3,
+    "end_line": 504
+  },
+  {
+    "chapter": 3,
+    "scene": 2,
+    "title": "The Scale of Ardent",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 505,
+    "end_line": 862
+  },
+  {
+    "chapter": 3,
+    "scene": 3,
+    "title": "The Primarch Approves",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 863,
+    "end_line": 1276
+  },
+  {
+    "chapter": 3,
+    "scene": 4,
+    "title": "The Rose of Judgment",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 1277,
+    "end_line": 1736
+  },
+  {
+    "chapter": 3,
+    "scene": 5,
+    "title": "Three Blades",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 1737,
+    "end_line": 2140
+  },
+  {
+    "chapter": 3,
+    "scene": 6,
+    "title": "The Fleet Comes for Central",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 2141,
+    "end_line": 2658
+  },
+  {
+    "chapter": 3,
+    "scene": 7,
+    "title": "The Maniacs of the Grey Nomad",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 2659,
+    "end_line": 3128
+  },
+  {
+    "chapter": 3,
+    "scene": 8,
+    "title": "Bastion Ignites",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 3129,
+    "end_line": 3678
+  },
+  {
+    "chapter": 3,
+    "scene": 9,
+    "title": "First Capital Boarding",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 3679,
+    "end_line": 3870
+  },
+  {
+    "chapter": 3,
+    "scene": 10,
+    "title": "The Second Capital",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 3871,
+    "end_line": 4240
+  },
+  {
+    "chapter": 3,
+    "scene": 11,
+    "title": "Excision War",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 4241,
+    "end_line": 4440
+  },
+  {
+    "chapter": 3,
+    "scene": 12,
+    "title": "Everyone Wants a Piece",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 4441,
+    "end_line": 4784
+  },
+  {
+    "chapter": 3,
+    "scene": 13,
+    "title": "The Hunters of Bastion",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 4785,
+    "end_line": 4986
+  },
+  {
+    "chapter": 3,
+    "scene": 14,
+    "title": "The Duel Ends",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 4987,
+    "end_line": 5342
+  },
+  {
+    "chapter": 3,
+    "scene": 15,
+    "title": "Central Becomes House Ground",
+    "file": "novel/chapters/chapter-03.md",
+    "start_line": 5343,
+    "end_line": 5766
+  },
+  {
+    "chapter": 4,
+    "scene": 1,
+    "title": "The Gate Must Hold",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 3,
+    "end_line": 564
+  },
+  {
+    "chapter": 4,
+    "scene": 2,
+    "title": "The Gatehold Breakthrough",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 565,
+    "end_line": 944
+  },
+  {
+    "chapter": 4,
+    "scene": 3,
+    "title": "Dennis Has Arrived",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 945,
+    "end_line": 1376
+  },
+  {
+    "chapter": 4,
+    "scene": 4,
+    "title": "The Gate Is Not Alone",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 1377,
+    "end_line": 1650
+  },
+  {
+    "chapter": 4,
+    "scene": 5,
+    "title": "Remove the Limiters",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 1651,
+    "end_line": 2034
+  },
+  {
+    "chapter": 4,
+    "scene": 6,
+    "title": "Bastion Falls in Seven Minutes",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 2035,
+    "end_line": 2520
+  },
+  {
+    "chapter": 4,
+    "scene": 7,
+    "title": "The Second Ship",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 2521,
+    "end_line": 2960
+  },
+  {
+    "chapter": 4,
+    "scene": 8,
+    "title": "The Wall at Gatehold",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 2961,
+    "end_line": 3238
+  },
+  {
+    "chapter": 4,
+    "scene": 9,
+    "title": "The Counteroffensive",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 3239,
+    "end_line": 3650
+  },
+  {
+    "chapter": 4,
+    "scene": 10,
+    "title": "Elder Bjorn’s Bottle",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 3651,
+    "end_line": 4154
+  },
+  {
+    "chapter": 4,
+    "scene": 11,
+    "title": "All of Them Board",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 4155,
+    "end_line": 4434
+  },
+  {
+    "chapter": 4,
+    "scene": 12,
+    "title": "The Living Seraph",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 4435,
+    "end_line": 4948
+  },
+  {
+    "chapter": 4,
+    "scene": 13,
+    "title": "Family Converges",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 4949,
+    "end_line": 5368
+  },
+  {
+    "chapter": 4,
+    "scene": 14,
+    "title": "The Commander Comes",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 5369,
+    "end_line": 5826
+  },
+  {
+    "chapter": 4,
+    "scene": 15,
+    "title": "Red Corridor",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 5827,
+    "end_line": 6354
+  },
+  {
+    "chapter": 4,
+    "scene": 16,
+    "title": "House Victory",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 6355,
+    "end_line": 6832
+  },
+  {
+    "chapter": 4,
+    "scene": 17,
+    "title": "The Cost of Victory",
+    "file": "novel/chapters/chapter-04.md",
+    "start_line": 6833,
+    "end_line": 7254
+  },
+  {
+    "chapter": 5,
+    "scene": 1,
+    "title": "What Victory Leaves Behind",
+    "file": "novel/chapters/chapter-05.md",
+    "start_line": 3,
+    "end_line": 508
+  },
+  {
+    "chapter": 5,
+    "scene": 2,
+    "title": "Questions at Sol",
+    "file": "novel/chapters/chapter-05.md",
+    "start_line": 509,
+    "end_line": 1008
+  },
+  {
+    "chapter": 5,
+    "scene": 3,
+    "title": "The Fortress Takes Root",
+    "file": "novel/chapters/chapter-05.md",
+    "start_line": 1009,
+    "end_line": 1454
+  },
+  {
+    "chapter": 5,
+    "scene": 4,
+    "title": "The Lines Harden",
+    "file": "novel/chapters/chapter-05.md",
+    "start_line": 1455,
+    "end_line": 1842
+  },
+  {
+    "chapter": 5,
+    "scene": 5,
+    "title": "Back at Kestrel",
+    "file": "novel/chapters/chapter-05.md",
+    "start_line": 1843,
+    "end_line": 2298
+  },
+  {
+    "chapter": 5,
+    "scene": 6,
+    "title": "The Invitation Home",
+    "file": "novel/chapters/chapter-05.md",
+    "start_line": 2299,
+    "end_line": 2756
+  },
+  {
+    "chapter": 5,
+    "scene": 7,
+    "title": "The Mausoleum",
+    "file": "novel/chapters/chapter-05.md",
+    "start_line": 2757,
+    "end_line": 3378
+  },
+  {
+    "chapter": 5,
+    "scene": 8,
+    "title": "Kestrel Takes the Seat",
+    "file": "novel/chapters/chapter-05.md",
+    "start_line": 3379,
+    "end_line": 3906
+  },
+  {
+    "chapter": 5,
+    "scene": 9,
+    "title": "The Open March",
+    "file": "novel/chapters/chapter-05.md",
+    "start_line": 3907,
+    "end_line": 4220
+  },
+  {
+    "chapter": 6,
+    "scene": 1,
+    "title": "Sightseeing",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 3,
+    "end_line": 432
+  },
+  {
+    "chapter": 6,
+    "scene": 2,
+    "title": "Four Brothers, One Frigate",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 433,
+    "end_line": 920
+  },
+  {
+    "chapter": 6,
+    "scene": 3,
+    "title": "The Rust Bucket",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 921,
+    "end_line": 1458
+  },
+  {
+    "chapter": 6,
+    "scene": 4,
+    "title": "The Forgotten Map",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 1459,
+    "end_line": 1898
+  },
+  {
+    "chapter": 6,
+    "scene": 5,
+    "title": "The Old Road",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 1899,
+    "end_line": 2354
+  },
+  {
+    "chapter": 6,
+    "scene": 6,
+    "title": "The Gate That Should Not Have Opened",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 2355,
+    "end_line": 2900
+  },
+  {
+    "chapter": 6,
+    "scene": 7,
+    "title": "Boarding the Beast",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 2901,
+    "end_line": 3106
+  },
+  {
+    "chapter": 6,
+    "scene": 8,
+    "title": "Let Him Have It",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 3107,
+    "end_line": 3572
+  },
+  {
+    "chapter": 6,
+    "scene": 9,
+    "title": "Red Authorization",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 3573,
+    "end_line": 3912
+  },
+  {
+    "chapter": 6,
+    "scene": 10,
+    "title": "The Line Surges",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 3913,
+    "end_line": 4334
+  },
+  {
+    "chapter": 6,
+    "scene": 11,
+    "title": "Recovery and Questions",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 4335,
+    "end_line": 4764
+  },
+  {
+    "chapter": 6,
+    "scene": 12,
+    "title": "Different Answers to the Same Nightmare",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 4765,
+    "end_line": 5218
+  },
+  {
+    "chapter": 6,
+    "scene": 13,
+    "title": "The Veyr-Khal",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 5219,
+    "end_line": 5708
+  },
+  {
+    "chapter": 6,
+    "scene": 14,
+    "title": "The Dead Gate",
+    "file": "novel/chapters/chapter-06.md",
+    "start_line": 5709,
+    "end_line": 6120
+  },
+  {
+    "chapter": 7,
+    "scene": 1,
+    "title": "The First Envoys",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 3,
+    "end_line": 452
+  },
+  {
+    "chapter": 7,
+    "scene": 2,
+    "title": "We Do Not Tolerate the Garooth",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 453,
+    "end_line": 938
+  },
+  {
+    "chapter": 7,
+    "scene": 3,
+    "title": "The Gate Opens and Sol Screams",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 939,
+    "end_line": 1186
+  },
+  {
+    "chapter": 7,
+    "scene": 4,
+    "title": "The First Hammer",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 1187,
+    "end_line": 1582
+  },
+  {
+    "chapter": 7,
+    "scene": 5,
+    "title": "Four Ways to Kill a War",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 1583,
+    "end_line": 1956
+  },
+  {
+    "chapter": 7,
+    "scene": 6,
+    "title": "Release the Hunters",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 1957,
+    "end_line": 2420
+  },
+  {
+    "chapter": 7,
+    "scene": 7,
+    "title": "Give Them the Tools",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 2421,
+    "end_line": 2812
+  },
+  {
+    "chapter": 7,
+    "scene": 8,
+    "title": "Feast Before the Spear",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 2813,
+    "end_line": 3086
+  },
+  {
+    "chapter": 7,
+    "scene": 9,
+    "title": "The Wardens of Vintergard",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 3087,
+    "end_line": 3296
+  },
+  {
+    "chapter": 7,
+    "scene": 10,
+    "title": "The Old Machines Still Walk",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 3297,
+    "end_line": 3624
+  },
+  {
+    "chapter": 7,
+    "scene": 11,
+    "title": "The Door and the Axe",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 3625,
+    "end_line": 4062
+  },
+  {
+    "chapter": 7,
+    "scene": 12,
+    "title": "The Last Warden Standing",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 4063,
+    "end_line": 4464
+  },
+  {
+    "chapter": 7,
+    "scene": 13,
+    "title": "The Weight They Carried",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 4465,
+    "end_line": 4634
+  },
+  {
+    "chapter": 7,
+    "scene": 14,
+    "title": "The Forge Falls Silent",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 4635,
+    "end_line": 4812
+  },
+  {
+    "chapter": 7,
+    "scene": 15,
+    "title": "The Living First",
+    "file": "novel/chapters/chapter-07.md",
+    "start_line": 4813,
+    "end_line": 4954
+  },
+  {
+    "chapter": 8,
+    "scene": 1,
+    "title": "The Work That Waited",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 3,
+    "end_line": 134
+  },
+  {
+    "chapter": 8,
+    "scene": 2,
+    "title": "The Smaller Ships",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 135,
+    "end_line": 260
+  },
+  {
+    "chapter": 8,
+    "scene": 3,
+    "title": "Dock Twelve",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 261,
+    "end_line": 354
+  },
+  {
+    "chapter": 8,
+    "scene": 4,
+    "title": "The Man They Erased",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 355,
+    "end_line": 750
+  },
+  {
+    "chapter": 8,
+    "scene": 5,
+    "title": "The Cadet Ship",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 751,
+    "end_line": 1328
+  },
+  {
+    "chapter": 8,
+    "scene": 6,
+    "title": "Reinforcement Request",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 1329,
+    "end_line": 1760
+  },
+  {
+    "chapter": 8,
+    "scene": 7,
+    "title": "Into the Graveyard",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 1761,
+    "end_line": 2196
+  },
+  {
+    "chapter": 8,
+    "scene": 8,
+    "title": "The Dead Battleship",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 2197,
+    "end_line": 2754
+  },
+  {
+    "chapter": 8,
+    "scene": 9,
+    "title": "The Orb in Section Nineteen",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 2755,
+    "end_line": 3132
+  },
+  {
+    "chapter": 8,
+    "scene": 10,
+    "title": "The Saint Varos Wakes",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 3133,
+    "end_line": 3588
+  },
+  {
+    "chapter": 8,
+    "scene": 11,
+    "title": "Salvage Rights",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 3589,
+    "end_line": 4126
+  },
+  {
+    "chapter": 8,
+    "scene": 12,
+    "title": "The Exorcists Enter the Grave",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 4127,
+    "end_line": 4538
+  },
+  {
+    "chapter": 8,
+    "scene": 13,
+    "title": "The Grave Becomes a Battlefield",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 4539,
+    "end_line": 4998
+  },
+  {
+    "chapter": 8,
+    "scene": 14,
+    "title": "The Wall in the Grave",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 4999,
+    "end_line": 5466
+  },
+  {
+    "chapter": 8,
+    "scene": 15,
+    "title": "When the Primarch Arrived",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 5467,
+    "end_line": 5866
+  },
+  {
+    "chapter": 8,
+    "scene": 16,
+    "title": "The Prisoner of Winter",
+    "file": "novel/chapters/chapter-08.md",
+    "start_line": 5867,
+    "end_line": 6271
+  }
+]

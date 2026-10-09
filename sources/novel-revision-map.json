@@ -1,0 +1,818 @@
+{
+  "edition": "2026-09-28",
+  "scene_mapping": [
+    {
+      "old_chapter": 1,
+      "old_scene": 1,
+      "new_chapter": 1,
+      "new_scene": 1,
+      "title": "The Unwanted Fortress"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 2,
+      "new_chapter": 1,
+      "new_scene": 2,
+      "title": "Run the Gate"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 3,
+      "new_chapter": 1,
+      "new_scene": 3,
+      "title": "The Abandoned Garrison"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 4,
+      "new_chapter": 1,
+      "new_scene": 4,
+      "title": "The Captain’s Contract"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 5,
+      "new_chapter": 1,
+      "new_scene": 5,
+      "title": "The Winning Bet"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 6,
+      "new_chapter": 1,
+      "new_scene": 6,
+      "title": "Two Battles at Once"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 7,
+      "new_chapter": 1,
+      "new_scene": 7,
+      "title": "The Truth Behind the Passengers"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 8,
+      "new_chapter": 1,
+      "new_scene": 8,
+      "title": "The Trap Breaks"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 9,
+      "new_chapter": 1,
+      "new_scene": 9,
+      "title": "Bring Them Home"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 10,
+      "new_chapter": 1,
+      "new_scene": 10,
+      "title": "The Voice of Command"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 11,
+      "new_chapter": 1,
+      "new_scene": 11,
+      "title": "The House Answers"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 12,
+      "new_chapter": 1,
+      "new_scene": 12,
+      "title": "Take the Station"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 13,
+      "new_chapter": 1,
+      "new_scene": 13,
+      "title": "Family Business"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 14,
+      "new_chapter": 1,
+      "new_scene": 14,
+      "title": "Hunt the Admiral"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 15,
+      "new_chapter": 1,
+      "new_scene": 15,
+      "title": "Surrender"
+    },
+    {
+      "old_chapter": 1,
+      "old_scene": 16,
+      "new_chapter": 1,
+      "new_scene": 16,
+      "title": "The Acceptance Table"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 1,
+      "new_chapter": 2,
+      "new_scene": 1,
+      "title": "Return to Kestrel"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 2,
+      "new_chapter": 2,
+      "new_scene": 2,
+      "title": "The Next Contract"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 3,
+      "new_chapter": 2,
+      "new_scene": 3,
+      "title": "The Bounty Hunter’s Contract"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 4,
+      "new_chapter": 2,
+      "new_scene": 4,
+      "title": "The Unmarked Entry"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 5,
+      "new_chapter": 2,
+      "new_scene": 5,
+      "title": "Assault Crew"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 6,
+      "new_chapter": 2,
+      "new_scene": 6,
+      "title": "The Prisoner Moves"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 7,
+      "new_chapter": 2,
+      "new_scene": 7,
+      "title": "Full Combat Load"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 8,
+      "new_chapter": 2,
+      "new_scene": 8,
+      "title": "The Boarding Cutter"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 9,
+      "new_chapter": 2,
+      "new_scene": 9,
+      "title": "The Loudest Professionals"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 10,
+      "new_chapter": 2,
+      "new_scene": 10,
+      "title": "First to the Bridge"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 11,
+      "new_chapter": 2,
+      "new_scene": 11,
+      "title": "Race to the Bridge"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 12,
+      "new_chapter": 2,
+      "new_scene": 12,
+      "title": "The Deal and the Hunter"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 13,
+      "new_chapter": 2,
+      "new_scene": 13,
+      "title": "The Trojan Horse"
+    },
+    {
+      "old_chapter": 2,
+      "old_scene": 14,
+      "new_chapter": 2,
+      "new_scene": 14,
+      "title": "Special Custody Falls"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 1,
+      "new_chapter": 3,
+      "new_scene": 1,
+      "title": "Beneath Special Custody"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 2,
+      "new_chapter": 3,
+      "new_scene": 2,
+      "title": "The Scale of Ardent"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 3,
+      "new_chapter": 3,
+      "new_scene": 3,
+      "title": "The Primarch Approves"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 4,
+      "new_chapter": 3,
+      "new_scene": 4,
+      "title": "The Rose of Judgment"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 5,
+      "new_chapter": 3,
+      "new_scene": 5,
+      "title": "Three Blades"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 6,
+      "new_chapter": 3,
+      "new_scene": 6,
+      "title": "The Fleet Comes for Central"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 7,
+      "new_chapter": 3,
+      "new_scene": 7,
+      "title": "The Maniacs of the Grey Nomad"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 8,
+      "new_chapter": 3,
+      "new_scene": 8,
+      "title": "Bastion Ignites"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 9,
+      "new_chapter": 3,
+      "new_scene": 9,
+      "title": "First Capital Boarding"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 10,
+      "new_chapter": 3,
+      "new_scene": 10,
+      "title": "The Second Capital"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 11,
+      "new_chapter": 3,
+      "new_scene": 11,
+      "title": "Excision War"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 12,
+      "new_chapter": 3,
+      "new_scene": 12,
+      "title": "Everyone Wants a Piece"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 13,
+      "new_chapter": 3,
+      "new_scene": 13,
+      "title": "The Hunters of Bastion"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 14,
+      "new_chapter": 3,
+      "new_scene": 14,
+      "title": "The Duel Ends"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 15,
+      "new_chapter": 3,
+      "new_scene": 15,
+      "title": "Central Becomes House Ground"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 16,
+      "new_chapter": 4,
+      "new_scene": 1,
+      "title": "The Gate Must Hold"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 17,
+      "new_chapter": 4,
+      "new_scene": 2,
+      "title": "The Gatehold Breakthrough"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 18,
+      "new_chapter": 4,
+      "new_scene": 3,
+      "title": "Dennis Has Arrived"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 19,
+      "new_chapter": 4,
+      "new_scene": 4,
+      "title": "The Gate Is Not Alone"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 20,
+      "new_chapter": 4,
+      "new_scene": 5,
+      "title": "Remove the Limiters"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 21,
+      "new_chapter": 4,
+      "new_scene": 6,
+      "title": "Bastion Falls in Seven Minutes"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 22,
+      "new_chapter": 4,
+      "new_scene": 7,
+      "title": "The Second Ship"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 23,
+      "new_chapter": 4,
+      "new_scene": 8,
+      "title": "The Wall at Gatehold"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 24,
+      "new_chapter": 4,
+      "new_scene": 9,
+      "title": "The Counteroffensive"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 25,
+      "new_chapter": 4,
+      "new_scene": 10,
+      "title": "Elder Bjorn’s Bottle"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 26,
+      "new_chapter": 4,
+      "new_scene": 11,
+      "title": "All of Them Board"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 27,
+      "new_chapter": 4,
+      "new_scene": 12,
+      "title": "The Living Seraph"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 28,
+      "new_chapter": 4,
+      "new_scene": 13,
+      "title": "Family Converges"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 29,
+      "new_chapter": 4,
+      "new_scene": 14,
+      "title": "The Commander Comes"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 30,
+      "new_chapter": 4,
+      "new_scene": 15,
+      "title": "Red Corridor"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 31,
+      "new_chapter": 4,
+      "new_scene": 16,
+      "title": "House Victory"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 32,
+      "new_chapter": 4,
+      "new_scene": 17,
+      "title": "The Cost of Victory"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 33,
+      "new_chapter": 5,
+      "new_scene": 1,
+      "title": "What Victory Leaves Behind"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 34,
+      "new_chapter": 5,
+      "new_scene": 2,
+      "title": "Questions at Sol"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 35,
+      "new_chapter": 5,
+      "new_scene": 3,
+      "title": "The Fortress Takes Root"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 36,
+      "new_chapter": 5,
+      "new_scene": 4,
+      "title": "The Lines Harden"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 37,
+      "new_chapter": 5,
+      "new_scene": 5,
+      "title": "Back at Kestrel"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 38,
+      "new_chapter": 5,
+      "new_scene": 6,
+      "title": "The Invitation Home"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 39,
+      "new_chapter": 5,
+      "new_scene": 7,
+      "title": "The Mausoleum"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 40,
+      "new_chapter": 5,
+      "new_scene": 8,
+      "title": "Kestrel Takes the Seat"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 41,
+      "new_chapter": 5,
+      "new_scene": 9,
+      "title": "The Open March"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 42,
+      "new_chapter": 6,
+      "new_scene": 1,
+      "title": "Sightseeing"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 43,
+      "new_chapter": 6,
+      "new_scene": 2,
+      "title": "Four Brothers, One Frigate"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 44,
+      "new_chapter": 6,
+      "new_scene": 3,
+      "title": "The Rust Bucket"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 45,
+      "new_chapter": 6,
+      "new_scene": 4,
+      "title": "The Forgotten Map"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 46,
+      "new_chapter": 6,
+      "new_scene": 5,
+      "title": "The Old Road"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 47,
+      "new_chapter": 6,
+      "new_scene": 6,
+      "title": "The Gate That Should Not Have Opened"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 48,
+      "new_chapter": 6,
+      "new_scene": 7,
+      "title": "Boarding the Beast"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 49,
+      "new_chapter": 6,
+      "new_scene": 8,
+      "title": "Let Him Have It"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 50,
+      "new_chapter": 6,
+      "new_scene": 9,
+      "title": "Red Authorization"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 51,
+      "new_chapter": 6,
+      "new_scene": 10,
+      "title": "The Line Surges"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 52,
+      "new_chapter": 6,
+      "new_scene": 11,
+      "title": "Recovery and Questions"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 53,
+      "new_chapter": 6,
+      "new_scene": 12,
+      "title": "Different Answers to the Same Nightmare"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 54,
+      "new_chapter": 6,
+      "new_scene": 13,
+      "title": "The Veyr-Khal"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 55,
+      "new_chapter": 6,
+      "new_scene": 14,
+      "title": "The Dead Gate"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 56,
+      "new_chapter": 7,
+      "new_scene": 1,
+      "title": "The First Envoys"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 57,
+      "new_chapter": 7,
+      "new_scene": 2,
+      "title": "We Do Not Tolerate the Garooth"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 58,
+      "new_chapter": 7,
+      "new_scene": 3,
+      "title": "The Gate Opens and Sol Screams"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 59,
+      "new_chapter": 7,
+      "new_scene": 4,
+      "title": "The First Hammer"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 60,
+      "new_chapter": 7,
+      "new_scene": 5,
+      "title": "Four Ways to Kill a War"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 61,
+      "new_chapter": 7,
+      "new_scene": 6,
+      "title": "Release the Hunters"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 62,
+      "new_chapter": 7,
+      "new_scene": 7,
+      "title": "Give Them the Tools"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 63,
+      "new_chapter": 7,
+      "new_scene": 8,
+      "title": "Feast Before the Spear"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 64,
+      "new_chapter": 7,
+      "new_scene": 9,
+      "title": "The Wardens of Vintergard"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 65,
+      "new_chapter": 7,
+      "new_scene": 10,
+      "title": "The Old Machines Still Walk"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 66,
+      "new_chapter": 7,
+      "new_scene": 11,
+      "title": "The Door and the Axe"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 67,
+      "new_chapter": 7,
+      "new_scene": 12,
+      "title": "The Last Warden Standing"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 68,
+      "new_chapter": 7,
+      "new_scene": 13,
+      "title": "The Weight They Carried"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 69,
+      "new_chapter": 7,
+      "new_scene": 14,
+      "title": "The Forge Falls Silent"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 70,
+      "new_chapter": 7,
+      "new_scene": 15,
+      "title": "The Living First"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 71,
+      "new_chapter": 8,
+      "new_scene": 1,
+      "title": "The Work That Waited"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 72,
+      "new_chapter": 8,
+      "new_scene": 2,
+      "title": "The Smaller Ships"
+    },
+    {
+      "old_chapter": 3,
+      "old_scene": 73,
+      "new_chapter": 8,
+      "new_scene": 3,
+      "title": "Dock Twelve"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 1,
+      "new_chapter": 8,
+      "new_scene": 4,
+      "title": "The Man They Erased"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 2,
+      "new_chapter": 8,
+      "new_scene": 5,
+      "title": "The Cadet Ship"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 3,
+      "new_chapter": 8,
+      "new_scene": 6,
+      "title": "Reinforcement Request"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 4,
+      "new_chapter": 8,
+      "new_scene": 7,
+      "title": "Into the Graveyard"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 5,
+      "new_chapter": 8,
+      "new_scene": 8,
+      "title": "The Dead Battleship"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 6,
+      "new_chapter": 8,
+      "new_scene": 9,
+      "title": "The Orb in Section Nineteen"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 7,
+      "new_chapter": 8,
+      "new_scene": 10,
+      "title": "The Saint Varos Wakes"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 8,
+      "new_chapter": 8,
+      "new_scene": 11,
+      "title": "Salvage Rights"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 9,
+      "new_chapter": 8,
+      "new_scene": 12,
+      "title": "The Exorcists Enter the Grave"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 10,
+      "new_chapter": 8,
+      "new_scene": 13,
+      "title": "The Grave Becomes a Battlefield"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 11,
+      "new_chapter": 8,
+      "new_scene": 14,
+      "title": "The Wall in the Grave"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 12,
+      "new_chapter": 8,
+      "new_scene": 15,
+      "title": "When the Primarch Arrived"
+    },
+    {
+      "old_chapter": 4,
+      "old_scene": 13,
+      "new_chapter": 8,
+      "new_scene": 16,
+      "title": "The Prisoner of Winter"
+    }
+  ],
+  "legacy_chapter_4": "/read/main-saga/book-1/chapter-8"
+}
