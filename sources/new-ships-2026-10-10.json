@@ -1,0 +1,122 @@
+{
+  "imported_on": "2026-10-10",
+  "release": "new-ships-2026-10-10-v01",
+  "scope": "14 ship dossiers and 1 independent-operator entry; published text and artwork links only",
+  "production_url": "https://tales-from-the-known-reach.pages.dev",
+  "deployment_url": "https://ff00bca2.tales-from-the-known-reach.pages.dev",
+  "release_sha256": "e9440b79a148b7427a57dfd5e553fead613b65f350032caebaa32563f6eaad5a",
+  "lore_source_sha256": "af1e21b74bb0eccdf3a44b30c35b6bd72b38d958d220d4cf95760362e05f68a8",
+  "flagship_name": "The Unanswered Crown",
+  "held_artwork": [
+    "Bulwark convoy escort",
+    "Threshold fleet carrier"
+  ],
+  "exports": [
+    {
+      "file": "reference/ships/rackline.md",
+      "sha256": "b0010b4c662f0f190acc8d944897459657a134a00c30049be53f003863fd166d",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/rackline",
+      "source_endpoint_sha256": "80a08ed672d3be47f3f0ef55a7c32272f626a0f33c57765e16a1ffc583388e6f",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/cargo-concepts-661390ee2134.png"
+    },
+    {
+      "file": "reference/ships/cairn.md",
+      "sha256": "0f4b618ff92114de9af077b5528ad9d01cd33504a79b6bcfad4f73d98372ca69",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/cairn",
+      "source_endpoint_sha256": "aab30a3ed9d3ed65207b16fa9b46cdfeae60a6fc8aefe5d80041dabd915b3771",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/cargo-concepts-661390ee2134.png"
+    },
+    {
+      "file": "reference/ships/lantern.md",
+      "sha256": "870edb59a804e1caa6c71dbee809881f42b5992d1936363a4f33f1a48652cb5d",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/lantern",
+      "source_endpoint_sha256": "6fa6e56e3bf2c1767623d6772187f0db7512197990511b27fe003a38b0431b39",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/civil-concepts-6e6f9e924209.png"
+    },
+    {
+      "file": "reference/ships/mender.md",
+      "sha256": "0b36dbab6f9b8a569ef62fcdf5f49309294daa43b59f64fb7071fad4c0fd9f53",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/mender",
+      "source_endpoint_sha256": "6eedb5535e0fa8e97c71bd0f65307778ab4716a0b561669a2fd70c2d80b2f405",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/civil-concepts-6e6f9e924209.png"
+    },
+    {
+      "file": "reference/ships/causeway.md",
+      "sha256": "e50f2d5a429faa4b00d2927ae0afc7c6e50767068f2b6ffad15be368914a7337",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/causeway",
+      "source_endpoint_sha256": "29465902ee771e4941316a05e2cc4ecd83b729518e4281016eecf5b135926322",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/transport-concepts-8819b96202aa.png"
+    },
+    {
+      "file": "reference/ships/latch.md",
+      "sha256": "c53f6abf5d4406b195de00621cacb3ccc66707b4d7991d1896bffc67528337f4",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/latch",
+      "source_endpoint_sha256": "f961b32fa480d5dee840997789d5a48a05a5549ead3f1437ca176089a7718bd7",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/transport-concepts-8819b96202aa.png"
+    },
+    {
+      "file": "reference/ships/telltale.md",
+      "sha256": "fa0cebc1693bcdc97f1da12d489214fc38044f059cde8ee34a3f522023d78754",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/telltale",
+      "source_endpoint_sha256": "7155b235505176130007a9d0c893b415b5fe7263caa3e8ebc2a52b49653229d2",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/recon-concepts-a2d005948a27.png"
+    },
+    {
+      "file": "reference/ships/farwatch.md",
+      "sha256": "74c14e38ecd8ad7e453b23b41c1dd2b49d7f2bcc96b0b335cf7a1a0995e4fdd4",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/farwatch",
+      "source_endpoint_sha256": "885d16f2e2d8bbb8bee5d3a0cf5b7f392c1e6e4341cd832951479da9351e0385",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/recon-concepts-a2d005948a27.png"
+    },
+    {
+      "file": "reference/ships/last-covenant.md",
+      "sha256": "90a7e76b931ec355493924b03d80953761c8b7f333ef9722e50d6eeb4c080c0e",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/last-covenant",
+      "source_endpoint_sha256": "ba501ac7b1821121fad69084719a062f3d0527cf62744f32262ee42a4ca33e36",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/last-covenant-45813597a74b.png"
+    },
+    {
+      "file": "reference/ships/silent-meridian.md",
+      "sha256": "2ed6a495f6d5e976fce4f616f7f7af478f6c8c82406f97ae96008e064498e3ba",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/silent-meridian",
+      "source_endpoint_sha256": "3eb1a5a06ba8f7147863bf7bf9482b8d0044fb48a33b6023e1f67ef5bcd61834",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/silent-meridian-2bc15fe856b5.png"
+    },
+    {
+      "file": "reference/ships/patient-thunder.md",
+      "sha256": "25d8bce7f6495f055626bc0945c88273f23758cb50d85422da384f82d79f69dd",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/patient-thunder",
+      "source_endpoint_sha256": "0421e9c25959b3ae187a91a70e248f71ac6fe4d915cf7e7702d77ab092b99148",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/patient-thunder-e158826333a1.png"
+    },
+    {
+      "file": "reference/ships/the-unanswered-crown.md",
+      "sha256": "a20ef06e53d764d6613455179efef988af9556e19b4de23ec7eb1ec4f816423a",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/the-unanswered-crown",
+      "source_endpoint_sha256": "5def72b91932dbaf4c3f0d5dd18b024a74800feee2a73fcdc90d5d368e352b6f",
+      "artwork_url": "https://tales-from-the-known-reach.pages.dev/media/ships/the-unanswered-crown-514b40320aa6.png"
+    },
+    {
+      "file": "reference/ships/bulwark.md",
+      "sha256": "616550f6896d7435ebea613c2edf477b8b76201a11e72d91453d6891ecdf7581",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/bulwark",
+      "source_endpoint_sha256": "6555c8ea020002b764ce59c8c0db4c48792820c815b797f339679e5a385717ed",
+      "artwork_url": null
+    },
+    {
+      "file": "reference/ships/threshold.md",
+      "sha256": "796f54b9376edfa335ed0390294fbb4e85cb23258c3e83128e8f68e312ec3d72",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/ships/threshold",
+      "source_endpoint_sha256": "ed0727fa78f71080a8065c94031c4a261a05e0a0ecdcec72f3154b3a929de4b2",
+      "artwork_url": null
+    },
+    {
+      "file": "reference/factions/independent-operators.md",
+      "sha256": "708c6098d62aabab770835a8609f78103b3304b106f7d204b4b595d2ec87833d",
+      "source_url": "https://tales-from-the-known-reach.pages.dev/universe/factions/independent-operators",
+      "source_endpoint_sha256": "41d86a3129905eb508dbcf936e5ba0de1fe93badba9be7864c3c5030d375a4c4",
+      "artwork_url": null
+    }
+  ],
+  "novel_unchanged": true
+}

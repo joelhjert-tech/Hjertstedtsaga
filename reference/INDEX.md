@@ -132,3 +132,21 @@ Website dossiers are supplemental. Read each entry’s scope; compare claims wit
 - [The Wayward Star](ships/wayward-star.md) (ships)
 - [Seraph Hunters](soldiers/seraph-hunters.md) (soldiers)
 - [The novel timeline](timeline/chapters-1-2.md) (timeline)
+
+## Ships and operators added 10 October 2026
+
+- [Rackline modular hauler](ships/rackline.md) (ships)
+- [Cairn sealed bulk carrier](ships/cairn.md) (ships)
+- [Lantern lane liner](ships/lantern.md) (ships)
+- [Mender recovery tender](ships/mender.md) (ships)
+- [Causeway troop lander](ships/causeway.md) (ships)
+- [Latch boarding cutter](ships/latch.md) (ships)
+- [Telltale survey probe](ships/telltale.md) (ships)
+- [Farwatch relay scout](ships/farwatch.md) (ships)
+- [Last Covenant](ships/last-covenant.md) (ships)
+- [Silent Meridian](ships/silent-meridian.md) (ships)
+- [Patient Thunder](ships/patient-thunder.md) (ships)
+- [The Unanswered Crown](ships/the-unanswered-crown.md) (ships)
+- [Bulwark convoy escort](ships/bulwark.md) (ships)
+- [Threshold fleet carrier](ships/threshold.md) (ships)
+- [Independent operators](factions/independent-operators.md) (factions)

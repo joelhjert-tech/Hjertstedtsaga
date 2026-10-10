@@ -1,7 +1,7 @@
 {
   "release": "issue03-2026-10-08-v01",
   "imported_on": "2026-10-09",
-  "scope": "Published novel chapters 1–8 and published universe dossier text only",
+  "scope": "Published novel chapters 1–8 and published universe dossier text; supplemental ship update dated 2026-10-10",
   "source_sha256": {
     "downloads/the-shattered-lane-chapters-1-8.md": "f843477880b331d99e7948751486dab6867019b2e013ccc062453b5ef0323f54",
     "content/public-v1.json": "c57e43189bd3c436230d7126988aea82aaf7720ef3cb25a137141fbff95c265e",
@@ -9,7 +9,7 @@
   },
   "chapter_count": 8,
   "scene_count": 116,
-  "reference_count": 130,
+  "reference_count": 145,
   "files": {
     "novel/chapters/chapter-01.md": "e6fbe1120e616925c93610b249d58297fef06738e3cdbadc1b40a33dc5ef6af0",
     "novel/chapters/chapter-02.md": "4935081872073af58d17fc9fe688501d82aef09d124d017e6388e6330538c4a7",
@@ -117,7 +117,7 @@
     "reference/galaxy-map/galactic-atlas.md": "30c11bff04b44d26c6abc188d2692491adcbdab195846eb017154e5358baea19",
     "reference/gates-and-lanes/pluto-gate.md": "a72e8b8b16459945dfd312877a512d000872ff8f5aa31429602926984e4612b2",
     "reference/gates-and-lanes/strategic-gates-and-lanes.md": "3197c489e57ebd217bfa161604fd272d0e97210abd7821b9107c2aea20c0215e",
-    "reference/INDEX.md": "f386046d7934d5c090c6147cb48a3ebc8e41a5caa341d6ab2eb59db9d794b5b9",
+    "reference/INDEX.md": "92393ecca51e839c578e590265fcc3f801b5846b8127c1216f437a43a7570121",
     "reference/locations/ardent-agricultural-world.md": "423b4a8948e0a52652ede94b932e207ae87dac465f6a5b76fb4a4e9b7132a5a7",
     "reference/locations/ardent-bastion.md": "8dd126efaa787b9e2320a520302b66bf821c9eda3dda4d6f3ee676eb1771295d",
     "reference/locations/ardent-central.md": "0f5fb842ac103491dc5bdee50aabbacfb79b61d1ffb867fe46c47d03c3362bc9",
@@ -153,6 +153,31 @@
     "reference/ships/wayward-star.md": "2afbe424ba48fd1745cd73340b6dff58555029e3e99c8a051e95ff0f7ebe106b",
     "reference/soldiers/seraph-hunters.md": "9b86b54b213ab3e0ad5944d25d9d67e7d3307c4b8604ec69808e2443205417c8",
     "reference/timeline/chapters-1-2.md": "229162c53f8fdf20e408dda9fa0cccbf997bbb133f608832289a80a11e169a65",
-    "sources/novel-revision-map.json": "ca4c71c34cbe0018f878489fa778b862b1f5e32854795092700db8a42b399354"
-  }
+    "sources/novel-revision-map.json": "ca4c71c34cbe0018f878489fa778b862b1f5e32854795092700db8a42b399354",
+    "reference/ships/rackline.md": "b0010b4c662f0f190acc8d944897459657a134a00c30049be53f003863fd166d",
+    "reference/ships/cairn.md": "0f4b618ff92114de9af077b5528ad9d01cd33504a79b6bcfad4f73d98372ca69",
+    "reference/ships/lantern.md": "870edb59a804e1caa6c71dbee809881f42b5992d1936363a4f33f1a48652cb5d",
+    "reference/ships/mender.md": "0b36dbab6f9b8a569ef62fcdf5f49309294daa43b59f64fb7071fad4c0fd9f53",
+    "reference/ships/causeway.md": "e50f2d5a429faa4b00d2927ae0afc7c6e50767068f2b6ffad15be368914a7337",
+    "reference/ships/latch.md": "c53f6abf5d4406b195de00621cacb3ccc66707b4d7991d1896bffc67528337f4",
+    "reference/ships/telltale.md": "fa0cebc1693bcdc97f1da12d489214fc38044f059cde8ee34a3f522023d78754",
+    "reference/ships/farwatch.md": "74c14e38ecd8ad7e453b23b41c1dd2b49d7f2bcc96b0b335cf7a1a0995e4fdd4",
+    "reference/ships/last-covenant.md": "90a7e76b931ec355493924b03d80953761c8b7f333ef9722e50d6eeb4c080c0e",
+    "reference/ships/silent-meridian.md": "2ed6a495f6d5e976fce4f616f7f7af478f6c8c82406f97ae96008e064498e3ba",
+    "reference/ships/patient-thunder.md": "25d8bce7f6495f055626bc0945c88273f23758cb50d85422da384f82d79f69dd",
+    "reference/ships/the-unanswered-crown.md": "a20ef06e53d764d6613455179efef988af9556e19b4de23ec7eb1ec4f816423a",
+    "reference/ships/bulwark.md": "616550f6896d7435ebea613c2edf477b8b76201a11e72d91453d6891ecdf7581",
+    "reference/ships/threshold.md": "796f54b9376edfa335ed0390294fbb4e85cb23258c3e83128e8f68e312ec3d72",
+    "reference/factions/independent-operators.md": "708c6098d62aabab770835a8609f78103b3304b106f7d204b4b595d2ec87833d",
+    "README.md": "cb224f0429d9cef0bdd8663fc644881f2b298c87582876f4e5c3c0d57868b6ef",
+    "sources/new-ships-2026-10-10.json": "3d2b7cf11de85587df14f8a14ae6bf4620a6b4eb7cac097e760cd85fca3d5c11"
+  },
+  "supplemental_updates": [
+    {
+      "source_record": "sources/new-ships-2026-10-10.json",
+      "sha256": "3d2b7cf11de85587df14f8a14ae6bf4620a6b4eb7cac097e760cd85fca3d5c11",
+      "reference_count_added": 15,
+      "imported_on": "2026-10-10"
+    }
+  ]
 }

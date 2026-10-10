@@ -12,6 +12,10 @@ A searchable writing reference for **Tales from the Known Reach / The Shattered 
 
 The first import is the text from website release `issue03-2026-10-08-v01`, copied on 9 October 2026. Chapter files preserve the published prose. Scene indexes are navigation aids, not generated plot summaries. Under the [standing sync guideline](guidelines/novel-github-sync-v01.md), agents must update this repository whenever the user adds a new novel story, chapter or accepted revision. This is a task completion requirement, not a background watcher.
 
+## Latest reference update
+
+On 10 October 2026, fourteen published ship dossiers and the independent-operator grouping were added from website release `new-ships-2026-10-10-v01`. This includes **The Unanswered Crown**, **Last Covenant**, **Silent Meridian** and **Patient Thunder**. Twelve ship dossiers link to published artwork; Bulwark and Threshold remain lore-only while their artwork findings are unresolved. Novel chapters and scene order are unchanged. See the [ship update source record](sources/new-ships-2026-10-10.json).
+
 ## Use in a writing chat
 
 Repository: https://github.com/joelhjert-tech/Hjertstedtsaga
