@@ -1288,6 +1288,30 @@ Anton looked at the battered transport.
 
 “Now it feels like sightseeing.”
 
+Before they started work, Daniel laid a thermal survey on the cargo deck.
+
+“A private challenge,” he said. “Coolant loop within tolerance on the first certified run.”
+
+Anton folded his arms.
+
+“Against?”
+
+“Your gun passing the same inspection without a lecture.”
+
+“Name the bottle.”
+
+“Settle the eastern one first.”
+
+“That was disputed.”
+
+Christer looked up from the sensor parts.
+
+“Only by the debtor.”
+
+Joel took the survey slate.
+
+“The mechanics certify both. Nobody grades his own work.”
+
 They spent two days making the ship trustworthy enough to travel.
 
 Not good.
@@ -1351,6 +1375,22 @@ Anton called from weapons:
 Joel sat in the pilot seat.
 
 “That worries me most.”
+
+Tessa's signed checks lay between them. The coolant loop had passed on its first run. The gun had required a long conversation about power draw.
+
+Anton read the sheet twice.
+
+“I am having the eastern bottle sent to Kestrel for you.”
+
+Daniel looked over.
+
+“You accept the bridge ruling?”
+
+“No. I accept that you will never shut up.”
+
+“That was always the strongest part of my claim.”
+
+Anton sent the instruction to his cellar keeper, with Daniel named as the new owner. Christer recorded the transfer beside the original wager. Joel took the gun's certified limits to the pilot seat.
 
 They had also reached another problem.
 
@@ -3021,6 +3061,16 @@ Christer nodded.
 Daniel looked at the numbers.
 
 “Acceptable is doing terrible work there.”
+
+Christer checked the fallback route again.
+
+“Beat my junction time from the cruiser, then.”
+
+“Without your security access.”
+
+“Yours. You insisted it counted.”
+
+Daniel's answering smile was brief. He sent the fallback route to all four suits before closing the private link.
 
 Anton activated external comms.
 

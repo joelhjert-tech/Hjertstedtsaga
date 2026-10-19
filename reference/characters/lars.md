@@ -21,3 +21,9 @@ Lars and Bitte von Hjertstedt share a formal visual language of dark armor and c
 - **Affiliation:** House von Hjertstedt
 - **Spouse:** Bitte von Hjertstedt
 - **Appearance:** Formal armor and crimson mantle
+
+## Writing supplement — 19 October 2026
+
+The owner-directed rivalry revision supplements the background and appearance snapshot above with novel characterization. Lars's authority comes with a veteran's eye for the better objective and a devastating economy of words. His reserve authorization in [Chapter 03, Scene 07](../../novel/chapters/chapter-03.md#7-the-maniacs-of-the-grey-nomad) remembers Rydell's old debt. In [Chapter 05, Scene 01](../../novel/chapters/chapter-05.md#1-what-victory-leaves-behind), he makes sure Joel's personal prize reaches Dennis. In [Chapter 08, Scene 15](../../novel/chapters/chapter-08.md#15-when-the-primarch-arrived), he humbles Anton's breach claim while maintaining the existing no-pursuit order.
+
+The family competes fiercely within his command boundaries. His sons' boasting does not make him merely their straight man; he can win the exchange and the strategic argument. Follow the [standing writing guidelines](../../guidelines/novel-writing-guidelines.md).

@@ -24,3 +24,9 @@ At Ardent, the investigation exposes fraudulent custody and Project Shepherd. Ho
 - **Cover identity:** Anton Berg
 - **Brother:** Joel
 - **Affiliation:** House von Hjertstedt
+
+## Writing supplement — 19 October 2026
+
+The owner-directed rivalry revision adds to the website snapshot above. Anton provokes, boasts and insists that a breach deserves its own credit. The [Chapter 02, Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge) eastern-reserve wager leaves him disputing Daniel's claim, while explicitly accepting the captain's mission objectives. His loudness is personal, not a license to ignore orders. Future dialogue may carry such debts forward, but must preserve his practiced teamwork and willingness to pay.
+
+Follow the [standing writing guidelines](../../guidelines/novel-writing-guidelines.md). This supplement does not extend the published event synopsis above beyond its stated Chapter 02 scope.

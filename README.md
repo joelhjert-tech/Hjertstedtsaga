@@ -7,12 +7,19 @@ A searchable writing reference for **Tales from the Known Reach / The Shattered 
 - [Novel chapter and scene index](novel/INDEX.md)
 - [Complete novel, chapters 1–8](novel/complete-novel.md)
 - [Characters, factions, locations, ships and other published lore](reference/INDEX.md)
+- [Standing novel-writing guidelines](guidelines/novel-writing-guidelines.md)
 - [Source edition and integrity manifest](sources/manifest.json)
 - [Old-to-revised chapter/scene mapping](sources/novel-revision-map.json)
 
-The first import is the text from website release `issue03-2026-10-08-v01`, copied on 9 October 2026. Chapter files preserve the published prose. Scene indexes are navigation aids, not generated plot summaries. Under the [standing sync guideline](guidelines/novel-github-sync-v01.md), agents must update this repository whenever the user adds a new novel story, chapter or accepted revision. This is a task completion requirement, not a background watcher.
+The first import is the text from website release `issue03-2026-10-08-v01`, copied on 9 October 2026. The current repository edition includes the owner-directed revision below; it is no longer an exact copy of that website edition. Scene indexes are navigation aids, not generated plot summaries. Under the [standing sync guideline](guidelines/novel-github-sync-v01.md), agents must update this repository whenever the user adds a new novel story, chapter or accepted revision. This is a task completion requirement, not a background watcher.
 
-## Latest reference update
+## Latest novel revision
+
+On 19 October 2026, the **House Rivalry, Banter and Victory Traditions** revision strengthened Chapters 02–08: distinct family voices, veteran competition, running bottle debts, disciplined teamwork, a Kestrel victory feast and remembrance. **Chapter 01 is unchanged**, as explicitly requested. All eight chapter titles, 116 scene identities, established mission outcomes and major continuity remain. The character, House and Winter Reserve dossiers retain their original website text and add clearly labeled writing supplements. See the [revision coverage and source record](sources/house-rivalry-2026-10-19.json).
+
+The [standing writing guidelines](guidelines/novel-writing-guidelines.md) make this culture part of future writing while preserving the Charter, military orders, small servings and guest protections. This repository update does not deploy the website or revise comic pages.
+
+## Previous reference update
 
 On 10 October 2026, fourteen published ship dossiers and the independent-operator grouping were added from website release `new-ships-2026-10-10-v01`. This includes **The Unanswered Crown**, **Last Covenant**, **Silent Meridian** and **Patient Thunder**. Twelve ship dossiers link to published artwork; Bulwark and Threshold remain lore-only while their artwork findings are unresolved. Novel chapters and scene order are unchanged. See the [ship update source record](sources/new-ships-2026-10-10.json).
 

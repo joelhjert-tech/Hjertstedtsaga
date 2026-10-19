@@ -1,6 +1,8 @@
-# Published universe reference
+# Universe reference
 
 Website dossiers are supplemental. Read each entry’s scope; compare claims with the relevant novel scene. These are not new canon approvals.
+
+The original website snapshots retain their source attributions. Six character dossiers, the House dossier and Winter Reserve lore include labeled supplements for the [19 October 2026 novel revision](../sources/house-rivalry-2026-10-19.json). Follow the [standing writing guidelines](../guidelines/novel-writing-guidelines.md) for future prose.
 
 - [Annette von Hjertstedt](characters/annette.md) (characters)
 - [Anton von Hjertstedt](characters/anton.md) (characters)

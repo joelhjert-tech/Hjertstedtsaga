@@ -1,0 +1,364 @@
+{
+  "schema_version": "1.0",
+  "edition": "house-rivalry-2026-10-19-v01",
+  "revised_on": "2026-10-19",
+  "revision_type": "OWNER_DIRECTED_PROSE_REVISION",
+  "request": "House Rivalry, Banter and Victory Traditions",
+  "scope_correction": "Skip chapter 01",
+  "base_commit": "c1b1aad2b0673657fc8b485127e0cebcd0ea53b0",
+  "base_release": "issue03-2026-10-08-v01",
+  "base_manifest_sha256": "de2afc9097073482a2b53ad457d7ed0c2cb763f80771df69c5d85a1dad837163",
+  "coverage": {
+    "chapters_revised": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "chapter_count": 8,
+    "scene_count": 116,
+    "scenes_revised": 18,
+    "chapter_01": {
+      "status": "UNCHANGED",
+      "file": "novel/chapters/chapter-01.md",
+      "sha256": "e6fbe1120e616925c93610b249d58297fef06738e3cdbadc1b40a33dc5ef6af0"
+    }
+  },
+  "continuity_review": {
+    "reviewer": "Codex",
+    "method": "Manual review of revised scenes, surrounding scene context, character dossiers, bottle lore and complete repository diff",
+    "result": "Preserved scene identities, established mission outcomes, ranks, identities and relationships; additions develop dialogue, culture and minor personal history.",
+    "specific_checks": [
+      "Dennis remains Joel’s veteran friend; no inherited bloodline tolerance assigned.",
+      "Eastern wager is separate from the existing southern and western reserves.",
+      "Daniel joins the cruiser wager; Anton transfers ownership while contesting its interpretation.",
+      "Dennis retains the existing Gatehold win; receipt remains separate from opening.",
+      "Ghar-Kul’s wager remains unresolved.",
+      "Existing casualty sequences and recovery priorities remain intact.",
+      "New celebrations and wagers preserve command, triage, serving and guest boundaries."
+    ]
+  },
+  "website_deployed": false,
+  "comic_material_changed": false,
+  "changed_scenes": [
+    {
+      "chapter": 2,
+      "scene": 7,
+      "title": "Full Combat Load",
+      "before_sha256": "f79b3094a7101afa3cc47f71ccefaa0bb1d98bac30be136a086e757b7b4c50b2",
+      "after_sha256": "9e88933aeedcf4aa543d9d9ff010a74f31e5ef6b5a7edfe559e39c4c7ece3766",
+      "improvements": [
+        "Joel makes a calculated private wager while both brothers respect Mara’s command and system restrictions."
+      ]
+    },
+    {
+      "chapter": 2,
+      "scene": 10,
+      "title": "First to the Bridge",
+      "before_sha256": "1b670561ce586fe1f48f4774e0e141906a26910f6a09faed090aee433287607c",
+      "after_sha256": "c020bd8bfbb8954c2b23870bed3a0e29d6693e8ce947e190b22d0afc6993ffcd",
+      "improvements": [
+        "An experienced Grey Nomad wins bragging rights through surrender and immediately returns to casualty work."
+      ]
+    },
+    {
+      "chapter": 2,
+      "scene": 11,
+      "title": "Race to the Bridge",
+      "before_sha256": "6d1282090fed09150327e91cb4065ff63df08ab74270581c5e4e67dfa109b6d2",
+      "after_sha256": "894e28c766658a429d70ca99910ab7def9aed28c8db0e8fa9f4c549bdba222fd",
+      "improvements": [
+        "Define a clean-capture wager under the captain’s objectives, with Christer as witness and Daniel as the quiet tactical competitor.",
+        "Show Daniel enforcing the assigned mission and prisoner security before the tactical contest.",
+        "Establish a specific disputed eastern-bottle debt without changing the cruiser capture or its rival claims."
+      ]
+    },
+    {
+      "chapter": 3,
+      "scene": 6,
+      "title": "The Fleet Comes for Central",
+      "before_sha256": "ae624039fa498bb8ca9ddbc590cf77f4eef8f2a23e213f3d42d0288e0f065cc3",
+      "after_sha256": "d979bc4a56d89a32c430adc19fde84d8bfad608403d81cdfe86846aacfce3065",
+      "improvements": [
+        "Give Banner-Captain Rydell a long rivalry with Joel and show veteran preparation before junior boasting."
+      ]
+    },
+    {
+      "chapter": 3,
+      "scene": 7,
+      "title": "The Maniacs of the Grey Nomad",
+      "before_sha256": "440cf2a9f2402b0afc7048d9d6fc1220f71bd033e3bece5955504c2a53013544",
+      "after_sha256": "bfd026413c033c1ce17674b97edd297d19148deeeb8296527026b624fceed6c5",
+      "improvements": [
+        "Keep the Grey Nomads human and rowdy while a medic redirects counting into disciplined rescue work.",
+        "Confirm the existing Primarch-reserve offer and extend bottle debts to the older generation regardless of rank.",
+        "Bind the existing prize pool to orders, triage and shared small-serving hospitality for ordinary House troops."
+      ]
+    },
+    {
+      "chapter": 4,
+      "scene": 3,
+      "title": "Dennis Has Arrived",
+      "before_sha256": "112249289649686a22421ea12459465cb7b42ad8f8c8441aa720da73c2549d3e",
+      "after_sha256": "1e7168243c7f4056e64fe7c66bac6e1dbb6ea961fde6e58714da4226edd3782b",
+      "improvements": [
+        "Dennis makes a blunt hunter challenge bounded by Daniel’s engineering needs, with a modest personal stake."
+      ]
+    },
+    {
+      "chapter": 4,
+      "scene": 10,
+      "title": "Elder Bjorn’s Bottle",
+      "before_sha256": "bedc9a8f25cefa6203ae0aa40a26cfdb8072db578656ebe729dd2c23cb9541a5",
+      "after_sha256": "f9ea1cc032f2c6430530e1f6adc7c65d8d1be03034780b83a7ad7bd3bcd4de19",
+      "improvements": [
+        "Keep the command-ship competition within the established carrier captain’s safe approach and friendly-fire boundaries."
+      ]
+    },
+    {
+      "chapter": 4,
+      "scene": 16,
+      "title": "House Victory",
+      "before_sha256": "2437ffac418e490a974395a7e2ade075e43fa2fa4e158a833d5f04dc1a6290f9",
+      "after_sha256": "3b9589e767ab78ef83db4d859f9ea7f53566beb8b80ab22dd4ccc0d0cdde8910",
+      "improvements": [
+        "Preserve Dennis’s existing win and make the High Marshal acknowledge a personal, irreplaceable bottle debt."
+      ]
+    },
+    {
+      "chapter": 5,
+      "scene": 1,
+      "title": "What Victory Leaves Behind",
+      "before_sha256": "758aa4422381087bd62954a5f60a14a1f696b04ea1c703c12c40263e180168a3",
+      "after_sha256": "af52edde21c166787ab5604f8981c4abc5a0c27238ba1fb91ae1a6f9e0eac52a",
+      "improvements": [
+        "Let an old debt become remembrance without making grief another punchline.",
+        "Pay Dennis’s established debt with Lars enforcing it; keep the bottle sealed while survivors remain in surgery or recovery."
+      ]
+    },
+    {
+      "chapter": 5,
+      "scene": 9,
+      "title": "The Open March",
+      "before_sha256": "704483da73ea01d7ca162581e033ecedde343d1f5e5799c4023c019454ec511b",
+      "after_sha256": "bb3d4b6f72a06726a44f7b3a5ff23bdd9a209bb4d55c40b6b1383822e2dab262",
+      "improvements": [
+        "Add a post-recovery victory feast with veteran wit, a decades-old debt, rare Reserve, hospitality limits and remembrance."
+      ]
+    },
+    {
+      "chapter": 6,
+      "scene": 3,
+      "title": "The Rust Bucket",
+      "before_sha256": "9125cb1e94d32114bf371841018be668ac4df437af3891d55122f4d21857ea81",
+      "after_sha256": "5a19c8dbb180d385a6b59c2835b7cb7cdfe2f5c07be0cac5c0113c625932baf7",
+      "improvements": [
+        "Carry the cruiser’s disputed eastern-bottle debt into an engineering contest verified by independent mechanics.",
+        "Settle the running bottle debt while Anton preserves his bragging-rights dispute; keep the refit certification intact."
+      ]
+    },
+    {
+      "chapter": 6,
+      "scene": 7,
+      "title": "Boarding the Beast",
+      "before_sha256": "6aa17a5b6fc6837f95bb75129a19b34b2c281096a51718135f1f682f2df3759f",
+      "after_sha256": "7d2db30446b5cceb6db81f0ef4614803b0aed204b46edeeb4fa71247d6d3b5da",
+      "improvements": [
+        "Use an old cruiser argument as a brief pre-breach challenge that ends with shared tactical preparation."
+      ]
+    },
+    {
+      "chapter": 7,
+      "scene": 8,
+      "title": "Feast Before the Spear",
+      "before_sha256": "45014a5d40d7d43566f8d60c60aa097713784d07bf889996ccf76e133b4993b0",
+      "after_sha256": "10ba9d1aba3ad8c48870b43a8cb4b7d5b399cd63726a9c30fccaa93e90fdeb8d",
+      "improvements": [
+        "Apply established small-serving, guest and duty rules to the war-feast without inventing shared bloodline tolerance.",
+        "Show inherited admiral betting pools, precise bottle stakes and a callback to Anton’s paid debt.",
+        "Make Charter obligations and casualty review govern wagers, without treating people as owned categories.",
+        "Let an allied commander decline Reserve without a challenge or loss of standing."
+      ]
+    },
+    {
+      "chapter": 7,
+      "scene": 9,
+      "title": "The Wardens of Vintergard",
+      "before_sha256": "f5d47023d4cd249bf35e657b00990430afcd5a851c6a5f84f6071c032c8f16a6",
+      "after_sha256": "8f6dcdaa1a1bf9c2cfa6834152e6e35bdf281a467763471bd699cd42ddc921d3",
+      "improvements": [
+        "Distinguish Joel’s paid Bjorn-made bottle from Bjorn’s own stock and let an elder challenge the veteran Hunter."
+      ]
+    },
+    {
+      "chapter": 7,
+      "scene": 15,
+      "title": "The Living First",
+      "before_sha256": "d69954dc73ff8015611e27c4edf0fa174b246afbfc5766f76ea2ececa46b9991",
+      "after_sha256": "932e0ba6037de69c8fd9dcbfa395c3f4c17c73bf6e4c8acf62bc1c7cd6be0a23",
+      "improvements": [
+        "Keep the Ghar-Kul result unresolved while promising a future table; warmth follows the elder’s recovery rather than interrupting remembrance."
+      ]
+    },
+    {
+      "chapter": 8,
+      "scene": 1,
+      "title": "The Work That Waited",
+      "before_sha256": "a2b0a5447a79f96f6b77ee36a82747f8513e691300710522aab8632d804c6294",
+      "after_sha256": "8f61aa481c1c1c740fdec054e966fc268ca51dd4881316349e12293bc97b27d5",
+      "improvements": [
+        "Carry brotherly rivalry into the Warden repair bay while respecting Bjorn’s continuing medical limits."
+      ]
+    },
+    {
+      "chapter": 8,
+      "scene": 12,
+      "title": "The Exorcists Enter the Grave",
+      "before_sha256": "6205ff5f7e5bb352c6a8c3710c1d997ae9f9d035d994e8a6664183fc44a05e41",
+      "after_sha256": "0ae9f6da486e7700b7aa6fe9d99bd6113ba7e1221824e5d2c929dbdedee92c59",
+      "improvements": [
+        "Extend competitive culture to senior engineers and an escort admiral, with a disputed technical wager and no invented salvage outcome."
+      ]
+    },
+    {
+      "chapter": 8,
+      "scene": 15,
+      "title": "When the Primarch Arrived",
+      "before_sha256": "0c529967a32a9826de52e22183893832eae827e1623f1aef61e038cd7c931921",
+      "after_sha256": "9d999ae2c7a57c11259e0d0debd4c7ea17059f166b25d905f5acb6674970a93a",
+      "improvements": [
+        "Give Lars a decisive one-liner that humbles Anton and reinforces the existing no-pursuit order and veteran command skill."
+      ]
+    }
+  ],
+  "files": [
+    {
+      "file": "AGENTS.md",
+      "before_sha256": "c7cdd43053a9c8b705425aa6367eacfb3a417134e5af083748fd719624fb1737",
+      "after_sha256": "7208f80b5826aa2367ebde1b9d36c6f9d5824a3eb62b1b3783948117cdb2c299"
+    },
+    {
+      "file": "README.md",
+      "before_sha256": "cb224f0429d9cef0bdd8663fc644881f2b298c87582876f4e5c3c0d57868b6ef",
+      "after_sha256": "63e5c2d05c46721d881def1dab1b4d643739e35c0a2e81603d14c641f4333119"
+    },
+    {
+      "file": "guidelines/novel-writing-guidelines.md",
+      "before_sha256": null,
+      "after_sha256": "e70c151f10c9c61bbed12454410929a7387472705ca995108df79566d1bf5d07"
+    },
+    {
+      "file": "novel/INDEX.md",
+      "before_sha256": "746e84419a57730fd8947870df532c93eacdcd24b274bf96f791d1ce583dc5df",
+      "after_sha256": "0e20a7c4890c828a7425521d085568b5ee3a73fd011dd96ccb7ca8003d086daa"
+    },
+    {
+      "file": "novel/chapters/chapter-02.md",
+      "before_sha256": "4935081872073af58d17fc9fe688501d82aef09d124d017e6388e6330538c4a7",
+      "after_sha256": "d9a2400b9ccffe09e49723b3f6ff628b2cd8ddf9b11c5db4fd410f1e1cd5dfd6"
+    },
+    {
+      "file": "novel/chapters/chapter-03.md",
+      "before_sha256": "b049db2908101e27f1ea45f36babc53985a62f5dc91441438f557d3ec2e2e6ef",
+      "after_sha256": "056a2b0a5f4b49bd93e5a88f7407d2b33b92094e40b74af2667fb4e8c74ce448"
+    },
+    {
+      "file": "novel/chapters/chapter-04.md",
+      "before_sha256": "c1dddfb85ab05465f485a79abc9cb0ea4efdc75cc47e86fb148ec5d80800eb7a",
+      "after_sha256": "36a94bd1baff6f8b9e200d16b7184f5782bf7092169379ca1ee8ff3b66c8b451"
+    },
+    {
+      "file": "novel/chapters/chapter-05.md",
+      "before_sha256": "c9cb024024bddd2d79927c8f3e738538bd46031c1ce0f9270afafb5be59c80f5",
+      "after_sha256": "1f3830e1ac0c7f64e2fe6b2a6f8158418aad905cca377d26a485a2301c8776f0"
+    },
+    {
+      "file": "novel/chapters/chapter-06.md",
+      "before_sha256": "cc02d01fd9bb15a7364128e308507b0cf3f8092a6bac117605c55eb47d0b3836",
+      "after_sha256": "95fc672161b1f1ed8ac49bf71b7b95c2bfb4f165a8fa92ac86a500af425c5beb"
+    },
+    {
+      "file": "novel/chapters/chapter-07.md",
+      "before_sha256": "35ac9d1a63c8d9757a6da1841b2229dd1c9b4998a5a8e8c34ea42a3674b43780",
+      "after_sha256": "e6f68b9fe7215cdf26a0a4636fab844273e86301e7d2a23f36b0c850a70671f8"
+    },
+    {
+      "file": "novel/chapters/chapter-08.md",
+      "before_sha256": "f8f386e7c831255796a27c6e7802e341de41145f7e53572096be769c73166937",
+      "after_sha256": "34c5af8643a5091ee955bb443dccb8c8efe5148667ba58a9915d7cb4c75fe6e8"
+    },
+    {
+      "file": "novel/complete-novel.md",
+      "before_sha256": "24235bf5b1a21d59abf73e11986130bc8002b06a5809196fa57f650d194d23c5",
+      "after_sha256": "7496c12be7c1886c074c6926af5281754812951847a86f14c20501113a7808e9"
+    },
+    {
+      "file": "novel/scene-index.json",
+      "before_sha256": "523ee672d961fa3171ffb2320159e9a258a9037a8ccf6ac63a5a3398afb3e8a0",
+      "after_sha256": "8e670177e3ce7968376fbb0d909f5caef2e6d646133ffc50fc70f663eadea6a3"
+    },
+    {
+      "file": "reference/INDEX.md",
+      "before_sha256": "92393ecca51e839c578e590265fcc3f801b5846b8127c1216f437a43a7570121",
+      "after_sha256": "fce2635d7d12e17b84a67f5d135b5e78827ba01ebb021dc6c81e6d66041be334"
+    },
+    {
+      "file": "reference/characters/anton.md",
+      "before_sha256": "d7b4ca791e10b9008b3d5b46b7f318eb3b0580ac0ba9630b6c498920eda32a58",
+      "after_sha256": "cc4231415f18b387a16633161108d4cf269ce74b1a6c638ca27eef0b130b5864"
+    },
+    {
+      "file": "reference/characters/christer.md",
+      "before_sha256": "7fb7cfcf5fb2bd66c4438b76d38f23892b13777fc0bf7418aca30fbf6ef9341b",
+      "after_sha256": "97496a57c054d4b44c85d8c5d5d0c47976ca28e1e34528a3e2bf42e247cf38cf"
+    },
+    {
+      "file": "reference/characters/daniel.md",
+      "before_sha256": "067adf6998497613173a9af749753bf0e8caa3a7d3bb83c071e1020bb37f303c",
+      "after_sha256": "2e469dacb1b2e939b519cf7da93f99a5f52b8ce7d9190048dc5100259e375b21"
+    },
+    {
+      "file": "reference/characters/dennis-rask.md",
+      "before_sha256": "5e6e2545d5d497705761b4a4548f632b483d2506fedcc10803171af98719c32a",
+      "after_sha256": "52784c0b8f92c4c3f844ea63c8f946389d9ce7379ad6bcc147c386c44c51e999"
+    },
+    {
+      "file": "reference/characters/joel.md",
+      "before_sha256": "056026b05868dbc7a4841bdf9151cfffc1b3e1a5a7368e44939e244ca52d114f",
+      "after_sha256": "abd1e815d50c25e32ca49d602e4db6b4a7e9b3cb0ffc69d37b692b7803a92ffd"
+    },
+    {
+      "file": "reference/characters/lars.md",
+      "before_sha256": "3e8ccdd856dda26bf2e132df3f28232a7e7a8ac634c41931dd9f58f010a047df",
+      "after_sha256": "1aa339d43a767518f85a956e998e5ac6b01a0c391fb19b29efa6aa8fd8b64b9f"
+    },
+    {
+      "file": "reference/factions/house-von-hjertstedt.md",
+      "before_sha256": "d0b898bcaf6b42eb26f774c2fe408828f5a206795947a86f83be3e68642f1b42",
+      "after_sha256": "ab515a21342aaa1789163678ba34faebb8ebb8067195c6c702d944273e48f6f8"
+    },
+    {
+      "file": "reference/lore/winter-reserve-and-bottle-wagers.md",
+      "before_sha256": "16a5e3b6a0e7a597a7711ea6d48533526c952eafefc4901cad1f796dc77834de",
+      "after_sha256": "339d3b67cb179aaf382e91b2eb0809bad23969a427b51daffad6de475839e722"
+    }
+  ],
+  "integrity_manifest": "sources/manifest.json",
+  "file_inventory_note": "The files array records changed writing and navigation artifacts; this source record and sources/manifest.json are also changed and are listed separately to avoid self-referential hashes.",
+  "machine_verification": {
+    "status": "PASS",
+    "chapter_01_file_and_combined_section": "byte-for-byte unchanged from base commit",
+    "chapter_count": 8,
+    "scene_count": 116,
+    "revised_scenes": 18,
+    "manifest_file_hashes_verified": 164,
+    "local_links_and_anchors_verified": 316,
+    "combined_novel": "exact chapter concatenation after edition preamble",
+    "scene_line_ranges": "verified",
+    "original_dossier_bodies": "preserved before labeled supplements",
+    "original_release_hashes": "preserved"
+  }
+}

@@ -88,6 +88,14 @@ Daniel argued back.
 
 Neither of them called it operational.
 
+Bjorn held up the slate showing the replacement shoulder assembly.
+
+“Lighter than the old one. I might beat you to the next door.”
+
+“You could beat Anton,” Daniel said. “He would stop to explain that he was ahead.”
+
+The elder laughed, then had to pause for breath. Daniel lowered the slate until the medic was satisfied. The argument resumed at a volume she could tolerate.
+
 The training halls nearby were crowded with younger officers.
 
 Sera brought Joel there one afternoon. Through the observation window they watched a simulated boarding party discover that its extraction route had failed.
@@ -4470,6 +4478,24 @@ Aster-9 appeared fascinated.
 
 “That feeling will probably pass.”
 
+Torvald’s engineering circuit remained open. One of Torvald's escort admirals entered the engineering circuit.
+
+“Do not let him wager your ship before we have surveyed it. He still owes me for the last recovery.”
+
+“Propulsion restored,” Torvald said.
+
+“Three days late.”
+
+“You specified running. You should have specified when.”
+
+“I have the terms.”
+
+“So do I.”
+
+Aster-9 directed its light toward the speaker.
+
+“I recommend retrieving both copies.”
+
 Far across the galaxy, the report reached Vintergard.
 
 Lars read it first.
@@ -5659,6 +5685,16 @@ Lars spoke without looking at him.
 Anton’s smile disappeared.
 
 “Understood.”
+
+On the family circuit, Christer observed, “Father has stopped the whole fleet without boarding anything.”
+
+“No breach credit,” Anton said.
+
+Lars answered before Joel could.
+
+“Keep the credit. I will keep the ships.”
+
+Joel muted his microphone long enough to laugh once. Then he returned to the recovery plot. None of the House vessels pursued.
 
 The Directorate commander finally transmitted.
 

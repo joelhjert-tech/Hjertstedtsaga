@@ -1364,6 +1364,20 @@ Dennis raised his blade.
 
 “Good.”
 
+Dennis switched to Daniel's private channel.
+
+“Something for you to measure. I clear the approach before you finish locking the core.”
+
+“Without damaging anything I need.”
+
+“That does narrow the field.”
+
+“Do it and I buy your supper.”
+
+Dennis checked the approach lanes on Daniel's map.
+
+“Make it a good one. I dislike winning on an empty stomach.”
+
 Daniel muttered:
 
 “I still hate all of you.”
@@ -4118,6 +4132,14 @@ Anton shouted:
 
 “FULL BURN!”
 
+The carrier captain answered on their secure link.
+
+“To the cleared limit, Breach Commander. I am not taking you through our own fire.”
+
+Anton checked the escort lanes.
+
+“Cleared limit. Confirmed.”
+
 His boarding carriers accelerated.
 
 Daniel watched the absurd race beginning around the crippled command ship.
@@ -6781,6 +6803,16 @@ Joel managed a tired smile.
 Dennis nodded once.
 
 “Correct.”
+
+“From your cellar,” Anton insisted. “Not a replacement.”
+
+Joel opened one eye a little farther.
+
+“I know how to lose a bottle, Anton.”
+
+Dennis looked toward him through the feed.
+
+“He has had practice.”
 
 Daniel muttered:
 

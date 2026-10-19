@@ -2648,6 +2648,20 @@ Rydell smiled.
 
 “Potentially very.”
 
+Joel moved the reply to a private command circuit.
+
+“Your own contribution?”
+
+“The bottle you have been trying to win off me for nine years.”
+
+Joel glanced at the interception plot. Rydell's reserves were already moving toward the threatened civilian corridors.
+
+“You chose your terms before calling.”
+
+“You do it to everyone else. I thought you would appreciate the courtesy.”
+
+A fresh alarm sounded. Rydell gave Sorn the reserve assignments without another word about prizes.
+
 From the background, hundreds of marines started cheering as the first enemy cutters approached the hull.
 
 The battle for Ardent Central had not begun yet.
@@ -2833,6 +2847,10 @@ The sergeant looked offended.
 “You are also counting them!”
 
 “Motivation!”
+
+“Then carry the stretcher.”
+
+The sergeant took the heavier end. He stopped counting and handed the stretcher to the waiting medical team beyond the door. His rear pair stayed at the junction until the last civilian was through.
 
 The first Ardent soldier appeared.
 
@@ -3030,6 +3048,8 @@ She continued.
 
 “Each category winner gets something different.”
 
+Annette attached Sorn's operational conditions before releasing the notice. Teams kept their assigned sectors; medical priority decided rescue order. No extra exposure for a score, no claim over a prisoner, and no prize for disobeying an order. The sealed case would belong to the winning team's table, served by a host in small measures after relief from duty. Ordinary House marines did not inherit the family's tolerance with their uniforms.
+
 The tactical display updated.
 
 CIVILIAN RESCUE: one sealed case of Vintergard Winter Reserve.
@@ -3061,6 +3081,16 @@ Joel stared.
 Annette smiled.
 
 “I can ask.”
+
+The authorization returned through the command network before the prize notice went out.
+
+Lars had added one line beneath his approval.
+
+RYDELL STILL OWES ME A BOTTLE. DO NOT ACCEPT IT AS HIS CONTRIBUTION.
+
+Rydell read it on Central's display.
+
+“That debt was old before Joel took command,” he told Sorn. “He can afford to wait another watch.”
 
 Anton started laughing.
 

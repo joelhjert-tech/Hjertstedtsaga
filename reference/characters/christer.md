@@ -19,3 +19,9 @@ His broad frame, swept-back brown hair and full dark beard give him a distinctiv
 - **Affiliation:** House von Hjertstedt
 - **Covert alias:** Chris Heron
 - **Ship:** Grey Nomad
+
+## Writing supplement — 19 October 2026
+
+The owner-directed rivalry revision adds to the website snapshot above. Christer's humor is deadpan, observant and well timed. He witnesses the clean-capture wager in [Chapter 02, Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge) and later calls Anton's dispute the debtor's objection in [Chapter 06, Scene 03](../../novel/chapters/chapter-06.md#3-the-rust-bucket). He enjoys the competition, notices the condition others missed and supports the team once orders arrive. Avoid giving him Anton's constant volume or Joel's exact manner of command.
+
+Follow the [standing writing guidelines](../../guidelines/novel-writing-guidelines.md).

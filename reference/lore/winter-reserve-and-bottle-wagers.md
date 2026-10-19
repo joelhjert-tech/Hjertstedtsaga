@@ -46,3 +46,17 @@ This is why the bottles keep returning to the story. Credits settle an account. 
 - **Known reserve:** Hjertstedt Winter Reserve
 - **Physiology:** Bloodline-specific; not shared by all House personnel
 - **Limits:** Small servings; no immunity to intoxication or poisoning
+
+## Novel revision supplement — 19 October 2026
+
+The website text above retains its original snapshot and scope. The owner-directed repository revision covers Chapters 02–08, with Chapter 01 expressly excluded. It preserves the established physiology, small servings and hospitality rules while developing their social setting.
+
+In [Chapter 02, Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge), Anton stakes his sealed eastern reserve on the cleanest capture under Mara's objectives. Daniel joins on the same terms and claims that system control wins. In [Chapter 06, Scene 03](../../novel/chapters/chapter-06.md#3-the-rust-bucket), Anton arranges its transfer to Daniel after the engineering challenge without conceding the earlier argument. This eastern bottle is separate from the southern reserve offered in Chapter 03 and the western bottle in unchanged Chapter 01.
+
+Dennis's existing Gatehold victory remains his. [Chapter 05, Scene 01](../../novel/chapters/chapter-05.md#1-what-victory-leaves-behind) records Joel's requisition and Dennis's receipt of the Bjorn-made bottle. He keeps it sealed while wounded comrades remain in treatment and recovery teams continue searching. The bottle is Joel's to surrender; Bjorn's personal stock remains a separate matter when the elder challenges Dennis in Chapter 07. Dennis's friendship and Hunter service do not establish bloodline tolerance.
+
+Rydell's old debt to Lars, the admirals' inherited records and the [Chapter 05 Kestrel feast](../../novel/chapters/chapter-05.md#9-the-open-march) carry the tradition beyond the brothers. Specific reserves retain their value because the same batch cannot be bought back. A shared prize case belongs to a team's future table, not to a single marine as a drinking challenge. Hosts control the small measures; guests can choose something milder or nonalcoholic without explanation. Duty and medical clearance still govern participation.
+
+The [Chapter 07 war-feast](../../novel/chapters/chapter-07.md#8-feast-before-the-spear) records the agreed mission boundaries before the assault and lets a Talyrn commander choose the milder drink without losing standing. Ghar-Kul's wager remains unsettled at departure. Bjorn asks for witnesses and food at a later table; no new winner is invented.
+
+Future writing follows the [standing novel-writing guidelines](../../guidelines/novel-writing-guidelines.md).

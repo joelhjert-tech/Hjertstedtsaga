@@ -58,6 +58,14 @@ That got one quiet laugh.
 
 It was enough.
 
+The veteran tucked the folded debt slip into his own pocket instead of the effects bag.
+
+“What will you tell his brother?” Daniel asked.
+
+“That he owes us a story about him.”
+
+Daniel rested a hand on the coffin before the bearers lifted it again.
+
 Christer supervised the fleet recovery personally.
 
 He walked through damaged ships despite medical orders.
@@ -494,7 +502,19 @@ A pause.
 
 “No promises.”
 
+Lars glanced at Joel's medical chair before closing the channel.
+
+“Dennis's bottle goes on the next supply run. Yours, Joel.”
+
+“I was not going to send him a substitute.”
+
+“I know. I am warning your brothers not to intercept it.”
+
+Anton looked offended. Christer became very still.
+
 Lars disconnected before he could regret asking.
+
+A requisition went out under Joel's personal seal. When the bottle reached Dennis, he accepted it without opening it. Duskbringer still had people in surgery and recovery teams aboard the command vessel. There would be a table when everyone who could return had returned; until then, the seal stayed whole.
 
 Within the hour, the Primarch’s ship departed for Sol.
 
@@ -4199,6 +4219,36 @@ No joke.
 Joel turned back toward Sera.
 
 “Then we keep it that way.”
+
+That evening, the crews relieved from duty filled one of Kestrel's rebuilt mess halls. The next watch ate before taking their stations. Afterward, someone started a song, someone else improved it beyond recognition, and an old admiral produced a betting book with a split leather spine.
+
+A Banner Captain across the table groaned.
+
+“You brought that thing.”
+
+“It says you owe me a bottle.”
+
+“That action was forty-six years ago.”
+
+“And yet you remember which action.”
+
+Anton leaned over to inspect the entry. Within minutes he was explaining why the captain's boarding maneuver deserved a better score.
+
+The admiral listened with professional interest.
+
+“Were you there?”
+
+“No.”
+
+“Then you have finally found a boarding action in which you cannot claim first breach.”
+
+The laughter reached the next table. Even Anton joined it, then demanded the recordings.
+
+Joel set a sealed bottle beside his plate. The price of another like it would have paid for months of a small ship's repairs; another from that batch did not exist. The host poured Winter Reserve into the little acceptance cups, offering milder drinks without comment. One small serving, no second challenge. Anyone still under a medical restriction had water instead; nobody made anything of it.
+
+They toasted the fallen before the music resumed. For the crews still searching the wrecks and the friends still in treatment, Joel's bottle remained unopened.
+
+By the second course, the admiral had found witnesses to an even older dispute. Nobody at the table intended to let him forget the first one.
 
 Outside, patrol ships moved between Kestrel and its new companion station.
 

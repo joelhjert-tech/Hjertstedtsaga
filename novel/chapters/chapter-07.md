@@ -3018,9 +3018,17 @@ A war-feast.
 
 House tradition adapted itself wherever it went. Long tables were set inside one of the gate bastion halls overlooking the fortified throat of Gate Seventeen. Talyrn officers attended out of curiosity. The Thyrak commander attended because Dennis told him to. That was apparently enough.
 
-Wintergard bottles appeared.
+Vintergard bottles appeared.
 
-Then stronger ones.
+The serving steward put the small Winter Reserve cups beside food and water.
+
+“One cup. Milder drinks here.”
+
+He moved the decanter beyond Anton's reach before continuing down the table. Several Hunters chose the milder drink. Nobody tried to change their minds.
+
+The watch officers ate early and returned to their posts sober. Those drinking had reliefs assigned and would not return to duty before clearance.
+
+Then the rarer reserves came out.
 
 Then one sealed ceramic bottle Anton placed in the center of the table with exaggerated care.
 
@@ -3036,6 +3044,16 @@ Dennis stared.
 
 “For victory.”
 
+A senior House admiral farther down the table asked who had witnessed the seal. Another wanted the batch recorded before Anton could offer something cheaper later.
+
+Anton looked insulted.
+
+“I pay my debts.”
+
+“Eventually,” Daniel said.
+
+The first admiral opened a book whose oldest entries had been copied from his predecessor's. Beside one bottle stood three different owners' names and no agreed winner. Anton bent closer despite himself.
+
 The bets started immediately.
 
 Anton wagered two bottles on first breach and most kills inside the fortress.
@@ -3047,6 +3065,14 @@ Daniel claimed primary reactor control secured.
 Christer claimed highest-value tactical capture.
 
 Joel, to everyone’s annoyance, wagered on most civilians or prisoners recovered alive.
+
+“Within the assigned plan,” Lars said. “You see someone in danger, you help. I do not want to hear whose category they belonged to.”
+
+Every commander at the table acknowledged him. The admirals entered the terms beneath the bottle seals.
+
+“And a lost friendly?” Anton asked, quieter now.
+
+“We read the report,” Joel said. “Nobody boasts over the names.”
 
 The Thyrak commander looked at him.
 
@@ -3060,7 +3086,7 @@ The commander nodded once.
 
 “Good.”
 
-That earned him a cup without further ceremony.
+The steward offered him a small cup and a milder alternative. He chose the latter. Dennis passed it across without comment.
 
 Soon even the Talyrn added wagers, though theirs were more restrained: cleanest breach lane, fastest secured extraction corridor, least friendly casualties in contested decks.
 
@@ -3183,6 +3209,14 @@ Dennis pointed at the screen.
 Bjorn answered immediately.
 
 “Win something first.”
+
+Dennis tilted his helmet.
+
+“I won yours at Gatehold.”
+
+“Joel's bottle. He paid. You want one of mine, try beating me to something.”
+
+Mikael's laugh rumbled through the Warden speakers. Dennis checked the elders' breach assignments; the reserve itself was suddenly less interesting than that challenge.
 
 Lars entered the bridge channel before the argument could worsen.
 
@@ -4933,6 +4967,18 @@ Joel looked toward the survivors boarding across the apron.
 Anton considered the elder's stretcher, the broken frame and the Thyrak walking beside both.
 
 “Later.”
+
+From the stretcher, Bjorn opened one eye.
+
+“Bring the witnesses. And something fit to eat.”
+
+Anton looked back at him.
+
+“You intend to argue?”
+
+“I intend to win sitting down.”
+
+The Thyrak commander adjusted the blanket clear of the stretcher rail. Anton helped with the other side before returning to the collar.
 
 Ortheva shook Joel's hand before he entered the transport.
 

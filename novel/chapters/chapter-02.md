@@ -4795,6 +4795,16 @@ Anton noticed through the private link.
 
 Anton laughed over the private channel.
 
+“Ten credits I stop the first boarder.”
+
+“Ten that you complain about where she posts you.”
+
+“That is not a combat wager.”
+
+“It uses the more reliable target.”
+
+Anton checked the restraint packs on his belt. He left the disabled mapping function alone.
+
 Joel locked his long-barrelled sidearm to his thigh.
 
 A compact rifle attached across his back.
@@ -7633,6 +7643,22 @@ Anton paused.
 
 “That is technically true.”
 
+One of the older Grey Nomad boarders held up a restraint pack.
+
+“Six prisoners. No ammunition spent.”
+
+Anton looked at him.
+
+“They surrendered to you?”
+
+“Told them they could come quietly or listen to the four of you argue.”
+
+Christer nodded.
+
+“Sound use of available weapons.”
+
+Venn sent the veteran to help the wounded. He went at once, still grinning.
+
 Joel folded his arms.
 
 Mara watched them.
@@ -7867,7 +7893,27 @@ Joel narrowed his eyes.
 
 “That was not what I said.”
 
-Before Anton could answer, another voice came through the bridge.
+Anton lowered his voice.
+
+“Cleanest capture, then. My sealed eastern reserve against your cellar choice. On her objectives.”
+
+“After the logs are checked,” Joel said. “No changed routes.”
+
+“Agreed.”
+
+Christer held out his slate.
+
+“Witnessed. I would also like the record to show neither of you asked what Ward is doing.”
+
+Daniel looked up.
+
+“I am in. Same stake.”
+
+“You have not even seen the door,” Anton said.
+
+“I can live with that.”
+
+Before Anton could object, another voice came through the bridge.
 
 Marek Soren.
 
@@ -8465,9 +8511,15 @@ The mercenary frowned.
 
 Daniel stopped walking.
 
-“There is no race.”
+“We secure our assigned route first. Then security control.”
 
 “Right.”
+
+“And nobody leaves a prisoner unsecured to improve my time.”
+
+The mercenary checked the restraints being applied behind them.
+
+“Understood.”
 
 Daniel smiled.
 
@@ -8740,6 +8792,16 @@ Joel looked across the captured bridge.
 Anton shouted behind him:
 
 “I WON THE DOOR!”
+
+Daniel answered on the private link.
+
+“Keep the door. I will have the eastern bottle.”
+
+“The logs are not checked.”
+
+“I have the logs.”
+
+Christer added, “That was the part you should have worried about.”
 
 Joel sighed.
 

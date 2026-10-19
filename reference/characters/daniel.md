@@ -19,3 +19,9 @@ His short brown hair, light stubble and sturdy build distinguish him from Christ
 - **Affiliation:** House von Hjertstedt
 - **Covert alias:** Dan Ward
 - **Ship:** Grey Nomad
+
+## Writing supplement — 19 October 2026
+
+The owner-directed rivalry revision adds to the website snapshot above. Daniel competes through engineering, system access and measurements, with understated sarcasm rather than loud claims. The [Chapter 02, Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge) argument over command access carries into the independently checked coolant-and-gun challenge in [Chapter 06, Scene 03](../../novel/chapters/chapter-06.md#3-the-rust-bucket). Anton arranges transfer of the eastern bottle while continuing to reject the original interpretation. Daniel's technical pride never makes prisoners, maintenance limits or casualty care secondary.
+
+Follow the [standing writing guidelines](../../guidelines/novel-writing-guidelines.md).

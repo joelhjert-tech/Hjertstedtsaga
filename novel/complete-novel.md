@@ -2,6 +2,8 @@
 
 The Shattered Lane — voice and information revision
 
+Repository edition: House rivalry revision — 19 October 2026. Chapters 02–08 revised; Chapter 01 unchanged from the imported website edition.
+
 # Chapter 1: The Unwanted Fortress
 
 ## 1. The Unwanted Fortress
@@ -15589,6 +15591,16 @@ Anton noticed through the private link.
 
 Anton laughed over the private channel.
 
+“Ten credits I stop the first boarder.”
+
+“Ten that you complain about where she posts you.”
+
+“That is not a combat wager.”
+
+“It uses the more reliable target.”
+
+Anton checked the restraint packs on his belt. He left the disabled mapping function alone.
+
 Joel locked his long-barrelled sidearm to his thigh.
 
 A compact rifle attached across his back.
@@ -18427,6 +18439,22 @@ Anton paused.
 
 “That is technically true.”
 
+One of the older Grey Nomad boarders held up a restraint pack.
+
+“Six prisoners. No ammunition spent.”
+
+Anton looked at him.
+
+“They surrendered to you?”
+
+“Told them they could come quietly or listen to the four of you argue.”
+
+Christer nodded.
+
+“Sound use of available weapons.”
+
+Venn sent the veteran to help the wounded. He went at once, still grinning.
+
 Joel folded his arms.
 
 Mara watched them.
@@ -18661,7 +18689,27 @@ Joel narrowed his eyes.
 
 “That was not what I said.”
 
-Before Anton could answer, another voice came through the bridge.
+Anton lowered his voice.
+
+“Cleanest capture, then. My sealed eastern reserve against your cellar choice. On her objectives.”
+
+“After the logs are checked,” Joel said. “No changed routes.”
+
+“Agreed.”
+
+Christer held out his slate.
+
+“Witnessed. I would also like the record to show neither of you asked what Ward is doing.”
+
+Daniel looked up.
+
+“I am in. Same stake.”
+
+“You have not even seen the door,” Anton said.
+
+“I can live with that.”
+
+Before Anton could object, another voice came through the bridge.
 
 Marek Soren.
 
@@ -19259,9 +19307,15 @@ The mercenary frowned.
 
 Daniel stopped walking.
 
-“There is no race.”
+“We secure our assigned route first. Then security control.”
 
 “Right.”
+
+“And nobody leaves a prisoner unsecured to improve my time.”
+
+The mercenary checked the restraints being applied behind them.
+
+“Understood.”
 
 Daniel smiled.
 
@@ -19534,6 +19588,16 @@ Joel looked across the captured bridge.
 Anton shouted behind him:
 
 “I WON THE DOOR!”
+
+Daniel answered on the private link.
+
+“Keep the door. I will have the eastern bottle.”
+
+“The logs are not checked.”
+
+“I have the logs.”
+
+Christer added, “That was the part you should have worried about.”
 
 Joel sighed.
 
@@ -24959,6 +25023,20 @@ Rydell smiled.
 
 “Potentially very.”
 
+Joel moved the reply to a private command circuit.
+
+“Your own contribution?”
+
+“The bottle you have been trying to win off me for nine years.”
+
+Joel glanced at the interception plot. Rydell's reserves were already moving toward the threatened civilian corridors.
+
+“You chose your terms before calling.”
+
+“You do it to everyone else. I thought you would appreciate the courtesy.”
+
+A fresh alarm sounded. Rydell gave Sorn the reserve assignments without another word about prizes.
+
 From the background, hundreds of marines started cheering as the first enemy cutters approached the hull.
 
 The battle for Ardent Central had not begun yet.
@@ -25144,6 +25222,10 @@ The sergeant looked offended.
 “You are also counting them!”
 
 “Motivation!”
+
+“Then carry the stretcher.”
+
+The sergeant took the heavier end. He stopped counting and handed the stretcher to the waiting medical team beyond the door. His rear pair stayed at the junction until the last civilian was through.
 
 The first Ardent soldier appeared.
 
@@ -25341,6 +25423,8 @@ She continued.
 
 “Each category winner gets something different.”
 
+Annette attached Sorn's operational conditions before releasing the notice. Teams kept their assigned sectors; medical priority decided rescue order. No extra exposure for a score, no claim over a prisoner, and no prize for disobeying an order. The sealed case would belong to the winning team's table, served by a host in small measures after relief from duty. Ordinary House marines did not inherit the family's tolerance with their uniforms.
+
 The tactical display updated.
 
 CIVILIAN RESCUE: one sealed case of Vintergard Winter Reserve.
@@ -25372,6 +25456,16 @@ Joel stared.
 Annette smiled.
 
 “I can ask.”
+
+The authorization returned through the command network before the prize notice went out.
+
+Lars had added one line beneath his approval.
+
+RYDELL STILL OWES ME A BOTTLE. DO NOT ACCEPT IT AS HIS CONTRIBUTION.
+
+Rydell read it on Central's display.
+
+“That debt was old before Joel took command,” he told Sorn. “He can afford to wait another watch.”
 
 Anton started laughing.
 
@@ -29441,6 +29535,20 @@ Dennis raised his blade.
 
 “Good.”
 
+Dennis switched to Daniel's private channel.
+
+“Something for you to measure. I clear the approach before you finish locking the core.”
+
+“Without damaging anything I need.”
+
+“That does narrow the field.”
+
+“Do it and I buy your supper.”
+
+Dennis checked the approach lanes on Daniel's map.
+
+“Make it a good one. I dislike winning on an empty stomach.”
+
 Daniel muttered:
 
 “I still hate all of you.”
@@ -32195,6 +32303,14 @@ Anton shouted:
 
 “FULL BURN!”
 
+The carrier captain answered on their secure link.
+
+“To the cleared limit, Breach Commander. I am not taking you through our own fire.”
+
+Anton checked the escort lanes.
+
+“Cleared limit. Confirmed.”
+
 His boarding carriers accelerated.
 
 Daniel watched the absurd race beginning around the crippled command ship.
@@ -34859,6 +34975,16 @@ Dennis nodded once.
 
 “Correct.”
 
+“From your cellar,” Anton insisted. “Not a replacement.”
+
+Joel opened one eye a little farther.
+
+“I know how to lose a bottle, Anton.”
+
+Dennis looked toward him through the feed.
+
+“He has had practice.”
+
 Daniel muttered:
 
 “This campaign cost thousands of lives and somehow ends with Dennis winning alcohol.”
@@ -35389,6 +35515,14 @@ That got one quiet laugh.
 
 It was enough.
 
+The veteran tucked the folded debt slip into his own pocket instead of the effects bag.
+
+“What will you tell his brother?” Daniel asked.
+
+“That he owes us a story about him.”
+
+Daniel rested a hand on the coffin before the bearers lifted it again.
+
 Christer supervised the fleet recovery personally.
 
 He walked through damaged ships despite medical orders.
@@ -35825,7 +35959,19 @@ A pause.
 
 “No promises.”
 
+Lars glanced at Joel's medical chair before closing the channel.
+
+“Dennis's bottle goes on the next supply run. Yours, Joel.”
+
+“I was not going to send him a substitute.”
+
+“I know. I am warning your brothers not to intercept it.”
+
+Anton looked offended. Christer became very still.
+
 Lars disconnected before he could regret asking.
+
+A requisition went out under Joel's personal seal. When the bottle reached Dennis, he accepted it without opening it. Duskbringer still had people in surgery and recovery teams aboard the command vessel. There would be a table when everyone who could return had returned; until then, the seal stayed whole.
 
 Within the hour, the Primarch’s ship departed for Sol.
 
@@ -39531,6 +39677,36 @@ Joel turned back toward Sera.
 
 “Then we keep it that way.”
 
+That evening, the crews relieved from duty filled one of Kestrel's rebuilt mess halls. The next watch ate before taking their stations. Afterward, someone started a song, someone else improved it beyond recognition, and an old admiral produced a betting book with a split leather spine.
+
+A Banner Captain across the table groaned.
+
+“You brought that thing.”
+
+“It says you owe me a bottle.”
+
+“That action was forty-six years ago.”
+
+“And yet you remember which action.”
+
+Anton leaned over to inspect the entry. Within minutes he was explaining why the captain's boarding maneuver deserved a better score.
+
+The admiral listened with professional interest.
+
+“Were you there?”
+
+“No.”
+
+“Then you have finally found a boarding action in which you cannot claim first breach.”
+
+The laughter reached the next table. Even Anton joined it, then demanded the recordings.
+
+Joel set a sealed bottle beside his plate. The price of another like it would have paid for months of a small ship's repairs; another from that batch did not exist. The host poured Winter Reserve into the little acceptance cups, offering milder drinks without comment. One small serving, no second challenge. Anyone still under a medical restriction had water instead; nobody made anything of it.
+
+They toasted the fallen before the music resumed. For the crews still searching the wrecks and the friends still in treatment, Joel's bottle remained unopened.
+
+By the second course, the admiral had found witnesses to an even older dispute. Nobody at the table intended to let him forget the first one.
+
 Outside, patrol ships moved between Kestrel and its new companion station.
 
 Farther away, the fortified road toward Ardent remained open under House protection.
@@ -40839,6 +41015,30 @@ Anton looked at the battered transport.
 
 “Now it feels like sightseeing.”
 
+Before they started work, Daniel laid a thermal survey on the cargo deck.
+
+“A private challenge,” he said. “Coolant loop within tolerance on the first certified run.”
+
+Anton folded his arms.
+
+“Against?”
+
+“Your gun passing the same inspection without a lecture.”
+
+“Name the bottle.”
+
+“Settle the eastern one first.”
+
+“That was disputed.”
+
+Christer looked up from the sensor parts.
+
+“Only by the debtor.”
+
+Joel took the survey slate.
+
+“The mechanics certify both. Nobody grades his own work.”
+
 They spent two days making the ship trustworthy enough to travel.
 
 Not good.
@@ -40902,6 +41102,22 @@ Anton called from weapons:
 Joel sat in the pilot seat.
 
 “That worries me most.”
+
+Tessa's signed checks lay between them. The coolant loop had passed on its first run. The gun had required a long conversation about power draw.
+
+Anton read the sheet twice.
+
+“I am having the eastern bottle sent to Kestrel for you.”
+
+Daniel looked over.
+
+“You accept the bridge ruling?”
+
+“No. I accept that you will never shut up.”
+
+“That was always the strongest part of my claim.”
+
+Anton sent the instruction to his cellar keeper, with Daniel named as the new owner. Christer recorded the transfer beside the original wager. Joel took the gun's certified limits to the pilot seat.
 
 They had also reached another problem.
 
@@ -42572,6 +42788,16 @@ Christer nodded.
 Daniel looked at the numbers.
 
 “Acceptable is doing terrible work there.”
+
+Christer checked the fallback route again.
+
+“Beat my junction time from the cruiser, then.”
+
+“Without your security access.”
+
+“Yours. You insisted it counted.”
+
+Daniel's answering smile was brief. He sent the fallback route to all four suits before closing the private link.
 
 Anton activated external comms.
 
@@ -48689,9 +48915,17 @@ A war-feast.
 
 House tradition adapted itself wherever it went. Long tables were set inside one of the gate bastion halls overlooking the fortified throat of Gate Seventeen. Talyrn officers attended out of curiosity. The Thyrak commander attended because Dennis told him to. That was apparently enough.
 
-Wintergard bottles appeared.
+Vintergard bottles appeared.
 
-Then stronger ones.
+The serving steward put the small Winter Reserve cups beside food and water.
+
+“One cup. Milder drinks here.”
+
+He moved the decanter beyond Anton's reach before continuing down the table. Several Hunters chose the milder drink. Nobody tried to change their minds.
+
+The watch officers ate early and returned to their posts sober. Those drinking had reliefs assigned and would not return to duty before clearance.
+
+Then the rarer reserves came out.
 
 Then one sealed ceramic bottle Anton placed in the center of the table with exaggerated care.
 
@@ -48707,6 +48941,16 @@ Dennis stared.
 
 “For victory.”
 
+A senior House admiral farther down the table asked who had witnessed the seal. Another wanted the batch recorded before Anton could offer something cheaper later.
+
+Anton looked insulted.
+
+“I pay my debts.”
+
+“Eventually,” Daniel said.
+
+The first admiral opened a book whose oldest entries had been copied from his predecessor's. Beside one bottle stood three different owners' names and no agreed winner. Anton bent closer despite himself.
+
 The bets started immediately.
 
 Anton wagered two bottles on first breach and most kills inside the fortress.
@@ -48718,6 +48962,14 @@ Daniel claimed primary reactor control secured.
 Christer claimed highest-value tactical capture.
 
 Joel, to everyone’s annoyance, wagered on most civilians or prisoners recovered alive.
+
+“Within the assigned plan,” Lars said. “You see someone in danger, you help. I do not want to hear whose category they belonged to.”
+
+Every commander at the table acknowledged him. The admirals entered the terms beneath the bottle seals.
+
+“And a lost friendly?” Anton asked, quieter now.
+
+“We read the report,” Joel said. “Nobody boasts over the names.”
 
 The Thyrak commander looked at him.
 
@@ -48731,7 +48983,7 @@ The commander nodded once.
 
 “Good.”
 
-That earned him a cup without further ceremony.
+The steward offered him a small cup and a milder alternative. He chose the latter. Dennis passed it across without comment.
 
 Soon even the Talyrn added wagers, though theirs were more restrained: cleanest breach lane, fastest secured extraction corridor, least friendly casualties in contested decks.
 
@@ -48854,6 +49106,14 @@ Dennis pointed at the screen.
 Bjorn answered immediately.
 
 “Win something first.”
+
+Dennis tilted his helmet.
+
+“I won yours at Gatehold.”
+
+“Joel's bottle. He paid. You want one of mine, try beating me to something.”
+
+Mikael's laugh rumbled through the Warden speakers. Dennis checked the elders' breach assignments; the reserve itself was suddenly less interesting than that challenge.
 
 Lars entered the bridge channel before the argument could worsen.
 
@@ -50605,6 +50865,18 @@ Anton considered the elder's stretcher, the broken frame and the Thyrak walking 
 
 “Later.”
 
+From the stretcher, Bjorn opened one eye.
+
+“Bring the witnesses. And something fit to eat.”
+
+Anton looked back at him.
+
+“You intend to argue?”
+
+“I intend to win sitting down.”
+
+The Thyrak commander adjusted the blanket clear of the stretcher rail. Anton helped with the other side before returning to the collar.
+
 Ortheva shook Joel's hand before he entered the transport.
 
 “You will come back.”
@@ -50712,6 +50984,14 @@ Bjorn visited under medical escort and argued over every discarded part.
 Daniel argued back.
 
 Neither of them called it operational.
+
+Bjorn held up the slate showing the replacement shoulder assembly.
+
+“Lighter than the old one. I might beat you to the next door.”
+
+“You could beat Anton,” Daniel said. “He would stop to explain that he was ahead.”
+
+The elder laughed, then had to pause for breath. Daniel lowered the slate until the medic was satisfied. The argument resumed at a volume she could tolerate.
 
 The training halls nearby were crowded with younger officers.
 
@@ -55095,6 +55375,24 @@ Aster-9 appeared fascinated.
 
 “That feeling will probably pass.”
 
+Torvald’s engineering circuit remained open. One of Torvald's escort admirals entered the engineering circuit.
+
+“Do not let him wager your ship before we have surveyed it. He still owes me for the last recovery.”
+
+“Propulsion restored,” Torvald said.
+
+“Three days late.”
+
+“You specified running. You should have specified when.”
+
+“I have the terms.”
+
+“So do I.”
+
+Aster-9 directed its light toward the speaker.
+
+“I recommend retrieving both copies.”
+
 Far across the galaxy, the report reached Vintergard.
 
 Lars read it first.
@@ -56284,6 +56582,16 @@ Lars spoke without looking at him.
 Anton’s smile disappeared.
 
 “Understood.”
+
+On the family circuit, Christer observed, “Father has stopped the whole fleet without boarding anything.”
+
+“No breach credit,” Anton said.
+
+Lars answered before Joel could.
+
+“Keep the credit. I will keep the ships.”
+
+Joel muted his microphone long enough to laugh once. Then he returned to the recovery plot. None of the House vessels pursued.
 
 The Directorate commander finally transmitted.
 
