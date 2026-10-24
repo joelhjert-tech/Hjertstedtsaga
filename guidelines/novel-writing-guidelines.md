@@ -49,3 +49,35 @@ Before changing an existing scene, identify its tactical purpose, emotional temp
 Read the revised scene with its neighbors. Check that the joke's speaker, channel and knowledge fit; the contest does not alter orders or outcomes; the bottle exists, belongs to its keeper and has not been pledged twice; the debt's later status is consistent; and casualties retain their weight. Preserve unresolved arguments rather than inventing a different canonical winner.
 
 Update the combined novel, scene navigation, affected reference supplements and source hashes with each accepted revision. Keep the imported website edition identifiable, including its original source hashes. Follow [the standing GitHub-sync guideline](novel-github-sync-v01.md), commit and verify the authorized remote result. A repository revision does not deploy the website or revise approved comic pages.
+
+## Scene production format — 24 October 2026
+
+Apply these rules to every new main-novel scene unless the owner gives a different instruction for that scene. These rules supplement rather than replace the established canon, character voices, Charter, continuity rules and narrative guidance above.
+
+### Length and pacing
+
+- Write approximately **1,000 words of story prose per scene**. This target applies to the scene itself; the chapter/scene heading and four continuation options are not part of the narrative word count.
+- Write **one scene at a time**. Do not advance into another scene, skip ahead, or produce an entire chapter in one reply without an explicit request.
+- Mark the chapter number, scene number and scene title. Continue numbering from the accepted manuscript, not from draft suggestions. Give each scene a distinct dramatic purpose and a meaningful stopping point.
+- Preserve the effects of earlier scenes: who is where, who knows what, current injuries, orders, ship condition, unfinished obligations, losses, and political consequences.
+
+### Language and presentation
+
+- Use **clear global English**: natural, accessible English suitable for international readers. Prefer straightforward sentences and familiar vocabulary over regional slang, dense idioms, ornate prose or unnecessary technical explanations.
+- Use **basic, established science-fiction terms** where useful—ships, fleets, gates, relays, sensors, armour, drives, missiles, shields, boarding, engineering and similar concepts. Make the action understandable from context; avoid introducing complex new jargon without a story need.
+- Maintain the Saga's close, cinematic viewpoint, believable command decisions, clear action geography, human consequences and distinct character voices. During fleet combat, make reports, orders, distances, damage and decisions intelligible rather than turning scenes into a technical manual.
+- Let humor, House rivalry and warmth arise naturally; observe the existing limits for orders, civilian safety, wagers, medical care and loss.
+
+### Four continuation options after every scene
+
+- After the scene's final prose paragraph, provide a separately marked section: **Continuation options**.
+- Present **exactly four numbered options (1–4)** for what can happen in the **next** scene. Each option should be concise, specific and meaningfully different.
+- Design options to be **combinable when requested**. Choosing “1 + 3” means weave both developments into one coherent next scene while preserving time, location, motivation and causality; it does not mean writing two separate scenes.
+- Do not treat unchosen options as events that already happened. Nothing in an option becomes established story canon until the owner selects it and the resulting scene is accepted.
+- Finish the current scene before offering choices. Do not prewrite the next scene or force an irreversible turn solely to justify a choice.
+- If a requested combination creates a direct contradiction, keep the owner's chosen intentions and reconcile them transparently before or during drafting rather than silently declaring both incompatible outcomes true.
+
+### Scene-by-scene approval and GitHub continuity
+
+- Stop after each scene and its four options so the owner can select one or combine several, request changes, or set a different direction.
+- Drafted continuation ideas are not published canon. Follow the standing GitHub-sync guideline for accepted story additions or revisions, respecting any explicit hold or draft-only instruction.
