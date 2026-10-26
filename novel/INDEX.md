@@ -142,3 +142,7 @@ Current repository edition: **House rivalry revision — 19 October 2026**. Chap
 - [15. When the Primarch Arrived](chapters/chapter-08.md#15-when-the-primarch-arrived) — lines 5493–5902
 - [16. The Prisoner of Winter](chapters/chapter-08.md#16-the-prisoner-of-winter) — lines 5903–6307
 
+
+## Standalone side stories
+
+- [The Kharad Trial: The Things Beneath the Ash](../side-stories/the-kharad-trial.md) — Talyrn Continuance, Vaerith; separate from main-novel chapter numbering. [Side-story index](../side-stories/INDEX.md).

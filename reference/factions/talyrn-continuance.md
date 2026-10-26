@@ -34,3 +34,7 @@ Ardenvast is the intended point of renewed contact with the Known Reach. Its ope
 - **Homeworld / capital:** Vaerith / Khal Veyra
 - **Government:** Federated martial commonwealth
 - **Principle:** Strength creates obligation
+
+## Standalone story supplement — 26 October 2026
+
+[The Kharad Trial](../../side-stories/the-kharad-trial.md) depicts a local failure of inherited quarantine records and the training authority’s resulting accountability. Five candidates survive a voice-mimicking organism. See the [story continuity record](../side-stories/the-kharad-trial.md) for supporting cast, injuries and uncertain findings. This does not date the main saga, replace faction leadership or authorize new comic assets.

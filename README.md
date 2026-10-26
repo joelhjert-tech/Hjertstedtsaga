@@ -6,6 +6,7 @@ A searchable writing reference for **Tales from the Known Reach / The Shattered 
 
 - [Novel chapter and scene index](novel/INDEX.md)
 - [Complete novel, chapters 1–8](novel/complete-novel.md)
+- [Standalone side stories](side-stories/INDEX.md)
 - [Characters, factions, locations, ships and other published lore](reference/INDEX.md)
 - [Vharok Brood — new faction README and slender ship study](reference/factions/vharok-brood/README.md)
 - [Standing novel-writing guidelines](guidelines/novel-writing-guidelines.md)
@@ -13,6 +14,10 @@ A searchable writing reference for **Tales from the Known Reach / The Shattered 
 - [Old-to-revised chapter/scene mapping](sources/novel-revision-map.json)
 
 The first import is the text from website release `issue03-2026-10-08-v01`, copied on 9 October 2026. The current repository edition includes the owner-directed revision below; it is no longer an exact copy of that website edition. Scene indexes are navigation aids, not generated plot summaries. Under the [standing sync guideline](guidelines/novel-github-sync-v01.md), agents must update this repository whenever the user adds a new novel story, chapter or accepted revision. This is a task completion requirement, not a background watcher.
+
+## New side story — 26 October 2026
+
+[The Kharad Trial: The Things Beneath the Ash](side-stories/the-kharad-trial.md) follows five Talyrn candidates through a containment failure on Vaerith. The owner authorized the reviewed fixes: credible rescue decisions, independent authentication, clear injuries and escape geography, institutional accountability and a truthful survivor count. The eight-chapter main novel remains unchanged. [Source record](sources/kharad-trial-2026-10-26.json).
 
 ## New faction reference — 24 October 2026
 

@@ -1,0 +1,63 @@
+{
+  "story_id": "the-kharad-trial",
+  "title": "The Kharad Trial: The Things Beneath the Ash",
+  "chronology": "Standalone; no main-novel chapter assignment",
+  "sections": [
+    {
+      "number": 1,
+      "roman": "I",
+      "title": "The Scoreboard",
+      "file": "side-stories/the-kharad-trial.md",
+      "anchor": "i-the-scoreboard"
+    },
+    {
+      "number": 2,
+      "roman": "II",
+      "title": "The Royal Hotel",
+      "file": "side-stories/the-kharad-trial.md",
+      "anchor": "ii-the-royal-hotel"
+    },
+    {
+      "number": 3,
+      "roman": "III",
+      "title": "The Conduit",
+      "file": "side-stories/the-kharad-trial.md",
+      "anchor": "iii-the-conduit"
+    },
+    {
+      "number": 4,
+      "roman": "IV",
+      "title": "The Dead Team",
+      "file": "side-stories/the-kharad-trial.md",
+      "anchor": "iv-the-dead-team"
+    },
+    {
+      "number": 5,
+      "roman": "V",
+      "title": "Everybody Goes Home",
+      "file": "side-stories/the-kharad-trial.md",
+      "anchor": "v-everybody-goes-home"
+    },
+    {
+      "number": 6,
+      "roman": "VI",
+      "title": "The Sixth Voice",
+      "file": "side-stories/the-kharad-trial.md",
+      "anchor": "vi-the-sixth-voice"
+    },
+    {
+      "number": 7,
+      "roman": "VII",
+      "title": "The Final Assessment",
+      "file": "side-stories/the-kharad-trial.md",
+      "anchor": "vii-the-final-assessment"
+    },
+    {
+      "number": 8,
+      "roman": "VIII",
+      "title": "The Voices That Remained",
+      "file": "side-stories/the-kharad-trial.md",
+      "anchor": "viii-the-voices-that-remained"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "release": "issue03-2026-10-08-v01",
   "imported_on": "2026-10-09",
-  "scope": "Novel chapters 1–8: owner-directed House rivalry revision of Chapters 02–08, Chapter 01 unchanged; original published universe dossiers with labeled writing supplements and prior ship update",
+  "scope": "Novel chapters 1–8: owner-directed House rivalry revision of Chapters 02–08, Chapter 01 unchanged; original published universe dossiers with labeled writing supplements and prior ship update; accepted standalone side story The Kharad Trial (26 October 2026), separate from main-novel chronology",
   "source_sha256": {
     "downloads/the-shattered-lane-chapters-1-8.md": "f843477880b331d99e7948751486dab6867019b2e013ccc062453b5ef0323f54",
     "content/public-v1.json": "c57e43189bd3c436230d7126988aea82aaf7720ef3cb25a137141fbff95c265e",
@@ -23,9 +23,9 @@
     "novel/chapters/chapter-07.md": "e6f68b9fe7215cdf26a0a4636fab844273e86301e7d2a23f36b0c850a70671f8",
     "novel/chapters/chapter-08.md": "34c5af8643a5091ee955bb443dccb8c8efe5148667ba58a9915d7cb4c75fe6e8",
     "novel/complete-novel.md": "7496c12be7c1886c074c6926af5281754812951847a86f14c20501113a7808e9",
-    "novel/INDEX.md": "0e20a7c4890c828a7425521d085568b5ee3a73fd011dd96ccb7ca8003d086daa",
+    "novel/INDEX.md": "2a8d3edfd8c320edd833f1d25daddd29329a98e0e35fe9244e0174a8baa298db",
     "novel/scene-index.json": "8e670177e3ce7968376fbb0d909f5caef2e6d646133ffc50fc70f663eadea6a3",
-    "README.md": "63e5c2d05c46721d881def1dab1b4d643739e35c0a2e81603d14c641f4333119",
+    "README.md": "0793b9c09e4100436e3835457575ea873d63c064277132896acf0ddc05d96d75",
     "reference/characters/annette.md": "e99ae6c62573bc5c07d8f2c5a3aaae9ab5c17e95afcf29375059e1c353a7e215",
     "reference/characters/anton.md": "cc4231415f18b387a16633161108d4cf269ce74b1a6c638ca27eef0b130b5864",
     "reference/characters/aster-9.md": "ad6bdd1489c587a3ae7515a3765013a5111644cc0bd7e7f2201e9707a7de1449",
@@ -55,7 +55,7 @@
     "reference/factions/kharad-war-clans.md": "6b450201932f335a154dbcf2922629b9b9c9d851bbe442ab0c486adf0be740f6",
     "reference/factions/seraph-throne.md": "3ea2d63d3fe0a627d12f6cb60195b040ea16efa2d3304cbfee225041d8ab5028",
     "reference/factions/solar-dominion.md": "2a2e7efff633841337d4d2f7e401e310d150ed8f80749ba57fabf39ca35b0d65",
-    "reference/factions/talyrn-continuance.md": "d23b3db21534ee8223ed81c84c55e347fbaa3fa9e9a6f449dda8fe58f9230d56",
+    "reference/factions/talyrn-continuance.md": "8fa0e3fdb84f294ba3df361f24dd2688c5ddd14d4b487d815640ae6cace3249a",
     "reference/factions/terran-federal-protectorate-of-sol.md": "b394f68ff2d1f9391c009d698f28f64941e28e204374cc7acd12e9ec153a4bfa",
     "reference/factions/throne-imperium.md": "a6fc259b28655bf35578d4f6f91d650d0a7987b854368e6ace6e5d65a2ea2281",
     "reference/factions/vardos-coalition.md": "1df16d27fffe928433888653f2144dd4964d3d2741eb2335deb4052fc433b96e",
@@ -122,7 +122,7 @@
     "reference/galaxy-map/galactic-atlas.md": "30c11bff04b44d26c6abc188d2692491adcbdab195846eb017154e5358baea19",
     "reference/gates-and-lanes/pluto-gate.md": "a72e8b8b16459945dfd312877a512d000872ff8f5aa31429602926984e4612b2",
     "reference/gates-and-lanes/strategic-gates-and-lanes.md": "3197c489e57ebd217bfa161604fd272d0e97210abd7821b9107c2aea20c0215e",
-    "reference/INDEX.md": "fce2635d7d12e17b84a67f5d135b5e78827ba01ebb021dc6c81e6d66041be334",
+    "reference/INDEX.md": "87443ab773c17f25c32ccdeffa798b12d008bcfee2af7e9c4738c82d1eb3b8e8",
     "reference/locations/ardent-agricultural-world.md": "423b4a8948e0a52652ede94b932e207ae87dac465f6a5b76fb4a4e9b7132a5a7",
     "reference/locations/ardent-bastion.md": "8dd126efaa787b9e2320a520302b66bf821c9eda3dda4d6f3ee676eb1771295d",
     "reference/locations/ardent-central.md": "0f5fb842ac103491dc5bdee50aabbacfb79b61d1ffb867fe46c47d03c3362bc9",
@@ -174,7 +174,12 @@
     "reference/timeline/chapters-1-2.md": "229162c53f8fdf20e408dda9fa0cccbf997bbb133f608832289a80a11e169a65",
     "sources/house-rivalry-2026-10-19.json": "f99b3244f1b617832693314a5b2d55bd8f79b2e20820f24dc2b288ae8b9c997b",
     "sources/new-ships-2026-10-10.json": "3d2b7cf11de85587df14f8a14ae6bf4620a6b4eb7cac097e760cd85fca3d5c11",
-    "sources/novel-revision-map.json": "ca4c71c34cbe0018f878489fa778b862b1f5e32854795092700db8a42b399354"
+    "sources/novel-revision-map.json": "ca4c71c34cbe0018f878489fa778b862b1f5e32854795092700db8a42b399354",
+    "side-stories/the-kharad-trial.md": "6622581a108e19d22f33a6e7a88eb55a4b784f3ff9b866d2ceac1b7380f298fd",
+    "side-stories/INDEX.md": "3257efdd73100fe9cb101beeaa96496834b2daed0f0bc2c4c463e25450f2fe3b",
+    "side-stories/scene-index.json": "cb61cecc78c2ce70a3469aa7a92fa5b1a6466246859ac413cdea8ca351dad974",
+    "reference/side-stories/the-kharad-trial.md": "3918dd025e290cc8c0bdfb47433d52b90ea3b5c002f2ffacd90b60627ebd1c12",
+    "sources/kharad-trial-2026-10-26.json": "29058ea6188edf61d1d845c286bc80c861d7406d828cd7477fa2930635e0ebe8"
   },
   "supplemental_updates": [
     {
@@ -182,9 +187,17 @@
       "sha256": "3d2b7cf11de85587df14f8a14ae6bf4620a6b4eb7cac097e760cd85fca3d5c11",
       "reference_count_added": 15,
       "imported_on": "2026-10-10"
+    },
+    {
+      "source_record": "sources/kharad-trial-2026-10-26.json",
+      "sha256": "29058ea6188edf61d1d845c286bc80c861d7406d828cd7477fa2930635e0ebe8",
+      "side_stories_added": 1,
+      "accepted_on": "2026-10-26"
     }
   ],
   "current_edition": "house-rivalry-2026-10-19-v01",
   "revised_on": "2026-10-19",
-  "revision_metadata": "sources/house-rivalry-2026-10-19.json"
+  "revision_metadata": "sources/house-rivalry-2026-10-19.json",
+  "side_story_count": 1,
+  "side_story_reference_count": 1
 }

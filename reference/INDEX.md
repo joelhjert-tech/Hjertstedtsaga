@@ -154,3 +154,7 @@ The original website snapshots retain their source attributions. Six character d
 - [Bulwark convoy escort](ships/bulwark.md) (ships)
 - [Threshold fleet carrier](ships/threshold.md) (ships)
 - [Independent operators](factions/independent-operators.md) (factions)
+
+## Accepted side-story continuity
+
+- [The Kharad Trial — cast, locations and consequences](side-stories/the-kharad-trial.md) — full-story spoilers; prose authority only.
