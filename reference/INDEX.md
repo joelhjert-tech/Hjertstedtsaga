@@ -158,3 +158,7 @@ The original website snapshots retain their source attributions. Six character d
 ## Accepted side-story continuity
 
 - [The Kharad Trial — cast, locations and consequences](side-stories/the-kharad-trial.md) — full-story spoilers; prose authority only.
+
+## Proposed standalone story reference
+
+- [The House That Would Not Kneel](side-stories/the-house-that-would-not-kneel.md) — owner-supplied revised story; full spoilers; not automatic main-novel canon.

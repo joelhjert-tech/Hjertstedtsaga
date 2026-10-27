@@ -16,3 +16,7 @@ Layered authentication and suspicion of irregular orders distinguish this system
 
 The surviving formations described at Ardent belong to later-story preview material. Their fate is not an outcome already established by the Chapter 02 investigation. The detailed ship and equipment designs shown here remain provisional.
 
+
+## Proposed standalone narrative — 27 October 2026
+
+[The House That Would Not Kneel](../../side-stories/the-house-that-would-not-kneel.md) explores how surveillance and authenticated authority can enforce coercive labor, family leverage and punishment for accepting medical help. These are incidents in an owner-supplied **proposed side story**, not retroactive main-novel events or new design approval. See its [scoped story reference](../side-stories/the-house-that-would-not-kneel.md).

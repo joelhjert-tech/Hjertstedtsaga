@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## New revised standalone story — 27 October 2026
+
+[The House That Would Not Kneel](side-stories/the-house-that-would-not-kneel.md) follows a Directorate analyst through the Cairn’s Wake campaign. Owner-supplied revised prose is retained exactly for audiobook and illustration review. Its campaign remains **proposed standalone continuity**, separate from the committed main novel. No website or comic publication follows from this sync. [Source record](sources/house-would-not-kneel-2026-10-27.json).
+
 A searchable writing reference for **Tales from the Known Reach / The Shattered Lane**.
 
 ## Start here

@@ -1,0 +1,11 @@
+# The House That Would Not Kneel — proposed standalone story reference
+
+Source: [owner-supplied revised story](../../side-stories/the-house-that-would-not-kneel.md), 27 October 2026. Full-story spoilers. This is a proposed standalone narrative, not a change to main-novel chronology, characters, comic canon or faction design authorities.
+
+Reth Kelvain, a Directorate strategic analyst, admits suppressing civilian evidence before a strike on Cairn Service Nine. The attack causes the eastern habitation breach at Cairn’s Wake. The first enforcement force accounts for 78 survivors and 11 dead. The second engagement destroys House frigate Red Lantern (87 dead or missing) and damages Iron Promise; 214 civilians die, 603 are injured and 19 initially reported missing. Dain Torr survives the tug strike; his four-year-old son Elian dies behind a pressure barrier while Salen and House rescue personnel cannot reach him safely.
+
+During the third regional campaign, Iron Promise is absent for repair. A new House Oath cruiser, Winter’s Burden, intervenes while a separate force disables Karth Array’s military transfer infrastructure. The 26-hull Directorate force withdraws without seizing the station or 72 refugees. This is not the defeat or dissolution of the larger Directorate. Vintergard’s route remains unknown.
+
+Supporting cast: Oren Vask (regional commander), Arlen Sevr (commodore), Tessa Marr (analyst), Ada Marr (her dependent daughter), Harven Doss (engineering lieutenant), Liora and missing husband Oran Sen, Tomas Vell (door fabricator), Salen, Dain and Elian Torr, Banner Captain Signe Vahl and Justicar Eira Thorne. Their names and local incidents are supplied by this story, not replacements for main-saga characters.
+
+Doss and six surviving crew accept House oxygen against Directorate orders, then face disciplinary pressure. Tessa retracts truthful evidence to retain guardianship of Ada and remains in Directorate territory. Reth receives protected witness status but is held responsible by an independent inquiry. Four years later the station has rebuilt; Oran remains unresolved, Vask retains a security appointment, Tessa remains constrained and Salen’s trauma continues. Tomas builds safeguarded independent emergency releases. No blanket forgiveness, rescue of all detainees, regime reform or new major canon outcome is implied.

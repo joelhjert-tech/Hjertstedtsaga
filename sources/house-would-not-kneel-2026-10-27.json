@@ -1,0 +1,35 @@
+{
+  "edition": "owner-supplied-revised-v01",
+  "date": "2026-10-27",
+  "authorization": "here is the rewised story , make audio and images just like before.",
+  "source_sha256": "a2fdb007057ad58d64e76d9761d7bb9bc42b21e20a8bb2bc01339de7f7ee4df8",
+  "export_sha256": "a2fdb007057ad58d64e76d9761d7bb9bc42b21e20a8bb2bc01339de7f7ee4df8",
+  "original_attachment_sha256": "a2fdb007057ad58d64e76d9761d7bb9bc42b21e20a8bb2bc01339de7f7ee4df8",
+  "source_fidelity": "EXACT_BYTES",
+  "sections": 9,
+  "words": 13264,
+  "continuity_status": "Proposed standalone narrative, not inserted into main-novel continuity.",
+  "base_commit": "2a8af9c0d6395a16bae3279049a1b491649e67c0",
+  "files": {
+    "side-stories/the-house-that-would-not-kneel.md": "a2fdb007057ad58d64e76d9761d7bb9bc42b21e20a8bb2bc01339de7f7ee4df8",
+    "side-stories/the-house-that-would-not-kneel-scene-index.json": "f8349817e61780f357b593fd685c6935991ce79b7ce01e2609a2470d74797d8c",
+    "reference/side-stories/the-house-that-would-not-kneel.md": "da151fd9ce6a229af93bd37f60aa5eeb2947b54673d1eb0049f91da4f0a9eee7",
+    "side-stories/INDEX.md": "e9054da941ef324a3367a6fbcb7ff74e02c62b73c8efcd8c2cae3876cb02ff36",
+    "README.md": "eb2a489205fca688cae85ff540f3c5a2e8df46e6fe4983a3ab47c6c45cdd05dd",
+    "novel/INDEX.md": "dd327d3a4f9ff3ca21b12e241ea27f16dcc5cb6bfce16aaa87864359abccc493",
+    "reference/INDEX.md": "f5dd3dbf3905e377e06b9b11b67ed9aa912702dcb94dfca1d30d397f39d3dfea",
+    "reference/factions/directorate-of-ash.md": "9dcedf038fc906c66985c73a2083d5e96c4f9b64ff4540887e003624fce54c8c"
+  },
+  "protected_novel_files": {
+    "novel\\complete-novel.md": "7496c12be7c1886c074c6926af5281754812951847a86f14c20501113a7808e9",
+    "novel\\chapters\\chapter-01.md": "e6fbe1120e616925c93610b249d58297fef06738e3cdbadc1b40a33dc5ef6af0",
+    "novel\\chapters\\chapter-02.md": "d9a2400b9ccffe09e49723b3f6ff628b2cd8ddf9b11c5db4fd410f1e1cd5dfd6",
+    "novel\\chapters\\chapter-03.md": "056a2b0a5f4b49bd93e5a88f7407d2b33b92094e40b74af2667fb4e8c74ce448",
+    "novel\\chapters\\chapter-04.md": "36a94bd1baff6f8b9e200d16b7184f5782bf7092169379ca1ee8ff3b66c8b451",
+    "novel\\chapters\\chapter-05.md": "1f3830e1ac0c7f64e2fe6b2a6f8158418aad905cca377d26a485a2301c8776f0",
+    "novel\\chapters\\chapter-06.md": "95fc672161b1f1ed8ac49bf71b7b95c2bfb4f165a8fa92ac86a500af425c5beb",
+    "novel\\chapters\\chapter-07.md": "e6f68b9fe7215cdf26a0a4636fab844273e86301e7d2a23f36b0c850a70671f8",
+    "novel\\chapters\\chapter-08.md": "34c5af8643a5091ee955bb443dccb8c8efe5148667ba58a9915d7cb4c75fe6e8"
+  },
+  "website_or_comic_publication": false
+}

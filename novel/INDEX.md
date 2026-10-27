@@ -146,3 +146,5 @@ Current repository edition: **House rivalry revision — 19 October 2026**. Chap
 ## Standalone side stories
 
 - [The Kharad Trial: The Things Beneath the Ash](../side-stories/the-kharad-trial.md) — Talyrn Continuance, Vaerith; separate from main-novel chapter numbering. [Side-story index](../side-stories/INDEX.md).
+
+- [The House That Would Not Kneel](../side-stories/the-house-that-would-not-kneel.md) — revised standalone story, proposed main-saga continuity only.

@@ -1,7 +1,7 @@
 {
   "release": "issue03-2026-10-08-v01",
   "imported_on": "2026-10-09",
-  "scope": "Novel chapters 1–8: owner-directed House rivalry revision of Chapters 02–08, Chapter 01 unchanged; original published universe dossiers with labeled writing supplements and prior ship update; accepted standalone side story The Kharad Trial (26 October 2026), separate from main-novel chronology",
+  "scope": "Novel chapters 1–8: owner-directed House rivalry revision of Chapters 02–08, Chapter 01 unchanged; original published universe dossiers with labeled writing supplements and prior ship update; accepted standalone side story The Kharad Trial (26 October 2026), separate from main-novel chronology; owner-supplied revised standalone The House That Would Not Kneel (27 October 2026), proposed main-saga continuity only",
   "source_sha256": {
     "downloads/the-shattered-lane-chapters-1-8.md": "f843477880b331d99e7948751486dab6867019b2e013ccc062453b5ef0323f54",
     "content/public-v1.json": "c57e43189bd3c436230d7126988aea82aaf7720ef3cb25a137141fbff95c265e",
@@ -23,9 +23,9 @@
     "novel/chapters/chapter-07.md": "e6f68b9fe7215cdf26a0a4636fab844273e86301e7d2a23f36b0c850a70671f8",
     "novel/chapters/chapter-08.md": "34c5af8643a5091ee955bb443dccb8c8efe5148667ba58a9915d7cb4c75fe6e8",
     "novel/complete-novel.md": "7496c12be7c1886c074c6926af5281754812951847a86f14c20501113a7808e9",
-    "novel/INDEX.md": "2a8d3edfd8c320edd833f1d25daddd29329a98e0e35fe9244e0174a8baa298db",
+    "novel/INDEX.md": "dd327d3a4f9ff3ca21b12e241ea27f16dcc5cb6bfce16aaa87864359abccc493",
     "novel/scene-index.json": "8e670177e3ce7968376fbb0d909f5caef2e6d646133ffc50fc70f663eadea6a3",
-    "README.md": "0793b9c09e4100436e3835457575ea873d63c064277132896acf0ddc05d96d75",
+    "README.md": "eb2a489205fca688cae85ff540f3c5a2e8df46e6fe4983a3ab47c6c45cdd05dd",
     "reference/characters/annette.md": "e99ae6c62573bc5c07d8f2c5a3aaae9ab5c17e95afcf29375059e1c353a7e215",
     "reference/characters/anton.md": "cc4231415f18b387a16633161108d4cf269ce74b1a6c638ca27eef0b130b5864",
     "reference/characters/aster-9.md": "ad6bdd1489c587a3ae7515a3765013a5111644cc0bd7e7f2201e9707a7de1449",
@@ -47,7 +47,7 @@
     "reference/characters/torvald-krenn.md": "bc0048124057dadc6ce06101ca9d39c5f7e08c205858612f00654f1150d6acc4",
     "reference/characters/varek-solan.md": "6e89d74b791922cc1405b0306049df21361f31bcc6edeedb80de54b8ddb97544",
     "reference/factions/blue-republic.md": "91e5f68a197848f380f8bae7809090c49e2d3860b9a706930e9f2e0403fdd6bd",
-    "reference/factions/directorate-of-ash.md": "4d2dce7ba8c1fcfd36319e941ca2b6970db0fe183b1c34820ccbf9ce0382a92f",
+    "reference/factions/directorate-of-ash.md": "9dcedf038fc906c66985c73a2083d5e96c4f9b64ff4540887e003624fce54c8c",
     "reference/factions/garooth-clans.md": "02f16ba221afc508b8c0844f14e55331cf28bcc93df43d0448b9651cd18fde8e",
     "reference/factions/hiigaran-restoration.md": "efa81e4b8934c3820bd7fecdadb109fc4557f8319d7dd79b715ec3ecbdca6908",
     "reference/factions/house-von-hjertstedt.md": "ab515a21342aaa1789163678ba34faebb8ebb8067195c6c702d944273e48f6f8",
@@ -122,7 +122,7 @@
     "reference/galaxy-map/galactic-atlas.md": "30c11bff04b44d26c6abc188d2692491adcbdab195846eb017154e5358baea19",
     "reference/gates-and-lanes/pluto-gate.md": "a72e8b8b16459945dfd312877a512d000872ff8f5aa31429602926984e4612b2",
     "reference/gates-and-lanes/strategic-gates-and-lanes.md": "3197c489e57ebd217bfa161604fd272d0e97210abd7821b9107c2aea20c0215e",
-    "reference/INDEX.md": "87443ab773c17f25c32ccdeffa798b12d008bcfee2af7e9c4738c82d1eb3b8e8",
+    "reference/INDEX.md": "f5dd3dbf3905e377e06b9b11b67ed9aa912702dcb94dfca1d30d397f39d3dfea",
     "reference/locations/ardent-agricultural-world.md": "423b4a8948e0a52652ede94b932e207ae87dac465f6a5b76fb4a4e9b7132a5a7",
     "reference/locations/ardent-bastion.md": "8dd126efaa787b9e2320a520302b66bf821c9eda3dda4d6f3ee676eb1771295d",
     "reference/locations/ardent-central.md": "0f5fb842ac103491dc5bdee50aabbacfb79b61d1ffb867fe46c47d03c3362bc9",
@@ -176,10 +176,14 @@
     "sources/new-ships-2026-10-10.json": "3d2b7cf11de85587df14f8a14ae6bf4620a6b4eb7cac097e760cd85fca3d5c11",
     "sources/novel-revision-map.json": "ca4c71c34cbe0018f878489fa778b862b1f5e32854795092700db8a42b399354",
     "side-stories/the-kharad-trial.md": "6622581a108e19d22f33a6e7a88eb55a4b784f3ff9b866d2ceac1b7380f298fd",
-    "side-stories/INDEX.md": "3257efdd73100fe9cb101beeaa96496834b2daed0f0bc2c4c463e25450f2fe3b",
+    "side-stories/INDEX.md": "e9054da941ef324a3367a6fbcb7ff74e02c62b73c8efcd8c2cae3876cb02ff36",
     "side-stories/scene-index.json": "cb61cecc78c2ce70a3469aa7a92fa5b1a6466246859ac413cdea8ca351dad974",
     "reference/side-stories/the-kharad-trial.md": "3918dd025e290cc8c0bdfb47433d52b90ea3b5c002f2ffacd90b60627ebd1c12",
-    "sources/kharad-trial-2026-10-26.json": "29058ea6188edf61d1d845c286bc80c861d7406d828cd7477fa2930635e0ebe8"
+    "sources/kharad-trial-2026-10-26.json": "29058ea6188edf61d1d845c286bc80c861d7406d828cd7477fa2930635e0ebe8",
+    "side-stories/the-house-that-would-not-kneel.md": "a2fdb007057ad58d64e76d9761d7bb9bc42b21e20a8bb2bc01339de7f7ee4df8",
+    "side-stories/the-house-that-would-not-kneel-scene-index.json": "f8349817e61780f357b593fd685c6935991ce79b7ce01e2609a2470d74797d8c",
+    "reference/side-stories/the-house-that-would-not-kneel.md": "da151fd9ce6a229af93bd37f60aa5eeb2947b54673d1eb0049f91da4f0a9eee7",
+    "sources/house-would-not-kneel-2026-10-27.json": "131a9f6f40e45f9575f7d3f4b3e7ea4ca71f2aed558c229494bf2d0a831aca14"
   },
   "supplemental_updates": [
     {
@@ -193,11 +197,18 @@
       "sha256": "29058ea6188edf61d1d845c286bc80c861d7406d828cd7477fa2930635e0ebe8",
       "side_stories_added": 1,
       "accepted_on": "2026-10-26"
+    },
+    {
+      "source_record": "sources/house-would-not-kneel-2026-10-27.json",
+      "sha256": "131a9f6f40e45f9575f7d3f4b3e7ea4ca71f2aed558c229494bf2d0a831aca14",
+      "side_stories_added": 1,
+      "date": "2026-10-27",
+      "continuity_status": "PROPOSED_STANDALONE"
     }
   ],
   "current_edition": "house-rivalry-2026-10-19-v01",
   "revised_on": "2026-10-19",
   "revision_metadata": "sources/house-rivalry-2026-10-19.json",
-  "side_story_count": 1,
-  "side_story_reference_count": 1
+  "side_story_count": 2,
+  "side_story_reference_count": 2
 }
