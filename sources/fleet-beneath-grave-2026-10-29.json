@@ -8,11 +8,11 @@
   "sections": 10,
   "continuity_status": "Proposed standalone continuity, not inserted into main novel.",
   "base_commit": "48efe988865f706ca6af830258d7d73384fd3876",
-  "review_note": "Scene VI assault-craft count may require clarification; source prose unchanged.",
+  "review_note": "Sections II–III leave transport docking and location unclear; Section VI assault-craft count may require clarification. Source prose unchanged.",
   "files": {
     "side-stories/the-fleet-beneath-the-grave.md": "1bcefd019202a414dc496be71bbf5e6f9a55cd81cb57de70a2085aebd986005c",
     "side-stories/the-fleet-beneath-the-grave-scene-index.json": "3e6239768309a2f4611d4da54888dff397420b355e42bf1b980207728dad640e",
-    "reference/side-stories/the-fleet-beneath-the-grave.md": "ef41e44ab0ebe79735c220b2882e736177440ce12014335ba285c4c388b6074c",
+    "reference/side-stories/the-fleet-beneath-the-grave.md": "def72230b0917a48f66afe324438082c08ca4eabcd6d509c229ac131ebfab576",
     "side-stories/INDEX.md": "b23b15c2aca1a28da1aa798647299b9f13f7518e0054c8d9f083d82487fd8d93",
     "README.md": "c7350e4380013120ace2d4e34fef33bd5f111745be505fb6d31dc10292a4d60c",
     "novel/INDEX.md": "172f6a4df9b1efa67b5cdece94b97d3433c49d1346c2f40f167c740330689e4d",
