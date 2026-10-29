@@ -18,3 +18,7 @@ Its campaigns target enemy command and transit infrastructure. Suppression, inse
 
 Prepared coordination is a strength; obedience to a failing structure is a weakness. False signals, disrupted relays and sudden reversals can expose hesitation precisely when initiative matters.
 
+
+## Proposed standalone story — 29 October 2026
+
+[The Fleet Beneath the Grave](../../reference/side-stories/the-fleet-beneath-the-grave.md) depicts a Zenith integration attempt at Kessarin. This is proposed standalone continuity and does not revise the published faction snapshot above.

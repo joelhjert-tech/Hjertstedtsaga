@@ -1,6 +1,6 @@
 # Side-story index
 
-Accepted standalone stories in the Known Reach. These are separate from the eight-chapter main novel; list order does not establish a shared timeline.
+Standalone stories in the Known Reach; continuity status is stated for each story. These are separate from the eight-chapter main novel; list order does not establish a shared timeline.
 
 ## The Kharad Trial: The Things Beneath the Ash
 
@@ -20,3 +20,9 @@ The complete main-novel file does not include this side story. Comic scripts, vi
 - Owner supplied revised edition, 27 October 2026; prepared for audiobook and cinematic illustration review.
 - **Proposed standalone continuity:** repository storage does not establish the campaign as a main-novel event. Main-novel chapters remain unchanged.
 - [Section index](the-house-that-would-not-kneel-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-house-that-would-not-kneel.md) · [Source record](../sources/house-would-not-kneel-2026-10-27.json)
+
+## The Fleet Beneath the Grave
+
+- [Complete revised story](the-fleet-beneath-the-grave.md) — The Kessarin Incident, ten sections.
+- Owner-supplied revised edition, 29 October 2026. **Proposed standalone continuity**; not inserted into the main novel.
+- [Section index](the-fleet-beneath-the-grave-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-fleet-beneath-the-grave.md) · [Source record](../sources/fleet-beneath-grave-2026-10-29.json).

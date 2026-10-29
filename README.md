@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## New revised standalone story — 29 October 2026
+
+[The Fleet Beneath the Grave](side-stories/the-fleet-beneath-the-grave.md) follows the salvage crew of the Second Chance during the Kessarin Incident. The owner-supplied revised text is preserved exactly; its events remain **proposed standalone continuity**, separate from the main novel. See the [section index](side-stories/the-fleet-beneath-the-grave-scene-index.json) and [source record](sources/fleet-beneath-grave-2026-10-29.json).
+
 ## New revised standalone story — 27 October 2026
 
 [The House That Would Not Kneel](side-stories/the-house-that-would-not-kneel.md) follows a Directorate analyst through the Cairn’s Wake campaign. Owner-supplied revised prose is retained exactly for audiobook and illustration review. Its campaign remains **proposed standalone continuity**, separate from the committed main novel. No website or comic publication follows from this sync. [Source record](sources/house-would-not-kneel-2026-10-27.json).

@@ -1,0 +1,23 @@
+{
+  "edition": "owner-supplied-revised-v01",
+  "date": "2026-10-29",
+  "source": "User-supplied pasted text attachment: Inklistrad text.txt",
+  "source_sha256": "23f37ea0b58b062195dc77f501768345cf2a222b41f35e1eb916bb1ac1b23016",
+  "export_sha256": "1bcefd019202a414dc496be71bbf5e6f9a55cd81cb57de70a2085aebd986005c",
+  "source_fidelity": "Prose and text identical; CRLF line endings normalized to LF for Git.",
+  "sections": 10,
+  "continuity_status": "Proposed standalone continuity, not inserted into main novel.",
+  "base_commit": "48efe988865f706ca6af830258d7d73384fd3876",
+  "review_note": "Scene VI assault-craft count may require clarification; source prose unchanged.",
+  "files": {
+    "side-stories/the-fleet-beneath-the-grave.md": "1bcefd019202a414dc496be71bbf5e6f9a55cd81cb57de70a2085aebd986005c",
+    "side-stories/the-fleet-beneath-the-grave-scene-index.json": "3e6239768309a2f4611d4da54888dff397420b355e42bf1b980207728dad640e",
+    "reference/side-stories/the-fleet-beneath-the-grave.md": "ef41e44ab0ebe79735c220b2882e736177440ce12014335ba285c4c388b6074c",
+    "side-stories/INDEX.md": "b23b15c2aca1a28da1aa798647299b9f13f7518e0054c8d9f083d82487fd8d93",
+    "README.md": "c7350e4380013120ace2d4e34fef33bd5f111745be505fb6d31dc10292a4d60c",
+    "novel/INDEX.md": "172f6a4df9b1efa67b5cdece94b97d3433c49d1346c2f40f167c740330689e4d",
+    "reference/INDEX.md": "10d98f83684d4f9354e26cab9774ba2b872bcf5c4bc0a525fcc9d62dccec2429",
+    "reference/factions/zenith-imperium.md": "50441ea87b35004ade33347174eae5486b00ba2f0fbf1886f58b8bca2e1624e9"
+  },
+  "website_or_comic_publication": false
+}
