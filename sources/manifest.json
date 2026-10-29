@@ -11,7 +11,7 @@
   "scene_count": 116,
   "reference_count": 145,
   "files": {
-    "AGENTS.md": "7208f80b5826aa2367ebde1b9d36c6f9d5824a3eb62b1b3783948117cdb2c299",
+    "AGENTS.md": "a7b4150df9e39388161c57e6394bf5698b0a2c0ac5fdeb0f40605d955b1c17e4",
     "guidelines/novel-github-sync-v01.md": "9a63d777b89fa4783db7052602ee1607f30932fb8b8983193a418f2263fc336a",
     "guidelines/novel-writing-guidelines.md": "e70c151f10c9c61bbed12454410929a7387472705ca995108df79566d1bf5d07",
     "novel/chapters/chapter-01.md": "e6fbe1120e616925c93610b249d58297fef06738e3cdbadc1b40a33dc5ef6af0",
@@ -25,7 +25,7 @@
     "novel/complete-novel.md": "7496c12be7c1886c074c6926af5281754812951847a86f14c20501113a7808e9",
     "novel/INDEX.md": "172f6a4df9b1efa67b5cdece94b97d3433c49d1346c2f40f167c740330689e4d",
     "novel/scene-index.json": "8e670177e3ce7968376fbb0d909f5caef2e6d646133ffc50fc70f663eadea6a3",
-    "README.md": "c7350e4380013120ace2d4e34fef33bd5f111745be505fb6d31dc10292a4d60c",
+    "README.md": "9299ca1c7851be3a4baa8164cd0d4847df3dc54ee81b01caa823eb9eb0a63ff7",
     "reference/characters/annette.md": "e99ae6c62573bc5c07d8f2c5a3aaae9ab5c17e95afcf29375059e1c353a7e215",
     "reference/characters/anton.md": "cc4231415f18b387a16633161108d4cf269ce74b1a6c638ca27eef0b130b5864",
     "reference/characters/aster-9.md": "ad6bdd1489c587a3ae7515a3765013a5111644cc0bd7e7f2201e9707a7de1449",
@@ -186,7 +186,8 @@
     "sources/house-would-not-kneel-2026-10-27.json": "131a9f6f40e45f9575f7d3f4b3e7ea4ca71f2aed558c229494bf2d0a831aca14",
     "side-stories/the-fleet-beneath-the-grave.md": "1bcefd019202a414dc496be71bbf5e6f9a55cd81cb57de70a2085aebd986005c",
     "side-stories/the-fleet-beneath-the-grave-scene-index.json": "3e6239768309a2f4611d4da54888dff397420b355e42bf1b980207728dad640e",
-    "reference/side-stories/the-fleet-beneath-the-grave.md": "def72230b0917a48f66afe324438082c08ca4eabcd6d509c229ac131ebfab576"
+    "reference/side-stories/the-fleet-beneath-the-grave.md": "def72230b0917a48f66afe324438082c08ca4eabcd6d509c229ac131ebfab576",
+    "guidelines/audiobook-narration-guideline.md": "f6bac00c1bbc96ec9ae40775ab8220ece260d30bfec587bd942dde6866fc4eea"
   },
   "supplemental_updates": [
     {

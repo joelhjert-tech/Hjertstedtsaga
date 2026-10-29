@@ -4,6 +4,8 @@ Whenever the user adds a novel story, chapter or accepted story revision, follow
 
 Read README.md and novel/INDEX.md first. Retrieve the actual chapter and scene before answering continuity questions. Use reference/INDEX.md for published character, faction, location and ship dossiers. Cite chapter, scene and file; use stable GitHub commit links when exact wording matters.
 
+For audiobook narration and samples, follow the [standing audiobook narration guideline](guidelines/audiobook-narration-guideline.md): use the specified ElevenLabs Brian voice unless the owner explicitly requests another voice.
+
 For novel drafting and authorized prose revisions, follow [the standing novel-writing guidelines](guidelines/novel-writing-guidelines.md), including distinct voices, House-wide rivalry, witnessed bottle debts, disciplined operations, restrained hospitality and remembrance. The 19 October 2026 rivalry revision excludes Chapter 01 under the owner's instruction; do not retroactively apply that editorial pass there.
 
 Respect the user's spoiler cutoff. Without a cutoff, a full-story recap may cover all eight chapters. Search names and aliases across the novel rather than assuming a dossier is complete. Distinguish explicit facts, inference and proposed new writing. A character's knowledge at a scene is not the same as the reader's later knowledge.

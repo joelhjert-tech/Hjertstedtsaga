@@ -18,6 +18,7 @@ A searchable writing reference for **Tales from the Known Reach / The Shattered 
 - [Characters, factions, locations, ships and other published lore](reference/INDEX.md)
 - [Vharok Brood — new faction README and slender ship study](reference/factions/vharok-brood/README.md)
 - [Standing novel-writing guidelines](guidelines/novel-writing-guidelines.md)
+- [Standing audiobook narration guideline](guidelines/audiobook-narration-guideline.md)
 - [Source edition and integrity manifest](sources/manifest.json)
 - [Old-to-revised chapter/scene mapping](sources/novel-revision-map.json)
 
