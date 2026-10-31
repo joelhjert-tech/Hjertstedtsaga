@@ -25,6 +25,12 @@ At Ardent, the investigation exposes fraudulent custody and Project Shepherd. Ho
 - **Brother:** Anton
 - **Affiliation:** House von Hjertstedt
 
+## Appearance — image review, 31 October 2026
+
+The current civilian identity sheet depicts Joel as bald and clean-shaven, with a slimmer build than Anton and a mechanical left forearm and hand. He wears a dark coat over a black sweater and dark trousers. His public command clothing and armour are separate states.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/joel-v04-0abae87695c1.png).
+
 ## Writing supplement — 19 October 2026
 
 The owner-directed rivalry revision adds to the website snapshot above. Joel's humor is dry and exact; he chooses a wager by understanding the terms and the people better than his opponents. In [Chapter 02, Scene 07](../../novel/chapters/chapter-02.md#7-full-combat-load) and [Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge), his private jokes coexist with Mara's authority and disabled unauthorized suit functions. A clean-capture wager is conditional on her objectives and checked logs. Keep that quiet pleasure in competition alongside his command judgment; rank never cancels his personal debts.

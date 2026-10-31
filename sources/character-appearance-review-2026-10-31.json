@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-31",
+  "purpose": "Describe the depicted appearances of all 20 GitHub character dossiers from existing project identity images.",
+  "novel_source_edition": "House rivalry revision 2026-10-19; chapters 01–08",
+  "source_evidence": "Shared library v60 migration manifest, plus 2026-09-28 website cast publication approval and Lars/Bitte approved website designs. Selection status is retained separately from website publication permission.",
+  "limitations": "These descriptions do not authorize image generation, comic reference use, production or publication. Some images show particular scenes or outfits. Local paths are evidence locations, not public GitHub links.",
+  "unresolved": [
+    "Aster-9: Chapter 08 scenes 09 and 10 specify three articulated arms; published image visibly depicts two side arms and a lower sensor cluster."
+  ],
+  "records": [
+    {
+      "character": "annette",
+      "sha256": "ab32a2f2e75f56b6aaca8ca38dcbc7a70e63b13a328d1a61e607c789957d5815",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\annette-v05-ab32a2f2e75f.png",
+      "library_file": "references/characters/annette-von-hjertstedt/annette-von-hjertstedt-v05.png",
+      "selection_status": "ACTIVE_GLOBAL",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/annette-v05-ab32a2f2e75f.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "anton",
+      "sha256": "c3aea8ff20ed1f1ea2ebd4f181c8ec918c958ae5c404f5ae2296646ed98534e8",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook\\restored-production\\assets\\library\\references\\characters\\anton\\anton-identity-v02.png",
+      "library_file": "references/characters/anton/anton-identity-v02.png",
+      "selection_status": "ACTIVE_GLOBAL",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/anton-v02-c3aea8ff20ed.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "aster-9",
+      "sha256": "d519c2c8f8a1aa26744f9463bdd89efc09f5b3e11049d199a71b8a0dcbe553c0",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\aster-9-identity-v02-d519c2c8f8a1.png",
+      "library_file": "references/characters/aster-9/aster-9-identity-v02-d519c2c8f8a1.png",
+      "selection_status": "WEBSITE_PUBLICATION_REFERENCE_ONLY",
+      "approval": "Approved for website character publication; no inferred comic admission",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/aster-9-identity-v02-d519c2c8f8a1.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "bitte",
+      "sha256": "992670081ba2f29818af8eeee93e7c35e40f291a168a946ecb54766e7831188f",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\bitte-approved-992670081ba2.png",
+      "library_file": "references/characters/bitte/bitte-approved-992670081ba2.png",
+      "selection_status": "WEBSITE_PUBLICATION_REFERENCE_ONLY",
+      "approval": "Approved for website character publication; no inferred comic admission",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/bitte-approved-992670081ba2.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "christer",
+      "sha256": "5e038ddd4209fec0511f5db458451491e0ebd72a0ada8f088c0d13f44f62c4f3",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook\\restored-production\\assets\\library\\references\\characters\\christer\\christer-v04.png",
+      "library_file": "references/characters/christer/christer-v04.png",
+      "selection_status": "ACTIVE_GLOBAL",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/christer-v04-5e038ddd4209.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "daniel",
+      "sha256": "0ed010b7815194a7e57abd1dcdb7b3f2c34fd4ff2362791446e8580e4c17770a",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook\\restored-production\\assets\\library\\references\\characters\\daniel\\daniel-v02.png",
+      "library_file": "references/characters/daniel/daniel-v02.png",
+      "selection_status": "ACTIVE_GLOBAL",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/daniel-v02-0ed010b78151.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "dax-corven",
+      "sha256": "80471ea50d951ac7faf848bb26d2dc0cac73f043da8d115f1f30feeff555c00e",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\dax-corven-v01-80471ea50d95.png",
+      "library_file": "references/characters/dax/dax-corven-v01.png",
+      "selection_status": "BLOCKED_PENDING",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/dax-corven-v01-80471ea50d95.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "dennis-rask",
+      "sha256": "09c47c723619f3f86bf4c27419b7a225a41da85850636c86d04670ebcbdeb5a2",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\dennis-rask-identity-v01-09c47c723619.png",
+      "library_file": "references/characters/dennis-rask/dennis-rask-identity-v01-09c47c723619.png",
+      "selection_status": "WEBSITE_PUBLICATION_REFERENCE_ONLY",
+      "approval": "Approved for website character publication; no inferred comic admission",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/dennis-rask-identity-v01-09c47c723619.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "elara-vos",
+      "sha256": "7747fa8cf4c99401a013a4d7a3bbce4279372c7975d23fbda0f8aae1facf4d6d",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\elara-vos-identity-v01-7747fa8cf4c9.png",
+      "library_file": "references/characters/elara-vos/elara-vos-identity-v01-7747fa8cf4c9.png",
+      "selection_status": "WEBSITE_PUBLICATION_REFERENCE_ONLY",
+      "approval": "Approved for website character publication; no inferred comic admission",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/elara-vos-identity-v01-7747fa8cf4c9.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "garran-holt",
+      "sha256": "60e8fee263b9d24790f92b22b4f891e7b3dbae62b4cd6dae5ec4cd2ff003a605",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\garran-holt-v01-60e8fee263b9.png",
+      "library_file": "references/characters/garran-holt/garran-holt-v01.png",
+      "selection_status": "BLOCKED_PENDING",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/garran-holt-v01-60e8fee263b9.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "halden-rook",
+      "sha256": "e4d3a8fb33266cd33b45e5837b1d3044390cd0e197a9896f56e5190c98951962",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\halden-rook-v01-e4d3a8fb3326.png",
+      "library_file": "references/characters/halden-rook/halden-rook-v01.png",
+      "selection_status": "BLOCKED_PENDING",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/halden-rook-v01-e4d3a8fb3326.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "joel",
+      "sha256": "0abae87695c15157998d39e77ef40466782e2c00241904309c512e605a55eb29",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook\\restored-production\\assets\\library\\references\\characters\\joel\\joel-v04.png",
+      "library_file": "references/characters/joel/joel-v04.png",
+      "selection_status": "ACTIVE_GLOBAL",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/joel-v04-0abae87695c1.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "lars",
+      "sha256": "5e13df0c813355687ae0e48ab975df94a3ead299d07a7f5c115ec8467db7dfdf",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\lars-approved-5e13df0c8133.png",
+      "library_file": "references/characters/lars/lars-approved-5e13df0c8133.png",
+      "selection_status": "WEBSITE_PUBLICATION_REFERENCE_ONLY",
+      "approval": "Approved for website character publication; no inferred comic admission",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/lars-approved-5e13df0c8133.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "mara-vale",
+      "sha256": "0a53a57c50b6ce49a76b00a6bc6b01683e29d82a61e5c486198552876c42cc5f",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\mara-vale-v01-0a53a57c50b6.png",
+      "library_file": "references/characters/mara/mara-vale-v01.png",
+      "selection_status": "ACTIVE_SCOPED",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/mara-vale-v01-0a53a57c50b6.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "marek-soren",
+      "sha256": "f41152e3d2cb974597271e08000e340ba3d969e5fc85716134b8689bb8947a58",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\marek-soren-v01-f41152e3d2cb.png",
+      "library_file": "references/characters/marek-soren/marek-soren-v01.png",
+      "selection_status": "BLOCKED_PENDING",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/marek-soren-v01-f41152e3d2cb.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "ortheva-sair",
+      "sha256": "28a80b05515e135dfa6a95936cb4b6d9b88a540119c560a82370e665f815d8d1",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\ortheva-sair-identity-v01-28a80b05515e.png",
+      "library_file": "references/characters/ortheva-sair/ortheva-sair-identity-v01-28a80b05515e.png",
+      "selection_status": "WEBSITE_PUBLICATION_REFERENCE_ONLY",
+      "approval": "Approved for website character publication; no inferred comic admission",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/ortheva-sair-identity-v01-28a80b05515e.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "sael-vareth",
+      "sha256": "6f9472a20ca02da0576a73c28cca534da884a1a3d6dba80e975ef26d4d4db047",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\sael-vareth-identity-v01-6f9472a20ca0.png",
+      "library_file": "references/characters/sael-vareth/sael-vareth-identity-v01-6f9472a20ca0.png",
+      "selection_status": "WEBSITE_PUBLICATION_REFERENCE_ONLY",
+      "approval": "Approved for website character publication; no inferred comic admission",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/sael-vareth-identity-v01-6f9472a20ca0.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "sera-venn",
+      "sha256": "6ca5eb4323950ecdb6c305778e8a0be0779d3d3d1e3db2f872771eb2e4f3e96c",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook\\restored-production\\assets\\library\\references\\characters\\sera-venn\\sera-venn-v01.png",
+      "library_file": "references/characters/sera-venn/sera-venn-v01.png",
+      "selection_status": "ACTIVE_SCOPED",
+      "approval": "APPROVED",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/sera-venn-v01-6ca5eb432395.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "torvald-krenn",
+      "sha256": "26d131463d41ae1fc10bcc558b63b447ddeb3abf5632887e3838afcf4ad0c97a",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\torvald-krenn-identity-v01-26d131463d41.png",
+      "library_file": "references/characters/torvald-krenn/torvald-krenn-identity-v01-26d131463d41.png",
+      "selection_status": "WEBSITE_PUBLICATION_REFERENCE_ONLY",
+      "approval": "Approved for website character publication; no inferred comic admission",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/torvald-krenn-identity-v01-26d131463d41.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    },
+    {
+      "character": "varek-solan",
+      "sha256": "d6ad34c01184e9c930f692c44910906932754b9f863653f9a495973d9623ab1b",
+      "original_reviewed_file": "C:\\Users\\Joel_\\Documents\\ChatGPT\\Comicbook - v2 - from JOELSPEL\\known-reach-web\\public\\media\\characters\\varek-solan-identity-v01-d6ad34c01184.png",
+      "library_file": "references/characters/varek-solan/varek-solan-identity-v01-d6ad34c01184.png",
+      "selection_status": "WEBSITE_PUBLICATION_REFERENCE_ONLY",
+      "approval": "Approved for website character publication; no inferred comic admission",
+      "website_image": "https://tales-from-the-known-reach.pages.dev/media/characters/varek-solan-identity-v01-d6ad34c01184.png",
+      "scope": "Appearance evidence for depicted state; production selection and admission remain governed by existing records."
+    }
+  ]
+}

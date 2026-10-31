@@ -23,3 +23,9 @@ Directorate forces: obstruction and then attack on the recovery operation.
 - **Affiliation:** House von Hjertstedt
 - **Role:** Master Mechanist and fleet-recovery specialist
 - **Also known as:** Master Mechanist Torvald Krenn
+
+## Appearance — image review, 31 October 2026
+
+The published sheet depicts a grey-haired, grey-bearded man with an elaborate mechanical left eye and several tool-bearing mechanical arms mounted behind his shoulders. He wears a dark metal chest harness over red and black working clothes.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/torvald-krenn-identity-v01-26d131463d41.png).

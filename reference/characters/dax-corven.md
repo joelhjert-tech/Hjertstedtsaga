@@ -22,3 +22,9 @@ Joel and Anton: encountered as passengers before their House identities become k
 
 - **Affiliation:** Sera Venn’s mercenary crew / Kestrel
 - **Role:** Gunner of the Wayward Star
+
+## Appearance — image review, 31 October 2026
+
+The published sheet depicts a muscular, dark-skinned man with close-cropped dark hair, facial scarring and a mechanical left arm. He wears dark practical layers, a sleeveless utility vest, cargo trousers and heavy boots.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/dax-corven-v01-80471ea50d95.png).

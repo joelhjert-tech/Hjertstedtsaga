@@ -23,3 +23,9 @@ Varek and Aster-9: people her ship helps under mounting pursuit.
 - **Affiliation:** Kestrel proving-ground programme
 - **Role:** Captain of ISS Wayfarer’s Debt
 - **Also known as:** Captain Elara
+
+## Appearance — image review, 31 October 2026
+
+The published sheet depicts a brown-skinned woman with dark curly hair gathered back, a scar along her left cheek, and a weathered long grey coat over dark working clothes and boots.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/elara-vos-identity-v01-7747fa8cf4c9.png).

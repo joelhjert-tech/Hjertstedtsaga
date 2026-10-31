@@ -22,6 +22,12 @@ Lars and Bitte von Hjertstedt share a formal visual language of dark armor and c
 - **Spouse:** Bitte von Hjertstedt
 - **Appearance:** Formal armor and crimson mantle
 
+## Appearance — image review, 31 October 2026
+
+The formal sheet shows Lars bald, wearing glasses, with cybernetic work along his left temple, cheek and neck. His black high-collared armour carries ornate aged-gold detailing, chains and a deep crimson mantle.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/lars-approved-5e13df0c8133.png).
+
 ## Writing supplement — 19 October 2026
 
 The owner-directed rivalry revision supplements the background and appearance snapshot above with novel characterization. Lars's authority comes with a veteran's eye for the better objective and a devastating economy of words. His reserve authorization in [Chapter 03, Scene 07](../../novel/chapters/chapter-03.md#7-the-maniacs-of-the-grey-nomad) remembers Rydell's old debt. In [Chapter 05, Scene 01](../../novel/chapters/chapter-05.md#1-what-victory-leaves-behind), he makes sure Joel's personal prize reaches Dennis. In [Chapter 08, Scene 15](../../novel/chapters/chapter-08.md#15-when-the-primarch-arrived), he humbles Anton's breach claim while maintaining the existing no-pursuit order.

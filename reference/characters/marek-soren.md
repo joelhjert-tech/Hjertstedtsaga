@@ -23,3 +23,9 @@ House investigators: recipients of evidence, not automatic believers in his clai
 - **Affiliation:** Former Vardos Coalition; in custody
 - **Role:** Former Acting Director of Vardos Coalition intelligence
 - **Also known as:** Soren
+
+## Appearance — image review, 31 October 2026
+
+The published custody sheet depicts a slim, clean-shaven man with short dark hair greying at the temples. He wears a plain dark high-necked outfit, a restraint collar and linked wrist restraints; these are custody-specific details.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/marek-soren-v01-f41152e3d2cb.png).

@@ -20,6 +20,12 @@ His short brown hair, light stubble and sturdy build distinguish him from Christ
 - **Covert alias:** Dan Ward
 - **Ship:** Grey Nomad
 
+## Appearance — image review, 31 October 2026
+
+The current identity sheet shows short brown hair, light stubble and a sturdy build. His House outfit is a long black high-collared coat with fine crimson piping, dark underlayers, gloves and boots. Covert work uses separate practical clothing.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/daniel-v02-0ed010b78151.png).
+
 ## Writing supplement — 19 October 2026
 
 The owner-directed rivalry revision adds to the website snapshot above. Daniel competes through engineering, system access and measurements, with understated sarcasm rather than loud claims. The [Chapter 02, Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge) argument over command access carries into the independently checked coolant-and-gun challenge in [Chapter 06, Scene 03](../../novel/chapters/chapter-06.md#3-the-rust-bucket). Anton arranges transfer of the eastern bottle while continuing to reject the original interpretation. Daniel's technical pride never makes prisoners, maintenance limits or casualty care secondary.

@@ -22,3 +22,9 @@ Joel and the evidence team: recipients who must verify its testimony.
 
 - **Affiliation:** Seraph; later under House guard
 - **Role:** Seraph interpreter and captured witness
+
+## Appearance — image review, 31 October 2026
+
+The published sheet depicts a slender, pale grey-skinned, hairless figure with large dark eyes and a smooth face. Its fitted dark attire has gold-toned structural details, with cable-like forms extending down the back of the neck. This is the depicted identity-sheet outfit.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/sael-vareth-identity-v01-6f9472a20ca0.png).

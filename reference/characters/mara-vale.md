@@ -25,3 +25,9 @@ Elara Vos: another captain involved in the smaller-ship programme.
 - **Affiliation:** Independent mercenary command
 - **Role:** Captain of the Resolute Dawn
 - **Also known as:** Captain Mara, Captain Vale
+
+## Appearance — image review, 31 October 2026
+
+The published sheet depicts a mature woman with very short silver-grey hair and a lined face. She wears a weathered dark green-grey long coat over dark practical clothing, with boots and a holstered sidearm. The coat is a depicted outfit, not a requirement for every scene.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/mara-vale-v01-0a53a57c50b6.png).

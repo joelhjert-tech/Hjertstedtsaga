@@ -23,3 +23,9 @@ Talyrn Continuance: her primary responsibility and source of authority.
 - **Affiliation:** Talyrn Continuance
 - **Role:** Veyr-Khal of the Talyrn Continuance
 - **Also known as:** Veyr-Khal Ortheva Sair
+
+## Appearance — image review, 31 October 2026
+
+The published sheet depicts a mature, brown-skinned woman with short grey hair, a scar across the right side of her face and a pale right eye. Her hands are scarred; she wears a muted blue-grey layered long coat with dark underclothes, structured shoulders and bracers.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/ortheva-sair-identity-v01-28a80b05515e.png).

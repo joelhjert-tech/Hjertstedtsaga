@@ -23,3 +23,9 @@ Torvald Krenn: an engineering counterpart who takes its achievement seriously.
 - **Affiliation:** Saint Varos
 - **Role:** Custodian Intelligence Unit of Saint Varos
 - **Also known as:** Custodian Intelligence Unit Aster-9
+
+## Appearance — image review, 31 October 2026
+
+The published sheet shows a weathered metallic sphere with a narrow blue-lit band, two visible articulated side arms, a delicate manipulator, a heavier claw and a blue-lit assembly beneath the body. **Continuity discrepancy:** [Chapter 08, Scene 09](../../novel/chapters/chapter-08.md#9-the-orb-in-section-nineteen) describes three articulated arms, including a sensor assembly, and [Scene 10](../../novel/chapters/chapter-08.md#10-the-saint-varos-wakes) again refers to three. The image shows two side arms and a lower sensor cluster; it does not establish whether that cluster is the third arm. Preserve the novel wording pending an editorial or art decision.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/aster-9-identity-v02-d519c2c8f8a1.png).

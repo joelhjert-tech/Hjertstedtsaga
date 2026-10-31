@@ -21,3 +21,9 @@ Her ceremonial clothing shares Lars von Hjertstedt’s restrained black, crimson
 - **Affiliation:** House von Hjertstedt
 - **Spouse:** Lars von Hjertstedt
 - **Appearance:** Formal armor and crimson mantle
+
+## Appearance — image review, 31 October 2026
+
+The formal sheet shows a blonde bob with fringe, dark rectangular glasses and right-side temple, cheek and neck cybernetics. Her black high-collared ceremonial armour has gold-toned ornament and chains, a layered skirt and a deep crimson mantle.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/bitte-approved-992670081ba2.png).

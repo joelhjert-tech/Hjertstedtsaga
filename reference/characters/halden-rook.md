@@ -23,3 +23,9 @@ Dax: fellow defender; neither replaces the other’s command role.
 - **Affiliation:** Former Vardos Sector Army / Kestrel
 - **Role:** Commander of Kestrel’s surviving garrison
 - **Also known as:** Commander Rook
+
+## Appearance — image review, 31 October 2026
+
+The published sheet depicts an older man with short white hair, a heavily lined face, scarring and a mechanical left eye. His garrison equipment is worn dark armour with a utility belt and boots; the sheet includes helmeted and unhelmeted views.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/halden-rook-v01-e4d3a8fb3326.png).

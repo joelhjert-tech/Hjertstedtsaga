@@ -24,6 +24,12 @@ Annette and Sael-Vareth: prisoner protection constrains a Hunter’s response.
 - **Role:** Seraph Hunter commander
 - **Also known as:** Commander Dennis Rask, Dennis
 
+## Appearance — image review, 31 October 2026
+
+His published sheet depicts a helmeted figure in exceptionally broad, battle-worn dark armour with aged metallic trim, skull ornament, red lights and a torn crimson tabard. It shows a sword and a large arm-mounted weapon. The helmet conceals his face; the novel separately mentions facial scars.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/dennis-rask-identity-v01-09c47c723619.png).
+
 ## Writing supplement — 19 October 2026
 
 The owner-directed rivalry revision adds to the website snapshot above. Dennis's humor remains blunt and dark, rooted in a hunter's experience. In [Chapter 04](../../novel/chapters/chapter-04.md#3-dennis-has-arrived), he challenges Daniel within the requirement to preserve necessary machinery. His existing command-ship victory is unchanged. [Chapter 05, Scene 01](../../novel/chapters/chapter-05.md#1-what-victory-leaves-behind) records receipt of Joel's Bjorn-made bottle; Dennis leaves it sealed while his people remain in surgery and recovery work continues. Bjorn's personal stock is a separate stake in [Chapter 07, Scene 09](../../novel/chapters/chapter-07.md#9-the-wardens-of-vintergard).

@@ -20,6 +20,12 @@ His broad frame, swept-back brown hair and full dark beard give him a distinctiv
 - **Covert alias:** Chris Heron
 - **Ship:** Grey Nomad
 
+## Appearance — image review, 31 October 2026
+
+The current identity sheet shows a broad-built man with swept-back brown hair gathered at the back and a full dark beard. His House outfit is a long black high-collared coat with fine crimson edging over dark clothing, bracers and boots. His contractor disguise is a separate state.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/christer-v04-5e038ddd4209.png).
+
 ## Writing supplement — 19 October 2026
 
 The owner-directed rivalry revision adds to the website snapshot above. Christer's humor is deadpan, observant and well timed. He witnesses the clean-capture wager in [Chapter 02, Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge) and later calls Anton's dispute the debtor's objection in [Chapter 06, Scene 03](../../novel/chapters/chapter-06.md#3-the-rust-bucket). He enjoys the competition, notices the condition others missed and supports the team once orders arrive. Avoid giving him Anton's constant volume or Joel's exact manner of command.

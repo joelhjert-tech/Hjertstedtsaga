@@ -25,3 +25,9 @@ Joel: provides protection while maintaining investigation and access restriction
 - **Affiliation:** Former Directorate of Ash / Calder Reach defender
 - **Role:** Dispossessed Directorate commander
 - **Also known as:** Varek Hale, Commander Solan
+
+## Appearance — image review, 31 October 2026
+
+The published sheet depicts a lean, clean-shaven man with short dark hair greying at the temples and a lined face. He wears a weathered grey jacket over dark practical clothing and cargo trousers, with a holstered sidearm.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/varek-solan-identity-v01-d6ad34c01184.png).

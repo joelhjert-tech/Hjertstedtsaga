@@ -25,6 +25,12 @@ At Ardent, the investigation exposes fraudulent custody and Project Shepherd. Ho
 - **Brother:** Joel
 - **Affiliation:** House von Hjertstedt
 
+## Appearance — image review, 31 October 2026
+
+The civilian identity sheet depicts Anton as bald and broad-built, with a full reddish-brown beard. He wears a dark knee-length coat over a rust-coloured shirt, dark trousers and sturdy boots. His breach equipment and armour change with the mission.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/anton-v02-c3aea8ff20ed.png).
+
 ## Writing supplement — 19 October 2026
 
 The owner-directed rivalry revision adds to the website snapshot above. Anton provokes, boasts and insists that a breach deserves its own credit. The [Chapter 02, Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge) eastern-reserve wager leaves him disputing Daniel's claim, while explicitly accepting the captain's mission objectives. His loudness is personal, not a license to ignore orders. Future dialogue may carry such debts forward, but must preserve his practiced teamwork and willingness to pay.

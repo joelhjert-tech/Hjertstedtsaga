@@ -22,3 +22,9 @@ Formal House affiliation comes after the battle, through voluntary acceptance. K
 - **Affiliation:** Voluntary House protection
 - **Principle:** Protection includes non-signers
 - **First appearance:** Chapter 01 · Opening
+
+## Appearance — image review, 31 October 2026
+
+The Chapter 01 identity sheet shows dark hair gathered into a loose bun, a worn face and a dark, weathered long coat over practical layers, cargo trousers and boots. The visible coat damage belongs to that early story state; Chapter 02 has its own clean station-command coat.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/sera-venn-v01-6ca5eb432395.png).

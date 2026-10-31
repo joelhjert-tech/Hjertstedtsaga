@@ -23,3 +23,9 @@ Joel and Anton: observers and participants who test the delivery’s legitimacy.
 - **Affiliation:** Independent contractor
 - **Role:** Bounty hunter and warrant carrier
 - **Also known as:** Holt
+
+## Appearance — image review, 31 October 2026
+
+The published sheet depicts a lean, weathered man with short dark hair greying at the temples and a dark mechanical eyepiece over his right eye. He wears a long dark coat over protective layers, gloves and boots; a long gun is slung on his back.
+
+Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/garran-holt-v01-60e8fee263b9.png).
