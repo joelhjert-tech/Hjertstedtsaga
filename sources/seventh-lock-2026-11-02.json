@@ -1,0 +1,17 @@
+{
+  "edition": "owner-directed-combination-of-shortened-story-and-revised-ending-v01",
+  "date": "2026-11-02",
+  "source_chat": "https://chatgpt.com/g/g-p-699ff68534cc8191b2323d349a9b3c05-saga/c/6adf209f-f18c-83eb-a707-fa135081e1b6",
+  "authorization": "Combine the shortened story with the revised ending where all five Zenith ships follow Aurum through the gate, then update GitHub.",
+  "continuity_status": "Standalone story; placement in main novel continuity remains proposed.",
+  "source_sha256": {
+    "shortened_edition_utf8": "83739547fccc4e6174ee64c87aa6cdf565f834372bd90b85baf5ae6038c8d126",
+    "revised_ending_prefix_utf8": "d444f71e2ce571d8da71b085d4a7ba85d37e04d2bfd34c752ae0c827f50347d8",
+    "revised_ending_browser_snapshot_utf8": "6d7c4e723047f6b0da76b4377bd95ba7b2c6dc37b2fabb73d8ef00c67b56aaa2"
+  },
+  "source_fidelity": "Opening preserved to the gate crossing apart from the edition label; latest ending preserved from the source Markdown prefix and rendered-page text thereafter. Scene headings renumbered IV–VIII to V–IX; final table reconstructed. Rendered-page recovery does not retain all original emphasis or scene-break formatting.",
+  "assembly": "The shortened edition ends after “The stars vanished.” The revised ending begins “The stars returned.” Its superseded version of events, in which the Zenith fleet remained behind, is excluded.",
+  "story_sha256": "3b83587d0caf002018741ebd45cb04510230bf346ac490b4c8c698a79379d607",
+  "sections": 9,
+  "website_or_comic_publication": false
+}

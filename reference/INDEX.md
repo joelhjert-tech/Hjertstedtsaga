@@ -166,3 +166,5 @@ The original website snapshots retain their source attributions. Six character d
 - [The House That Would Not Kneel](side-stories/the-house-that-would-not-kneel.md) — owner-supplied revised story; full spoilers; not automatic main-novel canon.
 
 - [The Fleet Beneath the Grave](side-stories/the-fleet-beneath-the-grave.md) — owner-supplied revised story; full spoilers; proposed standalone continuity.
+
+- [The Seventh Lock](side-stories/the-seventh-lock.md) — owner-directed combined edition; full spoilers; proposed standalone continuity.

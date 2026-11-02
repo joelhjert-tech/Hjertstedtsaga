@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## New combined standalone story — 2 November 2026
+
+[The Seventh Lock: The Dead of Aurum](side-stories/the-seventh-lock.md) combines the shortened story with the revised Merien ending at the owner's direction. The worldship *Aurum* and all five pursuing Zenith vessels reach a House naval yard. Its main-novel placement remains **proposed standalone continuity**. See the [source and assembly record](sources/seventh-lock-2026-11-02.json) and [story reference](reference/side-stories/the-seventh-lock.md).
+
 ## New revised standalone story — 29 October 2026
 
 [The Fleet Beneath the Grave](side-stories/the-fleet-beneath-the-grave.md) follows the salvage crew of the Second Chance during the Kessarin Incident. The owner-supplied revised text is preserved exactly; its events remain **proposed standalone continuity**, separate from the main novel. See the [section index](side-stories/the-fleet-beneath-the-grave-scene-index.json) and [source record](sources/fleet-beneath-grave-2026-10-29.json).

@@ -150,3 +150,5 @@ Current repository edition: **House rivalry revision — 19 October 2026**. Chap
 - [The House That Would Not Kneel](../side-stories/the-house-that-would-not-kneel.md) — revised standalone story, proposed main-saga continuity only.
 
 - [The Fleet Beneath the Grave](../side-stories/the-fleet-beneath-the-grave.md) — revised standalone story, proposed continuity only; ten sections.
+
+- [The Seventh Lock: The Dead of Aurum](../side-stories/the-seventh-lock.md) — combined standalone story; proposed main-saga placement; nine sections.
