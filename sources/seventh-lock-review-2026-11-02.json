@@ -1,0 +1,28 @@
+{
+  "edition": "owner-requested-review-and-prose-revision-2026-11-02",
+  "date": "2026-11-02",
+  "authorization": "review the story and improve",
+  "source_edition_commit": "524ebed313063085efcc5d8e19aee60eda154e62",
+  "source_file": "side-stories/the-seventh-lock.md",
+  "source_sha256": "3b83587d0caf002018741ebd45cb04510230bf346ac490b4c8c698a79379d607",
+  "output_sha256": "3e49756b3319d57d2c1836843a2f74cfdec1d601ebe16cd32b57866f095d1a04",
+  "scope": "Prose review of the combined standalone story; main-novel placement remains proposed.",
+  "revision_notes": [
+    "Added Nemi before her death and returned to her in the closing remembrance; added a personal memory of Halen.",
+    "Gave Vorin a reason for silence and Ithrel an explicit commitment to preserve the evidence.",
+    "Clarified Ithrel approves the gate-safety limit, why the passage cannot close while Aurum is inside, and May sustains her wrist injury.",
+    "Showed local defensive orders before Joel responds, Pale Watch interposing, another Vigil intercepting the second missile salvo, and surviving hostile fire before the second escort is destroyed.",
+    "Clarified that 31 were initially confirmed dead and 48 initially detected alive, with further deaths before recovery; final total remains unquantified.",
+    "Retained the source counts of carrier craft and 28 launch contacts, identified the latter as not all classified, and flagged the uncertain relationship for editorial review.",
+    "Clarified prisoner treatment and independent investigation; shortened repeated victory statements and shifted the final scene toward remembrance."
+  ],
+  "major_outcomes_preserved": [
+    "Aurum survives and reaches Merien",
+    "all five pursuing Zenith hulls are destroyed following Joel’s order",
+    "Pale Watch is lost protecting Aurum",
+    "survivors are recovered",
+    "Oren records enter civilian investigation"
+  ],
+  "previous_source_record": "sources/seventh-lock-2026-11-02.json",
+  "website_or_comic_publication": false
+}

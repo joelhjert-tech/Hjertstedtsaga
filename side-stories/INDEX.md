@@ -30,5 +30,5 @@ The complete main-novel file does not include this side story. Comic scripts, vi
 ## The Seventh Lock: The Dead of Aurum
 
 - [Combined story](the-seventh-lock.md) — nine sections, from the Vault of Silence to Merien.
-- Owner-directed combination of the shortened story and latest revised ending, 2 November 2026. **Proposed standalone continuity**; placement relative to the main novel is not established.
-- [Section index](the-seventh-lock-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-seventh-lock.md) · [Source and assembly record](../sources/seventh-lock-2026-11-02.json).
+- Owner-directed combination and subsequent prose review, 2 November 2026. **Proposed standalone continuity**; placement relative to the main novel is not established.
+- [Section index](the-seventh-lock-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-seventh-lock.md) · [Revision record](../sources/seventh-lock-review-2026-11-02.json) · [Original assembly record](../sources/seventh-lock-2026-11-02.json).

@@ -2,7 +2,7 @@
 
 ## The Dead of Aurum
 
-*A Hjertstedt Saga Side Story — Combined Edition*
+*A Hjertstedt Saga Side Story — Revised Combined Edition*
 
 ### I. The Forbidden Door
 
@@ -13,6 +13,8 @@ Now it was the only thing that might save them.
 The worldship *Aurum* drifted toward the ancient Lanth Spur Gate, forty-three kilometers of wounded machinery carrying 286,117 people.
 
 Its six habitation cylinders contained entire cities. Forests grew beneath artificial skies. Children attended schools. Families worked in factories and agricultural districts.
+
+In Cylinder Three, a girl named Nemi Vareth was supposed to be at school. The classroom had become a shelter, so her mother had taken her home to collect a blanket and the small carved animal she kept beside her bed.
 
 And outside, the Zenith Imperium was closing.
 
@@ -90,6 +92,8 @@ He died before Rosa could reach him.
 
 Tom severed the turret's power feed while May disabled the remaining security circuits.
 
+May held the circuit open until the last charge drained. When she let go, her hands were shaking. Rosa checked the guard's pulse once more, although she already knew.
+
 The team descended into the vault carrying the memory of a man whose name they had not even learned.
 
 At the bottom stood a compact transit governor surrounded by silver-gray rings.
@@ -146,6 +150,10 @@ Ithrel stared at him.
 
 "Yes."
 
+Vorin kept his eyes on the floor. "I told myself the people who gave the order knew more than I did. Afterward, I told myself there was no point in speaking."
+
+Ithrel looked at the old officer. "There is a point now. Preserve every record. When we are safe, you will answer for what you knew."
+
 Rosa looked toward the ancient governor.
 
 "Can you still control a gate?"
@@ -183,6 +191,8 @@ The resulting pressure surge tore through a residential corridor.
 Six-year-old Nemi Vareth was trapped behind a closing bulkhead as water filled the compartment.
 
 Her mother reached the opposite side.
+
+The blanket had fallen between them. Nemi still held the carved animal.
 
 Through the small inspection window, she watched her daughter struggle.
 
@@ -426,6 +436,8 @@ Then disconnected the ancient bypass.
 
 "Sael. We use only power available aboard *Aurum*\. If Merien cannot support us, abort."
 
+She sent the same instruction to Ithrel with the projected risk. The captain acknowledged it. Neither woman knew who might be living at the receiving gate.
+
 "That may result in the loss of the worldship."
 
 "I know."
@@ -455,6 +467,8 @@ The final isolation system locked into place.
 Zenith boarding troops reached the vault's outer pressure door.
 
 Cutting charges began burning through the reinforced metal.
+
+The first blast threw May against a console. Pain shot through her wrist, but the receiver display was still live. She braced the injured hand against her chest and kept working with the other.
 
 Tom secured the inner barrier.
 
@@ -539,6 +553,8 @@ Blue-white light traveled along its massive circumference.
 A controlled transit field formed between Lanth Spur and Merien.
 
 The worldship entered.
+
+Behind it, the pursuing ships accelerated toward the open field. Sael warned the bridge that closing the passage during *Aurum's* crossing could tear the worldship apart. Ithrel ordered the approach recorded; she could not safely close the gate yet.
 
 At that moment, the Zenith suppression cruiser fired one final disabling shot.
 
@@ -886,7 +902,11 @@ Emergency lights filled Merien's central tactical display.
 
 Sved watched the damage report.
 
-Then activated her secured strategic command link.
+"Defensive fire is authorized," she told the station commanders. "Protect the worldship and our people. Keep your targets clear of the inhabited hull."
+
+Point-defense crews engaged incoming weapons while tugs worked to move *Aurum* out of the firing lanes. Her crews did not wait for a distant commander's reply to defend themselves.
+
+Sved activated her secured strategic command link and sent the attack record and current positions to the High Marshal.
 
 The transmission moved through the House's authenticated military network.
 
@@ -1148,6 +1168,8 @@ Two lost guidance.
 
 One remained.
 
+Toren put the frigate across its path.
+
 The missile struck the frigate's engineering compartment.
 
 An explosion tore through its aft armor.
@@ -1198,6 +1220,8 @@ Toren watched the missiles accelerate.
 
 The frigate fired.
 
+Its guns caught the leading missiles. A second Vigil, already closing to reinforce the screen, intercepted the rest before they reached *Aurum*.
+
 Then a heavy Zenith shot struck its already damaged engineering section.
 
 The reactor containment system failed.
@@ -1216,11 +1240,7 @@ Then the signal stopped.
 
 HVS *Pale Watch* broke apart.
 
-Thirty-one House personnel died.
-
-Forty-eight survived in escape pods or intact compartments.
-
-Some of those survivors would die before recovery teams could reach them.
+Thirty-one House personnel were confirmed dead in the breakup. Forty-eight were initially detected alive in escape pods or intact compartments. The recovery teams would not reach all of them in time.
 
 The Zenith escort continued toward *Aurum*\.
 
@@ -1280,6 +1300,8 @@ Its captain ordered emergency thrust.
 
 The surviving engines fired.
 
+The escort's remaining weapons came online, turning toward a crowded repair frame. Its commander had not answered the House challenge and was still firing as the destroyer tried to stop it.
+
 Then a shadow passed across the ship's tactical display.
 
 The dreadnought had adjusted its firing solution.
@@ -1320,7 +1342,7 @@ Captain Nyholm watched them disperse.
 
 "Carrier committing its reserves."
 
-"Twenty-eight launch contacts."
+"Twenty-eight launch contacts. Too close together to classify them all yet."
 
 "Point defense?"
 
@@ -1766,9 +1788,9 @@ The House did not abandon those who could still be saved.
 
 Its own wounded were recovered alongside enemy personnel.
 
-The surviving Zenith boarding troops aboard Aurum were disarmed and detained after their external command network failed.
+The surviving Zenith boarding troops aboard *Aurum* were disarmed and detained after their external command network failed.
 
-Their prisoners included technicians, soldiers, and officers who had followed the integration campaign into a war they had not expected to lose.
+The detainees included technicians, soldiers and officers from the integration campaign. House medics treated their wounded under guard.
 
 The surviving Nharavi watched them being transferred under House guard.
 
@@ -1778,15 +1800,19 @@ Captain Ithrel refused to permit executions.
 
 She had seen enough people die.
 
-Three days later, Rosa Danner stood in Merien's military hospital.
+Three days later, Rosa Danner stood in Merien's military hospital, holding a paper list of the people still missing from her section.
 
 Tom's burned arm was receiving specialist treatment.
 
 May's damaged wrist had been immobilized.
 
+"They found Halen," May said. "Medical kept the oxygen on because of him. Ninety-three patients."
+
+Rosa folded the list carefully. She had known Halen only as the technician who complained whenever someone left a tool on his clean floor. She wished she had asked him about something else.
+
 Elder Vorin had requested an independent hearing concerning the Oren disaster.
 
-Sael remained aboard Aurum, its transit functions disconnected pending a complete safety investigation.
+Sael remained aboard *Aurum*, its transit functions disconnected pending a complete safety investigation.
 
 The worldship was undergoing emergency repairs.
 
@@ -1800,7 +1826,7 @@ Entire districts remained sealed.
 
 But for the first time since Saerith fell, the Nharavi had somewhere they could begin repairing their civilization without enemy weapons firing at them.
 
-Captain Ithrel met Commodore Sved beside the memorial being prepared for Pale Watch.
+Captain Ithrel met Commodore Sved beside the memorial being prepared for *Pale Watch*.
 
 The names of the dead were already being entered.
 
@@ -1842,6 +1868,8 @@ There was no victory great enough to erase what had happened.
 
 Only the responsibility to remember.
 
+Ithrel asked for permission to bring her people to the memorial when the names were complete. Sved agreed. Then a recovery officer approached with a revised casualty report, and the two captains made room for him at the table.
+
 Six months later, the enormous worldship still rested inside Merien's industrial anchorage.
 
 House engineers had stabilized its propulsion systems.
@@ -1850,7 +1878,7 @@ The agricultural cylinders had returned to normal operation.
 
 Medical personnel continued treating the injured.
 
-The recovered archives from Oren had been placed under Nharavi civilian authority for an independent investigation.
+The recovered archives from Oren had been placed under Nharavi civilian authority for an independent investigation. Vorin's testimony was part of the record, not the end of the inquiry.
 
 The Seventh Lock remained open.
 
@@ -1870,7 +1898,7 @@ Outside, the battle wrecks had been removed from the immediate gate approach.
 
 The gate was once again protected by House defenses.
 
-And above its upper crown rested the enormous dreadnought HVS Winter's Anvil.
+And above its upper crown rested the enormous dreadnought HVS *Winter's Anvil*.
 
 Its damaged armor had been repaired.
 
@@ -1878,38 +1906,10 @@ Its main batteries were reloaded.
 
 Its defensive screens watched every approach.
 
-No Zenith warship had escaped Merien.
+Captain Ithrel stood on *Aurum's* observation deck, watching the dreadnought above the ring. The five Zenith ships were gone; the people lost aboard *Aurum* and at Merien would not return.
 
-No hostile fleet had conquered the naval yard.
+Below her, a repaired school had opened in Cylinder Three. Families were gathering there for the evening reading of names. Nemi Vareth's mother had asked for her daughter's carved animal to be placed beside the register.
 
-The enemy had followed a dying refugee worldship through a forgotten gate.
-
-And discovered a military power that regarded the safety of those refugees as a responsibility worth fighting for.
-
-Captain Ithrel stood on Aurum's observation deck, watching the dreadnought above the ring.
-
-Beyond it lay House-controlled frontier space.
-
-Beyond that, the Known Reach.
-
-A galaxy of ancient secrets, ruined civilizations, and wars that never truly ended.
-
-She looked toward the enormous guns.
-
-Then toward the cities of her own worldship.
-
-For five hundred years, her people had lived beneath the shadow of a forbidden machine.
-
-Now they lived beneath the protection of a fleet they had never known existed.
-
-And somewhere far away, in the command chambers of House von Hjertstedt, the High Marshal had already returned to his other responsibilities.
-
-For Joel, Merien had been one more battle to answer.
-
-For the Nharavi, it had been the difference between extinction, enslavement, and survival.
-
-The Zenith Imperium had followed Aurum through the gate expecting to capture a wounded civilization.
-
-Instead, it had emerged beneath the guns of House von Hjertstedt.
+Ithrel left the observation deck to join them.
 
 The End.

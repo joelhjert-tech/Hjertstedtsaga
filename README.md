@@ -2,7 +2,7 @@
 
 ## New combined standalone story — 2 November 2026
 
-[The Seventh Lock: The Dead of Aurum](side-stories/the-seventh-lock.md) combines the shortened story with the revised Merien ending at the owner's direction. The worldship *Aurum* and all five pursuing Zenith vessels reach a House naval yard. Its main-novel placement remains **proposed standalone continuity**. See the [source and assembly record](sources/seventh-lock-2026-11-02.json) and [story reference](reference/side-stories/the-seventh-lock.md).
+[The Seventh Lock: The Dead of Aurum](side-stories/the-seventh-lock.md) combines the shortened story with the revised Merien ending at the owner's direction. The worldship *Aurum* and all five pursuing Zenith vessels reach a House naval yard. The owner requested a review and prose revision on 2 November 2026; its main-novel placement remains **proposed standalone continuity**. See the [revision record](sources/seventh-lock-review-2026-11-02.json), [original assembly record](sources/seventh-lock-2026-11-02.json) and [story reference](reference/side-stories/the-seventh-lock.md).
 
 ## New revised standalone story — 29 October 2026
 

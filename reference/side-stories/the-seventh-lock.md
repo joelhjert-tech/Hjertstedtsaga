@@ -10,6 +10,6 @@ The story introduces *Winter's Anvil* as an orbital dreadnought; it does not est
 
 ## Editorial continuity note
 
-The shortened source describes 18 carrier craft launched with six in reserve during the first boarding wave, followed by another wave. The revised Merien ending reports 28 launch contacts from the same carrier. The sources do not explain the apparent increase; both passages are preserved pending an editorial decision. The earlier ending in which Zenith remained on the far side of the gate is superseded by the owner's selected ending.
+The shortened source describes 18 carrier craft launched with six in reserve during the first boarding wave, followed by another wave. The revised Merien ending reports 28 launch contacts from the same carrier. Those contacts have not all been identified, so the text does not establish whether the counts describe the same kinds of craft. Both figures are retained pending an editorial decision. The earlier ending in which Zenith remained on the far side of the gate is superseded by the owner's selected ending.
 
-See the [source and assembly record](../../sources/seventh-lock-2026-11-02.json). This reference does not authorize comic generation or publication.
+See the [review record](../../sources/seventh-lock-review-2026-11-02.json) and [original source and assembly record](../../sources/seventh-lock-2026-11-02.json). This reference does not authorize comic generation or publication.
