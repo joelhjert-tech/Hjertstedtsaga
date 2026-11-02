@@ -27,8 +27,8 @@ The complete main-novel file does not include this side story. Comic scripts, vi
 - Owner-supplied revised edition, 29 October 2026. **Proposed standalone continuity**; not inserted into the main novel.
 - [Section index](the-fleet-beneath-the-grave-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-fleet-beneath-the-grave.md) · [Source record](../sources/fleet-beneath-grave-2026-10-29.json).
 
-## The Seventh Lock: The Dead of Aurum
+## The Seventh Lock: The Last Voyage of Aurum
 
-- [Combined story](the-seventh-lock.md) — nine sections, from the Vault of Silence to Merien.
-- Owner-directed combination and subsequent prose review, 2 November 2026. **Proposed standalone continuity**; placement relative to the main novel is not established.
-- [Section index](the-seventh-lock-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-seventh-lock.md) · [Revision record](../sources/seventh-lock-review-2026-11-02.json) · [Original assembly record](../sources/seventh-lock-2026-11-02.json).
+- [Restored longer story](the-seventh-lock.md) — thirteen sections, from the worldship's flight to Merien.
+- Owner-directed restoration and selection of the five-ship pursuit ending, 2 November 2026. **Proposed standalone continuity**; placement relative to the main novel is not established.
+- [Section index](the-seventh-lock-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-seventh-lock.md) · [Restoration record](../sources/seventh-lock-long-restoration-2026-11-02.json) · [Original assembly record](../sources/seventh-lock-2026-11-02.json).

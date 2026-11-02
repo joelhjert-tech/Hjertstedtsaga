@@ -1,62 +1,86 @@
 {
-  "story": "The Seventh Lock: The Dead of Aurum",
+  "story": "The Seventh Lock: The Last Voyage of Aurum",
   "file": "the-seventh-lock.md",
-  "edition": "owner-requested-carrier-craft-correction-2026-11-02",
-  "story_sha256": "e34c11c589258cf2a85dd50789b18215cb0d25bfedafbe24dd4ac1ad1858c960",
+  "edition": "owner-restored-long-version-with-five-ship-ending-2026-11-02",
+  "story_sha256": "ef6c4f5b047d1bbf4eb4d95280ce3dd661a183a65be2298da8588386c09786ee",
   "sections": [
     {
       "number": "I",
-      "title": "The Forbidden Door",
-      "line": 7,
-      "anchor": "i-the-forbidden-door"
+      "title": "The Cities That Could Not Run",
+      "line": 9,
+      "anchor": "i-the-cities-that-could-not-run"
     },
     {
       "number": "II",
-      "title": "Forty Million Dead",
-      "line": 83,
-      "anchor": "ii-forty-million-dead"
+      "title": "The Last Witness",
+      "line": 457,
+      "anchor": "ii-the-last-witness"
     },
     {
       "number": "III",
-      "title": "The Worldship Burns",
-      "line": 179,
-      "anchor": "iii-the-worldship-burns"
+      "title": "Oren",
+      "line": 759,
+      "anchor": "iii-oren"
     },
     {
       "number": "IV",
-      "title": "The Last Lock",
-      "line": 399,
-      "anchor": "iv-the-last-lock"
+      "title": "The First Shots",
+      "line": 1173,
+      "anchor": "iv-the-first-shots"
     },
     {
       "number": "V",
-      "title": "The Fortress Above the Gate",
-      "line": 619,
-      "anchor": "v-the-fortress-above-the-gate"
+      "title": "Five Hours to Survive",
+      "line": 1419,
+      "anchor": "v-five-hours-to-survive"
     },
     {
       "number": "VI",
-      "title": "The High Marshal's Order",
-      "line": 823,
-      "anchor": "vi-the-high-marshals-order"
+      "title": "The Question of Consent",
+      "line": 1909,
+      "anchor": "vi-the-question-of-consent"
     },
     {
       "number": "VII",
-      "title": "The House's Hammer",
-      "line": 1093,
-      "anchor": "vii-the-houses-hammer"
+      "title": "The Worldship's Last Burn",
+      "line": 2373,
+      "anchor": "vii-the-worldships-last-burn"
     },
     {
       "number": "VIII",
-      "title": "The Last Zenith Flagship",
-      "line": 1515,
-      "anchor": "viii-the-last-zenith-flagship"
+      "title": "The Passage",
+      "line": 2813,
+      "anchor": "viii-the-passage"
     },
     {
       "number": "IX",
+      "title": "The Fortress Above the Gate",
+      "line": 3235,
+      "anchor": "ix-the-fortress-above-the-gate"
+    },
+    {
+      "number": "X",
+      "title": "The High Marshal's Order",
+      "line": 3439,
+      "anchor": "x-the-high-marshals-order"
+    },
+    {
+      "number": "XI",
+      "title": "The House's Hammer",
+      "line": 3709,
+      "anchor": "xi-the-houses-hammer"
+    },
+    {
+      "number": "XII",
+      "title": "The Last Zenith Flagship",
+      "line": 4131,
+      "anchor": "xii-the-last-zenith-flagship"
+    },
+    {
+      "number": "XIII",
       "title": "The Price of Protection",
-      "line": 1779,
-      "anchor": "ix-the-price-of-protection"
+      "line": 4395,
+      "anchor": "xiii-the-price-of-protection"
     }
   ]
 }

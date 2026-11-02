@@ -1,0 +1,25 @@
+{
+  "edition": "owner-restored-long-version-with-five-ship-ending-2026-11-02",
+  "date": "2026-11-02",
+  "authorization": "the shorten part was bad restor the longer part; selected: Change Sorn’s order so all five follow",
+  "prior_edition_commit": "7195830f1e54f15b817366c2565a5031d32f9cbe",
+  "prior_edition_sha256": "e34c11c589258cf2a85dd50789b18215cb0d25bfedafbe24dd4ac1ad1858c960",
+  "long_source_conversation": "https://chatgpt.com/g/g-p-699ff68534cc8191b2323d349a9b3c05-saga/c/6adf209f-f18c-83eb-a707-fa135081e1b6",
+  "long_source_edition": "The Last Voyage of Aurum, before the requested shortening",
+  "long_source_browser_capture_sha256": "9c7c2a9d2c0c057a3be6d55e40952d59e27cc32a408acf06a3f3f485decd3aaa",
+  "historical_source_file": "sources/editions/the-seventh-lock-original-long-2026-11-02.md",
+  "historical_source_file_sha256": "16090e96f0405769d06791e94555b2eaec2041dd394e39952179ad67bf4b9432",
+  "source_fidelity": "First 20,000 characters of the original chat response were recovered as Markdown; the remainder was copied as rendered text and checked against the browser snapshot. Formatting such as italics and scene separators after that point is not all preserved.",
+  "assembly": "Restored long sections I–VIII through release of the hull; retained revised Merien ending as sections IX–XIII. Changed Sorn’s no-follow order to the owner-selected five-ship pursuit and clarified use of the established passage.",
+  "retained_revision_details": [
+    "The 18 plus six boarding craft and 28 separate unmanned drones",
+    "Nemi Vareth and Halen Orith scenes and May’s wrist injury, needed by the later aftermath",
+    "Damage to one Zenith escort before Merien",
+    "The revised House defense, recovery and remembrance ending"
+  ],
+  "output_sha256": "ef6c4f5b047d1bbf4eb4d95280ce3dd661a183a65be2298da8588386c09786ee",
+  "sections": 13,
+  "continuity_status": "Proposed standalone continuity; no established placement in the main novel.",
+  "audio_status": "Existing shortened-edition recordings remain historical and do not represent this restored text.",
+  "website_or_comic_publication": false
+}

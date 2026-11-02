@@ -23,9 +23,9 @@
     "novel/chapters/chapter-07.md": "e6f68b9fe7215cdf26a0a4636fab844273e86301e7d2a23f36b0c850a70671f8",
     "novel/chapters/chapter-08.md": "34c5af8643a5091ee955bb443dccb8c8efe5148667ba58a9915d7cb4c75fe6e8",
     "novel/complete-novel.md": "7496c12be7c1886c074c6926af5281754812951847a86f14c20501113a7808e9",
-    "novel/INDEX.md": "64ec240d16713a2f4efbd7853d34fa133cf0a857b7a50c3b23e74a040fbcbcb3",
+    "novel/INDEX.md": "75307dd7dac59e5d020054f520b3d86391adaa8f35580adb70aba20f023fae94",
     "novel/scene-index.json": "8e670177e3ce7968376fbb0d909f5caef2e6d646133ffc50fc70f663eadea6a3",
-    "README.md": "5ea01a7b6176caa8f568a85d02c3e85cbe47a426bbfc6099b2978a8a2453f20a",
+    "README.md": "fa6fd57e4bd185c0592288d1ff4bfe915821b5b8b31545cedb3f76913e8c910e",
     "reference/characters/annette.md": "e99ae6c62573bc5c07d8f2c5a3aaae9ab5c17e95afcf29375059e1c353a7e215",
     "reference/characters/anton.md": "cc4231415f18b387a16633161108d4cf269ce74b1a6c638ca27eef0b130b5864",
     "reference/characters/aster-9.md": "ad6bdd1489c587a3ae7515a3765013a5111644cc0bd7e7f2201e9707a7de1449",
@@ -176,7 +176,7 @@
     "sources/new-ships-2026-10-10.json": "3d2b7cf11de85587df14f8a14ae6bf4620a6b4eb7cac097e760cd85fca3d5c11",
     "sources/novel-revision-map.json": "ca4c71c34cbe0018f878489fa778b862b1f5e32854795092700db8a42b399354",
     "side-stories/the-kharad-trial.md": "6622581a108e19d22f33a6e7a88eb55a4b784f3ff9b866d2ceac1b7380f298fd",
-    "side-stories/INDEX.md": "558196c33fea829d2b830b1dda6d27d45eef0dd660c575b6a97fdfc293de65ed",
+    "side-stories/INDEX.md": "49532425eb8cc74d112b29be5071befe1ada3ab4f26949df443e322575db33d2",
     "side-stories/scene-index.json": "cb61cecc78c2ce70a3469aa7a92fa5b1a6466246859ac413cdea8ca351dad974",
     "reference/side-stories/the-kharad-trial.md": "3918dd025e290cc8c0bdfb47433d52b90ea3b5c002f2ffacd90b60627ebd1c12",
     "sources/kharad-trial-2026-10-26.json": "29058ea6188edf61d1d845c286bc80c861d7406d828cd7477fa2930635e0ebe8",
@@ -188,12 +188,14 @@
     "side-stories/the-fleet-beneath-the-grave-scene-index.json": "3e6239768309a2f4611d4da54888dff397420b355e42bf1b980207728dad640e",
     "reference/side-stories/the-fleet-beneath-the-grave.md": "def72230b0917a48f66afe324438082c08ca4eabcd6d509c229ac131ebfab576",
     "guidelines/audiobook-narration-guideline.md": "f6bac00c1bbc96ec9ae40775ab8220ece260d30bfec587bd942dde6866fc4eea",
-    "side-stories/the-seventh-lock.md": "e34c11c589258cf2a85dd50789b18215cb0d25bfedafbe24dd4ac1ad1858c960",
-    "side-stories/the-seventh-lock-scene-index.json": "b64a7419863575c11d09328cfed053f301d4a8514775da7098c0cf8984eee231",
-    "reference/side-stories/the-seventh-lock.md": "552908865bc75b679760394b9fd22053ceecce1c2367e9befba3ea92b8986192",
+    "side-stories/the-seventh-lock.md": "ef6c4f5b047d1bbf4eb4d95280ce3dd661a183a65be2298da8588386c09786ee",
+    "side-stories/the-seventh-lock-scene-index.json": "c90cf7ce883a886523bb405d966565f4787527387320b7f2f2ca4f0f98870118",
+    "reference/side-stories/the-seventh-lock.md": "b2224ed16900a741b57fe6e52705c3b6190a7ef406fa87e9e7073aee413e5b5c",
     "sources/seventh-lock-2026-11-02.json": "eec490b36461d20846987d152956c7f1b6b2d8b08f1edc4a38e3151c9628f400",
     "sources/seventh-lock-review-2026-11-02.json": "3d67c50fbcd7dc5ba17a116621d4f824ed45bd7cdc36bbc0c1b8fee5eea550f1",
-    "sources/seventh-lock-craft-correction-2026-11-02.json": "1affe52bbc20293c60a5b3871763de01c872d2e600c4c71db43daf61b665585d"
+    "sources/seventh-lock-craft-correction-2026-11-02.json": "1affe52bbc20293c60a5b3871763de01c872d2e600c4c71db43daf61b665585d",
+    "sources/editions/the-seventh-lock-original-long-2026-11-02.md": "16090e96f0405769d06791e94555b2eaec2041dd394e39952179ad67bf4b9432",
+    "sources/seventh-lock-long-restoration-2026-11-02.json": "ef8a7f61344ba8f63c4db090d9d589ef129b1d77db21b90e2684269fe303b9f6"
   },
   "supplemental_updates": [
     {
@@ -234,6 +236,13 @@
       "sha256": "1affe52bbc20293c60a5b3871763de01c872d2e600c4c71db43daf61b665585d",
       "date": "2026-11-02",
       "revision": "seventh-lock-craft-correction",
+      "continuity_status": "PROPOSED_STANDALONE"
+    },
+    {
+      "source_record": "sources/seventh-lock-long-restoration-2026-11-02.json",
+      "sha256": "ef8a7f61344ba8f63c4db090d9d589ef129b1d77db21b90e2684269fe303b9f6",
+      "date": "2026-11-02",
+      "revision": "seventh-lock-long-restoration",
       "continuity_status": "PROPOSED_STANDALONE"
     }
   ],
