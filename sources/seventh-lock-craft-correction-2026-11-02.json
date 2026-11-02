@@ -1,0 +1,13 @@
+{
+  "edition": "owner-requested-carrier-craft-correction-2026-11-02",
+  "date": "2026-11-02",
+  "authorization": "Can you fix the carrier craft count inconsistency and update GitHub?",
+  "source_edition_commit": "d1de0b43e90c5dfc585527dbe71b79887c806c9a",
+  "source_file": "side-stories/the-seventh-lock.md",
+  "source_sha256": "3e49756b3319d57d2c1836843a2f74cfdec1d601ebe16cd32b57866f095d1a04",
+  "output_sha256": "e34c11c589258cf2a85dd50789b18215cb0d25bfedafbe24dd4ac1ad1858c960",
+  "correction": "The carrier deploys eighteen boarding craft followed by six reserve boarding craft at Lanth Spur; its twenty-eight Merien contacts are separately carried unmanned attack drones. Later carrier references consistently describe drones, and the handling-gallery detonation is a missile.",
+  "scope": "Standalone story; placement in main-novel continuity remains proposed.",
+  "previous_source_record": "sources/seventh-lock-review-2026-11-02.json",
+  "website_or_comic_publication": false
+}

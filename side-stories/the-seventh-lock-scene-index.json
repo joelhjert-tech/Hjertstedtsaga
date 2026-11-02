@@ -1,8 +1,8 @@
 {
   "story": "The Seventh Lock: The Dead of Aurum",
   "file": "the-seventh-lock.md",
-  "edition": "owner-requested-review-and-prose-revision-2026-11-02",
-  "story_sha256": "3e49756b3319d57d2c1836843a2f74cfdec1d601ebe16cd32b57866f095d1a04",
+  "edition": "owner-requested-carrier-craft-correction-2026-11-02",
+  "story_sha256": "e34c11c589258cf2a85dd50789b18215cb0d25bfedafbe24dd4ac1ad1858c960",
   "sections": [
     {
       "number": "I",
@@ -25,37 +25,37 @@
     {
       "number": "IV",
       "title": "The Last Lock",
-      "line": 397,
+      "line": 399,
       "anchor": "iv-the-last-lock"
     },
     {
       "number": "V",
       "title": "The Fortress Above the Gate",
-      "line": 617,
+      "line": 619,
       "anchor": "v-the-fortress-above-the-gate"
     },
     {
       "number": "VI",
       "title": "The High Marshal's Order",
-      "line": 821,
+      "line": 823,
       "anchor": "vi-the-high-marshals-order"
     },
     {
       "number": "VII",
       "title": "The House's Hammer",
-      "line": 1091,
+      "line": 1093,
       "anchor": "vii-the-houses-hammer"
     },
     {
       "number": "VIII",
       "title": "The Last Zenith Flagship",
-      "line": 1513,
+      "line": 1515,
       "anchor": "viii-the-last-zenith-flagship"
     },
     {
       "number": "IX",
       "title": "The Price of Protection",
-      "line": 1777,
+      "line": 1779,
       "anchor": "ix-the-price-of-protection"
     }
   ]

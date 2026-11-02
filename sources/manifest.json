@@ -188,11 +188,12 @@
     "side-stories/the-fleet-beneath-the-grave-scene-index.json": "3e6239768309a2f4611d4da54888dff397420b355e42bf1b980207728dad640e",
     "reference/side-stories/the-fleet-beneath-the-grave.md": "def72230b0917a48f66afe324438082c08ca4eabcd6d509c229ac131ebfab576",
     "guidelines/audiobook-narration-guideline.md": "f6bac00c1bbc96ec9ae40775ab8220ece260d30bfec587bd942dde6866fc4eea",
-    "side-stories/the-seventh-lock.md": "3e49756b3319d57d2c1836843a2f74cfdec1d601ebe16cd32b57866f095d1a04",
-    "side-stories/the-seventh-lock-scene-index.json": "3019b98e9f7b25779fbca284797f0d3c41349d372eff3b6576f102c9eb643fc7",
-    "reference/side-stories/the-seventh-lock.md": "e80c1c3ee3257f1025fdb3b9f7554397041266681b14ea5c7094ef07ae13890e",
+    "side-stories/the-seventh-lock.md": "e34c11c589258cf2a85dd50789b18215cb0d25bfedafbe24dd4ac1ad1858c960",
+    "side-stories/the-seventh-lock-scene-index.json": "b64a7419863575c11d09328cfed053f301d4a8514775da7098c0cf8984eee231",
+    "reference/side-stories/the-seventh-lock.md": "552908865bc75b679760394b9fd22053ceecce1c2367e9befba3ea92b8986192",
     "sources/seventh-lock-2026-11-02.json": "eec490b36461d20846987d152956c7f1b6b2d8b08f1edc4a38e3151c9628f400",
-    "sources/seventh-lock-review-2026-11-02.json": "3d67c50fbcd7dc5ba17a116621d4f824ed45bd7cdc36bbc0c1b8fee5eea550f1"
+    "sources/seventh-lock-review-2026-11-02.json": "3d67c50fbcd7dc5ba17a116621d4f824ed45bd7cdc36bbc0c1b8fee5eea550f1",
+    "sources/seventh-lock-craft-correction-2026-11-02.json": "1affe52bbc20293c60a5b3871763de01c872d2e600c4c71db43daf61b665585d"
   },
   "supplemental_updates": [
     {
@@ -226,6 +227,13 @@
       "sha256": "3d67c50fbcd7dc5ba17a116621d4f824ed45bd7cdc36bbc0c1b8fee5eea550f1",
       "date": "2026-11-02",
       "revision": "seventh-lock-review",
+      "continuity_status": "PROPOSED_STANDALONE"
+    },
+    {
+      "source_record": "sources/seventh-lock-craft-correction-2026-11-02.json",
+      "sha256": "1affe52bbc20293c60a5b3871763de01c872d2e600c4c71db43daf61b665585d",
+      "date": "2026-11-02",
+      "revision": "seventh-lock-craft-correction",
       "continuity_status": "PROPOSED_STANDALONE"
     }
   ],

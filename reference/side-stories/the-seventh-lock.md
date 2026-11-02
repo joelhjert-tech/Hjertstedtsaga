@@ -8,8 +8,8 @@ Merien is a House naval yard. Commodore Ragna Sved commands its defense, and Cap
 
 The story introduces *Winter's Anvil* as an orbital dreadnought; it does not establish it as the atmospheric Frostbastion or a House Titan. The machine Sael in this story is not identified as the published character Sael-Vareth.
 
-## Editorial continuity note
+## Carrier craft accounting
 
-The shortened source describes 18 carrier craft launched with six in reserve during the first boarding wave, followed by another wave. The revised Merien ending reports 28 launch contacts from the same carrier. Those contacts have not all been identified, so the text does not establish whether the counts describe the same kinds of craft. Both figures are retained pending an editorial decision. The earlier ending in which Zenith remained on the far side of the gate is superseded by the owner's selected ending.
+The carrier commits 18 boarding craft at Lanth Spur, followed by its six remaining boarding craft. At Merien it launches 28 unmanned attack drones from separate racks; these are not the boarding craft. This owner-requested correction resolves the earlier unexplained count. The earlier ending in which Zenith remained on the far side of the gate is superseded by the owner's selected ending.
 
-See the [review record](../../sources/seventh-lock-review-2026-11-02.json) and [original source and assembly record](../../sources/seventh-lock-2026-11-02.json). This reference does not authorize comic generation or publication.
+See the [craft-count correction](../../sources/seventh-lock-craft-correction-2026-11-02.json), [review record](../../sources/seventh-lock-review-2026-11-02.json) and [original source and assembly record](../../sources/seventh-lock-2026-11-02.json). This reference does not authorize comic generation or publication.

@@ -234,7 +234,9 @@ The command deck shook.
 
 The Worldhammer carrier released eighteen boarding craft while six remained in reserve.
 
-Three were destroyed during the approach.
+Its separate racks of unmanned attack drones stayed aboard the carrier.
+
+Three boarding craft were destroyed during the approach.
 
 The others reached the worldship's industrial structures.
 
@@ -360,7 +362,7 @@ One heavy shot destroyed *Aurum's* remaining port thrusters.
 
 Another shattered an industrial radiator.
 
-The Worldhammer carrier launched another boarding wave.
+The Worldhammer carrier launched its six remaining boarding craft.
 
 Zenith forces advanced through the ancestral spine.
 
@@ -868,7 +870,7 @@ Sved's expression hardened.
 
 Sorn turned toward his tactical officer.
 
-"Establish a firing solution against their forward defense platform. Prepare carrier assault craft."
+"Establish a firing solution against their forward defense platform. Prepare the carrier's attack drones."
 
 The officer hesitated.
 
@@ -952,7 +954,7 @@ Commodore Sved appeared on the secure channel.
 
 "Are they still targeting the civilians?"
 
-"Yes. Their carrier is preparing assault craft. Their cruiser has an active solution on the Nharavi propulsion spine."
+"Yes. Their carrier is preparing attack drones. Their cruiser has an active solution on the Nharavi propulsion spine."
 
 Joel looked toward the live tactical display.
 
@@ -994,7 +996,7 @@ Sorn's reply was immediate.
 
 His suppression cruiser continued acquiring targets.
 
-The Worldhammer carrier opened its assault bays.
+The Worldhammer carrier opened its drone bays.
 
 Joel watched the contacts.
 
@@ -1328,11 +1330,11 @@ Three remained.
 
 ---
 
-The Worldhammer carrier attempted to bring its assault craft into the battle.
+The Worldhammer carrier attempted to bring its unmanned attack drones into the battle.
 
 Its commander opened every surviving launch gallery.
 
-Small craft detached from the hull.
+The drones detached from the hull. They were separate from the twenty-four boarding craft committed at Lanth Spur.
 
 Several accelerated toward the House defense stations.
 
@@ -1340,9 +1342,9 @@ Others attempted to approach the dreadnought from below, where its heavy batteri
 
 Captain Nyholm watched them disperse.
 
-"Carrier committing its reserves."
+"Carrier launching attack drones."
 
-"Twenty-eight launch contacts. Too close together to classify them all yet."
+"Twenty-eight drones."
 
 "Point defense?"
 
@@ -1354,7 +1356,7 @@ The dreadnought's defensive mounts opened fire.
 
 Small interceptors swept through the approaching formation.
 
-Two assault craft vanished.
+Two drones vanished.
 
 Then another.
 
@@ -1382,7 +1384,7 @@ The first shot struck the carrier's starboard launch structure.
 
 Its armored doors folded inward.
 
-An assault craft detonated while being moved toward launch.
+An armed missile detonated in a loading cradle.
 
 The explosion spread into the handling gallery.
 
