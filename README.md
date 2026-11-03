@@ -2,7 +2,7 @@
 
 ## New standalone story — 3 November 2026
 
-[The Silence Beneath Shardveil](side-stories/the-silence-beneath-shardveil.md) follows a six-person House forward cell and a wider rescue operation against a pirate stronghold. The owner-supplied text is preserved as **proposed standalone continuity**, separate from the main novel. [Story reference](reference/side-stories/the-silence-beneath-shardveil.md) · [Source record](sources/silence-beneath-shardveil-2026-11-03.json).
+[The Silence Beneath Shardveil](side-stories/the-silence-beneath-shardveil.md) follows a six-person House forward cell and a wider rescue operation against a pirate stronghold. The owner-authorized revision improves characterization, rescue geography and continuity while retaining **proposed standalone continuity**, separate from the main novel. [Story reference](reference/side-stories/the-silence-beneath-shardveil.md) · [Revision record](sources/silence-beneath-shardveil-revision-2026-11-03.json) · [Original source record](sources/silence-beneath-shardveil-2026-11-03.json).
 
 ## New combined standalone story — 2 November 2026
 

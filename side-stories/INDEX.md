@@ -36,5 +36,5 @@ The complete main-novel file does not include this side story. Comic scripts, vi
 ## The Silence Beneath Shardveil
 
 - [Complete story](the-silence-beneath-shardveil.md) — eight sections.
-- Owner-supplied edition, 3 November 2026. **Proposed standalone continuity**; placement relative to the main novel is not established.
-- [Section index](the-silence-beneath-shardveil-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-silence-beneath-shardveil.md) · [Source record](../sources/silence-beneath-shardveil-2026-11-03.json).
+- Owner-authorized editorial revision, 3 November 2026; original edition preserved. **Proposed standalone continuity**; placement relative to the main novel is not established.
+- [Section index](the-silence-beneath-shardveil-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-silence-beneath-shardveil.md) · [Revision record](../sources/silence-beneath-shardveil-revision-2026-11-03.json) · [Original source record](../sources/silence-beneath-shardveil-2026-11-03.json).

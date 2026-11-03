@@ -1,0 +1,25 @@
+{
+  "edition": "owner-authorized-editorial-revision-v01",
+  "date": "2026-11-03",
+  "source_edition_commit": "913eb165f9e76f211a095e54b12cc75fdbbbec36",
+  "source_edition_sha256": "38cc804b24148e19a157d6f3511e8bf9e55bc4b9db3699f13c082a8b1c92a5d6",
+  "revised_story_sha256": "8097be570b4929ae9e1fe95f2a2c7000047c9f0615eb8dfff0b69aa9cc81c4be",
+  "authorization": "Owner requested the reviewed improvements and audiobook.",
+  "changes": [
+    "Clarified team pilot, Hunter detachment, status of Moss and surrendered technicians, hostages and rescue geography.",
+    "Added personal moments for Orren and Eda, Vexthor contribution, shown injuries, vessel damage and evacuation losses.",
+    "Varied opening and aftermath pacing; preserved existing mission outcomes and prisoner counts."
+  ],
+  "continuity_status": "Proposed standalone continuity; main-novel placement not established.",
+  "files": {
+    "side-stories/the-silence-beneath-shardveil.md": "8097be570b4929ae9e1fe95f2a2c7000047c9f0615eb8dfff0b69aa9cc81c4be",
+    "sources/editions/the-silence-beneath-shardveil-owner-supplied-2026-11-03.md": "38cc804b24148e19a157d6f3511e8bf9e55bc4b9db3699f13c082a8b1c92a5d6",
+    "reference/side-stories/the-silence-beneath-shardveil.md": "42e9d297ea8edd8099bb0dd735cad48453341cf3a0f1012b5ee4bf4990d90274",
+    "side-stories/the-silence-beneath-shardveil-scene-index.json": "9f8b8a743ce70c84cf1f93e0e26e68a2519b663f9ab2feab92fa271eca8d9aa9",
+    "side-stories/INDEX.md": "e78b9b1c3dc95443214252847b9eb6766b448534dddb7f7b68f92f1fa2023d72",
+    "novel/INDEX.md": "c82359fbdc4d364a22879e9e28222750d1608a3ee68ac3c427cae716213ff874",
+    "reference/INDEX.md": "8d32f0615f747e6977329252a6b0697d81da78ee87f4c005b74dc47103ce0440",
+    "README.md": "f7a7c4f6bc6069309e0f5387b8a18b808e9cfc3b118fff92ac059448e5430880"
+  },
+  "website_or_comic_publication": false
+}

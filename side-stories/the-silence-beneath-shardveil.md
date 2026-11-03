@@ -10,13 +10,7 @@ The Known Reach — Shardveil Nebula
 
 Commander Vexthor had watched three fleets fail to clear the Shardveil Nebula.
 
-The first had lost two patrol frigates.
-
-The second had withdrawn after its supply vessels were ambushed.
-
-The third had never entered.
-
-Its commander had examined the defensive estimates, calculated the probable casualties, and declared the operation economically unjustifiable.
+The first had lost two patrol frigates, and the second had withdrawn after its supply vessels were ambushed. The third had never entered: its commander had examined the defensive estimates, calculated the probable casualties, and declared the operation economically unjustifiable.
 
 That had been eight months ago.
 
@@ -60,15 +54,7 @@ His tactical officer, Shiral, nodded.
 
 Vexthor turned toward the dark nebula beyond the observation window.
 
-The pirates had fortified an abandoned industrial complex within a dense field of wreckage.
-
-Radiation and metallic dust degraded long-range sensors.
-
-Old mining structures provided concealment for missile platforms.
-
-Approach routes were narrow.
-
-Any attacking formation would have difficulty bringing its full firepower to bear.
+The pirates had fortified an abandoned industrial complex within a dense field of wreckage. Radiation and metallic dust degraded long-range sensors, while old mining structures concealed missile platforms. The approach routes were narrow; an attacking formation would struggle to bring its full firepower to bear.
 
 The Zathine had not built an invincible fortress.
 
@@ -228,7 +214,7 @@ Then said:
 
 Inside the insertion vessel Black Needle, Captain Nira Khan watched the last external navigation light disappear behind the debris.
 
-"Passive approach confirmed," her pilot reported.
+"Passive approach confirmed," Eda Moren reported from the pilot controls. The systems engineer had brought Black Needle through the debris herself.
 
 Khan checked the mission clock.
 
@@ -258,9 +244,11 @@ Eda Moren was their systems engineer.
 
 Lio Fen was their medical and prisoner-recovery specialist.
 
-The four heavily armored operators formed a Hunter Lance.
+The four heavily armored operators were a forward detachment from a larger Hunter Lance; the remaining Hunters were with the supporting containment force.
 
 Eda and Lio completed the six-person forward cell.
+
+Eda set the insertion vessel to maintain its clamps and accept her encrypted recall signal. No seventh crew member remained aboard.
 
 They were not ordinary marines.
 
@@ -299,6 +287,22 @@ Those details had changed the mission.
 A conventional assault could kill the pirates.
 
 It might also kill every captive and destroy the evidence of a Seraph operation.
+
+Orren checked the seals on Eda's equipment case. One latch would not close.
+
+"You packed the diagnostic cables again," he said.
+
+"Because you keep using the last set to tie doors open."
+
+"And the doors stayed open."
+
+Eda freed the cable from the latch and snapped it shut. "Try asking before you improve my tools this time."
+
+"I'll ask the door first."
+
+Lio passed Orren a fresh dressing for the worn seal at his wrist. "And you'll tell me when that rubs through."
+
+He tucked it into a pouch. "There. Everybody has an assignment."
 
 Khan checked the target layout.
 
@@ -400,7 +404,7 @@ The insertion craft reached the underside of an abandoned ore-processing structu
 
 Its maneuvering jets fired in short pulses.
 
-Magnetic clamps attached to the old hull.
+Magnetic clamps attached to the old hull. The ore structure screened Black Needle from the predicted sensor sweep; Eda checked its concealment before leaving the controls.
 
 The crew tested the pressure boundary.
 
@@ -494,7 +498,7 @@ Yara studied the result.
 
 The captain turned.
 
-"Possible compromised host."
+"Possible compromised host. That is a finding, not a verdict," Yara said.
 
 Moss began shaking his head.
 
@@ -640,7 +644,7 @@ For several seconds, no one spoke.
 
 Lio checked the captive technician.
 
-Moss was shaking uncontrollably.
+Moss was shaking uncontrollably. Lio checked his restraint and kept the medical scanner connected.
 
 "Is it dead?" he whispered.
 
@@ -682,7 +686,7 @@ Khan looked toward the others.
 
 "Move."
 
-They found the first command relay twenty minutes later.
+They found the first command relay twenty minutes later. Moss came with them under restraint, monitored by Lio; Khan would not leave a possibly compromised person alone in the passage.
 
 It occupied a protected room beneath the old ore-processing machinery.
 
@@ -696,7 +700,7 @@ Khan returned a short burst, striking his weapon and shoulder.
 
 He fell.
 
-Lio began treating him while Eda examined the relay.
+Lio began treating him while Eda examined the relay. The two who had surrendered were secured together, away from the wounded technician. Khan sent their location to the approaching security teams.
 
 "Military command interface. Pirate modifications over older civilian hardware."
 
@@ -864,6 +868,8 @@ Some had undergone experimental procedures.
 
 A smaller number carried unresolved indications of host contamination.
 
+Lio brought Moss into the medical hall and handed his monitoring to Yara. His status remained uncertain; he would travel under medical restraint and receive an individual examination, not be counted among the ninety-six civilians in the archive.
+
 Khan studied the records.
 
 "Can we get them all out?"
@@ -882,7 +888,7 @@ Dennis answered.
 
 "How long?"
 
-"Twenty minutes before the first rescue craft can approach safely. Your second relay target is still controlling the inner defense corridor."
+"At least twenty minutes before the first rescue craft can approach, if you can open the inner corridor. Your second relay is still controlling it. We will need a fresh assessment once it is down."
 
 Khan looked toward Eda.
 
@@ -1214,7 +1220,9 @@ His face was human.
 
 His expression was almost gentle.
 
-Behind him, sixteen captives were secured inside medical restraints.
+Behind him, sixteen captives were secured inside medical restraints. Their medical tags matched sixteen of the ninety-six people recorded alive in the facility; they were not the sixteen transferred away earlier.
+
+The command chamber adjoined the detention wing, but a locked internal passage separated Vale and his hostages from the larger medical hall. A maintenance junction below the chamber connected both sides. That junction was the route Khan's team had to hold.
 
 He looked directly into the camera.
 
@@ -1478,7 +1486,9 @@ Khan looked toward Eda.
 
 Eda examined the schematic.
 
-"No. The lower control mechanism is destroyed."
+"No. The lower control mechanism is destroyed. That door blocks the lift from the command chamber into the maintenance junction. If it opens, the Guard can reach the passage behind us and the detention hall."
+
+The sixteen hostages remained in the chamber above, on the far side of the failing door. The separation charges would bury the junction, not the chamber or the medical hall; a second secured access would still allow a recovery team to reach the hostages once the guns were suppressed.
 
 Orren answered through the channel.
 
@@ -1532,7 +1542,9 @@ Then the charges detonated.
 
 The corridor collapsed.
 
-His signal disappeared.
+The blast threw Khan and Eda against the shaft wall. A fragment cut through Eda's sleeve, and she cried out as her arm struck a pipe. Khan pulled her clear of the falling debris.
+
+Orren's signal disappeared.
 
 Khan remained motionless for two seconds.
 
@@ -1586,6 +1598,16 @@ Their weapons remained dangerous.
 
 But their defenses could no longer act as one formation.
 
+Shiral caught a weak drive trace slipping between two abandoned ore platforms.
+
+"A ship is using the old service route, Commander. I cannot keep a lock through the dust."
+
+Vexthor compared the trace with the last known positions of the civilian traffic. The route led toward the trade corridor.
+
+"Do not follow it into the field," he said. "Mark the last reliable bearing and transmit it to the House intercept group. Tell them our track is intermittent; they must confirm the target before firing."
+
+Shiral sent the bearing. A House frigate acknowledged and altered course to watch the exit. Vexthor kept Delta Nine outside the firing lanes, where its sensors could continue to support the rescue.
+
 Then the first House warship emerged from beyond the nebula.
 
 An Oath cruiser.
@@ -1614,7 +1636,7 @@ Skaar examined the approach geometry.
 
 The frigates acknowledged.
 
-The first pirate vessel accelerated toward the outer debris field.
+The first pirate vessel accelerated toward the outer debris field, close to the bearing Vexthor had passed on. Long Vigil identified it independently before engaging.
 
 Its engines burned brightly.
 
@@ -1806,7 +1828,7 @@ The final evacuation began twelve minutes later.
 
 A House recovery craft attached to the damaged docking collar.
 
-Medical teams entered under armed protection.
+Medical teams entered under armed protection. A second team used the secured access to reach Vale's chamber and move the sixteen hostages to the medical hall. Moss and the surrendered technicians were transferred separately under guard for examination and questioning.
 
 The prisoners were moved in groups.
 
@@ -1830,7 +1852,9 @@ She lowered her eyes.
 
 Then returned to her patients.
 
-Five prisoners died during the final fighting and evacuation, including two killed when the Seraph commander attempted to purge the detention systems.
+During the final fighting, a purge command cut life support to a locked room in the detention wing. Lio reached the emergency controls with a recovery medic, but two patients died before the room could be opened. Three other prisoners died of their injuries during the fighting and evacuation.
+
+Five prisoners had died in all, including the two killed by the purge. Lio recorded their names before returning to the living.
 
 Ninety-one were recovered alive.
 
@@ -1840,11 +1864,7 @@ Sixteen had been transferred to an unknown destination.
 
 Khan looked at the final manifest.
 
-The numbers were not a victory.
-
-They were an accounting.
-
-And the accounting was incomplete.
+The numbers were an accounting, and it was incomplete. Lio checked the list a second time, making sure the five who had died were named alongside the ninety-one who had survived.
 
 Doctor Sareth Vale was found in the central command chamber.
 
@@ -1902,7 +1922,9 @@ The mission was over.
 
 ## VII. The Cost of Six
 
-The little insertion vessel emerged from Shardveil five hours after entering.
+While recovery teams secured the station, Eda sent an authenticated recall to Black Needle. The craft released its clamps and followed its programmed route toward the House docking collar. A surviving local battery caught it on the approach: a near miss damaged one engine, and debris tore away the forward docking assembly. The craft reached the collar on its remaining maneuvering jets and attached using its intact aft docking port.
+
+Five hours after entering, the little insertion vessel emerged from Shardveil with the five surviving members of the cell aboard. A few patients were with Lio and Yara; the other survivors had been transferred on the larger recovery craft.
 
 Its armor was scorched.
 
@@ -1942,7 +1964,13 @@ Her armor had been damaged across the chest and right leg.
 
 Behind her, Garrik sat inside a medical restraint.
 
-Eda was receiving treatment for a fracture and fragment wounds.
+Eda was receiving treatment for the fracture and fragment wounds she had suffered in the collapsing shaft. Her equipment case sat beside her; one latch hung open.
+
+Khan picked it up and closed it. Eda watched her hand for a moment.
+
+"He always checked it," she said.
+
+Khan set the case within her reach. Neither of them tried to fill the silence.
 
 Yara and Lio were helping stabilize the recovered prisoners.
 
@@ -2020,7 +2048,7 @@ He had watched defensive positions disappear.
 
 He had watched pirate ships retreat.
 
-He had assumed he was witnessing six extraordinary warriors annihilating an entire fortress.
+At first he had imagined the six attacking the fortress as a single overwhelming force. Even after the fleet arrived, his display had shown him only the explosions, not what had happened inside.
 
 Instead, those six had crawled through maintenance shafts.
 
@@ -2252,7 +2280,7 @@ He nodded.
 
 "Then we start with sixteen."
 
-Far beyond Shardveil, the surviving House vessels began departing the nebula.
+Three weeks earlier, after the evacuation and the first recovery work, the surviving House vessels had begun departing Shardveil.
 
 The pirate stronghold remained dark.
 
@@ -2314,4 +2342,4 @@ And ninety-one people had been given the chance to leave the darkness behind.
 
 The End.
 
-Continuity status: Proposed standalone side story combining the pirate-fortress mission and Seraph containment. The six-person forward cell includes a four-person Hunter Lance and two support specialists; Dennis Rask coordinates containment, while Annette oversees judicial and prisoner protections. House warships carry out the wider naval operation. The Seraph threat is treated as already recognized by the House, without retroactively revealing it during earlier main-novel events.
+Continuity status: Proposed standalone side story combining the pirate-fortress mission and Seraph containment. The six-person forward cell includes a four-person Hunter detachment from a larger Lance and two support specialists; Dennis Rask coordinates containment, while Annette oversees judicial and prisoner protections. House warships carry out the wider naval operation. The Seraph threat is treated as already recognized by the House, without retroactively revealing it during earlier main-novel events.
