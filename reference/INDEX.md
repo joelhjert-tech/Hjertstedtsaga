@@ -168,3 +168,5 @@ The original website snapshots retain their source attributions. Six character d
 - [The Fleet Beneath the Grave](side-stories/the-fleet-beneath-the-grave.md) — owner-supplied revised story; full spoilers; proposed standalone continuity.
 
 - [The Seventh Lock](side-stories/the-seventh-lock.md) — owner-directed combined edition; full spoilers; proposed standalone continuity.
+
+- [The Silence Beneath Shardveil](side-stories/the-silence-beneath-shardveil.md) — owner-supplied standalone story; full spoilers; main-novel placement not established.

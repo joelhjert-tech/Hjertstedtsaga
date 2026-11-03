@@ -152,3 +152,5 @@ Current repository edition: **House rivalry revision — 19 October 2026**. Chap
 - [The Fleet Beneath the Grave](../side-stories/the-fleet-beneath-the-grave.md) — revised standalone story, proposed continuity only; ten sections.
 
 - [The Seventh Lock: The Last Voyage of Aurum](../side-stories/the-seventh-lock.md) — restored longer standalone story with the Merien ending; proposed main-saga placement; thirteen sections.
+
+- [The Silence Beneath Shardveil](../side-stories/the-silence-beneath-shardveil.md) — proposed standalone story; not part of main-novel chronology. [Side-story index](../side-stories/INDEX.md).

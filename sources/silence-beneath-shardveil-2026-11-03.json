@@ -1,0 +1,22 @@
+{
+  "edition": "owner-supplied-v01",
+  "date": "2026-11-03",
+  "source": "User-supplied pasted text attachment: Inklistrad text.txt",
+  "source_sha256": "2b9c04833258bcd11c4bfddeef8720f4a8a65a0f2e7c8ccc6e9da80013e27409",
+  "export_sha256": "38cc804b24148e19a157d6f3511e8bf9e55bc4b9db3699f13c082a8b1c92a5d6",
+  "source_fidelity": "Text preserved as supplied; CRLF normalized to LF for Git.",
+  "sections": 8,
+  "continuity_status": "Proposed standalone side story; main-novel placement not established.",
+  "base_commit": "d247f523424f48eb74ee50b8ca16cae107cb1ecf",
+  "review_note": "Review observations recorded in the story reference; source prose unchanged.",
+  "files": {
+    "side-stories/the-silence-beneath-shardveil.md": "38cc804b24148e19a157d6f3511e8bf9e55bc4b9db3699f13c082a8b1c92a5d6",
+    "side-stories/the-silence-beneath-shardveil-scene-index.json": "78e7341c96e6704e9231bf7613134cd046674203042fca088ca02ef9bdad3f54",
+    "reference/side-stories/the-silence-beneath-shardveil.md": "36965f58f445c9c21680957217820abd048403796017323c978c56fe2796df4c",
+    "side-stories/INDEX.md": "b9d10ec8327db7b12b6b291cbfac750c96168dc19403056891a2a1970198b731",
+    "novel/INDEX.md": "3575c8bfa62a930535e4635d97b81a0a53e9619514dc4400eb368489ea5f8975",
+    "reference/INDEX.md": "eca955ee2c810b99015f075d9b726c2889ebaef6809cc1975821edfe2ca3758c",
+    "README.md": "e1a3dcca4bd045945b11bcbd039e95830e979b0b9a41d044f4fcf167eeccebef"
+  },
+  "website_or_comic_publication": false
+}

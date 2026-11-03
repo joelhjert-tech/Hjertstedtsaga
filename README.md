@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## New standalone story — 3 November 2026
+
+[The Silence Beneath Shardveil](side-stories/the-silence-beneath-shardveil.md) follows a six-person House forward cell and a wider rescue operation against a pirate stronghold. The owner-supplied text is preserved as **proposed standalone continuity**, separate from the main novel. [Story reference](reference/side-stories/the-silence-beneath-shardveil.md) · [Source record](sources/silence-beneath-shardveil-2026-11-03.json).
+
 ## New combined standalone story — 2 November 2026
 
 [The Seventh Lock: The Last Voyage of Aurum](side-stories/the-seventh-lock.md) restores the longer voyage and boarding battle, joined to the owner-selected Merien ending in which all five Zenith vessels follow *Aurum*. Its main-novel placement remains **proposed standalone continuity**. See the [restoration record](sources/seventh-lock-long-restoration-2026-11-02.json) and [story reference](reference/side-stories/the-seventh-lock.md).

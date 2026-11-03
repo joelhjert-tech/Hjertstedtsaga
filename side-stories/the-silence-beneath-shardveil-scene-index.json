@@ -1,0 +1,63 @@
+{
+  "story_id": "the-silence-beneath-shardveil",
+  "title": "The Silence Beneath Shardveil",
+  "status": "Owner-supplied story; proposed standalone continuity, not inserted into the main novel.",
+  "sections": [
+    {
+      "number": 1,
+      "roman": "I",
+      "title": "The Acceptable Loss",
+      "file": "side-stories/the-silence-beneath-shardveil.md",
+      "anchor": "i-the-acceptable-loss"
+    },
+    {
+      "number": 2,
+      "roman": "II",
+      "title": "Six Against the Dead",
+      "file": "side-stories/the-silence-beneath-shardveil.md",
+      "anchor": "ii-six-against-the-dead"
+    },
+    {
+      "number": 3,
+      "roman": "III",
+      "title": "The Face Behind the Door",
+      "file": "side-stories/the-silence-beneath-shardveil.md",
+      "anchor": "iii-the-face-behind-the-door"
+    },
+    {
+      "number": 4,
+      "roman": "IV",
+      "title": "The Forty-Seventh Battery",
+      "file": "side-stories/the-silence-beneath-shardveil.md",
+      "anchor": "iv-the-forty-seventh-battery"
+    },
+    {
+      "number": 5,
+      "roman": "V",
+      "title": "The Last Door",
+      "file": "side-stories/the-silence-beneath-shardveil.md",
+      "anchor": "v-the-last-door"
+    },
+    {
+      "number": 6,
+      "roman": "VI",
+      "title": "The Nebula Burns",
+      "file": "side-stories/the-silence-beneath-shardveil.md",
+      "anchor": "vi-the-nebula-burns"
+    },
+    {
+      "number": 7,
+      "roman": "VII",
+      "title": "The Cost of Six",
+      "file": "side-stories/the-silence-beneath-shardveil.md",
+      "anchor": "vii-the-cost-of-six"
+    },
+    {
+      "number": 8,
+      "roman": "VIII",
+      "title": "The Threat Assessment",
+      "file": "side-stories/the-silence-beneath-shardveil.md",
+      "anchor": "viii-the-threat-assessment"
+    }
+  ]
+}

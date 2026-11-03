@@ -32,3 +32,9 @@ The complete main-novel file does not include this side story. Comic scripts, vi
 - [Restored longer story](the-seventh-lock.md) — thirteen sections, from the worldship's flight to Merien.
 - Owner-directed restoration and selection of the five-ship pursuit ending, 2 November 2026. **Proposed standalone continuity**; placement relative to the main novel is not established.
 - [Section index](the-seventh-lock-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-seventh-lock.md) · [Restoration record](../sources/seventh-lock-long-restoration-2026-11-02.json) · [Original assembly record](../sources/seventh-lock-2026-11-02.json).
+
+## The Silence Beneath Shardveil
+
+- [Complete story](the-silence-beneath-shardveil.md) — eight sections.
+- Owner-supplied edition, 3 November 2026. **Proposed standalone continuity**; placement relative to the main novel is not established.
+- [Section index](the-silence-beneath-shardveil-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-silence-beneath-shardveil.md) · [Source record](../sources/silence-beneath-shardveil-2026-11-03.json).
