@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## New standalone story — 4 November 2026
+
+[The Names Beneath the Iron](side-stories/the-names-beneath-the-iron.md) recounts the Haldane rescue and a later hearing. The owner-supplied text is preserved exactly for review; its placement in main-novel continuity remains unconfirmed. [Story reference](reference/side-stories/the-names-beneath-the-iron.md) · [Source record](sources/names-beneath-iron-2026-11-04.json).
+
 ## New standalone story — 3 November 2026
 
 [The Silence Beneath Shardveil](side-stories/the-silence-beneath-shardveil.md) follows a six-person House forward cell and a wider rescue operation against a pirate stronghold. The owner-authorized revision improves characterization, rescue geography and continuity while retaining **proposed standalone continuity**, separate from the main novel. [Story reference](reference/side-stories/the-silence-beneath-shardveil.md) · [Revision record](sources/silence-beneath-shardveil-revision-2026-11-03.json) · [Original source record](sources/silence-beneath-shardveil-2026-11-03.json).

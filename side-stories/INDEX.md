@@ -38,3 +38,9 @@ The complete main-novel file does not include this side story. Comic scripts, vi
 - [Complete story](the-silence-beneath-shardveil.md) — eight sections.
 - Owner-authorized editorial revision, 3 November 2026; original edition preserved. **Proposed standalone continuity**; placement relative to the main novel is not established.
 - [Section index](the-silence-beneath-shardveil-scene-index.json) · [Story reference and spoilers](../reference/side-stories/the-silence-beneath-shardveil.md) · [Revision record](../sources/silence-beneath-shardveil-revision-2026-11-03.json) · [Original source record](../sources/silence-beneath-shardveil-2026-11-03.json).
+
+## The Names Beneath the Iron: The Thirty-First Crossing
+
+- [Owner-supplied story](the-names-beneath-the-iron.md) — Haldane rescue and a later hearing on emergency access.
+- Owner-supplied edition, 4 November 2026; under editorial review. **Proposed standalone continuity**, not inserted into the main novel.
+- [Story reference and spoilers](../reference/side-stories/the-names-beneath-the-iron.md) · [Source record](../sources/names-beneath-iron-2026-11-04.json).

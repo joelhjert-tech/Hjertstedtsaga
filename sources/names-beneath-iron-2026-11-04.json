@@ -1,0 +1,18 @@
+{
+  "edition": "owner-supplied-v01-under-review",
+  "date": "2026-11-04",
+  "source": "User-pasted attachment supplied for review, audio and illustration after text approval",
+  "source_sha256": "1df9794c9dde9ed8af9c85b4a4d30d6c8ff701eeea7b628df8b914c071631c0a",
+  "export_sha256": "744299ad9eafafcf1480eb55d8450ad3deafcc4ce31133a30ae062025b041891",
+  "source_fidelity": "Exact prose and characters; CRLF line endings normalized to LF by repository attributes.",
+  "continuity_status": "Proposed standalone, main-novel placement unconfirmed; editorial review pending.",
+  "base_commit": "3db6f26bcf5f7277bf2ff938ed52f58b68deb3a0",
+  "files": {
+    "side-stories/the-names-beneath-the-iron.md": "744299ad9eafafcf1480eb55d8450ad3deafcc4ce31133a30ae062025b041891",
+    "reference/side-stories/the-names-beneath-the-iron.md": "5ee3172b8a2d026b918f6bef545252b67fbce6a9ce7ab06c574be8e848a12338",
+    "side-stories/INDEX.md": "9ea50976bad40a7fd7ce86708a0b1d0cee5620c81c66bfdbfd187659ddc24f6d",
+    "reference/INDEX.md": "4203845fac1a3e5fbe70387e83ced68ca6ef097ddb2a18af3e4b58446a173959",
+    "README.md": "ef22b348522313868e3dedfae3beee210813d7e043ff8a3671d758516ae10352"
+  },
+  "website_or_comic_publication": false
+}
