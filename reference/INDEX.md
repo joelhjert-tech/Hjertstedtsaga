@@ -171,4 +171,4 @@ The original website snapshots retain their source attributions. Six character d
 
 - [The Silence Beneath Shardveil](side-stories/the-silence-beneath-shardveil.md) — owner-authorized standalone revision; full spoilers; main-novel placement not established.
 
-- [The Names Beneath the Iron](side-stories/the-names-beneath-the-iron.md) — owner-supplied story under review; full spoilers; proposed standalone continuity.
+- [The Names Beneath the Iron](side-stories/the-names-beneath-the-iron.md) — owner-authorized revision; full spoilers; proposed standalone continuity.

@@ -36,7 +36,9 @@ The Kesh.
 
 The Orani.
 
-Other civilizations that had accepted Terra's invitation, some attending remotely because their governments remained hostile to one another.
+Other civilizations had accepted Terra's invitation. Some attended remotely because their governments remained hostile to one another.
+
+The Talyrn delegation had joined the wider gathering after renewed contact through Gate Seventeen. Their presence was still new enough that the chair had reviewed the seating plan twice.
 
 For six days, they had debated whether independent military forces should be permitted to enter restricted territory during civilian emergencies.
 
@@ -102,9 +104,7 @@ An enormous research ring falling toward its own star.
 
 A failed drive-core experiment had torn away the main stabilization assembly and pushed the station into a decaying orbit. Its thermal shields were overloaded. Its remaining engines could no longer correct the trajectory.
 
-The station was dying.
-
-On the bridge of HVS Last Lantern, Captain Yara Vell studied the distress reports.
+The station was dying. On the bridge of HVS Last Lantern, Captain Yara Vell studied the distress reports.
 
 "Population?"
 
@@ -146,19 +146,11 @@ Brenwick approached the command table.
 
 "No. But the abandoned ore barge beside the station has sealed cargo compartments. If we stabilize its atmosphere, we can use it as a temporary evacuation shelter and tow it clear."
 
-Yara studied the projected route.
+Yara studied the projected route. The abandoned barge was attached to the far end of Haldane's two-hundred-and-seventy-meter ore-transfer truss. Her patrol cutter could clamp to the barge's outer tow fitting, supply air to its sealed cargo compartments and pull it free.
 
-Two hundred and seventy meters of exposed truss.
+Between the station and the barge ran an exposed sled rail, a damaged docking collar, no atmosphere and increasing radiation. The sled could carry ten to twelve civilians per loaded crossing, depending on their size and equipment; Brenwick could ride on its exterior running board.
 
-A damaged docking collar.
-
-No atmosphere.
-
-Increasing radiation.
-
-The old cargo sled could carry ten to twelve passengers each crossing.
-
-They would need repeated trips while the crew maintained the fragile connection.
+Mara would maintain the collar on the station side. The cutter crew would receive and treat the survivors aboard the barge. When the last sled arrived, Yara would release the barge from the station and tow it clear. Until then, the fragile connection had to hold.
 
 Yara turned toward her eight shipmates.
 
@@ -172,15 +164,13 @@ Engineer Joren Pell opened the docking schematic.
 
 Rigging specialist Mara Kel examined the truss.
 
-The remaining crew prepared navigation, medical reception, the tow barge, and damage control.
+The remaining crew prepared navigation, medical reception, the tow barge and damage control. Yara stayed at the cutter's controls, ready to release the barge if the station tore the connection apart.
 
 Yara nodded.
 
 "Then we go."
 
-The first crossing brought out eleven people.
-
-The second, ten.
+Each numbered crossing was a loaded trip from Haldane to the barge; returning the empty sled did not add to the count. The first brought out eleven people, the second ten.
 
 By the fifth, Brenwick's armor was already scorched.
 
@@ -232,9 +222,7 @@ He forced it downward.
 
 The sled leveled.
 
-Brenwick pulled the passengers across.
-
-When he returned, Varek was still beside the controls.
+Brenwick used the emergency hand line to pull the tilted sled and its passengers onto the barge. When he returned with the empty sled, Varek was still beside the controls.
 
 His respirator had begun leaking.
 
@@ -322,7 +310,7 @@ Dravik lowered his eyes.
 
 Brenwick looked around the chamber.
 
-"That happened quite often after Haldane."
+"That happened quite often after Haldane. Our ship was the patrol vessel in the report. The report did not name every person aboard."
 
 He paused.
 
@@ -338,9 +326,7 @@ The compartment's emergency shutters had jammed.
 
 Hot gas was entering through the upper ventilation system.
 
-Brenwick reached the school with a portable rescue shelter.
-
-Lessa helped him secure the children.
+Brenwick reached the school with a portable rescue shelter: a compact, pressurized carrier on wheels. Lessa helped him secure the eleven children inside it. The carrier would fit the cargo sled, with Brenwick riding outside.
 
 Then the fire door behind them began opening.
 
@@ -362,7 +348,9 @@ She handed him the last child's breathing mask.
 
 "We can find another way."
 
-"No."
+Lessa pointed to the dead control panel beside him. The local release had fused. Beyond the glass, the corridor to the second exit was already burning.
+
+"There isn't time."
 
 She looked at the children.
 
@@ -414,13 +402,7 @@ Brenwick carried them to the barge.
 
 He remembered one asking when Lessa would join them.
 
-He had said he didn't know.
-
-It was a lie.
-
-He had known.
-
-He simply could not bear saying it.
+He had said he didn't know. He could not bring himself to tell the child what the locked door and the silent emergency channel had told him.
 
 By the fifteenth crossing, the remaining school shelters were losing atmosphere.
 
@@ -446,11 +428,7 @@ She recoiled.
 
 Leva connected the portable shelter.
 
-The oxygen indicator turned red.
-
-Its reserve system had failed.
-
-The children would suffocate before reaching the rescue sled.
+The oxygen indicator turned red. Its reserve system had failed, and the air in the corridor was too thin to share by opening the shelter. The sled carried replacement cylinders, but it was too far away to fetch one and return in time.
 
 Leva checked her own air supply.
 
@@ -500,11 +478,7 @@ Then her hand fell away.
 
 The medical monitor went flat.
 
-He tried to resuscitate her.
-
-Once.
-
-Twice.
+He checked her suit display and tried the emergency resuscitation cycle twice, but the monitor did not respond.
 
 The station shook.
 
@@ -584,7 +558,7 @@ If the remaining fuel tanks ignited, the explosion would destroy the truss, the 
 
 Varek Oss saw the warning from cargo control.
 
-He had been working for nearly three hours without removing his damaged respirator.
+By now, Varek had been working for nearly three hours, much of it spent gathering people from distant decks and clearing the first route to the terminal. Since then the loading teams had brought groups forward in parallel, shortening the time between sled trips. He had not removed his damaged respirator.
 
 His hands were burned.
 
@@ -646,7 +620,7 @@ Brenwick heard the old dockmaster breathing through his damaged respirator.
 
 Then the connection went silent.
 
-Varek crossed the exposed terminal in an emergency suit.
+Varek sealed an emergency suit over his damaged respirator and crossed the exposed terminal. The release controls were linked to cargo control; his suit camera and the open maintenance channel recorded what followed.
 
 Radiation warnings flashed across his visor.
 
@@ -734,9 +708,7 @@ He tried to cut the supply from the adjacent compartment.
 
 The emergency controls had melted.
 
-Only the manual release remained.
-
-On the wrong side of a failing radiation barrier.
+The drones could reach the valve housing, but their cutters could not bite through the warped cover, and neither had the leverage to turn the valve. Only the manual release remained, on the wrong side of a failing radiation barrier.
 
 Joren opened the ship's channel.
 
@@ -760,7 +732,7 @@ Brenwick heard the exchange while loading another sled.
 
 "That's an order."
 
-"You're a sergeant. I'm engineering."
+"You're a sergeant. I'm engineering, and the captain needs you at the sled."
 
 Despite everything, Brenwick almost laughed.
 
@@ -790,9 +762,7 @@ His suit's radiation shielding failed.
 
 He continued turning.
 
-Then the mechanism locked.
-
-COOLANT FLOW ISOLATED.
+Then the valve reached its stop. On Yara's board the pressure fell, and the status changed: COOLANT FLOW ISOLATED.
 
 The transfer truss remained intact.
 
@@ -832,13 +802,9 @@ The rescue crews could not reach him.
 
 The radiation barrier collapsed before a recovery team could enter.
 
-Brenwick crossed the truss again.
+Brenwick crossed the truss again and again.
 
-And again.
-
-By the thirtieth crossing, the barge contained 303 survivors.
-
-The station had less than twenty minutes before projected structural breakup.
+By the thirtieth loaded crossing, the barge contained 303 survivors. The last groups had already assembled near the terminal, and the unloaded sled returned faster with fewer stops. Even so, the damage was outpacing them: the station had less than twenty minutes before projected structural breakup.
 
 Brenwick's armor was failing.
 
@@ -868,7 +834,7 @@ Brenwick checked his damaged leg.
 
 "Understood."
 
-"Mara will hold the collar. You bring them across. Then we cut loose."
+"Mara will hold the station-side collar. You bring them onto the barge. Then we release the barge from the station and tow it clear."
 
 Rigging specialist Mara Kel was already preparing the emergency stabilizer.
 
@@ -930,7 +896,7 @@ Behind him, Mara was fighting the docking stabilizer.
 
 "Sergeant! Move!"
 
-The damaged collar began separating from the cutter.
+The damaged collar began separating from the barge.
 
 Mara engaged the manual locking mechanism.
 
@@ -940,7 +906,7 @@ Barely.
 
 The sled crossed the final meters.
 
-The last civilian reached the patrol cutter.
+The last civilian reached the barge's receiving compartment, where the cutter's medical team pulled the passengers through the hatch.
 
 Brenwick turned back.
 
@@ -954,7 +920,7 @@ Her hands were still gripping the emergency controls.
 
 "Release the lock!"
 
-"The collar will separate before you're clear!"
+"The collar will separate before you're clear! The emergency lock keeps the truss from swinging into the barge."
 
 "We've got everyone!"
 
@@ -976,9 +942,7 @@ Then back at him.
 
 "Make them count."
 
-She activated the emergency separation sequence.
-
-The cutter's docking clamps released.
+She activated the emergency separation sequence. The barge's clamps released from the station collar; its tow connection to the cutter remained secured.
 
 Brenwick reached for the open hatch.
 
@@ -986,7 +950,7 @@ Mara's image remained on his helmet display.
 
 She was still holding the stabilizer.
 
-Still preventing the collapsing truss from striking the departing cutter.
+Still holding the truss away from the departing barge and the cutter towing it.
 
 Then the station broke apart.
 
@@ -1000,7 +964,7 @@ Mara's signal vanished.
 
 HVS Last Lantern pulled away with its overloaded rescue barge.
 
-Minutes later, Haldane Research Ring disintegrated.
+Minutes later, the rest of Haldane Research Ring disintegrated.
 
 Its remaining compartments fell toward the star.
 
@@ -1064,17 +1028,9 @@ Finally, he lifted the plate free.
 
 He turned it around.
 
-The inside was covered in writing.
+The inside was covered in writing. Attached along its edges were narrow, overlapping memorial leaves, folded flat against the lining. Brenwick unfolded them carefully, revealing hundreds of names in different languages and alphabets.
 
-Hundreds of names.
-
-Different languages.
-
-Different alphabets.
-
-Some etched into the old protective ceramic.
-
-Others written across preserved replacement panels.
+Some were etched into the old protective ceramic. Others covered the thin replacement leaves added after Haldane.
 
 Small handprints rested between them.
 
@@ -1104,7 +1060,7 @@ His voice tightened.
 
 He raised the plate.
 
-"Three hundred and twelve survivors signed this armor. Those who couldn't write left their hands."
+"Three hundred and twelve survivors left their names or marks here. Those who couldn't write left their hands. We added the folding leaves when the plate ran out of room."
 
 He turned it toward the delegates.
 
@@ -1126,7 +1082,7 @@ No one spoke.
 
 Then Annette von Hjertstedt stood.
 
-"Presiding delegates, I request permission to enter the original Haldane evacuation telemetry into the public record."
+"Presiding delegates, I request permission to enter the original Haldane evacuation telemetry into the public record. The cutter logs include the open ship and cargo channels, suit-camera footage and the sled manifests. The copies have been authenticated against the ship's original record."
 
 The Terran chair authorized the submission.
 
@@ -1206,7 +1162,7 @@ Ismera approached Brenwick.
 
 She placed her hand over the little blue print inside the breastplate.
 
-It fit almost exactly.
+Her adult hand covered the small print.
 
 Beside it, scratched in crooked Orani letters, was one word.
 
@@ -1248,9 +1204,7 @@ It established procedures for verified distress calls, limited emergency access,
 
 Other governments withheld their signatures.
 
-The agreement was imperfect.
-
-It could not save everyone.
+The agreement was imperfect, and it could not save everyone.
 
 But it gave future commanders a way to consider a rescue before condemning civilians to abandonment.
 
@@ -1334,17 +1288,11 @@ Joel was quiet for a while.
 
 Brenwick nodded.
 
-He touched Leva's name.
+He rested his hand over the place where the memorial lay against the inside of the breastplate.
 
-Then Joren's.
+Leva. Joren. Mara.
 
-Then Mara's.
-
-His hand moved across the smaller civilian memorial.
-
-Lessa.
-
-Varek.
+And beside them, the civilian names. Lessa. Varek.
 
 Names of people who had stood between disaster and strangers they would never know.
 
@@ -1410,9 +1358,7 @@ The dead had not asked him to carry their guilt.
 
 They had asked him to carry the living.
 
-He touched the names beneath his chest plate.
-
-Then boarded the transport home.
+He laid his hand over the chest plate, where the memorial leaves rested against the inside. Then he boarded the transport home.
 
 Far behind him, the representatives of the Known Reach continued debating the obligations of power.
 
@@ -1428,7 +1374,7 @@ Perhaps they would send a rescue craft.
 
 And perhaps someone would live because another person decided to stay.
 
-The armor carried three hundred and twelve names of the living.
+The armor carried the names and marks of three hundred and twelve survivors.
 
 The names of the dead were there to remind them why.
 

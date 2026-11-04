@@ -2,7 +2,7 @@
 
 ## New standalone story — 4 November 2026
 
-[The Names Beneath the Iron](side-stories/the-names-beneath-the-iron.md) recounts the Haldane rescue and a later hearing. The owner-supplied text is preserved exactly for review; its placement in main-novel continuity remains unconfirmed. [Story reference](reference/side-stories/the-names-beneath-the-iron.md) · [Source record](sources/names-beneath-iron-2026-11-04.json).
+[The Names Beneath the Iron](side-stories/the-names-beneath-the-iron.md) recounts the Haldane rescue and a later hearing. The owner-authorized revision clarifies the rescue and places the hearing after renewed Talyrn contact. The original edition is preserved; wider main-novel continuity remains proposed. [Story reference](reference/side-stories/the-names-beneath-the-iron.md) · [Source record](sources/names-beneath-iron-2026-11-04.json).
 
 ## New standalone story — 3 November 2026
 

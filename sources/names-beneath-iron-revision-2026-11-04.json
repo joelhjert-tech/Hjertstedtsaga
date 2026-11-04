@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-04",
+  "edition": "owner-authorized-editorial-revision-v01",
+  "authorization": "Apply all six suggested improvements and place the hearing after Talyrn contact; produce audio for review before video.",
+  "scope": [
+    "rescue geography",
+    "distinct sacrifices and alternatives",
+    "evidence trail",
+    "memorial marks and handprint",
+    "rescue timing",
+    "narration rhythm",
+    "hearing after renewed Talyrn contact"
+  ],
+  "original_source_record": "sources/names-beneath-iron-2026-11-04.json",
+  "base_commit": "f65ce1753599c68f00728baa2679a725a3348cfa",
+  "continuity_status": "Proposed standalone; hearing after renewed Talyrn contact; other main-novel placement unconfirmed.",
+  "files": {
+    "side-stories/the-names-beneath-the-iron.md": "3e8d483e3828cb8ce9c4a8ed634bd67263ec774e9045a2b30f2851b9dd624ecb",
+    "sources/editions/the-names-beneath-the-iron-original-2026-11-04.md": "744299ad9eafafcf1480eb55d8450ad3deafcc4ce31133a30ae062025b041891",
+    "reference/side-stories/the-names-beneath-the-iron.md": "6e98e5a826ec33c416fbc33ff3f18d5894ac6f1aa5799599964774764d550f9c",
+    "side-stories/INDEX.md": "940af92557d1aa9e8a08feeaa23e6d9caa14dc4ea6655f40b957f57d01ed5ecc",
+    "reference/INDEX.md": "35e1d146d58bd8be40c497e3a69c2a1bb3c7594599abd293617fafb6af9ba124",
+    "README.md": "f8aa0514fc1efa818629c3eaa70977999f538e309d7723bf225fae75b70a7c27"
+  },
+  "website_or_comic_publication": false
+}

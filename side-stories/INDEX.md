@@ -41,6 +41,6 @@ The complete main-novel file does not include this side story. Comic scripts, vi
 
 ## The Names Beneath the Iron: The Thirty-First Crossing
 
-- [Owner-supplied story](the-names-beneath-the-iron.md) — Haldane rescue and a later hearing on emergency access.
-- Owner-supplied edition, 4 November 2026; under editorial review. **Proposed standalone continuity**, not inserted into the main novel.
-- [Story reference and spoilers](../reference/side-stories/the-names-beneath-the-iron.md) · [Source record](../sources/names-beneath-iron-2026-11-04.json).
+- [Revised story](the-names-beneath-the-iron.md) — Haldane rescue and a later hearing on emergency access.
+- Owner-authorized editorial revision, 4 November 2026; hearing after renewed Talyrn contact. **Proposed standalone continuity**, not inserted into the main novel. [Original edition](../sources/editions/the-names-beneath-the-iron-original-2026-11-04.md).
+- [Story reference and spoilers](../reference/side-stories/the-names-beneath-the-iron.md) · [Original source record](../sources/names-beneath-iron-2026-11-04.json) · [Revision record](../sources/names-beneath-iron-revision-2026-11-04.json).
