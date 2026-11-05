@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## New standalone story — 5 November 2026
+
+[The Bottle Wager](side-stories/the-bottle-wager.md) follows a Directorate intelligence officer observing House rivalry during the Battle of Tarnis. The owner-supplied prose is preserved as submitted while review suggestions await the owner's decisions. Its relationship to the main novel is **unresolved proposed standalone continuity**. [Story reference](reference/side-stories/the-bottle-wager.md) · [Source record](sources/bottle-wager-2026-11-05.json).
+
 ## New standalone story — 4 November 2026
 
 [The Names Beneath the Iron](side-stories/the-names-beneath-the-iron.md) recounts the Haldane rescue and a later hearing. The owner-authorized revision clarifies the rescue and places the hearing after renewed Talyrn contact. The original edition is preserved; wider main-novel continuity remains proposed. [Story reference](reference/side-stories/the-names-beneath-the-iron.md) · [Source record](sources/names-beneath-iron-2026-11-04.json).

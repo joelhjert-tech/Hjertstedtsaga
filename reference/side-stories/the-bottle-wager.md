@@ -1,0 +1,7 @@
+# The Bottle Wager — story reference
+
+Source: [owner-supplied story](../../side-stories/the-bottle-wager.md), 5 November 2026. Full-story spoilers. The submitted story is preserved without editorial changes and awaits the owner's decisions on review suggestions. Its relationship to the main novel and other side stories is **unresolved proposed standalone continuity**; its similarities to the Ghar-Kul assault in Chapter 7 do not establish that the battles are the same event or that they are different events.
+
+At the Battle of Tarnis, Directorate of Ash intelligence officer Severin Kael and his crew monitor House von Hjertstedt during a Garooth attack on an industrial planet. Kael hears rivalry and bottle wagers but observes an immediate organized defensive response, a boarding of the Garooth fortress *Red Kiln*, and the effort to recover prisoners. Joel names Daniel the winner of a bottle from Joel's own northern Winter Reserve. The House later reveals that it had tracked the observation vessel, which withdraws without interference.
+
+This document records what the supplied story says, not a finding that the intelligence access, all wager conditions, battle casualty totals or main-novel placement are resolved. Check the story and established scenes before treating its events as connected to existing canon. Repository storage is not approval of an editorial revision, audio, illustrations, comic or other publication.

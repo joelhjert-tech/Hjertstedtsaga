@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-05",
+  "edition": "owner-supplied-as-submitted-v01",
+  "source": "User-provided story in chat, beginning with the TALES FROM THE KNOWN REACH banner and ending THE END; the preceding request line Next sidestory is not story text.",
+  "status": "USER_SUPPLIED_AWAITING_REVIEW_DECISIONS",
+  "continuity_status": "PROPOSED_STANDALONE; relationship to the Chapter 7 Ghar-Kul assault is unresolved and is not silently determined.",
+  "prose_word_count_approx": 2542,
+  "preservation": "Story text, including original heading and ending, saved exactly as supplied; no editorial revision applied.",
+  "scope": "Story storage, source provenance, navigation and explicitly scoped standalone references only; main-novel prose unchanged.",
+  "files": {
+    "side-stories/the-bottle-wager.md": "9b60b88db9343c2de4baef75f88f30036885f1dadd559f837b3166a19e275b71",
+    "reference/side-stories/the-bottle-wager.md": "8cf7336eee97f91767bc9f77c74b35865bcd324aa81f7deb178ed647e8e179c1",
+    "side-stories/INDEX.md": "1f12e6a6d172d16b4d5d8ea5489b610ac31fc7f37724d966d3ee331e2cfe4fd4",
+    "novel/INDEX.md": "afc622a80ef494ac39527d8981978a2c80b438d51fcd629d606911fcf4f2276d",
+    "reference/INDEX.md": "ed3947313197e7c00c8b18222a11038027b0a0b6ede92a0f81140db65f8c4728",
+    "reference/factions/directorate-of-ash.md": "1cf048fc5d511cc646e7e32cab450ac62d2cfffce3420cc618b6ab432784672e",
+    "reference/factions/house-von-hjertstedt.md": "6c58301ce1fc16bd3971f7308ef3c6c313456b8d6963f591adc92c82c2e0a654",
+    "reference/factions/garooth-clans.md": "8560a1643c4f105b8d4e663fe7ab30db5340004b1ba32a65882be474cc057b6b",
+    "README.md": "5415b97a071c89436a5d4b0201e54d0590d9ef9922c2cd716aa33a90d92f8077"
+  },
+  "website_or_comic_publication": false
+}

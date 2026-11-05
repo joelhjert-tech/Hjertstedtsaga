@@ -145,6 +145,8 @@ Current repository edition: **House rivalry revision — 19 October 2026**. Chap
 
 ## Standalone side stories
 
+- [The Bottle Wager](../side-stories/the-bottle-wager.md) — owner-supplied story awaiting review decisions; proposed standalone continuity, with main-novel placement unresolved. [Side-story index](../side-stories/INDEX.md).
+
 - [The Kharad Trial: The Things Beneath the Ash](../side-stories/the-kharad-trial.md) — Talyrn Continuance, Vaerith; separate from main-novel chapter numbering. [Side-story index](../side-stories/INDEX.md).
 
 - [The House That Would Not Kneel](../side-stories/the-house-that-would-not-kneel.md) — revised standalone story, proposed main-saga continuity only.

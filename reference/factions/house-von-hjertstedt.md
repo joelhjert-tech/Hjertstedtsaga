@@ -38,3 +38,7 @@ Sanctuary Specialists are among the most augmented people in House service. Summ
 The owner-directed novel revision develops rivalry across generations and ranks. Banner-Captain Rydell remembers competing with Joel and still owes Lars an older bottle; Grey Nomad veterans turn experience into surrender and rescue; senior admirals keep pools and inherited betting books. The [Kestrel feast in Chapter 05, Scene 09](../../novel/chapters/chapter-05.md#9-the-open-march) gives ordinary comrades and older officers their own stories, arguments and remembrance. The culture belongs to the House, rather than only to the brothers.
 
 Competitors cover one another and obey operational authority. No bottle overrides triage, surrender, friendly safety, assigned sectors or the Charter. The [Winter Reserve tradition](../lore/winter-reserve-and-bottle-wagers.md) requires careful hospitality; ordinary House service does not confer the ruling bloodline's tolerance. See the [standing writing guidelines](../../guidelines/novel-writing-guidelines.md). The website snapshot above retains its original attribution.
+
+## Proposed standalone story — 5 November 2026
+
+[The Bottle Wager](../../side-stories/the-bottle-wager.md) depicts House command rivalry at Tarnis through a Directorate observer. It is owner-supplied prose awaiting review decisions; its battle, outcome and proposed bottle claim do not establish or settle events in the main novel. See the [story-scoped reference](../side-stories/the-bottle-wager.md).

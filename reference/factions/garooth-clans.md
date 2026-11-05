@@ -35,3 +35,7 @@ The ground-force sheet shows a breathable-environment equipment inspection. Expo
 - **Industrial authority:** Furnace Wardens
 - **Assault doctrine:** Clamp-and-Carve
 - **Defining nature:** Massively muscular, ork-like beasts bred for war
+
+## Proposed standalone story — 5 November 2026
+
+[The Bottle Wager](../../side-stories/the-bottle-wager.md) depicts a Garooth attack at Tarnis and the fortress *Red Kiln*. The owner-supplied story awaits review decisions; its relationship to the Chapter 7 Ghar-Kul operation is unresolved. These events are not asserted as established main-novel history. See the [story-scoped reference](../side-stories/the-bottle-wager.md).

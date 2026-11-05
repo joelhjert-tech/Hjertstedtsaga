@@ -1,7 +1,7 @@
 {
   "release": "issue03-2026-10-08-v01",
   "imported_on": "2026-10-09",
-  "scope": "Novel chapters 1Ã¢â‚¬â€œ8: owner-directed House rivalry revision of Chapters 02Ã¢â‚¬â€œ08, Chapter 01 unchanged; original published universe dossiers with labeled writing supplements and prior ship update; accepted standalone side story The Kharad Trial (26 October 2026), separate from main-novel chronology; owner-supplied revised standalone The House That Would Not Kneel (27 October 2026), proposed main-saga continuity only; owner-supplied revised The Fleet Beneath the Grave (29 October 2026), proposed standalone continuity only; owner-directed combined The Seventh Lock (2 November 2026), proposed standalone continuity only; owner-authorized revision of The Names Beneath the Iron (4 November 2026), proposed standalone continuity",
+  "scope": "Novel chapters 1Ã¢â‚¬â€œ8: owner-directed House rivalry revision of Chapters 02Ã¢â‚¬â€œ08, Chapter 01 unchanged; original published universe dossiers with labeled writing supplements and prior ship update; accepted standalone side story The Kharad Trial (26 October 2026), separate from main-novel chronology; owner-supplied revised standalone The House That Would Not Kneel (27 October 2026), proposed main-saga continuity only; owner-supplied revised The Fleet Beneath the Grave (29 October 2026), proposed standalone continuity only; owner-directed combined The Seventh Lock (2 November 2026), proposed standalone continuity only; owner-authorized revision of The Names Beneath the Iron (4 November 2026), proposed standalone continuity; owner-supplied The Bottle Wager (5 November 2026), proposed standalone continuity awaiting review decisions",
   "source_sha256": {
     "downloads/the-shattered-lane-chapters-1-8.md": "f843477880b331d99e7948751486dab6867019b2e013ccc062453b5ef0323f54",
     "content/public-v1.json": "c57e43189bd3c436230d7126988aea82aaf7720ef3cb25a137141fbff95c265e",
@@ -23,9 +23,9 @@
     "novel/chapters/chapter-07.md": "e6f68b9fe7215cdf26a0a4636fab844273e86301e7d2a23f36b0c850a70671f8",
     "novel/chapters/chapter-08.md": "34c5af8643a5091ee955bb443dccb8c8efe5148667ba58a9915d7cb4c75fe6e8",
     "novel/complete-novel.md": "7496c12be7c1886c074c6926af5281754812951847a86f14c20501113a7808e9",
-    "novel/INDEX.md": "75307dd7dac59e5d020054f520b3d86391adaa8f35580adb70aba20f023fae94",
+    "novel/INDEX.md": "afc622a80ef494ac39527d8981978a2c80b438d51fcd629d606911fcf4f2276d",
     "novel/scene-index.json": "8e670177e3ce7968376fbb0d909f5caef2e6d646133ffc50fc70f663eadea6a3",
-    "README.md": "6623e01a06923ff253be5d1a6501a193830f9f2133613c6b53cf76bb3a69068d",
+    "README.md": "5415b97a071c89436a5d4b0201e54d0590d9ef9922c2cd716aa33a90d92f8077",
     "reference/characters/annette.md": "e99ae6c62573bc5c07d8f2c5a3aaae9ab5c17e95afcf29375059e1c353a7e215",
     "reference/characters/anton.md": "cc4231415f18b387a16633161108d4cf269ce74b1a6c638ca27eef0b130b5864",
     "reference/characters/aster-9.md": "ad6bdd1489c587a3ae7515a3765013a5111644cc0bd7e7f2201e9707a7de1449",
@@ -47,10 +47,10 @@
     "reference/characters/torvald-krenn.md": "bc0048124057dadc6ce06101ca9d39c5f7e08c205858612f00654f1150d6acc4",
     "reference/characters/varek-solan.md": "6e89d74b791922cc1405b0306049df21361f31bcc6edeedb80de54b8ddb97544",
     "reference/factions/blue-republic.md": "91e5f68a197848f380f8bae7809090c49e2d3860b9a706930e9f2e0403fdd6bd",
-    "reference/factions/directorate-of-ash.md": "9dcedf038fc906c66985c73a2083d5e96c4f9b64ff4540887e003624fce54c8c",
-    "reference/factions/garooth-clans.md": "02f16ba221afc508b8c0844f14e55331cf28bcc93df43d0448b9651cd18fde8e",
+    "reference/factions/directorate-of-ash.md": "1cf048fc5d511cc646e7e32cab450ac62d2cfffce3420cc618b6ab432784672e",
+    "reference/factions/garooth-clans.md": "8560a1643c4f105b8d4e663fe7ab30db5340004b1ba32a65882be474cc057b6b",
     "reference/factions/hiigaran-restoration.md": "efa81e4b8934c3820bd7fecdadb109fc4557f8319d7dd79b715ec3ecbdca6908",
-    "reference/factions/house-von-hjertstedt.md": "ab515a21342aaa1789163678ba34faebb8ebb8067195c6c702d944273e48f6f8",
+    "reference/factions/house-von-hjertstedt.md": "6c58301ce1fc16bd3971f7308ef3c6c313456b8d6963f591adc92c82c2e0a654",
     "reference/factions/independent-operators.md": "708c6098d62aabab770835a8609f78103b3304b106f7d204b4b595d2ec87833d",
     "reference/factions/kharad-war-clans.md": "6b450201932f335a154dbcf2922629b9b9c9d851bbe442ab0c486adf0be740f6",
     "reference/factions/seraph-throne.md": "3ea2d63d3fe0a627d12f6cb60195b040ea16efa2d3304cbfee225041d8ab5028",
@@ -122,7 +122,7 @@
     "reference/galaxy-map/galactic-atlas.md": "30c11bff04b44d26c6abc188d2692491adcbdab195846eb017154e5358baea19",
     "reference/gates-and-lanes/pluto-gate.md": "a72e8b8b16459945dfd312877a512d000872ff8f5aa31429602926984e4612b2",
     "reference/gates-and-lanes/strategic-gates-and-lanes.md": "3197c489e57ebd217bfa161604fd272d0e97210abd7821b9107c2aea20c0215e",
-    "reference/INDEX.md": "35e1d146d58bd8be40c497e3a69c2a1bb3c7594599abd293617fafb6af9ba124",
+    "reference/INDEX.md": "ed3947313197e7c00c8b18222a11038027b0a0b6ede92a0f81140db65f8c4728",
     "reference/locations/ardent-agricultural-world.md": "423b4a8948e0a52652ede94b932e207ae87dac465f6a5b76fb4a4e9b7132a5a7",
     "reference/locations/ardent-bastion.md": "8dd126efaa787b9e2320a520302b66bf821c9eda3dda4d6f3ee676eb1771295d",
     "reference/locations/ardent-central.md": "0f5fb842ac103491dc5bdee50aabbacfb79b61d1ffb867fe46c47d03c3362bc9",
@@ -176,7 +176,7 @@
     "sources/new-ships-2026-10-10.json": "3d2b7cf11de85587df14f8a14ae6bf4620a6b4eb7cac097e760cd85fca3d5c11",
     "sources/novel-revision-map.json": "ca4c71c34cbe0018f878489fa778b862b1f5e32854795092700db8a42b399354",
     "side-stories/the-kharad-trial.md": "6622581a108e19d22f33a6e7a88eb55a4b784f3ff9b866d2ceac1b7380f298fd",
-    "side-stories/INDEX.md": "940af92557d1aa9e8a08feeaa23e6d9caa14dc4ea6655f40b957f57d01ed5ecc",
+    "side-stories/INDEX.md": "1f12e6a6d172d16b4d5d8ea5489b610ac31fc7f37724d966d3ee331e2cfe4fd4",
     "side-stories/scene-index.json": "cb61cecc78c2ce70a3469aa7a92fa5b1a6466246859ac413cdea8ca351dad974",
     "reference/side-stories/the-kharad-trial.md": "3918dd025e290cc8c0bdfb47433d52b90ea3b5c002f2ffacd90b60627ebd1c12",
     "sources/kharad-trial-2026-10-26.json": "29058ea6188edf61d1d845c286bc80c861d7406d828cd7477fa2930635e0ebe8",
@@ -204,7 +204,10 @@
     "guidelines/known-reach-fiction-craft.md": "6ee3478f6705265342b799ba122125f400b275fbe3940ab43b8b9b9fc2d67385",
     "guidelines/writing-chat-prompt.md": "b13d3dfdecc601dd6cd4851884358767c661beceba8c3ba7ef63cb493bac4dcd",
     "third-party/novel-writing/LICENSE": "71a054018d523abc58f726cf52ae58e888724b3ebc563133af957dc5d6a8d84a",
-    "sources/novel-writing-craft-adaptation-2026-11-05.json": "1470c7d88c322a04aea6a5ffc4d28e078d618ba911737198caabc7f36c8da49a"
+    "sources/novel-writing-craft-adaptation-2026-11-05.json": "1470c7d88c322a04aea6a5ffc4d28e078d618ba911737198caabc7f36c8da49a",
+    "side-stories/the-bottle-wager.md": "9b60b88db9343c2de4baef75f88f30036885f1dadd559f837b3166a19e275b71",
+    "reference/side-stories/the-bottle-wager.md": "8cf7336eee97f91767bc9f77c74b35865bcd324aa81f7deb178ed647e8e179c1",
+    "sources/bottle-wager-2026-11-05.json": "ac8c21a457fd40a9eb39dd07710a03cae474d516aa02755bce164054773ad179"
   },
   "supplemental_updates": [
     {
@@ -273,11 +276,18 @@
       "sha256": "1470c7d88c322a04aea6a5ffc4d28e078d618ba911737198caabc7f36c8da49a",
       "date": "2026-11-05",
       "scope": "prospective fiction craft, writing-chat prompt and side-story format; no story prose changes"
+    },
+    {
+      "source_record": "sources/bottle-wager-2026-11-05.json",
+      "sha256": "ac8c21a457fd40a9eb39dd07710a03cae474d516aa02755bce164054773ad179",
+      "side_stories_added": 1,
+      "date": "2026-11-05",
+      "continuity_status": "PROPOSED_STANDALONE_UNRESOLVED"
     }
   ],
   "current_edition": "house-rivalry-2026-10-19-v01",
   "revised_on": "2026-10-19",
   "revision_metadata": "sources/house-rivalry-2026-10-19.json",
-  "side_story_count": 6,
-  "side_story_reference_count": 6
+  "side_story_count": 7,
+  "side_story_reference_count": 7
 }

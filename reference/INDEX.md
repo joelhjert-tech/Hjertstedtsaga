@@ -172,3 +172,5 @@ The original website snapshots retain their source attributions. Six character d
 - [The Silence Beneath Shardveil](side-stories/the-silence-beneath-shardveil.md) — owner-authorized standalone revision; full spoilers; main-novel placement not established.
 
 - [The Names Beneath the Iron](side-stories/the-names-beneath-the-iron.md) — owner-authorized revision; full spoilers; proposed standalone continuity.
+
+- [The Bottle Wager](side-stories/the-bottle-wager.md) — owner-supplied story awaiting review decisions; full spoilers; main-novel placement unresolved.
