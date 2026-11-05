@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-05",
+  "purpose": "Owner requested adapting fiction-writing material for Known Reach grimdark, horror and space science fiction and using it in future writing chats.",
+  "upstream": {
+    "repository": "https://github.com/wgwtest/novel-writing",
+    "commit": "838729695148008d42c01bd7c3c0c1a5c15de830",
+    "copyright": "Copyright (c) 2026 wgwtest",
+    "license": "MIT",
+    "included_license": "third-party/novel-writing/LICENSE",
+    "consulted_paths": [
+      "novel-writing/SKILL.md",
+      "novel-writing/references/dialogue-and-behavior.md",
+      "novel-writing/references/cognition-layers-and-language.md",
+      "novel-writing/references/scene-causality-and-agency.md",
+      "novel-writing/references/style-fidelity.md",
+      "novel-writing/references/revision-checklist.md",
+      "novel-writing/references/realism-constraints.md"
+    ]
+  },
+  "adaptation": "Project-specific craft guidance and a chat prompt, written for the Known Reach and its existing rules; source inspiration attributed and full MIT license included. No upstream code or installer is run.",
+  "scope": "Prospective writing guidance and new owner-directed side-story format; no story prose, established canon, main-novel scene format or comic rules revised.",
+  "files": {
+    "AGENTS.md": "7261a76d71f710598356b5d6d9e3a41a43f2dad41d4712f98cb22acff5fa4a82",
+    "README.md": "6623e01a06923ff253be5d1a6501a193830f9f2133613c6b53cf76bb3a69068d",
+    "guidelines/novel-writing-guidelines.md": "f8af2958b63baee5f48ea657203fa4941ae39952dfb3e583a8fc13cbd445f66f",
+    "guidelines/known-reach-fiction-craft.md": "6ee3478f6705265342b799ba122125f400b275fbe3940ab43b8b9b9fc2d67385",
+    "guidelines/writing-chat-prompt.md": "b13d3dfdecc601dd6cd4851884358767c661beceba8c3ba7ef63cb493bac4dcd",
+    "third-party/novel-writing/LICENSE": "71a054018d523abc58f726cf52ae58e888724b3ebc563133af957dc5d6a8d84a"
+  },
+  "side_story_rule": "Owner directed a maximum of 6,000 story-prose words, no internal scene captions or headings and no continuation options for new side stories; a title is allowed."
+}

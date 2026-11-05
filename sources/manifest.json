@@ -11,9 +11,9 @@
   "scene_count": 116,
   "reference_count": 145,
   "files": {
-    "AGENTS.md": "a7b4150df9e39388161c57e6394bf5698b0a2c0ac5fdeb0f40605d955b1c17e4",
+    "AGENTS.md": "7261a76d71f710598356b5d6d9e3a41a43f2dad41d4712f98cb22acff5fa4a82",
     "guidelines/novel-github-sync-v01.md": "9a63d777b89fa4783db7052602ee1607f30932fb8b8983193a418f2263fc336a",
-    "guidelines/novel-writing-guidelines.md": "e70c151f10c9c61bbed12454410929a7387472705ca995108df79566d1bf5d07",
+    "guidelines/novel-writing-guidelines.md": "f8af2958b63baee5f48ea657203fa4941ae39952dfb3e583a8fc13cbd445f66f",
     "novel/chapters/chapter-01.md": "e6fbe1120e616925c93610b249d58297fef06738e3cdbadc1b40a33dc5ef6af0",
     "novel/chapters/chapter-02.md": "d9a2400b9ccffe09e49723b3f6ff628b2cd8ddf9b11c5db4fd410f1e1cd5dfd6",
     "novel/chapters/chapter-03.md": "056a2b0a5f4b49bd93e5a88f7407d2b33b92094e40b74af2667fb4e8c74ce448",
@@ -25,7 +25,7 @@
     "novel/complete-novel.md": "7496c12be7c1886c074c6926af5281754812951847a86f14c20501113a7808e9",
     "novel/INDEX.md": "75307dd7dac59e5d020054f520b3d86391adaa8f35580adb70aba20f023fae94",
     "novel/scene-index.json": "8e670177e3ce7968376fbb0d909f5caef2e6d646133ffc50fc70f663eadea6a3",
-    "README.md": "f8aa0514fc1efa818629c3eaa70977999f538e309d7723bf225fae75b70a7c27",
+    "README.md": "6623e01a06923ff253be5d1a6501a193830f9f2133613c6b53cf76bb3a69068d",
     "reference/characters/annette.md": "e99ae6c62573bc5c07d8f2c5a3aaae9ab5c17e95afcf29375059e1c353a7e215",
     "reference/characters/anton.md": "cc4231415f18b387a16633161108d4cf269ce74b1a6c638ca27eef0b130b5864",
     "reference/characters/aster-9.md": "ad6bdd1489c587a3ae7515a3765013a5111644cc0bd7e7f2201e9707a7de1449",
@@ -200,7 +200,11 @@
     "reference/side-stories/the-names-beneath-the-iron.md": "6e98e5a826ec33c416fbc33ff3f18d5894ac6f1aa5799599964774764d550f9c",
     "sources/names-beneath-iron-2026-11-04.json": "cd5d3ce899233824aa4f5fd0b93cb9aa71b1f1cd19fc9db4297f4f58c968b9b0",
     "sources/editions/the-names-beneath-the-iron-original-2026-11-04.md": "744299ad9eafafcf1480eb55d8450ad3deafcc4ce31133a30ae062025b041891",
-    "sources/names-beneath-iron-revision-2026-11-04.json": "0c2381299c3ac72e63f5ad078ffee5cf08da4e74d656572faa6ed4490ab3743f"
+    "sources/names-beneath-iron-revision-2026-11-04.json": "0c2381299c3ac72e63f5ad078ffee5cf08da4e74d656572faa6ed4490ab3743f",
+    "guidelines/known-reach-fiction-craft.md": "6ee3478f6705265342b799ba122125f400b275fbe3940ab43b8b9b9fc2d67385",
+    "guidelines/writing-chat-prompt.md": "b13d3dfdecc601dd6cd4851884358767c661beceba8c3ba7ef63cb493bac4dcd",
+    "third-party/novel-writing/LICENSE": "71a054018d523abc58f726cf52ae58e888724b3ebc563133af957dc5d6a8d84a",
+    "sources/novel-writing-craft-adaptation-2026-11-05.json": "1470c7d88c322a04aea6a5ffc4d28e078d618ba911737198caabc7f36c8da49a"
   },
   "supplemental_updates": [
     {
@@ -263,6 +267,12 @@
       "date": "2026-11-04",
       "revision": "names-beneath-iron-editorial-revision",
       "continuity_status": "PROPOSED_STANDALONE"
+    },
+    {
+      "source_record": "sources/novel-writing-craft-adaptation-2026-11-05.json",
+      "sha256": "1470c7d88c322a04aea6a5ffc4d28e078d618ba911737198caabc7f36c8da49a",
+      "date": "2026-11-05",
+      "scope": "prospective fiction craft, writing-chat prompt and side-story format; no story prose changes"
     }
   ],
   "current_edition": "house-rivalry-2026-10-19-v01",

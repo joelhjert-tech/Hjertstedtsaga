@@ -1,5 +1,7 @@
 # Standing novel-writing guidelines
 
+For complementary scene craft and genre guidance, use [Fiction craft for Tales of The Known Reach](known-reach-fiction-craft.md). This supplement preserves the standing rules below; it does not authorize prose revisions or alter accepted canon.
+
 Adopted 19 October 2026 under the owner's **House Rivalry, Banter and Victory Traditions** instruction. Apply to future novel writing and authorized revisions. The accompanying editorial pass covers Chapters 02–08; the owner's subsequent instruction, **“Skip chapter 01”**, excludes Chapter 01 from that pass.
 
 Read the relevant complete scenes, [character dossiers](../reference/INDEX.md), and [Winter Reserve lore](../reference/lore/winter-reserve-and-bottle-wagers.md) before writing. The novel establishes events; character sheets establish identities and relationships. Preserve ranks, command boundaries, character knowledge, equipment states, mission outcomes and major continuity. This guideline adds a standing characterization direction, not permission to revise unrelated canon or comic production.
@@ -81,3 +83,7 @@ Apply these rules to every new main-novel scene unless the owner gives a differe
 
 - Stop after each scene and its four options so the owner can select one or combine several, request changes, or set a different direction.
 - Drafted continuation ideas are not published canon. Follow the standing GitHub-sync guideline for accepted story additions or revisions, respecting any explicit hold or draft-only instruction.
+
+## Side-story format — 5 November 2026
+
+For new standalone side stories, use at most **6,000 words of story prose** for the complete side story. A title is permitted and is not part of that prose count. Do not add scene captions, scene headings or scene-number labels inside the story; use paragraph breaks or an unobtrusive scene break when needed. Do not provide continuation options after a side story. These side-story rules do not change the main-novel scene format above, and an explicit instruction for a particular story can override them. Preserve existing stories unless the owner requests revisions.
