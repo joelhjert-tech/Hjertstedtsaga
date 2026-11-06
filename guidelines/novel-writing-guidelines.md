@@ -6,6 +6,14 @@ Adopted 19 October 2026 under the owner's **House Rivalry, Banter and Victory Tr
 
 Read the relevant complete scenes, [character dossiers](../reference/INDEX.md), and [Winter Reserve lore](../reference/lore/winter-reserve-and-bottle-wagers.md) before writing. The novel establishes events; character sheets establish identities and relationships. Preserve ranks, command boundaries, character knowledge, equipment states, mission outcomes and major continuity. This guideline adds a standing characterization direction, not permission to revise unrelated canon or comic production.
 
+## Prose paragraphs and dialogue — 6 November 2026
+
+Apply this presentation style to new main-novel scenes and standalone fiction, and to prose the owner authorizes for revision. It does not authorize changes to existing stories or override an instruction for a particular work. Scene headings and continuation options retain the separate format rules below.
+
+Write flowing, book-style paragraphs of connected sentences, usually eight to twelve sentences where the action and conversation allow. Embed dialogue with the same speaker's relevant action, reaction, body language and sensory detail. Start a new paragraph for a new speaker or a major shift in the beat when clarity requires it; do not force an eight-sentence minimum or mix speakers to meet the target. Avoid padding or adding a gesture to every line.
+
+Do not stack isolated sentences, orphaned reactions or dramatic fragments as separate lines. Before sending, scan the story prose and merge one-sentence paragraphs into a neighboring paragraph where the speaker and action remain clear, or develop them into a connected paragraph. A shorter paragraph is acceptable when needed to identify a new speaker or mark a major beat. Reserve a standalone single-sentence line for rare major dramatic impact, no more than once in a long reply. Do not use line breaks for emphasis or cinematic subtitle, screenplay or poetic formatting.
+
 ## Competition as House culture
 
 For the brothers, Dennis and veteran House commanders, a battle tests their craft as well as their courage. Let that attitude inform preparations, tactical choices within orders, private exchanges and later arguments. An engagement can express rivalry through a remembered maneuver, an unspoken challenge or a grudging compliment. It does not require a fresh wager in every scene.

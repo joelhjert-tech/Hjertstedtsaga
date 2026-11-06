@@ -23,7 +23,7 @@ Characters speak to particular listeners for a reason. Their rank, loyalties, tr
 
 Give important arrivals enough grounding for the current scene: who the person is, their relationship to the situation and a memorable impression. Anchor the reader without pausing the story for a dossier.
 
-Let exchanges affect the next choice, pressure or relationship when that matters. A hand moved to seal an airlock, a withheld access code or a delayed order can change a conversation. Do not add an interchangeable gesture to every line: fast dialogue and meaningful silence can stand alone. Let professionals use shared knowledge naturally rather than explaining their own jobs to one another for the reader.
+Let exchanges affect the next choice, pressure or relationship when that matters. A hand moved to seal an airlock, a withheld access code or a delayed order can change a conversation. Embed dialogue in connected prose as directed by the standing paragraph guideline, while starting a new paragraph when a change of speaker needs it. Do not add an interchangeable gesture to every line; fast dialogue and meaningful silence can still have room within the scene. Let professionals use shared knowledge naturally rather than explaining their own jobs to one another for the reader.
 
 Retain the House's established voices and relationships, including disciplined rivalry, professional competence and the Charter's protections. Other factions, crews and civilians need their own interests and agency. The standing voice descriptions are starting points, not catchphrases to repeat in every exchange.
 
@@ -39,7 +39,7 @@ For battles, make objectives, orders, opposing responses and consequences unders
 
 ## Protect the author's voice during revision
 
-Keep purposeful short paragraphs, repetition, dialogue, dark humor, quiet emotional beats and concrete sensory details where they carry rhythm or character. Vary sentence and paragraph length where the scene benefits; do not eliminate repetition mechanically. Preserve plot, outcomes, emotional intent and deliberate ambiguity. Correct clear confusion with the smallest useful change; propose larger changes instead of silently making them. Do not turn vivid action or dialogue into a summary just because the summary is shorter.
+Follow the standing prose paragraph and dialogue guideline for new writing and authorized revisions, including its exceptions for speaker clarity, major beats and rare dramatic impact. Preserve repetition, dialogue, dark humor, quiet emotional beats and concrete sensory details where they carry rhythm or character; do not eliminate repetition mechanically. Preserve plot, outcomes, emotional intent and deliberate ambiguity. Correct clear confusion with the smallest useful change; propose larger changes instead of silently making them. Do not turn vivid action or dialogue into a summary just because the summary is shorter.
 
 When reviewing, prioritize consequential problems before copyediting. For each meaningful finding give the location, what happens, why it matters and a practical suggestion. Cite the actual chapter/scene/file or the supplied passage. Show a short illustrative revision only if useful and clearly label it as a proposal. If something is a taste choice rather than an error, say so. If evidence is missing or a real-world claim is uncertain, say what needs checking.
 
