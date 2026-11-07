@@ -31,3 +31,12 @@ Source and scope: [image review record](../../sources/character-appearance-revie
 The owner-directed rivalry revision adds to the website snapshot above. Christer's humor is deadpan, observant and well timed. He witnesses the clean-capture wager in [Chapter 02, Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge) and later calls Anton's dispute the debtor's objection in [Chapter 06, Scene 03](../../novel/chapters/chapter-06.md#3-the-rust-bucket). He enjoys the competition, notices the condition others missed and supports the team once orders arrive. Avoid giving him Anton's constant volume or Joel's exact manner of command.
 
 Follow the [standing writing guidelines](../../guidelines/novel-writing-guidelines.md).
+
+## Family relationships
+
+- **Father:** Elder Mikael.
+- **Siblings by blood:** Annette and Daniel von Hjertstedt.
+- **Brother-in-law:** Joel von Hjertstedt, Annette's husband.
+- **Family through marriage:** Anton von Hjertstedt, Joel's blood brother.
+
+Christer is not a blood brother of Joel or Anton and is not a son of Lars von Hjertstedt.
