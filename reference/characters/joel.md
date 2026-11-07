@@ -36,3 +36,13 @@ Source and scope: [image review record](../../sources/character-appearance-revie
 The owner-directed rivalry revision adds to the website snapshot above. Joel's humor is dry and exact; he chooses a wager by understanding the terms and the people better than his opponents. In [Chapter 02, Scene 07](../../novel/chapters/chapter-02.md#7-full-combat-load) and [Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge), his private jokes coexist with Mara's authority and disabled unauthorized suit functions. A clean-capture wager is conditional on her objectives and checked logs. Keep that quiet pleasure in competition alongside his command judgment; rank never cancels his personal debts.
 
 Follow the [standing writing guidelines](../../guidelines/novel-writing-guidelines.md). This supplement does not extend the published event synopsis above beyond its stated Chapter 02 scope.
+
+## Family relationships
+
+- **Father:** Lars von Hjertstedt.
+- **Brother by blood:** Anton von Hjertstedt.
+- **Wife:** Annette von Hjertstedt.
+- **Brothers-in-law through Annette:** Christer and Daniel von Hjertstedt.
+- **Father-in-law:** Elder Mikael, father of Annette, Christer, and Daniel.
+
+Joel and Anton are blood brothers; Christer and Daniel are family through Joel's marriage to Annette, not Lars's sons.
