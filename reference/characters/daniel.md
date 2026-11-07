@@ -31,3 +31,12 @@ Source and scope: [image review record](../../sources/character-appearance-revie
 The owner-directed rivalry revision adds to the website snapshot above. Daniel competes through engineering, system access and measurements, with understated sarcasm rather than loud claims. The [Chapter 02, Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge) argument over command access carries into the independently checked coolant-and-gun challenge in [Chapter 06, Scene 03](../../novel/chapters/chapter-06.md#3-the-rust-bucket). Anton arranges transfer of the eastern bottle while continuing to reject the original interpretation. Daniel's technical pride never makes prisoners, maintenance limits or casualty care secondary.
 
 Follow the [standing writing guidelines](../../guidelines/novel-writing-guidelines.md).
+
+## Family relationships
+
+- **Father:** Elder Mikael.
+- **Siblings by blood:** Annette and Christer von Hjertstedt.
+- **Brother-in-law:** Joel von Hjertstedt, Annette's husband.
+- **Family through marriage:** Anton von Hjertstedt, Joel's blood brother.
+
+Daniel is not a blood brother of Joel or Anton and is not a son of Lars von Hjertstedt.
