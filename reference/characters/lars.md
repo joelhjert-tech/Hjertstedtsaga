@@ -33,3 +33,12 @@ Source and scope: [image review record](../../sources/character-appearance-revie
 The owner-directed rivalry revision supplements the background and appearance snapshot above with novel characterization. Lars's authority comes with a veteran's eye for the better objective and a devastating economy of words. His reserve authorization in [Chapter 03, Scene 07](../../novel/chapters/chapter-03.md#7-the-maniacs-of-the-grey-nomad) remembers Rydell's old debt. In [Chapter 05, Scene 01](../../novel/chapters/chapter-05.md#1-what-victory-leaves-behind), he makes sure Joel's personal prize reaches Dennis. In [Chapter 08, Scene 15](../../novel/chapters/chapter-08.md#15-when-the-primarch-arrived), he humbles Anton's breach claim while maintaining the existing no-pursuit order.
 
 The family competes fiercely within his command boundaries. His sons' boasting does not make him merely their straight man; he can win the exchange and the strategic argument. Follow the [standing writing guidelines](../../guidelines/novel-writing-guidelines.md).
+
+## Family clarification
+
+- **Sons by blood:** Joel and Anton von Hjertstedt.
+- **Joel's wife:** Annette von Hjertstedt.
+- **Annette's brothers by blood:** Christer and Daniel von Hjertstedt.
+- **Annette, Christer, and Daniel's father:** Elder Mikael.
+
+Christer and Daniel are part of the extended family through Joel and Annette's marriage, not Lars's sons.
