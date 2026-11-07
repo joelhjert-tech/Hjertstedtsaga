@@ -36,3 +36,12 @@ Source and scope: [image review record](../../sources/character-appearance-revie
 The owner-directed rivalry revision adds to the website snapshot above. Anton provokes, boasts and insists that a breach deserves its own credit. The [Chapter 02, Scene 11](../../novel/chapters/chapter-02.md#11-race-to-the-bridge) eastern-reserve wager leaves him disputing Daniel's claim, while explicitly accepting the captain's mission objectives. His loudness is personal, not a license to ignore orders. Future dialogue may carry such debts forward, but must preserve his practiced teamwork and willingness to pay.
 
 Follow the [standing writing guidelines](../../guidelines/novel-writing-guidelines.md). This supplement does not extend the published event synopsis above beyond its stated Chapter 02 scope.
+
+## Family relationships
+
+- **Father:** Lars von Hjertstedt.
+- **Brother by blood:** Joel von Hjertstedt.
+- **Sister-in-law:** Annette von Hjertstedt, Joel's wife.
+- **Family through Joel's marriage:** Christer and Daniel von Hjertstedt, Annette's brothers.
+
+Christer and Daniel are not Anton's blood brothers and are not Lars's sons.
