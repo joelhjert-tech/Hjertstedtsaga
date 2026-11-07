@@ -25,3 +25,12 @@ The implants house interfaces for Lucy and Kira, supporting encrypted communicat
 Long wavy dark-blonde hair frames a light-skinned face and blue-grey eyes. She wears a long dark tailored coat with ivory panels and fine teal accents, a utility belt, black trousers and tall boots. Dark rounded implants sit on either side of the head; the earlier description of her permanent horns and their function remains above.
 
 Source and scope: [image review record](../../sources/character-appearance-review-2026-10-31.json). [Published character sheet](https://tales-from-the-known-reach.pages.dev/media/characters/annette-v05-ab32a2f2e75f.png).
+
+## Family relationships
+
+- **Husband:** Joel von Hjertstedt.
+- **Father:** Elder Mikael.
+- **Brothers by blood:** Christer and Daniel von Hjertstedt.
+- **Brother-in-law:** Anton von Hjertstedt, Joel's blood brother.
+
+Annette, Christer, and Daniel are siblings by blood; Joel and Anton belong to this family through Joel and Annette's marriage.
