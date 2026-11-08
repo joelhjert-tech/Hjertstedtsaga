@@ -8,7 +8,7 @@ Dispossessed Directorate commander
 
 Varek Solan is a former Directorate commander surviving under another name. On Calder Reach, he turns industrial equipment and a failing defence grid into time for civilians to escape.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Varek once commanded the Ninth Compliance Group. His authority and status were revoked without a court hearing, and he escaped the attempt to arrest him. At Calder Reach he uses the name Varek Hale and applies a hunter’s training to a neglected frontier station’s defence.
 

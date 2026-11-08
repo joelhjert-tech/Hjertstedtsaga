@@ -8,7 +8,7 @@ Commander of Kestrel’s surviving garrison
 
 Halden Rook is the old officer who kept Kestrel’s garrison and refugees alive after their former authorities abandoned them.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Rook served at Kestrel before the Vardos government collapsed. When Sera arrives with the command key, he tests her claim against the station he actually knows: failing heat, fragile pressure seals, crowded refuges and medical rooms built in former offices. His authority has survived through responsibility rather than institutional support.
 

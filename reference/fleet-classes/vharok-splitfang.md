@@ -1,7 +1,7 @@
 # Splitfang-class hunter frigate
 
 **Faction:** [The Vharok Brood](../factions/vharok-brood/README.md)  
-**Status:** Owner-directed future-setting ship design, 24 October 2026; not a vessel confirmed in published Chapters 1–8.
+**Status:** Owner-directed future-setting ship design, 24 October 2026; not a vessel confirmed in the current main-novel Chapters 1–7.
 
 ![Slender Vharok Splitfang silhouette](../factions/vharok-brood/splitfang-silhouette.svg)
 

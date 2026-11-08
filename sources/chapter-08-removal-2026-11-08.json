@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "action": "OWNER_DIRECTED_CHAPTER_REMOVAL",
+  "request": "Remove chapter 08 from the current main novel.",
+  "previous_commit": "11b57d3c17704119c21172177b04a9ef782ca520",
+  "removed_chapter": 8,
+  "removed_title": "The Smaller Ships",
+  "previous_file": "novel/chapters/chapter-08.md",
+  "previous_sha256": "34c5af8643a5091ee955bb443dccb8c8efe5148667ba58a9915d7cb4c75fe6e8",
+  "historical_version": "https://github.com/joelhjert-tech/Hjertstedtsaga/blob/11b57d3c17704119c21172177b04a9ef782ca520/novel/chapters/chapter-08.md",
+  "active_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "active_scene_count": 100,
+  "scope": "Chapter file, combined novel, active indexes and affected current references. Existing standalone stories and historical source editions are unchanged.",
+  "historical_note": "Historical source records and the original revision mapping describe their own earlier editions; they are not the active reading order.",
+  "website_deployed": false,
+  "comic_material_changed": false
+}

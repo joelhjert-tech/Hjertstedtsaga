@@ -8,7 +8,7 @@ Bounty hunter and warrant carrier
 
 Garran Holt is the professional bounty hunter carrying a live prisoner, a valuable warrant and a contract that becomes much more dangerous than its advertised route.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Holt assembles a mercenary convoy to deliver Marek Soren from Kestrel to Ardent Judicial Relay. The warrant pays for a living prisoner. He keeps control when Soren raises the price of the operation by revealing how much intelligence he carries, rather than striking him to silence the room.
 

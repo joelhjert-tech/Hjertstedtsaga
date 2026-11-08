@@ -8,7 +8,7 @@ Seraph Hunter commander
 
 Dennis Rask is a veteran Seraph Hunter and one of Joel’s oldest friends. He brings formidable experience to contaminated battlefields, along with a destructive certainty that alarms the engineers beside him.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Dennis knew Joel before he became High Marshal and has dragged him out of battles others considered lost. His first full description places him in older, broader armour than the other Hunters, covered in repairs from long campaigns. His loyalty has been demonstrated through survival and rescue.
 

@@ -8,7 +8,7 @@ Gunner of the Wayward Star
 
 Dax Corven is Sera Venn’s gunner, a scarred working soldier whose loyalty is measured in the positions he holds and the people he helps keep alive.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Dax arrives at Kestrel with the battered Wayward Star. At the sealed airlock he stands beside Sera with a compact rifle, ready to force entry until Rook explains that damaging the door would endanger residential sections. The exchange places his directness beside the civilian consequences of force.
 

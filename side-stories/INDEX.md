@@ -1,6 +1,6 @@
 # Side-story index
 
-Standalone stories in the Known Reach; continuity status is stated for each story. These are separate from the eight-chapter main novel; list order does not establish a shared timeline.
+Standalone stories in the Known Reach; continuity status is stated for each story. These are separate from the seven-chapter main novel; list order does not establish a shared timeline.
 
 ## The Kharad Trial: The Things Beneath the Ash
 

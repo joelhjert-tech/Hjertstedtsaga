@@ -8,7 +8,7 @@ Veyr-Khal of the Talyrn Continuance
 
 Ortheva Sair is the Talyrn Continuance’s supreme military coordinator. She assesses the House through its decisions, capabilities and intentions, with the interests of her own people firmly in view.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Ortheva receives the brothers without a ceremonial guard or throne. Her questions test their boarding decisions, the seizure of Ardent and the strategic consequences of stabilizing Gate Seventeen. She accepts that protected access and a hidden homeland are not subjects to be casually surrendered in conversation.
 

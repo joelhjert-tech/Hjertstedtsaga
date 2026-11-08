@@ -1,6 +1,6 @@
 # Novel index
 
-Current repository edition: **House rivalry revision — 19 October 2026**. Chapters 02–08 revised; Chapter 01 unchanged from the imported website edition. Chapter numbers follow the revised eight-chapter novel, not comic issue numbers. See the [revision source record](../sources/house-rivalry-2026-10-19.json) and [standing writing guidelines](../guidelines/novel-writing-guidelines.md).
+Current repository edition: **Chapters 1–7**. The owner removed Chapter 8 on 8 November 2026; see the [removal record](../sources/chapter-08-removal-2026-11-08.json). Chapter 01 remains unchanged by the 19 October rivalry revision. Chapter numbers are distinct from comic issue numbers; see the [historical revision record](../sources/house-rivalry-2026-10-19.json) and [standing writing guidelines](../guidelines/novel-writing-guidelines.md).
 
 ## [Chapter 1: The Unwanted Fortress](chapters/chapter-01.md)
 
@@ -122,26 +122,6 @@ Current repository edition: **House rivalry revision — 19 October 2026**. Chap
 - [13. The Weight They Carried](chapters/chapter-07.md#13-the-weight-they-carried) — lines 4499–4668
 - [14. The Forge Falls Silent](chapters/chapter-07.md#14-the-forge-falls-silent) — lines 4669–4846
 - [15. The Living First](chapters/chapter-07.md#15-the-living-first) — lines 4847–5000
-
-## [Chapter 8: The Smaller Ships](chapters/chapter-08.md)
-
-- [1. The Work That Waited](chapters/chapter-08.md#1-the-work-that-waited) — lines 3–142
-- [2. The Smaller Ships](chapters/chapter-08.md#2-the-smaller-ships) — lines 143–268
-- [3. Dock Twelve](chapters/chapter-08.md#3-dock-twelve) — lines 269–362
-- [4. The Man They Erased](chapters/chapter-08.md#4-the-man-they-erased) — lines 363–758
-- [5. The Cadet Ship](chapters/chapter-08.md#5-the-cadet-ship) — lines 759–1336
-- [6. Reinforcement Request](chapters/chapter-08.md#6-reinforcement-request) — lines 1337–1768
-- [7. Into the Graveyard](chapters/chapter-08.md#7-into-the-graveyard) — lines 1769–2204
-- [8. The Dead Battleship](chapters/chapter-08.md#8-the-dead-battleship) — lines 2205–2762
-- [9. The Orb in Section Nineteen](chapters/chapter-08.md#9-the-orb-in-section-nineteen) — lines 2763–3140
-- [10. The Saint Varos Wakes](chapters/chapter-08.md#10-the-saint-varos-wakes) — lines 3141–3596
-- [11. Salvage Rights](chapters/chapter-08.md#11-salvage-rights) — lines 3597–4134
-- [12. The Exorcists Enter the Grave](chapters/chapter-08.md#12-the-exorcists-enter-the-grave) — lines 4135–4564
-- [13. The Grave Becomes a Battlefield](chapters/chapter-08.md#13-the-grave-becomes-a-battlefield) — lines 4565–5024
-- [14. The Wall in the Grave](chapters/chapter-08.md#14-the-wall-in-the-grave) — lines 5025–5492
-- [15. When the Primarch Arrived](chapters/chapter-08.md#15-when-the-primarch-arrived) — lines 5493–5902
-- [16. The Prisoner of Winter](chapters/chapter-08.md#16-the-prisoner-of-winter) — lines 5903–6307
-
 
 ## Standalone side stories
 

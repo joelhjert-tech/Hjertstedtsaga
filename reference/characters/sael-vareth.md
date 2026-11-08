@@ -8,7 +8,7 @@ Seraph interpreter and captured witness
 
 Sael-Vareth studies what survives within people after Seraph conversion. Captured alive by Annette, it becomes a guarded source of testimony whose usefulness never makes its claims automatically trustworthy.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Annette discovers Sael-Vareth injured in a collapsed compartment and stops a trooper from killing it. Its stated function—interpretation—concerns memory, personality and the remains of a person after conversion. Annette identifies the prisoner as a true Seraph rather than a host.
 

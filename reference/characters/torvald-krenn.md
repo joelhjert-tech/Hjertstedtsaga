@@ -8,7 +8,7 @@ Master Mechanist and fleet-recovery specialist
 
 Torvald Krenn directs some of the House’s hardest fleet recoveries. He meets an impossible salvage problem with machinery, careful survey work and unmistakable enthusiasm.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Torvald contacts Aster-9 after receiving preliminary information about Saint Varos. The first exchange reveals how little the report contains and how much he wants to learn. His technical interest grows from evidence supplied to him, not unexplained knowledge of the derelict.
 

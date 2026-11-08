@@ -4,7 +4,7 @@
 
 **Source:** Developed from the owner's supplied image of a black-scaled, amber-eyed predatory alien and the owner's direction that this civilization hunts and eats other intelligent species. The ship design direction is explicitly **more advanced, slimmer and more refined than standard Known Reach fleets**.
 
-**Scope / spoiler warning:** This is an authorized **wider-setting faction concept**, not a claim that Chapters 1–8 have already identified this species. Its proposed connection to the Directorate's hidden war, the forgotten gates, Varek Solan's keys and the ancient *Saint Varos* records is a **future story direction**; the drafted Chapter 9 scenes have not been committed. Characters must discover these connections through evidence, not automatic knowledge.
+**Scope / spoiler warning:** This is an authorized **wider-setting faction concept**, not a claim that the current Chapters 1–7 have already identified this species. Its proposed connection to the Directorate's hidden war, the forgotten gates, Varek Solan's keys and the ancient *Saint Varos* records is a **future story direction**; former Chapter 8 was removed from the current main novel; the drafted Chapter 9 scenes have not been committed. Characters must discover these connections through evidence, not automatic knowledge.
 
 > **Faction principle:** A civilization of predators that has made the hunt into economics, government, strategy and war.
 
@@ -175,7 +175,7 @@ Suggested revelation path:
 - Their hunting practices are horrific, but do not turn them into an invulnerable supernatural force.
 - Travel remains dependent on gates, lanes and authentication; lost gates never equal unlimited instant movement.
 - Retain the ordinary fleet hierarchy and readable Whisper / Hammer / Knife combat language.
-- Their connection to the Directorate's secret war is the owner's story direction, **not an event proven by currently committed Chapters 1–8**.
+- Their connection to the Directorate's secret war is the owner's story direction, **not an event proven by current Chapters 1–7**.
 - The artwork and ship-family names in this README are concept references, not retroactive publication or final approved comic designs.
 
 ---

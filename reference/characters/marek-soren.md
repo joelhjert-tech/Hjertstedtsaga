@@ -8,7 +8,7 @@ Former Acting Director of Vardos Coalition intelligence
 
 Marek Soren is a restrained intelligence director whose knowledge of covert operations makes him more dangerous—and more valuable—than his helpless appearance suggests.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Introduced as Holt’s prisoner, Soren describes his former responsibility for covert operations, warrants and payments. He knows how to make information change the behaviour of a room. Even in a collar and cuffs he can expose risk, bargain for attention and complicate his captor’s contract.
 

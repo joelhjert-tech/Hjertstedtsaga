@@ -8,7 +8,7 @@ Captain of the Resolute Dawn
 
 Mara Vale commands the Resolute Dawn with an eye on crew survival, machinery and the real cost of a contract. A client’s payment does not excuse abandoning people.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Mara accepts Garran Holt’s prisoner escort contract. Her record includes civilian evacuations and a disciplinary complaint for refusing an order to abandon a damaged transport. Joel notices that she watches the prisoner rather than the money, and he and Anton approach her as prospective assault crew.
 

@@ -37,7 +37,7 @@ A searchable writing reference for **Tales from the Known Reach / The Shattered 
 ## Start here
 
 - [Novel chapter and scene index](novel/INDEX.md)
-- [Complete novel, chapters 1–8](novel/complete-novel.md)
+- [Complete novel, chapters 1–7](novel/complete-novel.md)
 - [Standalone side stories](side-stories/INDEX.md)
 - [Characters, factions, locations, ships and other published lore](reference/INDEX.md)
 - [Vharok Brood — new faction README and slender ship study](reference/factions/vharok-brood/README.md)
@@ -52,17 +52,21 @@ The first import is the text from website release `issue03-2026-10-08-v01`, copi
 
 ## New side story — 26 October 2026
 
-[The Kharad Trial: The Things Beneath the Ash](side-stories/the-kharad-trial.md) follows five Talyrn candidates through a containment failure on Vaerith. The owner authorized the reviewed fixes: credible rescue decisions, independent authentication, clear injuries and escape geography, institutional accountability and a truthful survivor count. The eight-chapter main novel remains unchanged. [Source record](sources/kharad-trial-2026-10-26.json).
+[The Kharad Trial: The Things Beneath the Ash](side-stories/the-kharad-trial.md) follows five Talyrn candidates through a containment failure on Vaerith. The owner authorized the reviewed fixes: credible rescue decisions, independent authentication, clear injuries and escape geography, institutional accountability and a truthful survivor count. At the time, the eight-chapter main novel remained unchanged; Chapter 8 was subsequently removed on 8 November 2026. [Source record](sources/kharad-trial-2026-10-26.json).
 
 ## New faction reference — 24 October 2026
 
 The owner added [the Vharok Brood](reference/factions/vharok-brood/README.md), an intelligent predatory alien civilization whose vessels are deliberately **advanced, narrow and sleek** compared with regular faction hulls. The faction dossier includes an embedded [Splitfang frigate silhouette](reference/factions/vharok-brood/splitfang-silhouette.svg) and a separate [ship-class sheet](reference/fleet-classes/vharok-splitfang.md). The user-provided creature reference image was not republished. The SVG is a design-reference diagram, **not approved production artwork**.
 
-This is wider-setting lore for the proposed forgotten-gate/Directorate mystery; it does not alter or confirm events within the currently committed eight-chapter novel. The drafted Chapter 9 continuation remains uncommitted.
+This is wider-setting lore for the proposed forgotten-gate/Directorate mystery; it does not alter or confirm events within the current seven-chapter novel. The previously drafted continuation remains uncommitted.
 
-## Latest novel revision
+## Main novel edition — 8 November 2026
 
-On 19 October 2026, the **House Rivalry, Banter and Victory Traditions** revision strengthened Chapters 02–08: distinct family voices, veteran competition, running bottle debts, disciplined teamwork, a Kestrel victory feast and remembrance. **Chapter 01 is unchanged**, as explicitly requested. All eight chapter titles, 116 scene identities, established mission outcomes and major continuity remain. The character, House and Winter Reserve dossiers retain their original website text and add clearly labeled writing supplements. See the [revision coverage and source record](sources/house-rivalry-2026-10-19.json).
+At the owner’s direction, Chapter 8, *The Smaller Ships*, was removed from the active main novel. Chapters 1–7 remain. The earlier version is identifiable in [the removal record](sources/chapter-08-removal-2026-11-08.json); source and reference snapshots retain their original historical scope.
+
+## Earlier novel revision
+
+On 19 October 2026, the **House Rivalry, Banter and Victory Traditions** revision strengthened Chapters 02–08: distinct family voices, veteran competition, running bottle debts, disciplined teamwork, a Kestrel victory feast and remembrance. **Chapter 01 is unchanged**, as explicitly requested. At that time all eight chapter titles and 116 scene identities remained; the later removal of Chapter 8 changed the active edition. The character, House and Winter Reserve dossiers retain their original website text and add clearly labeled writing supplements. See the [revision coverage and source record](sources/house-rivalry-2026-10-19.json).
 
 The [standing writing guidelines](guidelines/novel-writing-guidelines.md) make this culture part of future writing while preserving the Charter, military orders, small servings and guest protections. This repository update does not deploy the website or revise comic pages.
 
@@ -84,7 +88,7 @@ For Codex on this computer, open this repository folder as a project. For Codex 
 
 ## Authority and maintenance
 
-The novel is the source for events in this edition. Website dossiers supplement it and may cover different points in the story; their stated scopes are preserved. Report conflicts rather than silently reconciling them. Comic issue numbering and historical four-chapter numbering are different from this revised eight-chapter novel.
+The novel is the source for events in this edition. Website dossiers supplement it and may cover different points in the story; their stated scopes are preserved. Report conflicts rather than silently reconciling them. Comic issue numbering and historical four-chapter numbering are different from the current seven-chapter novel.
 
 This reference library does not supersede the production workspace's canon locks, approved visual assets, image gates or publication approvals. No unpublished novel drafts, production logs, approved production artwork or credentials are included. The new Vharok SVG is a reference-only technical silhouette, not a finalized comic or production asset.
 

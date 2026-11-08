@@ -8,7 +8,7 @@ Captain of ISS Wayfarer’s Debt
 
 Elara Vos commands a small ship carrying ambitious House cadets. She makes them answer to maintenance, inventories and the captain’s judgement before family names.
 
-Contains novel spoilers through Chapter 8.
+Published snapshot; may contain spoilers for the former eight-chapter edition. Chapter 8 was removed from the current main novel on 8 November 2026; its events are not part of the current main-novel edition.
 
 Elara brings an engineering report to the programme’s review: missile certification, cutter seals, coolant and a sensor controller. Her initial mission combines medical-freighter escort with investigation of missing miners. The command provision explicitly protects her authority from interference by trainees.
 
