@@ -1,8 +1,8 @@
 # Known Reach Story Library
 
-## New standalone story submitted for review — 8 November 2026
+## Revised standalone story — 8 November 2026
 
-[The Last Passenger of Veyr's Crossing](side-stories/the-last-passenger-of-veyrs-crossing.md) follows a House frigate investigating a missing passenger ship. The owner-supplied prose is preserved as submitted for review; its ending is unresolved and its placement is **proposed standalone continuity**. [Story reference](reference/side-stories/the-last-passenger-of-veyrs-crossing.md) · [Source record](sources/last-passenger-veyrs-crossing-2026-11-08.json).
+[The Last Passenger of Veyr's Crossing](side-stories/the-last-passenger-of-veyrs-crossing.md) follows a House frigate investigating a missing passenger ship. The owner-authorized revision completes the rescue story while preserving its mystery; main-novel placement is **proposed standalone continuity**. [Original edition](sources/editions/the-last-passenger-of-veyrs-crossing-original-2026-11-08.md) · [Story reference](reference/side-stories/the-last-passenger-of-veyrs-crossing.md) · [Revision record](sources/last-passenger-veyrs-crossing-revision-2026-11-08.json).
 
 ## New standalone story — 8 November 2026
 

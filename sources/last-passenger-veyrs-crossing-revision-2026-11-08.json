@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-08",
+  "edition": "owner-authorized-editorial-revision-v01",
+  "source": "Owner-authorized revision of the submitted story, preserving the original edition and developing a complete rescue ending.",
+  "status": "OWNER_AUTHORIZED_REVISION",
+  "continuity_status": "PROPOSED_STANDALONE; main-novel placement unestablished.",
+  "original_source_record": "sources/last-passenger-veyrs-crossing-2026-11-08.json",
+  "original_export_sha256": "3a1bd087ae382369fc6e89e9e0d6ab13731d635cf2990ffd41bb616e58f2a691",
+  "story_prose_word_count_whitespace": 4054,
+  "scope": "Tighten investigation, clarify crew knowledge, develop Lyra and the rescue, provide a complete ending while retaining unresolved horror; no main-novel changes.",
+  "base_commit": "75b9eaec733294ed1991c6d8e8206dca7fd28d95",
+  "files": {
+    "side-stories/the-last-passenger-of-veyrs-crossing.md": "eeb05b2752e1e5d841b551397d229675dd69ed5a499855735b752352c7e32ec9",
+    "sources/editions/the-last-passenger-of-veyrs-crossing-original-2026-11-08.md": "3a1bd087ae382369fc6e89e9e0d6ab13731d635cf2990ffd41bb616e58f2a691",
+    "reference/side-stories/the-last-passenger-of-veyrs-crossing.md": "ce8eccd8101fe6e9ad0783477d09945e9863a63a77994d1352e0607cfb139b28",
+    "side-stories/INDEX.md": "4e4700b04371619fab7e93a58c17fc2824b4ac9bb1f10ed77c5aac02c6cdf49e",
+    "reference/INDEX.md": "c2ac8b8298281375205217f5d23b8e7de8ff3b8e361b7a1691418f03bae52656",
+    "README.md": "d0be0d20594b996412ef34fd549910173c6b827188f3f31e1f14135a94a5b598"
+  },
+  "website_or_comic_publication": false
+}
