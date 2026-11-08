@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-08",
+  "edition": "owner-authorized-action-led-remake-v01",
+  "authorization": "Please remake The Forty Dead using these suggestions, with more tension and action while keeping the original ending.",
+  "scope": [
+    "immediate tow emergency and crew rescue",
+    "Lena Ortiz as an active engineer and her attempted rescue",
+    "industrial and reactor trial danger",
+    "Legate Kord as active political and legal opposition",
+    "expanded Resolute convoy battle and aftermath",
+    "original ending and core counts preserved"
+  ],
+  "source_records": [
+    "sources/forty-dead-2026-11-08.json",
+    "sources/forty-dead-revision-2026-11-08.json"
+  ],
+  "source_editions": [
+    "sources/editions/the-forty-dead-original-2026-11-08.md",
+    "sources/editions/the-forty-dead-revision-2026-11-08.md"
+  ],
+  "base_commit": "bc9df52497ac97a5e43adff92d4dc5c8a8e99b74",
+  "continuity_status": "Proposed standalone; main-novel placement remains unestablished.",
+  "story_prose_word_count_whitespace": 4508,
+  "audio_status": "Existing Snowball audiobook narrates prior revision; this remake has not been recorded.",
+  "files": {
+    "side-stories/the-forty-dead.md": "104dd820b65db1c76d2d829fba713674994c9b7374eb598ee112079aa4feb00e",
+    "sources/editions/the-forty-dead-revision-2026-11-08.md": "148113fb4a418f821ba547df07461f7b96538ab2e0f7a1652bcbfc1927c49006",
+    "sources/editions/the-forty-dead-original-2026-11-08.md": "e780cd348c764f7502ccd8c132de29f9a7f894bf98958aab534afdff66ff68f8",
+    "reference/side-stories/the-forty-dead.md": "1a18d302d9f1b7083d735ae6ab708fdc8933d531f7a0552c148db4c8de397459",
+    "side-stories/INDEX.md": "6103793444f441ffdcccbb11b49e66bdc783f4641b4c8caeed13d2d67892688e",
+    "reference/INDEX.md": "4faab32d67aefbe7d43aac807fc01ff814dffed1e79cbc904733df2df1c6a50c",
+    "README.md": "77ea06639c0a4b7a27e62b005bbe2a7118a8ead747572b0d8148b7ff7397d072"
+  },
+  "website_or_comic_publication": false
+}
