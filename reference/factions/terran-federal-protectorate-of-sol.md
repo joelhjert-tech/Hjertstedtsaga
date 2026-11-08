@@ -18,3 +18,7 @@ Its force design emphasizes maintainable machinery, protective escorts, disablin
 
 The Pluto Gate is fully controlled by the Terran Federal Protectorate beyond Pluto. Inspection, fuel, repair, quarantine and logistics infrastructure regulate onward traffic toward Earth, Mars and the Crown of Sol. Trade enters at Pluto. Sol decides what goes farther.
 
+
+## Proposed standalone story — 8 November 2026
+
+[The Forty Dead](../../side-stories/the-forty-dead.md) portrays the transfer and Terran reconstruction of condemned Imperial hulls. Its events and implications are proposed standalone continuity, with main-novel placement unestablished. See the [story reference](../side-stories/the-forty-dead.md).

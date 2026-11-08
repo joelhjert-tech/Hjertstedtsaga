@@ -174,3 +174,5 @@ The original website snapshots retain their source attributions. Six character d
 - [The Names Beneath the Iron](side-stories/the-names-beneath-the-iron.md) — owner-authorized revision; full spoilers; proposed standalone continuity.
 
 - [The Bottle Wager](side-stories/the-bottle-wager.md) — owner-supplied story awaiting review decisions; full spoilers; main-novel placement unresolved.
+
+- [The Forty Dead](side-stories/the-forty-dead.md) — owner-supplied story; full spoilers; proposed standalone continuity.

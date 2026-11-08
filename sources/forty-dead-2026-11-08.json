@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-08",
+  "edition": "owner-supplied-as-submitted-v01",
+  "source": "User-provided attachment Inklistrad text.txt, beginning # The Forty Dead and ending They had succeeded in teaching it something else.",
+  "status": "USER_SUPPLIED_AWAITING_REVIEW_DECISIONS",
+  "continuity_status": "PROPOSED_STANDALONE; relationship to the main novel is unestablished.",
+  "source_sha256": "a1990886f2bc957e3b07e464802ea8032b7ff178f7edc8b0934c0a0345f3644c",
+  "source_fidelity": "EXACT_TEXT_WITH_CRLF_NORMALIZED_TO_LF",
+  "story_prose_word_count_whitespace": 4515,
+  "preservation": "Attachment text preserved without editorial changes; CRLF line endings normalized to LF for the repository.",
+  "scope": "Story storage, provenance, navigation and scoped references; main-novel prose unchanged.",
+  "base_commit": "c2561e58f909ccc2b217e3642976f63b430a1cce",
+  "files": {
+    "side-stories/the-forty-dead.md": "e780cd348c764f7502ccd8c132de29f9a7f894bf98958aab534afdff66ff68f8",
+    "reference/side-stories/the-forty-dead.md": "bed0c2d5f1b33bb4e6e611e44850e35b08db19c61de2077a22ffe6626e0816db",
+    "side-stories/INDEX.md": "551ae514e0516eb669034ff392ec4ce946d1fcc12232ac59145cb9a518857869",
+    "reference/INDEX.md": "7194e6278c8224419cfe1d3956c0757b848eb0c2854711e88a0686249f5c7b13",
+    "README.md": "618342cf73c075008f453c807644c4dde0ac87222b88db70c2ad70da1ad9cbb4",
+    "reference/factions/terran-federal-protectorate-of-sol.md": "5401e974418fb822188c6ef8ae37a217d36d67ecaed93dcb2f5754bf736fa3ca",
+    "reference/factions/throne-imperium.md": "55e4194eed74464d7086f74c40b5594db04cf75cad9b4ec62ac9ce8fe315dfdf"
+  },
+  "website_or_comic_publication": false,
+  "export_sha256": "e780cd348c764f7502ccd8c132de29f9a7f894bf98958aab534afdff66ff68f8"
+}

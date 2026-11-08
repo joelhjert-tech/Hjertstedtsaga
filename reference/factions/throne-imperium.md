@@ -16,3 +16,7 @@ Its relationship with Terra includes protectorate obligations and limits on inde
 
 Patrol, command, expedition and supply roles support sustained presence. Legionaries, heavy breachers and transit-security personnel make that authority tangible at stations and gates.
 
+
+## Proposed standalone story — 8 November 2026
+
+[The Forty Dead](../../side-stories/the-forty-dead.md) portrays the transfer and Terran reconstruction of condemned Imperial hulls. Its events and implications are proposed standalone continuity, with main-novel placement unestablished. See the [story reference](../side-stories/the-forty-dead.md).

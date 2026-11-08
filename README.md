@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## New standalone story — 8 November 2026
+
+[The Forty Dead](side-stories/the-forty-dead.md) follows Terra's effort to rebuild condemned Imperial warships. The owner-supplied prose is preserved as submitted while review suggestions await the owner's decisions. Its placement is **proposed standalone continuity**, not an established main-novel event. [Story reference](reference/side-stories/the-forty-dead.md) · [Source record](sources/forty-dead-2026-11-08.json).
+
 ## New standalone story — 5 November 2026
 
 [The Bottle Wager](side-stories/the-bottle-wager.md) follows a Directorate intelligence officer observing House rivalry during the Battle of Tarnis. The owner-supplied prose is preserved as submitted while review suggestions await the owner's decisions. Its relationship to the main novel is **unresolved proposed standalone continuity**. [Story reference](reference/side-stories/the-bottle-wager.md) · [Source record](sources/bottle-wager-2026-11-05.json).
