@@ -15,3 +15,5 @@ For new standalone side stories, follow the [side-story format](guidelines/novel
 Respect the user's spoiler cutoff. Without a cutoff, a full-story recap may cover all eight chapters. Search names and aliases across the novel rather than assuming a dossier is complete. Distinguish explicit facts, inference and proposed new writing. A character's knowledge at a scene is not the same as the reader's later knowledge.
 
 Do not silently edit source prose to fix conflicts. Identify conflicting passages and ask for a scoped editorial decision when necessary. This snapshot is not proof that no newer manuscript exists. Record source editions and preserve provenance when updating. The original comic production authorities still govern comic work; this repository grants no generation or publication approval.
+
+For future horror-story video thumbnails, follow the owner-approved [horror thumbnail style guideline](guidelines/horror-thumbnail-style-guideline.md). Preserve story-specific details and existing artistic, production and publication gates.
