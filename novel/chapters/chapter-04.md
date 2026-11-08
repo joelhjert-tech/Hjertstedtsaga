@@ -1044,203 +1044,21 @@ Joel’s expression hardened.
 
 “Possible.”
 
-Then another transmission entered the command network.
+A deep voice entered the command network. “High Marshal.” Joel saw the Hunter identification and recognized Dennis Rask, an old friend who had pulled him out of more than one battle. On the station, Daniel heard the same voice and looked toward the corridor.
 
-Not Daniel.
+“You sent Dennis to my gate?” Daniel asked while a technician tried the core controls. “He destroyed half a refinery moon.”
 
-Not Annette.
+“The moon survived,” Dennis said.
 
-A deep voice.
+“He was available,” Joel added.
 
-Very calm.
+Dennis came through the smoke in broad, battle-scarred armour, an anti-Seraph blade across one shoulder and an incineration cannon mounted on his arm. Behind him, his Hunters held the corridor they had just cleared. Daniel pointed at the cannon. “You are not destroying the station.”
 
-“High Marshal.”
+“I had not planned to,” Dennis said.
 
-Joel froze for half a second.
+“Yet,” Joel added.
 
-Annette noticed.
-
-“Who is that?”
-
-Joel looked toward the incoming Hunter telemetry.
-
-A name appeared.
-
-DENNIS RASK.
-
-Joel closed his eyes.
-
-“Oh, no.”
-
-Inside Gatehold, Daniel heard the same voice.
-
-“Daniel.”
-
-He stopped firing.
-
-Slowly.
-
-Very slowly.
-
-He opened the special-force identification.
-
-Then stared at it.
-
-“No.”
-
-A marine beside him glanced over.
-
-“What?”
-
-Daniel looked back toward the corridor where the Seraph Hunters were fighting.
-
-“No, no, no.”
-
-The voice came again.
-
-“I am approaching your position.”
-
-Daniel immediately opened the family channel.
-
-“JOEL!”
-
-Joel answered.
-
-“Yes.”
-
-“You sent Dennis?”
-
-There was a pause.
-
-“That was the available anti-Seraph commander.”
-
-“You sent Dennis Rask onto a station containing an ancient gate?”
-
-“Yes.”
-
-Daniel stared at nothing.
-
-“You absolute idiot.”
-
-Anton immediately joined from Bastion.
-
-“Dennis is there?”
-
-Christer came next.
-
-“You sent Dennis?”
-
-Annette looked between all three feeds.
-
-“I assume there is context.”
-
-Daniel shouted while firing into an Ardent guard position.
-
-“CONTEXT?”
-
-A Grey Nomad veteran ducked beside him.
-
-Daniel continued.
-
-“Dennis does not clear Seraph infestations!”
-
-Joel sighed.
-
-Daniel pointed furiously at his helmet display as though Joel could see the gesture.
-
-“He removes the geographical area containing the infestation!”
-
-Dennis’s voice entered the same channel.
-
-“That is an exaggeration.”
-
-Daniel snapped:
-
-“You destroyed half a refinery moon!”
-
-“It was contaminated.”
-
-“You blew up the refinery!”
-
-“It was also contaminated.”
-
-Anton began laughing.
-
-Christer followed.
-
-Daniel shouted:
-
-“THIS IS NOT FUNNY!”
-
-Dennis answered:
-
-“The moon survived.”
-
-Daniel nearly lost control.
-
-“THAT IS YOUR DEFENCE?”
-
-A massive figure appeared through the smoke behind Daniel’s formation.
-
-Dennis Rask did not look like the other Hunters.
-
-He was broader.
-
-Older armor.
-
-Blackened plates covered in repairs from campaigns Daniel had only heard about. His helmet carried no decoration except a row of old kill-marks and a crimson House seal personally granted decades earlier.
-
-A huge anti-Seraph blade rested across one shoulder.
-
-An incinerator cannon was attached to his other arm.
-
-He walked through the remains of a Husk Guard without looking down.
-
-Dennis had been one of Joel’s closest friends long before Joel became High Marshal.
-
-He had survived campaigns that had killed entire commands.
-
-He had personally dragged Joel out of at least two battles everyone else considered lost.
-
-He was loyal.
-
-Terrifyingly competent.
-
-And completely unreasonable once Seraph contamination was confirmed.
-
-Daniel pointed at him.
-
-“You.”
-
-Dennis stopped.
-
-“Yes?”
-
-“You are not allowed to destroy the station.”
-
-Dennis looked around.
-
-“I had not planned to.”
-
-Daniel stared.
-
-Dennis added:
-
-“Yet.”
-
-Daniel opened the family channel again.
-
-“JOEL!”
-
-Joel was openly laughing now.
-
-“I heard him.”
-
-“I hate you.”
-
-“Save the core.”
-
-“I am trying!”
+Daniel motioned a marine toward the wounded commandant and turned back to the core. Dennis took position beside the chamber entrance, covering the guards while the technician worked. The gate continued to brighten outside.
 
 The countdown hit:
 
@@ -3142,7 +2960,9 @@ Knife-range pressure.
 
 The House line bent.
 
-It did not break.
+An Oath cruiser on Joel’s right took a lance strike across its forward batteries. Its captain reported that half the guns had gone silent and requested a replacement for the exposed arc. A destroyer moved across the gap while the cruiser rolled its surviving weapons toward the next incoming salvo. The shift left the destroyer closer to the Seraph line than its captain wanted, but the allied evacuation craft passed behind both ships.
+
+The line did not break.
 
 Inside Gatehold, Daniel moved just as fast.
 
@@ -3282,7 +3102,7 @@ Joel looked across Gatehold.
 
 His own fleet was still holding the center.
 
-The Seraph had hammered the wall repeatedly. House armor was scorched. Several destroyers had fallen out of formation. One Oath cruiser was fighting with only half its main batteries.
+The Seraph had hammered the wall repeatedly. House armor was scorched. Several destroyers had fallen out of formation. The Oath cruiser on his right was still fighting with only half its main batteries, its covering destroyer holding the gap beside it.
 
 Behind them, the remnants of the Zenith and Imperium fleets were reorganizing.
 
@@ -4196,6 +4016,8 @@ Lucy followed.
 
 “Husk Guard reserves confirmed. Additional experimental warforms present.”
 
+A voice came over the boarding net, apparently from a Hunter near the hatch, ordering Duskbringer to fall back. The identifier on Dennis’s display belonged to a soldier still beside him. “Hold your position,” Dennis ordered, and the soldier confirmed it on the suit-to-suit link. A second team checked the hatch visually before anyone moved. Neither the source nor the purpose of the false transmission was clear, so Dennis had it recorded and directed his people to verify orders through their existing checks.
+
 Dennis looked down the first corridor just as red emergency lights came alive.
 
 The walls split.
@@ -4222,7 +4044,7 @@ Three cutters attached along the lower command hull, and the former Grey Nomad m
 
 “BRIDGE RACE!”
 
-“PRISONERS STILL COUNT!”
+“CHECK FOR SURRENDERS!”
 
 “NOT IF IT’S ALL MONSTERS!”
 

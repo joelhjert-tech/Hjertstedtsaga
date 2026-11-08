@@ -1,0 +1,201 @@
+{
+  "schema_version": "1.0",
+  "edition": "battle-horror-2026-11-08",
+  "date": "2026-11-08",
+  "revision_type": "OWNER_AUTHORIZED_PROSE_REVISION",
+  "request": "Improve battle and horror in Chapters 03–07, preserving story and outcomes.",
+  "base_commit": "3be721d899145c84ba24bb4924ce182eb6b3f74c",
+  "prior_edition": "chapter-08-removal-2026-11-08",
+  "coverage": {
+    "chapters_revised": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "chapters_unchanged": [
+      1,
+      2
+    ],
+    "chapter_count": 7,
+    "scene_count": 100,
+    "changed_scene_count": 17
+  },
+  "editorial_scope": [
+    "Shepherd discovery and survivor-led aftercare",
+    "Gatehold countdown, verified boarding communications and damage continuity",
+    "Garooth countermeasures and Talyrn decision-making",
+    "Limiter injury continuity and mutual support in the flagship duel",
+    "Operational wager measures and rescue obligations"
+  ],
+  "outcome_preservation": "Scene order, existing primary mission outcomes, battle results, casualties, the Chapter 8 removal, independent standalone stories and unresolved bottle results are retained.",
+  "changed_scenes": [
+    {
+      "chapter": 3,
+      "scene": 1,
+      "title": "Beneath Special Custody",
+      "before_sha256": "91399b14f91e8436bf63d5294d8b26b8dd6f3016fbcedae49f44450264dbf877",
+      "after_sha256": "583ec8278e2d8c331f34f8245cd27213c39b8cffb76f1acd8174dd0d1fd8657a",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 3,
+      "scene": 6,
+      "title": "The Fleet Comes for Central",
+      "before_sha256": "d979bc4a56d89a32c430adc19fde84d8bfad608403d81cdfe86846aacfce3065",
+      "after_sha256": "1202d9b0eb84dfc18fb019317c9bf0540338b129f973013bb0b19f5745508869",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 3,
+      "scene": 7,
+      "title": "The Maniacs of the Grey Nomad",
+      "before_sha256": "bfd026413c033c1ce17674b97edd297d19148deeeb8296527026b624fceed6c5",
+      "after_sha256": "fed3bc72a5080fcb73049163b8e2b6b7522ee67cd3ef140a9bd1cd1dbdcf34fa",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 3,
+      "scene": 8,
+      "title": "Bastion Ignites",
+      "before_sha256": "c43047b362d7734d4992d561b4693fe53fc2090e14b76b075b0d93a3949a2b7c",
+      "after_sha256": "06c63c5d8a93f2ed9a99a29fbbc432d1d5a383dda0547dfcefcdb737da2928e7",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 3,
+      "scene": 9,
+      "title": "First Capital Boarding",
+      "before_sha256": "20b9fbb2094d21dce1cd82ad5e6641873dd4e5a761c85ee9a079742e818c98a8",
+      "after_sha256": "a8e2d4ee4231bb8c7c8c3250c323e1fcd99a4e51efd93d3dccc9ab8d2c4488da",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 3,
+      "scene": 13,
+      "title": "The Hunters of Bastion",
+      "before_sha256": "d1c41ef372b0b3ee197e38e08866df6eccc4593e3de4738a5119aef49c2fd954",
+      "after_sha256": "2fc0cc07b9a7eb3afc205f558e98e83825ad538fee69596cbe3d9d0da0a755b1",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 4,
+      "scene": 3,
+      "title": "Dennis Has Arrived",
+      "before_sha256": "1e7168243c7f4056e64fe7c66bac6e1dbb6ea961fde6e58714da4226edd3782b",
+      "after_sha256": "cf3a85a83993f7e3ca675950734ba4bcceb930707720879e1c2acb3a5a151a0a",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 4,
+      "scene": 8,
+      "title": "The Wall at Gatehold",
+      "before_sha256": "e81a3e8528748b710a6922ace840477b32f8b9b7239b51c77b1f8ab2b093d866",
+      "after_sha256": "d5b7588860cc01937734562d78915836c5a8a1fc5422cfea87ffa50c16871edf",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 4,
+      "scene": 9,
+      "title": "The Counteroffensive",
+      "before_sha256": "d635f4524b6c25458615a5e73d18e2bc4cfefa115b0eda44acd35e83d68b2066",
+      "after_sha256": "00b603f82a2fee735b8e74f6fd29bcbebb7068c42a3b776a77c1d65078a66a96",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 4,
+      "scene": 11,
+      "title": "All of Them Board",
+      "before_sha256": "85030a7e2eca269358712ccfc8f56b6effc368ac3986853aed54702eae368966",
+      "after_sha256": "2a415bb5cd4c79743084e6e2d996957d82c7e2de17047744cb30347e9d64ae0b",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 5,
+      "scene": 1,
+      "title": "What Victory Leaves Behind",
+      "before_sha256": "af52edde21c166787ab5604f8981c4abc5a0c27238ba1fb91ae1a6f9e0eac52a",
+      "after_sha256": "466ff8d206613bb2aa8f0593e89668314f7c0caae5c29880c5a62716e57f6d3a",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 6,
+      "scene": 8,
+      "title": "Let Him Have It",
+      "before_sha256": "cdb94c581dcb16dfee977542a70f6c9f786f9a3d81d651decb3123f30905c52b",
+      "after_sha256": "e3c4f19e2c77f7dcdfc7e2c6da63f78d5b92d4a794d603de33843caf0dd28409",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 6,
+      "scene": 13,
+      "title": "The Veyr-Khal",
+      "before_sha256": "acba6b33912167793d4972893576437042c1695a330de09ff09d76501036970f",
+      "after_sha256": "39048a10fe84ba59fa85d542e982cab6c03b193b9b801b4b5adbcab7cc311a4a",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 7,
+      "scene": 4,
+      "title": "The First Hammer",
+      "before_sha256": "ea5b30c67756b0fdc1f124a583252858eef0832b4301915f0fb38fb16c15f6ff",
+      "after_sha256": "616fd4f1c589612c7ec13d1e4d9b69ca0962be64e3315764428080597f5f62fe",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 7,
+      "scene": 5,
+      "title": "Four Ways to Kill a War",
+      "before_sha256": "8940fa80f22ebd90da0677430d4e692673cf11bd29aaf488771d1af0f6655cde",
+      "after_sha256": "84e3ece5425e3f539e79ef5108f8a671d804362787319a6fa19ef53a63b05100",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 7,
+      "scene": 8,
+      "title": "Feast Before the Spear",
+      "before_sha256": "10ba9d1aba3ad8c48870b43a8cb4b7d5b399cd63726a9c30fccaa93e90fdeb8d",
+      "after_sha256": "088b1011e0c541fb65a76272ec3dea1cfd3196fa7e483d29b7616af201a7a407",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 7,
+      "scene": 11,
+      "title": "The Door and the Axe",
+      "before_sha256": "2ed92e5833fdd443781ca88c3a69cc49ac00b1ac2ccf8b55a45906642d667e25",
+      "after_sha256": "17339730a63b800de548b26fc6e62d5e662626c57bb548bd6e652f4ece28dcf7",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    }
+  ],
+  "chapter_hashes": [
+    {
+      "file": "novel/chapters/chapter-03.md",
+      "before_sha256": "056a2b0a5f4b49bd93e5a88f7407d2b33b92094e40b74af2667fb4e8c74ce448",
+      "after_sha256": "fdc8ddc05a17920c680268057a8946747efc5d927cc723812b17776a3fac1029"
+    },
+    {
+      "file": "novel/chapters/chapter-04.md",
+      "before_sha256": "36a94bd1baff6f8b9e200d16b7184f5782bf7092169379ca1ee8ff3b66c8b451",
+      "after_sha256": "b8a84dca9f692d26d4819667d194f513e104737e9c680d741735791cb96ab60e"
+    },
+    {
+      "file": "novel/chapters/chapter-05.md",
+      "before_sha256": "1f3830e1ac0c7f64e2fe6b2a6f8158418aad905cca377d26a485a2301c8776f0",
+      "after_sha256": "74df5be44ad372d5c25a552a191e654ae58d3ef296eb358d1766bb1e111d10fa"
+    },
+    {
+      "file": "novel/chapters/chapter-06.md",
+      "before_sha256": "95fc672161b1f1ed8ac49bf71b7b95c2bfb4f165a8fa92ac86a500af425c5beb",
+      "after_sha256": "8cfa40df1a249420df45269c8e783b3fae16cdf56ef4e748e3b20031e80dece1"
+    },
+    {
+      "file": "novel/chapters/chapter-07.md",
+      "before_sha256": "e6f68b9fe7215cdf26a0a4636fab844273e86301e7d2a23f36b0c850a70671f8",
+      "after_sha256": "328a0440fcf4488cee061b3684c3bddba489d6476e4e1a879a273c0800de881c"
+    }
+  ],
+  "historical_source": "Earlier chapter prose remains available at base_commit. Original source records retain their historic scope.",
+  "website_deployed": false,
+  "comic_material_changed": false
+}

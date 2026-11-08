@@ -1272,9 +1272,7 @@ Ortheva pointed.
 
 The Garooth had filled the approach with wreckage, heat sources, junk transmitters, and captured civilian transponders.
 
-Talyrn corroboration stripped away the lies.
-
-House witness drones confirmed them.
+Talyrn corroboration stripped away much of the deception, and House witness drones confirmed the contacts they could see. One captured civilian transponder continued moving beside a forge hulk, its signal too damaged to identify the vessel carrying it. Ortheva held a Talyrn destroyer’s fire on that contact until a closer sensor pass showed an unmanned transmitter fixed to drifting scrap. The delay left the hulk time to turn a gun toward the approach, but the destroyer took cover behind its screen and marked the weapon for the opening strike.
 
 By the time the Garooth realized its deception had failed, Hammer Range had already begun.
 
@@ -1886,11 +1884,7 @@ Daniel examined the mess.
 
 He pulled one cable.
 
-Half the charges died.
-
-Then another.
-
-The rest switched to local triggers.
+Half the charges died. A warning flashed as a Garooth operator at the far end of the chamber diverted coolant away from systems supplying the occupied levels. The Talyrn engineer caught the change on her panel and held the local valve while Daniel pulled the second cable. The diversion stopped, but the remaining charges switched to local triggers.
 
 Daniel shot the detonator operator through the face.
 
@@ -3064,7 +3058,7 @@ Daniel claimed primary reactor control secured.
 
 Christer claimed highest-value tactical capture.
 
-Joel, to everyone’s annoyance, wagered on most civilians or prisoners recovered alive.
+Joel, to everyone’s annoyance, wagered on the best protected extraction corridor, judged after the assault by the commanders responsible for its use.
 
 “Within the assigned plan,” Lars said. “You see someone in danger, you help. I do not want to hear whose category they belonged to.”
 
@@ -3076,7 +3070,7 @@ Every commander at the table acknowledged him. The admirals entered the terms be
 
 The Thyrak commander looked at him.
 
-“That is your category?”
+“The corridor is your category?”
 
 Joel answered:
 
@@ -3706,7 +3700,7 @@ Dennis saw their icons change direction.
 
 Joel answered:
 
-“Winning their bet.”
+“Going to the prisoners. Make room for their teams.”
 
 The first prison deck had been welded shut.
 

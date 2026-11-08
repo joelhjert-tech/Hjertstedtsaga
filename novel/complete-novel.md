@@ -2,7 +2,7 @@
 
 The Shattered Lane — voice and information revision
 
-Repository edition: Chapters 1–7. The owner removed Chapter 8 on 8 November 2026; earlier revisions are recorded in the source history.
+Repository edition: Chapters 1–7. Chapters 03–07 include the owner-authorized battle and horror revision of 8 November 2026. Chapter 8 was removed on 8 November 2026; earlier editions are recorded in the source history.
 
 # Chapter 1: The Unwanted Fortress
 
@@ -22625,9 +22625,11 @@ Neural scans.
 
 A chamber where failed host tissue had been preserved for reference.
 
-A restraint room with a speaker system designed to replay familiar voices into sealed cells.
+A restraint room held a speaker system wired into the sealed cells. As Mara passed, a voice came through the nearest door, asking someone to open it. She raised a hand and the group stopped. The words came again, with the same catch in the same place; a third repetition began before the first had quite faded. Mara called to the person behind the door, then waited through another cycle for an answer that was not part of the recording.
 
-Another with rows of implants and surgical instruments arranged like sacred tools.
+Daniel checked the panel without disconnecting it. The voice had been playing from a stored file, but the indicator for the room beyond was dark. Mara asked Holt to cover the passage while she checked the door, and Joel sent for a medical team. They found the chamber empty. Mara left the recording in place for the evidence team, though she muted the speaker before closing the door. The quiet that followed did not make her feel any better.
+
+The next chamber held rows of implants and surgical instruments arranged like sacred tools.
 
 Then they reached Sublevel Chapel.
 
@@ -24877,11 +24879,11 @@ The room erupted.
 
 “FINALLY!”
 
-“WHO HAS CIVILIAN RESCUES?”
+“WHO HOLDS THE EVACUATION ROUTE?”
 
 “I CALL BREACH COUNT!”
 
-“NO, KILLS AND CAPTURES ARE SEPARATE!”
+“NO, BREACHES AND DEFENCE ARE SEPARATE!”
 
 A marine raised both hands.
 
@@ -24899,21 +24901,21 @@ The marine started counting on armored fingers.
 
 “Most confirmed hostiles neutralized.”
 
-“Most prisoners taken alive.”
+“Cleanest breach held.”
 
-“Most civilians evacuated.”
+“Best protected evacuation route.”
 
-“Most wounded recovered.”
+“Fastest weapons disabled without damaging the station.”
 
 Someone shouted from the back:
 
-“BONUS FOR SAVING AN ELDER!”
+“BONUS FOR REACHING AN ELDER!”
 
-Another answered:
+Sorn cut across him. “The elders are not a prize. You protect whoever is assigned to you.”
 
-“That cannot be a category! There are only a few elders!”
+The marine raised a hand. “Can the route still count?”
 
-“That makes them worth more points!”
+“The route can,” Sorn said. “People cannot.”
 
 Sorn closed her eyes.
 
@@ -24969,15 +24971,15 @@ The room went silent.
 
 The marines leaned forward.
 
-“Most civilians saved.”
+“Best protected evacuation route.”
 
 Cheers.
 
-“Most prisoners taken alive.”
+“Cleanest defended breach.”
 
 More cheers.
 
-“Most wounded recovered under fire.”
+“Best secured medical corridor.”
 
 Louder.
 
@@ -25159,15 +25161,9 @@ Another jumped onto the overturned docking frame and fired down from above.
 
 A third shouted:
 
-“ALIVE COUNTS DOUBLE!”
+“WEAPONS DOWN! HANDS WHERE WE CAN SEE THEM!”
 
-“WHO SAID?”
-
-“ME!”
-
-“That is not authority!”
-
-“It is now!”
+A second marine covered the surrendering boarders while the first cleared a path for the wounded.
 
 The fight lasted less than two minutes.
 
@@ -25177,17 +25173,7 @@ Four more were dragged out wounded.
 
 Seven never left the breach alive.
 
-The marines immediately started arguing.
-
-“TWELVE PRISONERS!”
-
-“Shared capture!”
-
-“No!”
-
-“I touched six first!”
-
-“YOU CANNOT CLAIM PEOPLE BY TOUCHING THEM!”
+“Twelve surrendered,” the first marine reported. His partner pointed out that the breach was still open, so the argument became about who had left the better shield position. Both stopped when the medic asked them to carry a wounded defender clear.
 
 At Habitation Access Seven, another team found civilians trapped behind a jammed pressure door.
 
@@ -25195,9 +25181,9 @@ Their sergeant looked at the incoming hostile markers.
 
 Then at the civilians.
 
-“Rescue category.”
+“The door first,” the sergeant said. “Medical team takes the wounded when we get it open.”
 
-Everyone suddenly moved even faster.
+The squad moved.
 
 One marine ripped open an emergency panel.
 
@@ -25205,27 +25191,11 @@ Another crawled into the maintenance trunk.
 
 Two others carried an elderly couple out before the Ardent boarders reached the corner.
 
-“THAT IS TWO!”
+A medic arrived as the sergeant turned back toward the door. “The stretcher needs two,” she said. “And the child goes with her family, not down the medical route.”
 
-“Children count individually!”
+The sergeant took the heavier end.
 
-“Obviously!”
-
-A medic shouted:
-
-“Stop turning civilians into points!”
-
-The sergeant looked offended.
-
-“We are saving them!”
-
-“You are also counting them!”
-
-“Motivation!”
-
-“Then carry the stretcher.”
-
-The sergeant took the heavier end. He stopped counting and handed the stretcher to the waiting medical team beyond the door. His rear pair stayed at the junction until the last civilian was through.
+He handed the stretcher to the waiting medical team beyond the door. His rear pair stayed at the junction until the last civilian was through.
 
 The first Ardent soldier appeared.
 
@@ -25273,7 +25243,7 @@ Anton cut in.
 
 Joel looked toward the screen.
 
-“They turned prisoner recovery into a competitive event.”
+“They are already arguing over the breach.”
 
 “Yes.”
 
@@ -25303,13 +25273,13 @@ Anton sounded delighted.
 
 Annette began listing categories.
 
-“Most civilians rescued.”
+“Best protected evacuation route.”
 
 Christer nodded.
 
 “Prize should be large.”
 
-“Most prisoners taken alive,” Daniel added.
+“Cleanest defended breach,” Daniel added.
 
 Anton groaned.
 
@@ -25317,7 +25287,7 @@ Anton groaned.
 
 Annette looked directly into his feed.
 
-“Most prisoners alive.”
+“Cleanest defended breach.”
 
 Anton immediately corrected himself.
 
@@ -25325,7 +25295,7 @@ Anton immediately corrected himself.
 
 Joel smiled.
 
-“Most wounded recovered under fire.”
+“Best secured medical corridor.”
 
 Christer added:
 
@@ -25427,11 +25397,11 @@ Annette attached Sorn's operational conditions before releasing the notice. Team
 
 The tactical display updated.
 
-CIVILIAN RESCUE: one sealed case of Vintergard Winter Reserve.
+PROTECTED EVACUATION ROUTE: one sealed case of Vintergard Winter Reserve.
 
-PRISONERS TAKEN ALIVE: priority selection from captured personal equipment and ceremonial salvage, under Justicar approval.
+DEFENDED BREACH: priority selection from captured personal equipment and ceremonial salvage, under Justicar approval.
 
-WOUNDED RECOVERED: one month paid leave at Vinterholm plus family transport.
+SECURED MEDICAL CORRIDOR: one month paid leave at Vinterholm plus family transport.
 
 BEST INTELLIGENCE CAPTURE: direct commendation and personal dinner with senior House command.
 
@@ -25973,7 +25943,7 @@ Annette looked toward the tactical map.
 
 Kira added:
 
-“Secondary categories: civilians protected during engagement, prisoners recovered, and salvage value preserved.”
+“Secondary measures: secure access routes, functioning fire controls, and salvage value preserved. Civilian safety and lawful custody remain duties for every team.”
 
 Anton looked delighted.
 
@@ -26025,7 +25995,7 @@ Too late.
 
 “SAVE THE BRIDGE!”
 
-“PRISONERS COUNT!”
+“WEAPONS DOWN MEANS STOP!”
 
 “WHOever scratches the engines buys drinks!”
 
@@ -26217,7 +26187,7 @@ A prize list.
 
 “Bridge alive!”
 
-“Prisoners count!”
+“Protect the surrendering crew!”
 
 “Do not shoot the reactor crew!”
 
@@ -27295,7 +27265,7 @@ Then grinned.
 
 “Good. Now kill the rest.”
 
-His marines surged past the Hunters’ flanks and hit the human troops behind the warforms. One shouted, “PRISONERS STILL COUNT!” Another yelled back, “THEN AIM BETTER!”
+His marines surged past the Hunters’ flanks and hit the human troops behind the warforms. One shouted, “WATCH THE HUMAN TROOPS!” Another yelled back, “THEN AIM BETTER!”
 
 The corridor became a slaughterhouse.
 
@@ -29215,203 +29185,21 @@ Joel’s expression hardened.
 
 “Possible.”
 
-Then another transmission entered the command network.
+A deep voice entered the command network. “High Marshal.” Joel saw the Hunter identification and recognized Dennis Rask, an old friend who had pulled him out of more than one battle. On the station, Daniel heard the same voice and looked toward the corridor.
 
-Not Daniel.
+“You sent Dennis to my gate?” Daniel asked while a technician tried the core controls. “He destroyed half a refinery moon.”
 
-Not Annette.
+“The moon survived,” Dennis said.
 
-A deep voice.
+“He was available,” Joel added.
 
-Very calm.
+Dennis came through the smoke in broad, battle-scarred armour, an anti-Seraph blade across one shoulder and an incineration cannon mounted on his arm. Behind him, his Hunters held the corridor they had just cleared. Daniel pointed at the cannon. “You are not destroying the station.”
 
-“High Marshal.”
+“I had not planned to,” Dennis said.
 
-Joel froze for half a second.
+“Yet,” Joel added.
 
-Annette noticed.
-
-“Who is that?”
-
-Joel looked toward the incoming Hunter telemetry.
-
-A name appeared.
-
-DENNIS RASK.
-
-Joel closed his eyes.
-
-“Oh, no.”
-
-Inside Gatehold, Daniel heard the same voice.
-
-“Daniel.”
-
-He stopped firing.
-
-Slowly.
-
-Very slowly.
-
-He opened the special-force identification.
-
-Then stared at it.
-
-“No.”
-
-A marine beside him glanced over.
-
-“What?”
-
-Daniel looked back toward the corridor where the Seraph Hunters were fighting.
-
-“No, no, no.”
-
-The voice came again.
-
-“I am approaching your position.”
-
-Daniel immediately opened the family channel.
-
-“JOEL!”
-
-Joel answered.
-
-“Yes.”
-
-“You sent Dennis?”
-
-There was a pause.
-
-“That was the available anti-Seraph commander.”
-
-“You sent Dennis Rask onto a station containing an ancient gate?”
-
-“Yes.”
-
-Daniel stared at nothing.
-
-“You absolute idiot.”
-
-Anton immediately joined from Bastion.
-
-“Dennis is there?”
-
-Christer came next.
-
-“You sent Dennis?”
-
-Annette looked between all three feeds.
-
-“I assume there is context.”
-
-Daniel shouted while firing into an Ardent guard position.
-
-“CONTEXT?”
-
-A Grey Nomad veteran ducked beside him.
-
-Daniel continued.
-
-“Dennis does not clear Seraph infestations!”
-
-Joel sighed.
-
-Daniel pointed furiously at his helmet display as though Joel could see the gesture.
-
-“He removes the geographical area containing the infestation!”
-
-Dennis’s voice entered the same channel.
-
-“That is an exaggeration.”
-
-Daniel snapped:
-
-“You destroyed half a refinery moon!”
-
-“It was contaminated.”
-
-“You blew up the refinery!”
-
-“It was also contaminated.”
-
-Anton began laughing.
-
-Christer followed.
-
-Daniel shouted:
-
-“THIS IS NOT FUNNY!”
-
-Dennis answered:
-
-“The moon survived.”
-
-Daniel nearly lost control.
-
-“THAT IS YOUR DEFENCE?”
-
-A massive figure appeared through the smoke behind Daniel’s formation.
-
-Dennis Rask did not look like the other Hunters.
-
-He was broader.
-
-Older armor.
-
-Blackened plates covered in repairs from campaigns Daniel had only heard about. His helmet carried no decoration except a row of old kill-marks and a crimson House seal personally granted decades earlier.
-
-A huge anti-Seraph blade rested across one shoulder.
-
-An incinerator cannon was attached to his other arm.
-
-He walked through the remains of a Husk Guard without looking down.
-
-Dennis had been one of Joel’s closest friends long before Joel became High Marshal.
-
-He had survived campaigns that had killed entire commands.
-
-He had personally dragged Joel out of at least two battles everyone else considered lost.
-
-He was loyal.
-
-Terrifyingly competent.
-
-And completely unreasonable once Seraph contamination was confirmed.
-
-Daniel pointed at him.
-
-“You.”
-
-Dennis stopped.
-
-“Yes?”
-
-“You are not allowed to destroy the station.”
-
-Dennis looked around.
-
-“I had not planned to.”
-
-Daniel stared.
-
-Dennis added:
-
-“Yet.”
-
-Daniel opened the family channel again.
-
-“JOEL!”
-
-Joel was openly laughing now.
-
-“I heard him.”
-
-“I hate you.”
-
-“Save the core.”
-
-“I am trying!”
+Daniel motioned a marine toward the wounded commandant and turned back to the core. Dennis took position beside the chamber entrance, covering the guards while the technician worked. The gate continued to brighten outside.
 
 The countdown hit:
 
@@ -31313,7 +31101,9 @@ Knife-range pressure.
 
 The House line bent.
 
-It did not break.
+An Oath cruiser on Joel’s right took a lance strike across its forward batteries. Its captain reported that half the guns had gone silent and requested a replacement for the exposed arc. A destroyer moved across the gap while the cruiser rolled its surviving weapons toward the next incoming salvo. The shift left the destroyer closer to the Seraph line than its captain wanted, but the allied evacuation craft passed behind both ships.
+
+The line did not break.
 
 Inside Gatehold, Daniel moved just as fast.
 
@@ -31453,7 +31243,7 @@ Joel looked across Gatehold.
 
 His own fleet was still holding the center.
 
-The Seraph had hammered the wall repeatedly. House armor was scorched. Several destroyers had fallen out of formation. One Oath cruiser was fighting with only half its main batteries.
+The Seraph had hammered the wall repeatedly. House armor was scorched. Several destroyers had fallen out of formation. The Oath cruiser on his right was still fighting with only half its main batteries, its covering destroyer holding the gap beside it.
 
 Behind them, the remnants of the Zenith and Imperium fleets were reorganizing.
 
@@ -32367,6 +32157,8 @@ Lucy followed.
 
 “Husk Guard reserves confirmed. Additional experimental warforms present.”
 
+A voice came over the boarding net, apparently from a Hunter near the hatch, ordering Duskbringer to fall back. The identifier on Dennis’s display belonged to a soldier still beside him. “Hold your position,” Dennis ordered, and the soldier confirmed it on the suit-to-suit link. A second team checked the hatch visually before anyone moved. Neither the source nor the purpose of the false transmission was clear, so Dennis had it recorded and directed his people to verify orders through their existing checks.
+
 Dennis looked down the first corridor just as red emergency lights came alive.
 
 The walls split.
@@ -32393,7 +32185,7 @@ Three cutters attached along the lower command hull, and the former Grey Nomad m
 
 “BRIDGE RACE!”
 
-“PRISONERS STILL COUNT!”
+“CHECK FOR SURRENDERS!”
 
 “NOT IF IT’S ALL MONSTERS!”
 
@@ -35720,6 +35512,8 @@ It looked deeper into the Shepherd.
 “You have the beginning.”
 
 “Then we preserve it,” Annette said.
+
+A medical officer met Annette outside the vault with a request from Central. One of the people recovered from a Shepherd cell had heard a familiar voice through a ward speaker and asked the staff to open the door. The recording on the speaker was an ordinary ward notice, the medic said, but the patient had heard it differently and was frightened when it began again. The staff had switched to written notices while they asked what the survivor needed. Annette authorized the change and asked the medical team to keep control of the patient’s care; the Justicars could take testimony when the person was ready.
 
 While the dead were prepared for return and the Shepherd vault was sealed under Justicar authority, House rule began across Ardent.
 
@@ -43195,13 +42989,9 @@ Anton drove the broken plate edge into the damaged side armor.
 
 The war boss grabbed him by the neck and lifted him.
 
-Christer half-turned.
+Christer half-turned toward Anton. Joel saw movement at the open junction behind him and caught his arm. “Cover that passage. I have Anton.”
 
-Joel barked:
-
-“No.”
-
-Christer stopped.
+A Garooth gunner was forcing a heavy weapon around the corner. Christer fired before it could bring the barrel level, then kept his rifle on the junction while Joel advanced toward the war boss. Joel reached for his axe as the creature held Anton clear of the deck.
 
 Anton’s legs hung above the deck.
 
@@ -43217,11 +43007,7 @@ Found the emergency breaching spike clipped to his armor.
 
 And drove it directly through the war boss’s forearm.
 
-The grip opened.
-
-Anton dropped.
-
-He seized the hanging arm.
+The grip opened before Joel reached them. Anton dropped and seized the hanging arm; Joel stayed close enough to intervene.
 
 Twisted.
 
@@ -45005,7 +44791,7 @@ The Talyrn physicians had expected Joel to remain under assisted recovery for da
 
 Instead, he entered the meeting chamber under his own power.
 
-Anton followed with his damaged shoulder immobilized beneath a temporary brace.
+Anton followed with his damaged shoulder immobilized beneath a temporary brace. At the entrance he tried to steady the door with that arm, stopped, and used the other. A Talyrn physician noticed. “The brace stays on,” she said. Anton glanced at Joel and found no help there.
 
 Christer still moved stiffly.
 
@@ -47169,9 +46955,7 @@ Ortheva pointed.
 
 The Garooth had filled the approach with wreckage, heat sources, junk transmitters, and captured civilian transponders.
 
-Talyrn corroboration stripped away the lies.
-
-House witness drones confirmed them.
+Talyrn corroboration stripped away much of the deception, and House witness drones confirmed the contacts they could see. One captured civilian transponder continued moving beside a forge hulk, its signal too damaged to identify the vessel carrying it. Ortheva held a Talyrn destroyer’s fire on that contact until a closer sensor pass showed an unmanned transmitter fixed to drifting scrap. The delay left the hulk time to turn a gun toward the approach, but the destroyer took cover behind its screen and marked the weapon for the opening strike.
 
 By the time the Garooth realized its deception had failed, Hammer Range had already begun.
 
@@ -47783,11 +47567,7 @@ Daniel examined the mess.
 
 He pulled one cable.
 
-Half the charges died.
-
-Then another.
-
-The rest switched to local triggers.
+Half the charges died. A warning flashed as a Garooth operator at the far end of the chamber diverted coolant away from systems supplying the occupied levels. The Talyrn engineer caught the change on her panel and held the local valve while Daniel pulled the second cable. The diversion stopped, but the remaining charges switched to local triggers.
 
 Daniel shot the detonator operator through the face.
 
@@ -48961,7 +48741,7 @@ Daniel claimed primary reactor control secured.
 
 Christer claimed highest-value tactical capture.
 
-Joel, to everyone’s annoyance, wagered on most civilians or prisoners recovered alive.
+Joel, to everyone’s annoyance, wagered on the best protected extraction corridor, judged after the assault by the commanders responsible for its use.
 
 “Within the assigned plan,” Lars said. “You see someone in danger, you help. I do not want to hear whose category they belonged to.”
 
@@ -48973,7 +48753,7 @@ Every commander at the table acknowledged him. The admirals entered the terms be
 
 The Thyrak commander looked at him.
 
-“That is your category?”
+“The corridor is your category?”
 
 Joel answered:
 
@@ -49603,7 +49383,7 @@ Dennis saw their icons change direction.
 
 Joel answered:
 
-“Winning their bet.”
+“Going to the prisoners. Make room for their teams.”
 
 The first prison deck had been welded shut.
 

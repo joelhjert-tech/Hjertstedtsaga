@@ -1,6 +1,6 @@
 # Novel index
 
-Current repository edition: **Chapters 1–7**. The owner removed Chapter 8 on 8 November 2026; see the [removal record](../sources/chapter-08-removal-2026-11-08.json). Chapter 01 remains unchanged by the 19 October rivalry revision. Chapter numbers are distinct from comic issue numbers; see the [historical revision record](../sources/house-rivalry-2026-10-19.json) and [standing writing guidelines](../guidelines/novel-writing-guidelines.md).
+Current repository edition: **Chapters 1–7**, including the [battle and horror revision](../sources/battle-horror-revision-2026-11-08.json) of Chapters 03–07. The owner removed Chapter 8 on 8 November 2026; see the [removal record](../sources/chapter-08-removal-2026-11-08.json). Chapter 01 remains unchanged by the 19 October rivalry revision. Chapter numbers are distinct from comic issue numbers; see the [historical revision record](../sources/house-rivalry-2026-10-19.json) and [standing writing guidelines](../guidelines/novel-writing-guidelines.md).
 
 ## [Chapter 1: The Unwanted Fortress](chapters/chapter-01.md)
 
@@ -40,53 +40,53 @@ Current repository edition: **Chapters 1–7**. The owner removed Chapter 8 on 8
 
 ## [Chapter 3: The Excision of Ardent](chapters/chapter-03.md)
 
-- [1. Beneath Special Custody](chapters/chapter-03.md#1-beneath-special-custody) — lines 3–504
-- [2. The Scale of Ardent](chapters/chapter-03.md#2-the-scale-of-ardent) — lines 505–862
-- [3. The Primarch Approves](chapters/chapter-03.md#3-the-primarch-approves) — lines 863–1276
-- [4. The Rose of Judgment](chapters/chapter-03.md#4-the-rose-of-judgment) — lines 1277–1736
-- [5. Three Blades](chapters/chapter-03.md#5-three-blades) — lines 1737–2140
-- [6. The Fleet Comes for Central](chapters/chapter-03.md#6-the-fleet-comes-for-central) — lines 2141–2672
-- [7. The Maniacs of the Grey Nomad](chapters/chapter-03.md#7-the-maniacs-of-the-grey-nomad) — lines 2673–3158
-- [8. Bastion Ignites](chapters/chapter-03.md#8-bastion-ignites) — lines 3159–3708
-- [9. First Capital Boarding](chapters/chapter-03.md#9-first-capital-boarding) — lines 3709–3900
-- [10. The Second Capital](chapters/chapter-03.md#10-the-second-capital) — lines 3901–4270
-- [11. Excision War](chapters/chapter-03.md#11-excision-war) — lines 4271–4470
-- [12. Everyone Wants a Piece](chapters/chapter-03.md#12-everyone-wants-a-piece) — lines 4471–4814
-- [13. The Hunters of Bastion](chapters/chapter-03.md#13-the-hunters-of-bastion) — lines 4815–5016
-- [14. The Duel Ends](chapters/chapter-03.md#14-the-duel-ends) — lines 5017–5372
-- [15. Central Becomes House Ground](chapters/chapter-03.md#15-central-becomes-house-ground) — lines 5373–5796
+- [1. Beneath Special Custody](chapters/chapter-03.md#1-beneath-special-custody) — lines 3–506
+- [2. The Scale of Ardent](chapters/chapter-03.md#2-the-scale-of-ardent) — lines 507–864
+- [3. The Primarch Approves](chapters/chapter-03.md#3-the-primarch-approves) — lines 865–1278
+- [4. The Rose of Judgment](chapters/chapter-03.md#4-the-rose-of-judgment) — lines 1279–1738
+- [5. Three Blades](chapters/chapter-03.md#5-three-blades) — lines 1739–2142
+- [6. The Fleet Comes for Central](chapters/chapter-03.md#6-the-fleet-comes-for-central) — lines 2143–2674
+- [7. The Maniacs of the Grey Nomad](chapters/chapter-03.md#7-the-maniacs-of-the-grey-nomad) — lines 2675–3128
+- [8. Bastion Ignites](chapters/chapter-03.md#8-bastion-ignites) — lines 3129–3678
+- [9. First Capital Boarding](chapters/chapter-03.md#9-first-capital-boarding) — lines 3679–3870
+- [10. The Second Capital](chapters/chapter-03.md#10-the-second-capital) — lines 3871–4240
+- [11. Excision War](chapters/chapter-03.md#11-excision-war) — lines 4241–4440
+- [12. Everyone Wants a Piece](chapters/chapter-03.md#12-everyone-wants-a-piece) — lines 4441–4784
+- [13. The Hunters of Bastion](chapters/chapter-03.md#13-the-hunters-of-bastion) — lines 4785–4986
+- [14. The Duel Ends](chapters/chapter-03.md#14-the-duel-ends) — lines 4987–5342
+- [15. Central Becomes House Ground](chapters/chapter-03.md#15-central-becomes-house-ground) — lines 5343–5766
 
 ## [Chapter 4: The Gate Must Hold](chapters/chapter-04.md)
 
 - [1. The Gate Must Hold](chapters/chapter-04.md#1-the-gate-must-hold) — lines 3–564
 - [2. The Gatehold Breakthrough](chapters/chapter-04.md#2-the-gatehold-breakthrough) — lines 565–944
-- [3. Dennis Has Arrived](chapters/chapter-04.md#3-dennis-has-arrived) — lines 945–1390
-- [4. The Gate Is Not Alone](chapters/chapter-04.md#4-the-gate-is-not-alone) — lines 1391–1664
-- [5. Remove the Limiters](chapters/chapter-04.md#5-remove-the-limiters) — lines 1665–2048
-- [6. Bastion Falls in Seven Minutes](chapters/chapter-04.md#6-bastion-falls-in-seven-minutes) — lines 2049–2534
-- [7. The Second Ship](chapters/chapter-04.md#7-the-second-ship) — lines 2535–2974
-- [8. The Wall at Gatehold](chapters/chapter-04.md#8-the-wall-at-gatehold) — lines 2975–3252
-- [9. The Counteroffensive](chapters/chapter-04.md#9-the-counteroffensive) — lines 3253–3664
-- [10. Elder Bjorn’s Bottle](chapters/chapter-04.md#10-elder-bjorns-bottle) — lines 3665–4176
-- [11. All of Them Board](chapters/chapter-04.md#11-all-of-them-board) — lines 4177–4456
-- [12. The Living Seraph](chapters/chapter-04.md#12-the-living-seraph) — lines 4457–4970
-- [13. Family Converges](chapters/chapter-04.md#13-family-converges) — lines 4971–5390
-- [14. The Commander Comes](chapters/chapter-04.md#14-the-commander-comes) — lines 5391–5848
-- [15. Red Corridor](chapters/chapter-04.md#15-red-corridor) — lines 5849–6376
-- [16. House Victory](chapters/chapter-04.md#16-house-victory) — lines 6377–6864
-- [17. The Cost of Victory](chapters/chapter-04.md#17-the-cost-of-victory) — lines 6865–7286
+- [3. Dennis Has Arrived](chapters/chapter-04.md#3-dennis-has-arrived) — lines 945–1208
+- [4. The Gate Is Not Alone](chapters/chapter-04.md#4-the-gate-is-not-alone) — lines 1209–1482
+- [5. Remove the Limiters](chapters/chapter-04.md#5-remove-the-limiters) — lines 1483–1866
+- [6. Bastion Falls in Seven Minutes](chapters/chapter-04.md#6-bastion-falls-in-seven-minutes) — lines 1867–2352
+- [7. The Second Ship](chapters/chapter-04.md#7-the-second-ship) — lines 2353–2792
+- [8. The Wall at Gatehold](chapters/chapter-04.md#8-the-wall-at-gatehold) — lines 2793–3072
+- [9. The Counteroffensive](chapters/chapter-04.md#9-the-counteroffensive) — lines 3073–3484
+- [10. Elder Bjorn’s Bottle](chapters/chapter-04.md#10-elder-bjorns-bottle) — lines 3485–3996
+- [11. All of Them Board](chapters/chapter-04.md#11-all-of-them-board) — lines 3997–4278
+- [12. The Living Seraph](chapters/chapter-04.md#12-the-living-seraph) — lines 4279–4792
+- [13. Family Converges](chapters/chapter-04.md#13-family-converges) — lines 4793–5212
+- [14. The Commander Comes](chapters/chapter-04.md#14-the-commander-comes) — lines 5213–5670
+- [15. Red Corridor](chapters/chapter-04.md#15-red-corridor) — lines 5671–6198
+- [16. House Victory](chapters/chapter-04.md#16-house-victory) — lines 6199–6686
+- [17. The Cost of Victory](chapters/chapter-04.md#17-the-cost-of-victory) — lines 6687–7108
 
 ## [Chapter 5: The Open March](chapters/chapter-05.md)
 
-- [1. What Victory Leaves Behind](chapters/chapter-05.md#1-what-victory-leaves-behind) — lines 3–528
-- [2. Questions at Sol](chapters/chapter-05.md#2-questions-at-sol) — lines 529–1028
-- [3. The Fortress Takes Root](chapters/chapter-05.md#3-the-fortress-takes-root) — lines 1029–1474
-- [4. The Lines Harden](chapters/chapter-05.md#4-the-lines-harden) — lines 1475–1862
-- [5. Back at Kestrel](chapters/chapter-05.md#5-back-at-kestrel) — lines 1863–2318
-- [6. The Invitation Home](chapters/chapter-05.md#6-the-invitation-home) — lines 2319–2776
-- [7. The Mausoleum](chapters/chapter-05.md#7-the-mausoleum) — lines 2777–3398
-- [8. Kestrel Takes the Seat](chapters/chapter-05.md#8-kestrel-takes-the-seat) — lines 3399–3926
-- [9. The Open March](chapters/chapter-05.md#9-the-open-march) — lines 3927–4270
+- [1. What Victory Leaves Behind](chapters/chapter-05.md#1-what-victory-leaves-behind) — lines 3–530
+- [2. Questions at Sol](chapters/chapter-05.md#2-questions-at-sol) — lines 531–1030
+- [3. The Fortress Takes Root](chapters/chapter-05.md#3-the-fortress-takes-root) — lines 1031–1476
+- [4. The Lines Harden](chapters/chapter-05.md#4-the-lines-harden) — lines 1477–1864
+- [5. Back at Kestrel](chapters/chapter-05.md#5-back-at-kestrel) — lines 1865–2320
+- [6. The Invitation Home](chapters/chapter-05.md#6-the-invitation-home) — lines 2321–2778
+- [7. The Mausoleum](chapters/chapter-05.md#7-the-mausoleum) — lines 2779–3400
+- [8. Kestrel Takes the Seat](chapters/chapter-05.md#8-kestrel-takes-the-seat) — lines 3401–3928
+- [9. The Open March](chapters/chapter-05.md#9-the-open-march) — lines 3929–4272
 
 ## [Chapter 6: The Forgotten Road](chapters/chapter-06.md)
 
@@ -97,31 +97,31 @@ Current repository edition: **Chapters 1–7**. The owner removed Chapter 8 on 8
 - [5. The Old Road](chapters/chapter-06.md#5-the-old-road) — lines 1939–2394
 - [6. The Gate That Should Not Have Opened](chapters/chapter-06.md#6-the-gate-that-should-not-have-opened) — lines 2395–2940
 - [7. Boarding the Beast](chapters/chapter-06.md#7-boarding-the-beast) — lines 2941–3156
-- [8. Let Him Have It](chapters/chapter-06.md#8-let-him-have-it) — lines 3157–3622
-- [9. Red Authorization](chapters/chapter-06.md#9-red-authorization) — lines 3623–3962
-- [10. The Line Surges](chapters/chapter-06.md#10-the-line-surges) — lines 3963–4384
-- [11. Recovery and Questions](chapters/chapter-06.md#11-recovery-and-questions) — lines 4385–4814
-- [12. Different Answers to the Same Nightmare](chapters/chapter-06.md#12-different-answers-to-the-same-nightmare) — lines 4815–5268
-- [13. The Veyr-Khal](chapters/chapter-06.md#13-the-veyr-khal) — lines 5269–5758
-- [14. The Dead Gate](chapters/chapter-06.md#14-the-dead-gate) — lines 5759–6170
+- [8. Let Him Have It](chapters/chapter-06.md#8-let-him-have-it) — lines 3157–3614
+- [9. Red Authorization](chapters/chapter-06.md#9-red-authorization) — lines 3615–3954
+- [10. The Line Surges](chapters/chapter-06.md#10-the-line-surges) — lines 3955–4376
+- [11. Recovery and Questions](chapters/chapter-06.md#11-recovery-and-questions) — lines 4377–4806
+- [12. Different Answers to the Same Nightmare](chapters/chapter-06.md#12-different-answers-to-the-same-nightmare) — lines 4807–5260
+- [13. The Veyr-Khal](chapters/chapter-06.md#13-the-veyr-khal) — lines 5261–5750
+- [14. The Dead Gate](chapters/chapter-06.md#14-the-dead-gate) — lines 5751–6162
 
 ## [Chapter 7: The Living First](chapters/chapter-07.md)
 
 - [1. The First Envoys](chapters/chapter-07.md#1-the-first-envoys) — lines 3–452
 - [2. We Do Not Tolerate the Garooth](chapters/chapter-07.md#2-we-do-not-tolerate-the-garooth) — lines 453–938
 - [3. The Gate Opens and Sol Screams](chapters/chapter-07.md#3-the-gate-opens-and-sol-screams) — lines 939–1186
-- [4. The First Hammer](chapters/chapter-07.md#4-the-first-hammer) — lines 1187–1582
-- [5. Four Ways to Kill a War](chapters/chapter-07.md#5-four-ways-to-kill-a-war) — lines 1583–1956
-- [6. Release the Hunters](chapters/chapter-07.md#6-release-the-hunters) — lines 1957–2420
-- [7. Give Them the Tools](chapters/chapter-07.md#7-give-them-the-tools) — lines 2421–2812
-- [8. Feast Before the Spear](chapters/chapter-07.md#8-feast-before-the-spear) — lines 2813–3112
-- [9. The Wardens of Vintergard](chapters/chapter-07.md#9-the-wardens-of-vintergard) — lines 3113–3330
-- [10. The Old Machines Still Walk](chapters/chapter-07.md#10-the-old-machines-still-walk) — lines 3331–3658
-- [11. The Door and the Axe](chapters/chapter-07.md#11-the-door-and-the-axe) — lines 3659–4096
-- [12. The Last Warden Standing](chapters/chapter-07.md#12-the-last-warden-standing) — lines 4097–4498
-- [13. The Weight They Carried](chapters/chapter-07.md#13-the-weight-they-carried) — lines 4499–4668
-- [14. The Forge Falls Silent](chapters/chapter-07.md#14-the-forge-falls-silent) — lines 4669–4846
-- [15. The Living First](chapters/chapter-07.md#15-the-living-first) — lines 4847–5000
+- [4. The First Hammer](chapters/chapter-07.md#4-the-first-hammer) — lines 1187–1580
+- [5. Four Ways to Kill a War](chapters/chapter-07.md#5-four-ways-to-kill-a-war) — lines 1581–1950
+- [6. Release the Hunters](chapters/chapter-07.md#6-release-the-hunters) — lines 1951–2414
+- [7. Give Them the Tools](chapters/chapter-07.md#7-give-them-the-tools) — lines 2415–2806
+- [8. Feast Before the Spear](chapters/chapter-07.md#8-feast-before-the-spear) — lines 2807–3106
+- [9. The Wardens of Vintergard](chapters/chapter-07.md#9-the-wardens-of-vintergard) — lines 3107–3324
+- [10. The Old Machines Still Walk](chapters/chapter-07.md#10-the-old-machines-still-walk) — lines 3325–3652
+- [11. The Door and the Axe](chapters/chapter-07.md#11-the-door-and-the-axe) — lines 3653–4090
+- [12. The Last Warden Standing](chapters/chapter-07.md#12-the-last-warden-standing) — lines 4091–4492
+- [13. The Weight They Carried](chapters/chapter-07.md#13-the-weight-they-carried) — lines 4493–4662
+- [14. The Forge Falls Silent](chapters/chapter-07.md#14-the-forge-falls-silent) — lines 4663–4840
+- [15. The Living First](chapters/chapter-07.md#15-the-living-first) — lines 4841–4994
 
 ## Standalone side stories
 

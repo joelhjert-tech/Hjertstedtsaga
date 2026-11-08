@@ -250,9 +250,11 @@ Neural scans.
 
 A chamber where failed host tissue had been preserved for reference.
 
-A restraint room with a speaker system designed to replay familiar voices into sealed cells.
+A restraint room held a speaker system wired into the sealed cells. As Mara passed, a voice came through the nearest door, asking someone to open it. She raised a hand and the group stopped. The words came again, with the same catch in the same place; a third repetition began before the first had quite faded. Mara called to the person behind the door, then waited through another cycle for an answer that was not part of the recording.
 
-Another with rows of implants and surgical instruments arranged like sacred tools.
+Daniel checked the panel without disconnecting it. The voice had been playing from a stored file, but the indicator for the room beyond was dark. Mara asked Holt to cover the passage while she checked the door, and Joel sent for a medical team. They found the chamber empty. Mara left the recording in place for the evidence team, though she muted the speaker before closing the door. The quiet that followed did not make her feel any better.
+
+The next chamber held rows of implants and surgical instruments arranged like sacred tools.
 
 Then they reached Sublevel Chapel.
 
@@ -2502,11 +2504,11 @@ The room erupted.
 
 “FINALLY!”
 
-“WHO HAS CIVILIAN RESCUES?”
+“WHO HOLDS THE EVACUATION ROUTE?”
 
 “I CALL BREACH COUNT!”
 
-“NO, KILLS AND CAPTURES ARE SEPARATE!”
+“NO, BREACHES AND DEFENCE ARE SEPARATE!”
 
 A marine raised both hands.
 
@@ -2524,21 +2526,21 @@ The marine started counting on armored fingers.
 
 “Most confirmed hostiles neutralized.”
 
-“Most prisoners taken alive.”
+“Cleanest breach held.”
 
-“Most civilians evacuated.”
+“Best protected evacuation route.”
 
-“Most wounded recovered.”
+“Fastest weapons disabled without damaging the station.”
 
 Someone shouted from the back:
 
-“BONUS FOR SAVING AN ELDER!”
+“BONUS FOR REACHING AN ELDER!”
 
-Another answered:
+Sorn cut across him. “The elders are not a prize. You protect whoever is assigned to you.”
 
-“That cannot be a category! There are only a few elders!”
+The marine raised a hand. “Can the route still count?”
 
-“That makes them worth more points!”
+“The route can,” Sorn said. “People cannot.”
 
 Sorn closed her eyes.
 
@@ -2594,15 +2596,15 @@ The room went silent.
 
 The marines leaned forward.
 
-“Most civilians saved.”
+“Best protected evacuation route.”
 
 Cheers.
 
-“Most prisoners taken alive.”
+“Cleanest defended breach.”
 
 More cheers.
 
-“Most wounded recovered under fire.”
+“Best secured medical corridor.”
 
 Louder.
 
@@ -2784,15 +2786,9 @@ Another jumped onto the overturned docking frame and fired down from above.
 
 A third shouted:
 
-“ALIVE COUNTS DOUBLE!”
+“WEAPONS DOWN! HANDS WHERE WE CAN SEE THEM!”
 
-“WHO SAID?”
-
-“ME!”
-
-“That is not authority!”
-
-“It is now!”
+A second marine covered the surrendering boarders while the first cleared a path for the wounded.
 
 The fight lasted less than two minutes.
 
@@ -2802,17 +2798,7 @@ Four more were dragged out wounded.
 
 Seven never left the breach alive.
 
-The marines immediately started arguing.
-
-“TWELVE PRISONERS!”
-
-“Shared capture!”
-
-“No!”
-
-“I touched six first!”
-
-“YOU CANNOT CLAIM PEOPLE BY TOUCHING THEM!”
+“Twelve surrendered,” the first marine reported. His partner pointed out that the breach was still open, so the argument became about who had left the better shield position. Both stopped when the medic asked them to carry a wounded defender clear.
 
 At Habitation Access Seven, another team found civilians trapped behind a jammed pressure door.
 
@@ -2820,9 +2806,9 @@ Their sergeant looked at the incoming hostile markers.
 
 Then at the civilians.
 
-“Rescue category.”
+“The door first,” the sergeant said. “Medical team takes the wounded when we get it open.”
 
-Everyone suddenly moved even faster.
+The squad moved.
 
 One marine ripped open an emergency panel.
 
@@ -2830,27 +2816,11 @@ Another crawled into the maintenance trunk.
 
 Two others carried an elderly couple out before the Ardent boarders reached the corner.
 
-“THAT IS TWO!”
+A medic arrived as the sergeant turned back toward the door. “The stretcher needs two,” she said. “And the child goes with her family, not down the medical route.”
 
-“Children count individually!”
+The sergeant took the heavier end.
 
-“Obviously!”
-
-A medic shouted:
-
-“Stop turning civilians into points!”
-
-The sergeant looked offended.
-
-“We are saving them!”
-
-“You are also counting them!”
-
-“Motivation!”
-
-“Then carry the stretcher.”
-
-The sergeant took the heavier end. He stopped counting and handed the stretcher to the waiting medical team beyond the door. His rear pair stayed at the junction until the last civilian was through.
+He handed the stretcher to the waiting medical team beyond the door. His rear pair stayed at the junction until the last civilian was through.
 
 The first Ardent soldier appeared.
 
@@ -2898,7 +2868,7 @@ Anton cut in.
 
 Joel looked toward the screen.
 
-“They turned prisoner recovery into a competitive event.”
+“They are already arguing over the breach.”
 
 “Yes.”
 
@@ -2928,13 +2898,13 @@ Anton sounded delighted.
 
 Annette began listing categories.
 
-“Most civilians rescued.”
+“Best protected evacuation route.”
 
 Christer nodded.
 
 “Prize should be large.”
 
-“Most prisoners taken alive,” Daniel added.
+“Cleanest defended breach,” Daniel added.
 
 Anton groaned.
 
@@ -2942,7 +2912,7 @@ Anton groaned.
 
 Annette looked directly into his feed.
 
-“Most prisoners alive.”
+“Cleanest defended breach.”
 
 Anton immediately corrected himself.
 
@@ -2950,7 +2920,7 @@ Anton immediately corrected himself.
 
 Joel smiled.
 
-“Most wounded recovered under fire.”
+“Best secured medical corridor.”
 
 Christer added:
 
@@ -3052,11 +3022,11 @@ Annette attached Sorn's operational conditions before releasing the notice. Team
 
 The tactical display updated.
 
-CIVILIAN RESCUE: one sealed case of Vintergard Winter Reserve.
+PROTECTED EVACUATION ROUTE: one sealed case of Vintergard Winter Reserve.
 
-PRISONERS TAKEN ALIVE: priority selection from captured personal equipment and ceremonial salvage, under Justicar approval.
+DEFENDED BREACH: priority selection from captured personal equipment and ceremonial salvage, under Justicar approval.
 
-WOUNDED RECOVERED: one month paid leave at Vinterholm plus family transport.
+SECURED MEDICAL CORRIDOR: one month paid leave at Vinterholm plus family transport.
 
 BEST INTELLIGENCE CAPTURE: direct commendation and personal dinner with senior House command.
 
@@ -3598,7 +3568,7 @@ Annette looked toward the tactical map.
 
 Kira added:
 
-“Secondary categories: civilians protected during engagement, prisoners recovered, and salvage value preserved.”
+“Secondary measures: secure access routes, functioning fire controls, and salvage value preserved. Civilian safety and lawful custody remain duties for every team.”
 
 Anton looked delighted.
 
@@ -3650,7 +3620,7 @@ Too late.
 
 “SAVE THE BRIDGE!”
 
-“PRISONERS COUNT!”
+“WEAPONS DOWN MEANS STOP!”
 
 “WHOever scratches the engines buys drinks!”
 
@@ -3842,7 +3812,7 @@ A prize list.
 
 “Bridge alive!”
 
-“Prisoners count!”
+“Protect the surrendering crew!”
 
 “Do not shoot the reactor crew!”
 
@@ -4920,7 +4890,7 @@ Then grinned.
 
 “Good. Now kill the rest.”
 
-His marines surged past the Hunters’ flanks and hit the human troops behind the warforms. One shouted, “PRISONERS STILL COUNT!” Another yelled back, “THEN AIM BETTER!”
+His marines surged past the Hunters’ flanks and hit the human troops behind the warforms. One shouted, “WATCH THE HUMAN TROOPS!” Another yelled back, “THEN AIM BETTER!”
 
 The corridor became a slaughterhouse.
 

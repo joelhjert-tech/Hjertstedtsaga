@@ -3468,13 +3468,9 @@ Anton drove the broken plate edge into the damaged side armor.
 
 The war boss grabbed him by the neck and lifted him.
 
-Christer half-turned.
+Christer half-turned toward Anton. Joel saw movement at the open junction behind him and caught his arm. “Cover that passage. I have Anton.”
 
-Joel barked:
-
-“No.”
-
-Christer stopped.
+A Garooth gunner was forcing a heavy weapon around the corner. Christer fired before it could bring the barrel level, then kept his rifle on the junction while Joel advanced toward the war boss. Joel reached for his axe as the creature held Anton clear of the deck.
 
 Anton’s legs hung above the deck.
 
@@ -3490,11 +3486,7 @@ Found the emergency breaching spike clipped to his armor.
 
 And drove it directly through the war boss’s forearm.
 
-The grip opened.
-
-Anton dropped.
-
-He seized the hanging arm.
+The grip opened before Joel reached them. Anton dropped and seized the hanging arm; Joel stayed close enough to intervene.
 
 Twisted.
 
@@ -5278,7 +5270,7 @@ The Talyrn physicians had expected Joel to remain under assisted recovery for da
 
 Instead, he entered the meeting chamber under his own power.
 
-Anton followed with his damaged shoulder immobilized beneath a temporary brace.
+Anton followed with his damaged shoulder immobilized beneath a temporary brace. At the entrance he tried to steady the door with that arm, stopped, and used the other. A Talyrn physician noticed. “The brace stays on,” she said. Anton glanced at Joel and found no help there.
 
 Christer still moved stiffly.
 

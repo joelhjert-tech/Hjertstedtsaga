@@ -59,4 +59,8 @@ Rydell's old debt to Lars, the admirals' inherited records and the [Chapter 05 K
 
 The [Chapter 07 war-feast](../../novel/chapters/chapter-07.md#8-feast-before-the-spear) records the agreed mission boundaries before the assault and lets a Talyrn commander choose the milder drink without losing standing. Ghar-Kul's wager remains unsettled at departure. Bjorn asks for witnesses and food at a later table; no new winner is invented.
 
+## Battle and horror revision — 8 November 2026
+
+The published snapshot above preserves its original wording. In the owner-authorized revision of Chapters 03–07, the Central prizes and Joel's Ghar-Kul wager measure secured routes and other operational work rather than counting people. Triage, rescue and lawful custody remain duties shared by every team. The separate bottles, their keepers and the unsettled Ghar-Kul result remain as recorded above.
+
 Future writing follows the [standing novel-writing guidelines](../../guidelines/novel-writing-guidelines.md).

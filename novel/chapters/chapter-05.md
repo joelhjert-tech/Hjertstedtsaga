@@ -264,6 +264,8 @@ It looked deeper into the Shepherd.
 
 “Then we preserve it,” Annette said.
 
+A medical officer met Annette outside the vault with a request from Central. One of the people recovered from a Shepherd cell had heard a familiar voice through a ward speaker and asked the staff to open the door. The recording on the speaker was an ordinary ward notice, the medic said, but the patient had heard it differently and was frightened when it began again. The staff had switched to written notices while they asked what the survivor needed. Annette authorized the change and asked the medical team to keep control of the patient’s care; the Justicars could take testimony when the person was ready.
+
 While the dead were prepared for return and the Shepherd vault was sealed under Justicar authority, House rule began across Ardent.
 
 Joel conducted the first occupation council from a medical chair.

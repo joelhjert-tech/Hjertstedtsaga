@@ -60,6 +60,10 @@ The owner added [the Vharok Brood](reference/factions/vharok-brood/README.md), a
 
 This is wider-setting lore for the proposed forgotten-gate/Directorate mystery; it does not alter or confirm events within the current seven-chapter novel. The previously drafted continuation remains uncommitted.
 
+## Battle and horror revision — 8 November 2026
+
+At the owner's direction, Chapters 03–07 were revised to strengthen fleet and boarding decisions, the Seraph threat, rescue priorities, and the effects of damage and injuries while retaining the existing story outcomes. Chapter 01 remains unchanged; Chapter 02 was outside this revision. [Revision record](sources/battle-horror-revision-2026-11-08.json).
+
 ## Main novel edition — 8 November 2026
 
 At the owner’s direction, Chapter 8, *The Smaller Ships*, was removed from the active main novel. Chapters 1–7 remain. The earlier version is identifiable in [the removal record](sources/chapter-08-removal-2026-11-08.json); source and reference snapshots retain their original historical scope.
