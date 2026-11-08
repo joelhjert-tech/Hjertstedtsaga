@@ -1,7 +1,7 @@
 {
   "release": "issue03-2026-10-08-v01",
   "imported_on": "2026-10-09",
-  "scope": "Novel chapters 1Ã¢â‚¬â€œ8: owner-directed House rivalry revision of Chapters 02Ã¢â‚¬â€œ08, Chapter 01 unchanged; original published universe dossiers with labeled writing supplements and prior ship update; accepted standalone side story The Kharad Trial (26 October 2026), separate from main-novel chronology; owner-supplied revised standalone The House That Would Not Kneel (27 October 2026), proposed main-saga continuity only; owner-supplied revised The Fleet Beneath the Grave (29 October 2026), proposed standalone continuity only; owner-directed combined The Seventh Lock (2 November 2026), proposed standalone continuity only; owner-authorized revision of The Names Beneath the Iron (4 November 2026), proposed standalone continuity; owner-supplied The Bottle Wager (5 November 2026), proposed standalone continuity awaiting review decisions",
+  "scope": "Novel chapters 1Ã¢â‚¬â€œ8: owner-directed House rivalry revision of Chapters 02Ã¢â‚¬â€œ08, Chapter 01 unchanged; original published universe dossiers with labeled writing supplements and prior ship update; accepted standalone side story The Kharad Trial (26 October 2026), separate from main-novel chronology; owner-supplied revised standalone The House That Would Not Kneel (27 October 2026), proposed main-saga continuity only; owner-supplied revised The Fleet Beneath the Grave (29 October 2026), proposed standalone continuity only; owner-directed combined The Seventh Lock (2 November 2026), proposed standalone continuity only; owner-authorized revision of The Names Beneath the Iron (4 November 2026), proposed standalone continuity; owner-supplied The Bottle Wager (5 November 2026), proposed standalone continuity awaiting review decisions; owner-supplied The Price of Sanctuary opening (8 November 2026), proposed standalone continuity awaiting review",
   "source_sha256": {
     "downloads/the-shattered-lane-chapters-1-8.md": "f843477880b331d99e7948751486dab6867019b2e013ccc062453b5ef0323f54",
     "content/public-v1.json": "c57e43189bd3c436230d7126988aea82aaf7720ef3cb25a137141fbff95c265e",
@@ -23,9 +23,9 @@
     "novel/chapters/chapter-07.md": "e6f68b9fe7215cdf26a0a4636fab844273e86301e7d2a23f36b0c850a70671f8",
     "novel/chapters/chapter-08.md": "34c5af8643a5091ee955bb443dccb8c8efe5148667ba58a9915d7cb4c75fe6e8",
     "novel/complete-novel.md": "7496c12be7c1886c074c6926af5281754812951847a86f14c20501113a7808e9",
-    "novel/INDEX.md": "afc622a80ef494ac39527d8981978a2c80b438d51fcd629d606911fcf4f2276d",
+    "novel/INDEX.md": "3666d8be5599722b12a64da7e6a9f29d1bb49bda9ce20ad2fe6787ccf6faefaa",
     "novel/scene-index.json": "8e670177e3ce7968376fbb0d909f5caef2e6d646133ffc50fc70f663eadea6a3",
-    "README.md": "5415b97a071c89436a5d4b0201e54d0590d9ef9922c2cd716aa33a90d92f8077",
+    "README.md": "c9817dd7794746574576e908c6ad4334c5b3ac4939abc2be676d4964c1ef79a0",
     "reference/characters/annette.md": "e99ae6c62573bc5c07d8f2c5a3aaae9ab5c17e95afcf29375059e1c353a7e215",
     "reference/characters/anton.md": "cc4231415f18b387a16633161108d4cf269ce74b1a6c638ca27eef0b130b5864",
     "reference/characters/aster-9.md": "ad6bdd1489c587a3ae7515a3765013a5111644cc0bd7e7f2201e9707a7de1449",
@@ -122,7 +122,7 @@
     "reference/galaxy-map/galactic-atlas.md": "30c11bff04b44d26c6abc188d2692491adcbdab195846eb017154e5358baea19",
     "reference/gates-and-lanes/pluto-gate.md": "a72e8b8b16459945dfd312877a512d000872ff8f5aa31429602926984e4612b2",
     "reference/gates-and-lanes/strategic-gates-and-lanes.md": "3197c489e57ebd217bfa161604fd272d0e97210abd7821b9107c2aea20c0215e",
-    "reference/INDEX.md": "ed3947313197e7c00c8b18222a11038027b0a0b6ede92a0f81140db65f8c4728",
+    "reference/INDEX.md": "4621c65299c6757c0ccb6b92628ddc0e9c2b13aaabecc789dc6a47932fe0f717",
     "reference/locations/ardent-agricultural-world.md": "423b4a8948e0a52652ede94b932e207ae87dac465f6a5b76fb4a4e9b7132a5a7",
     "reference/locations/ardent-bastion.md": "8dd126efaa787b9e2320a520302b66bf821c9eda3dda4d6f3ee676eb1771295d",
     "reference/locations/ardent-central.md": "0f5fb842ac103491dc5bdee50aabbacfb79b61d1ffb867fe46c47d03c3362bc9",
@@ -176,7 +176,7 @@
     "sources/new-ships-2026-10-10.json": "3d2b7cf11de85587df14f8a14ae6bf4620a6b4eb7cac097e760cd85fca3d5c11",
     "sources/novel-revision-map.json": "ca4c71c34cbe0018f878489fa778b862b1f5e32854795092700db8a42b399354",
     "side-stories/the-kharad-trial.md": "6622581a108e19d22f33a6e7a88eb55a4b784f3ff9b866d2ceac1b7380f298fd",
-    "side-stories/INDEX.md": "1f12e6a6d172d16b4d5d8ea5489b610ac31fc7f37724d966d3ee331e2cfe4fd4",
+    "side-stories/INDEX.md": "b066fadece5f795489f13e57e59f61138c77a219a7f70bbb7c1b6bb0c335db23",
     "side-stories/scene-index.json": "cb61cecc78c2ce70a3469aa7a92fa5b1a6466246859ac413cdea8ca351dad974",
     "reference/side-stories/the-kharad-trial.md": "3918dd025e290cc8c0bdfb47433d52b90ea3b5c002f2ffacd90b60627ebd1c12",
     "sources/kharad-trial-2026-10-26.json": "29058ea6188edf61d1d845c286bc80c861d7406d828cd7477fa2930635e0ebe8",
@@ -207,7 +207,10 @@
     "sources/novel-writing-craft-adaptation-2026-11-05.json": "1470c7d88c322a04aea6a5ffc4d28e078d618ba911737198caabc7f36c8da49a",
     "side-stories/the-bottle-wager.md": "9b60b88db9343c2de4baef75f88f30036885f1dadd559f837b3166a19e275b71",
     "reference/side-stories/the-bottle-wager.md": "8cf7336eee97f91767bc9f77c74b35865bcd324aa81f7deb178ed647e8e179c1",
-    "sources/bottle-wager-2026-11-05.json": "ac8c21a457fd40a9eb39dd07710a03cae474d516aa02755bce164054773ad179"
+    "sources/bottle-wager-2026-11-05.json": "ac8c21a457fd40a9eb39dd07710a03cae474d516aa02755bce164054773ad179",
+    "side-stories/the-price-of-sanctuary.md": "06ea699de73c444246ed68e4ee639431b7779d76357d9a43c8c4d619cd05f410",
+    "reference/side-stories/the-price-of-sanctuary.md": "858a8773d3b7d9a0ba7414409eed8f465b76651e7839d1e9cc27117434b898ef",
+    "sources/price-of-sanctuary-2026-11-08.json": "47bf2abc9ecfc1b14c338cedb4a2a07a5f687a1b43bd0d7bb72872bdc26ad0ea"
   },
   "supplemental_updates": [
     {
@@ -283,11 +286,18 @@
       "side_stories_added": 1,
       "date": "2026-11-05",
       "continuity_status": "PROPOSED_STANDALONE_UNRESOLVED"
+    },
+    {
+      "source_record": "sources/price-of-sanctuary-2026-11-08.json",
+      "sha256": "47bf2abc9ecfc1b14c338cedb4a2a07a5f687a1b43bd0d7bb72872bdc26ad0ea",
+      "side_stories_added": 1,
+      "date": "2026-11-08",
+      "continuity_status": "PROPOSED_STANDALONE_OPENING_UNDER_REVIEW"
     }
   ],
   "current_edition": "house-rivalry-2026-10-19-v01",
   "revised_on": "2026-10-19",
   "revision_metadata": "sources/house-rivalry-2026-10-19.json",
-  "side_story_count": 7,
-  "side_story_reference_count": 7
+  "side_story_count": 10,
+  "side_story_reference_count": 10
 }

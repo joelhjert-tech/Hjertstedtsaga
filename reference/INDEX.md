@@ -178,3 +178,5 @@ The original website snapshots retain their source attributions. Six character d
 - [The Forty Dead](side-stories/the-forty-dead.md) — owner-authorized revision; full spoilers; proposed standalone continuity.
 
 - [The Last Passenger of Veyr's Crossing](side-stories/the-last-passenger-of-veyrs-crossing.md) — owner-authorized revision; proposed standalone continuity, full spoilers.
+
+- [The Price of Sanctuary](side-stories/the-price-of-sanctuary.md) — owner-supplied opening under review; proposed standalone continuity, full spoilers.

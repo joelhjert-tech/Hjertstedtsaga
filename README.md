@@ -34,6 +34,10 @@
 
 A searchable writing reference for **Tales from the Known Reach / The Shattered Lane**.
 
+## New side-story opening — 8 November 2026
+
+[The Price of Sanctuary](side-stories/the-price-of-sanctuary.md) follows Veyran survivors seeking refuge in Sol. The owner-supplied opening installment is preserved for review as **proposed standalone continuity**; its main-novel placement is unestablished. [Story reference](reference/side-stories/the-price-of-sanctuary.md) · [Source record](sources/price-of-sanctuary-2026-11-08.json).
+
 ## Start here
 
 - [Novel chapter and scene index](novel/INDEX.md)
