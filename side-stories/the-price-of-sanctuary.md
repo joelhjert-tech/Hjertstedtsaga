@@ -2,15 +2,13 @@
 
 A Tale from the Known Reach
 
-## The Seven Who Reached Sol
-
 We came to Sol because every other door had closed.
 
-The official histories of the Veyran Remnant describe our arrival as a calculated withdrawal through three contested lane corridors, followed by a diplomatic request for emergency repairs. They record the preservation of seven warships and the successful evacuation of more than eleven thousand military personnel and civilians. They describe my command decisions as examples of disciplined retreat under overwhelming enemy pressure. There are monuments to those decisions now, and children learn about them in schools built on worlds I never expected to see again. I have attended three dedication ceremonies and stood quietly while politicians explained what a remarkable achievement it had been.
+The official histories of the Veyran Remnant describe our arrival as a calculated withdrawal through three contested lane corridors, followed by a diplomatic request for emergency repairs. They record the preservation of seven military vessels, including a medical transport, and the successful evacuation of more than eleven thousand military personnel and civilians. They describe my command decisions as examples of disciplined retreat under overwhelming enemy pressure. There are monuments to those decisions now, and children learn about them in schools built on worlds I never expected to see again. I have attended three dedication ceremonies and stood quietly while politicians explained what a remarkable achievement it had been.
 
 The truth is considerably uglier.
 
-We had seven ships because the other forty-three were dead. We had eleven thousand survivors because nearly ninety thousand others had been killed, captured, or abandoned during the retreat. Four of our vessels were leaking atmosphere, two were operating on emergency reactor systems, and our last functioning Sanctuary-class medical transport had been converted into a floating morgue three weeks earlier. We had no proper ammunition reserves, no functioning repair tender, and barely enough fuel to reach the next authenticated transit point. The surviving crews had been eating reduced emergency rations for nineteen days. We had stopped recording individual deaths aboard the smaller escorts because their medical officers were already dead, and nobody had enough personnel left to maintain the lists.
+We had seven ships because the other forty-three were dead. We had eleven thousand survivors because nearly ninety thousand others had been killed, captured, or abandoned during the retreat. Four of our vessels were leaking atmosphere, two were operating on emergency reactor systems, and our last functioning medical transport had turned its cargo decks into a morgue three weeks earlier, while its remaining medical compartments struggled to care for the living. We had no proper ammunition reserves, no functioning repair tender, and barely enough fuel to reach the next authenticated transit point. The surviving crews had been eating reduced emergency rations for nineteen days. We had stopped recording individual deaths aboard the smaller escorts because their medical officers were already dead, and nobody had enough personnel left to maintain the lists.
 
 My name is Captain Varek Thenn. I commanded the cruiser Enduring River, flagship of what remained of the Veyran Third Defensive Flotilla.
 
@@ -20,7 +18,9 @@ We had never wanted an interstellar war.
 
 The Sorynth Veil had not cared.
 
-Eleven years earlier, their first ships had appeared beyond the outer approaches of the Kelrath Corridor. They were pale, narrow vessels with curved hulls and recessed engines, accompanied by clouds of small autonomous machines that spread through local space like drifting seeds. They did not issue conventional challenges or demands. They did not identify a sovereign government, present territorial claims, or respond to our diplomatic channels. Their ships approached our navigation buoys, disabled their transmitters, and began interfering with civilian traffic. When our patrol frigates attempted to intercept them, the Sorynth destroyed their sensor arrays and propulsion systems with frightening precision.
+Eleven years earlier, their first ships had appeared beyond the outer approaches of the Kelrath Corridor. They were pale, narrow vessels with curved hulls and recessed engines, accompanied by clouds of small autonomous machines that spread through local space like drifting seeds. They did not issue conventional challenges or demands. We received signals, but none that our translators recognized as replies to our diplomatic channels. What happened at that first meeting was less clear than I believed at the time.
+
+In the encounters that followed, their ships approached our navigation buoys, disabled transmitters, and interfered with civilian traffic. When our patrol frigates attempted to intercept them, the Sorynth destroyed their sensor arrays and propulsion systems with frightening precision.
 
 We interpreted those actions as the beginning of an invasion.
 
@@ -36,11 +36,11 @@ By the eleventh year, we had lost twenty-seven inhabited systems.
 
 We had also lost the ability to tell our children why.
 
-The final retreat began at the shattered relay of Damaris Reach. The Third Defensive Flotilla had been ordered to hold the approach while civilian evacuation convoys escaped toward the inner lanes. We held for fourteen hours. The Sorynth did not overwhelm us with a conventional battle line; they separated our formations, destroyed our communications relays, and dismantled the ships responsible for coordinating our defenses. Our battleship Stone of Veyra remained operational for nearly six hours after losing its main engines, firing its surviving batteries until a precision strike severed the command spine. I watched its forward sections break apart while the aft compartments continued transmitting casualty reports. The evacuation convoy escaped with approximately forty thousand civilians. Of the warships assigned to protect it, seven eventually reached Sol.
+The final retreat began at the shattered relay of Damaris Reach. The Third Defensive Flotilla had been ordered to hold the approach while civilian evacuation convoys escaped toward the inner lanes. We held for fourteen hours. The Sorynth did not overwhelm us with a conventional battle line; they separated our formations, destroyed our communications relays, and dismantled the ships responsible for coordinating our defenses. Our battleship Stone of Veyra remained operational for nearly six hours after losing its main engines, firing its surviving batteries until a precision strike severed the command spine. I watched its forward sections break apart while the aft compartments continued transmitting casualty reports. The evacuation convoy escaped with approximately forty thousand civilians. Of the flotilla vessels assigned to protect it, seven eventually reached Sol.
 
 I still do not know whether the convoy survived the next gate.
 
-We entered the outer Sol approach through the Gate of Truce on the thirty-second day of our retreat.
+We entered the outer Sol approach through the Pluto Gate on the thirty-second day of our retreat. Our charts called it the Gate of Truce; the Terrans named it for the distant world inside its orbit.
 
 The Enduring River emerged first, and for several seconds I thought the transit had killed us. The ship struck the arrival envelope badly, our damaged navigation systems failing to compensate for the gate's reception geometry. Emergency thrusters fired along the port side, throwing everyone on the bridge against their restraints. A structural warning screamed through the command deck, followed by the terrible metallic groan of a keel brace that had already endured more punishment than its designers intended. The main display flickered, recovered, and showed the distant light of Sol surrounded by navigation markers, patrol contacts, and an astonishing density of controlled traffic.
 
@@ -80,7 +80,7 @@ They had simply seen two ships about to die and done something about it.
 
 A transmission arrived almost immediately.
 
-"Unidentified formation, this is Sol Outer Traffic Control, Neptune Gate Authority. You are inside a restricted reception envelope. Maintain current vectors, disable all nonessential emissions, and acknowledge this transmission."
+"Unidentified formation, this is Sol Outer Traffic Control, Pluto Gate Authority. You are inside a restricted reception envelope. Maintain current vectors, disable all nonessential emissions, and acknowledge this transmission."
 
 The voice was human, female, and entirely professional.
 
@@ -100,7 +100,7 @@ I respected that.
 
 "Open communications," I ordered.
 
-The channel cleared, and I addressed the unknown controller in the most formal trade language I could manage. "Sol Outer Traffic Control, this is Captain Varek Thenn of the Veyran Third Defensive Flotilla. We are seven damaged military vessels requesting emergency sanctuary, medical assistance, fuel, and repairs. Our crews include wounded personnel and civilian evacuees. We are unable to continue transit."
+The channel cleared, and I addressed the unknown controller in the most formal trade language I could manage. "Sol Outer Traffic Control, this is Captain Varek Thenn of the Veyran Third Defensive Flotilla. We are six damaged warships and one medical transport requesting emergency sanctuary, medical assistance, fuel, and repairs. Our crews include wounded personnel and civilian evacuees. We are unable to continue transit."
 
 There was a brief silence.
 
@@ -199,6 +199,10 @@ Keene continued. "We're going to secure the engine frame before we move you. Ple
 "It has not functioned for nineteen days."
 
 "Excellent. Let's keep it that way."
+
+Keene asked for the hatch to be opened so her team could reinforce the frame from inside. Our chief engineer, Pell, came onto the channel before I could answer. He explained that the welded bypass carried coolant for the one pump keeping the port reactor loop stable. Cutting it without another route would stop the pump.
+
+Keene asked how long he needed to fit a temporary line. Pell requested her team's portable pump and two of his own engineers. I authorized access to the machinery compartment and sent Audren to coordinate the security checks. Keene's team held position while Pell installed the line; only after he confirmed the flow did he open the hatch for them.
 
 The rescue operation lasted nearly nine hours.
 
@@ -402,7 +406,7 @@ They had established separate dietary stations after consulting our surviving me
 
 I sat at a long table beside Audren and watched my surviving officers eat.
 
-Across from us, an elderly Veyran engineer named Pell was examining a bowl of Terran vegetable stew with profound suspicion. A young human technician sitting beside him attempted to explain the ingredients, but the translation software struggled with several of the names. Pell finally took a cautious mouthful, considered the flavor, and nodded solemnly.
+Across from us, Pell was examining a bowl of Terran vegetable stew with profound suspicion. A young human technician sitting beside him attempted to explain the ingredients, but the translation software struggled with several of the names. Pell finally took a cautious mouthful, considered the flavor, and nodded solemnly.
 
 "It is warm," he declared.
 
@@ -602,33 +606,29 @@ I looked up.
 
 "Have you ever tried transmitting one back?"
 
-I stared at her.
+"Our signals officers did, years ago. They repeated a recorded pulse during a withdrawal. A Sorynth vessel changed course toward them, and the officers broke off before they could try again."
 
-"No."
+"Did it fire?"
 
-"Why not?"
+"Not before they escaped. Our people could not tell whether it had reacted to the pulse or detected their transmitter. They recommended further tests, but the equipment and ships they needed were lost in the next campaign."
 
-"Because they are targeting pulses."
+Ström considered that. "Could I see their report?"
 
-Ström nodded slowly.
+"I will ask Audren to find it."
 
-"That's what your computers say."
-
-She left before I could answer.
+"Thank you, Captain." She paused at the door. "Your officers may have noticed something the rest of us missed."
 
 I remained seated for a long time afterward, listening to the distant industrial sounds of the repair anchorage. Beyond the window, enormous cranes moved across the wounded hull of the Enduring River, and Terran engineers were already cutting away the first damaged armor sections. Welding arcs flashed against the darkness, illuminating the ship's scars one by one.
 
 I thought about the Sorynth.
 
-I thought about the twenty-seven worlds we had lost, the fleets that had disappeared, and the millions of dead whose names filled our memorial archives.
+I thought about the twenty-seven inhabited systems we had lost, the fleets that had disappeared, and the millions of dead whose names filled our memorial archives.
 
 And I thought about the strange signals that had accompanied every battle.
 
-For eleven years, we had assumed we knew what they meant.
+For eleven years, the signals had arrived with fear and loss. Our officers had questioned them before; I had let the demands of survival make their questions feel less urgent.
 
-I had never once considered asking whether we were wrong.
-
-Far beyond Mars, in a secured Federal intelligence facility, a Terran signals analyst was examining the same recordings. She had isolated the pulses from six separate engagements and aligned them against the timestamps of the Sorynth attacks. At first, the patterns appeared to be ordinary distributed fire-control traffic, precisely as the Veyran officers had reported.
+Later, I received a copy of a Federal analyst's report and spoke with her about the work she had begun that night. At a secured intelligence facility, she had compared our officers' recordings with the pulses from six separate engagements, aligning them against the times of the Sorynth attacks. At first, the patterns appeared to be ordinary distributed fire-control traffic, as our officers had reported.
 
 Then she noticed something peculiar.
 
@@ -638,9 +638,7 @@ They changed when the Veyran ships transmitted.
 
 She checked the recordings again, comparing the pulses against diplomatic hails, emergency warnings, and automated weapons-control traffic. Each time the Veyrans transmitted, the Sorynth network responded with a slightly different sequence. The responses were consistent across multiple engagements, separated by years and dozens of light-years.
 
-The analyst leaned forward.
-
-She isolated the earliest recording in the archive, captured before the first confirmed exchange of weapons fire.
+She isolated the earliest surviving recording in the archive, made before the first confirmed exchange of weapons fire. It preceded the disabling of our navigation buoys described in later patrol reports; it did not show what either side intended.
 
 A pale Sorynth vessel approached a Veyran navigation buoy.
 
@@ -654,15 +652,13 @@ Its captain ordered weapons free.
 
 The first missiles launched.
 
-The analyst watched the sequence three times before contacting her supervisor.
+According to her report, the analyst watched the sequence three times before contacting her supervisor. She later let me read a transcript of that conversation.
 
-"Sir," she said quietly, "I think we need to reconsider the first-contact report."
+"Sir," she said, "I think we need to reconsider the first-contact report."
 
-Her supervisor appeared on the terminal.
+Her supervisor answered.
 
 "What have you found?"
-
-She hesitated, looking at the waveform still moving across her display.
 
 "I don't know yet."
 
@@ -670,23 +666,19 @@ She hesitated, looking at the waveform still moving across her display.
 
 "Because I think the Veyrans may have fired on something that wasn't a weapon."
 
-The supervisor was silent for several seconds.
+There was a pause.
 
 "Are you certain?"
 
 "No, sir."
 
-She looked toward the ancient recording again.
+"But I think somebody may have been trying to answer them."
 
-"But I think somebody was trying to answer them."
+The analyst did not know what had happened to our missing crews, or why our colonies had been emptied. Neither did I. A possible answer in an old recording did not bring any of them home.
 
-Outside the intelligence facility, Mars continued turning beneath its immense orbital shipyards.
+That night, Mars turned beneath its immense orbital shipyards. Seven broken vessels rested in their repair cradles, and the surviving thousands of our people were being sheltered beneath Terran protection.
 
-Seven broken warships rested in their repair cradles.
-
-Eleven thousand survivors slept beneath Terran protection.
-
-And somewhere beyond the authenticated lanes, the Sorynth Veil was still searching for the fleet that had escaped.
+Beyond the authenticated lanes, we had to assume the Sorynth Veil was still searching for the fleet that had escaped.
 
 The Terrans had given us sanctuary.
 

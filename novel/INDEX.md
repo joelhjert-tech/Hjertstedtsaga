@@ -157,4 +157,4 @@ Current repository edition: **House rivalry revision — 19 October 2026**. Chap
 
 - [The Silence Beneath Shardveil](../side-stories/the-silence-beneath-shardveil.md) — owner-authorized revision; proposed standalone story, not part of main-novel chronology. [Side-story index](../side-stories/INDEX.md).
 
-- [The Price of Sanctuary](../side-stories/the-price-of-sanctuary.md) — owner-supplied opening installment under review; proposed standalone continuity, separate from main-novel chronology.
+- [The Price of Sanctuary](../side-stories/the-price-of-sanctuary.md) — owner-authorized revised opening installment; proposed standalone continuity, separate from main-novel chronology.

@@ -65,6 +65,6 @@ The complete main-novel file does not include this side story. Comic scripts, vi
 
 ## The Price of Sanctuary
 
-- [Owner-supplied opening installment](the-price-of-sanctuary.md) — Veyran survivors seek emergency refuge in Sol.
-- Submitted 8 November 2026 for review; prose preserved as supplied. **Proposed standalone continuity**, uncompleted and awaiting review decisions; main-novel placement is unestablished.
-- [Story reference and spoilers](../reference/side-stories/the-price-of-sanctuary.md) · [Source record](../sources/price-of-sanctuary-2026-11-08.json).
+- [Revised opening installment](the-price-of-sanctuary.md) — Veyran survivors seek emergency refuge in Sol.
+- Owner-authorized editorial revision, 8 November 2026. **Proposed standalone continuity**; the opening remains incomplete and its main-novel placement is unestablished.
+- [Original edition](../sources/editions/the-price-of-sanctuary-original-2026-11-08.md) · [Story reference and spoilers](../reference/side-stories/the-price-of-sanctuary.md) · [Revision record](../sources/price-of-sanctuary-revision-2026-11-08.json) · [Original source record](../sources/price-of-sanctuary-2026-11-08.json).
