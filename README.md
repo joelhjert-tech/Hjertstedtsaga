@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## New standalone story submitted for review — 8 November 2026
+
+[The Last Passenger of Veyr's Crossing](side-stories/the-last-passenger-of-veyrs-crossing.md) follows a House frigate investigating a missing passenger ship. The owner-supplied prose is preserved as submitted for review; its ending is unresolved and its placement is **proposed standalone continuity**. [Story reference](reference/side-stories/the-last-passenger-of-veyrs-crossing.md) · [Source record](sources/last-passenger-veyrs-crossing-2026-11-08.json).
+
 ## New standalone story — 8 November 2026
 
 [The Forty Dead](side-stories/the-forty-dead.md) follows Terra's effort to rebuild condemned Imperial warships. The owner-supplied prose is preserved as submitted while review suggestions await the owner's decisions. Its placement is **proposed standalone continuity**, not an established main-novel event. [Story reference](reference/side-stories/the-forty-dead.md) · [Source record](sources/forty-dead-2026-11-08.json).

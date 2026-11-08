@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-08",
+  "edition": "owner-supplied-as-submitted-v01",
+  "source": "User-provided attachment Inklistrad text.txt beginning # THE LAST PASSENGER OF VEYR'S CROSSING",
+  "status": "USER_SUPPLIED_AWAITING_REVIEW_DECISIONS",
+  "continuity_status": "PROPOSED_STANDALONE; relationship to main novel unestablished; supplied story ends unresolved.",
+  "source_sha256": "ff6b70b5ae42b09eef92dc0e6448f84c893c094e19cb3ef951006365ad4da071",
+  "source_fidelity": "EXACT_TEXT_WITH_LINE_ENDINGS_NORMALIZED_TO_LF",
+  "preservation": "Submitted prose preserved without editorial changes; line endings normalized to LF.",
+  "scope": "Story storage, provenance, navigation and scoped reference; main-novel prose unchanged.",
+  "base_commit": "622e0141959be2debc4b21d2b874085b7619153d",
+  "files": {
+    "side-stories/the-last-passenger-of-veyrs-crossing.md": "3a1bd087ae382369fc6e89e9e0d6ab13731d635cf2990ffd41bb616e58f2a691",
+    "reference/side-stories/the-last-passenger-of-veyrs-crossing.md": "da30aa82d683622a67ea110b92e966acb4faa4dd560a8e2f7f25cbc3670d07c3",
+    "side-stories/INDEX.md": "f4fc60c80e5cea0c12521cb2ab196499d8f6b47f8f9a42a5bdde67800dddc726",
+    "reference/INDEX.md": "4cad05ecfb4467c2f0edecc53c4fd9b5d4c8e7a59ccdc04c2dadc9cfea506b4e",
+    "README.md": "9f6d154914beb7f614acf2d63f1aec9142951bcb4f97a923249c57608a64388e"
+  },
+  "website_or_comic_publication": false,
+  "export_sha256": "3a1bd087ae382369fc6e89e9e0d6ab13731d635cf2990ffd41bb616e58f2a691"
+}

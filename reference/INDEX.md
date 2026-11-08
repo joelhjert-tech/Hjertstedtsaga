@@ -176,3 +176,5 @@ The original website snapshots retain their source attributions. Six character d
 - [The Bottle Wager](side-stories/the-bottle-wager.md) — owner-supplied story awaiting review decisions; full spoilers; main-novel placement unresolved.
 
 - [The Forty Dead](side-stories/the-forty-dead.md) — owner-supplied story; full spoilers; proposed standalone continuity.
+
+- [The Last Passenger of Veyr's Crossing](side-stories/the-last-passenger-of-veyrs-crossing.md) — owner-supplied review text; proposed standalone continuity, full spoilers.
