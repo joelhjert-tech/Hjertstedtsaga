@@ -1,7 +1,7 @@
 {
   "release": "issue03-2026-10-08-v01",
   "imported_on": "2026-10-09",
-  "scope": "Current main novel chapters 1–7, including owner-authorized battle and horror revision of Chapters 03–07 on 8 November 2026; original published universe dossiers and historical source records retain their stated scope; standalone stories remain separate.",
+  "scope": "Current main novel chapters 1–7, including the owner-authorized battle and horror revision of Chapters 03–07 and its continuity review on 8 November 2026; original published universe dossiers and historical source records retain their stated scope; standalone stories remain separate.",
   "source_sha256": {
     "downloads/the-shattered-lane-chapters-1-8.md": "f843477880b331d99e7948751486dab6867019b2e013ccc062453b5ef0323f54",
     "content/public-v1.json": "c57e43189bd3c436230d7126988aea82aaf7720ef3cb25a137141fbff95c265e",
@@ -16,15 +16,15 @@
     "guidelines/novel-writing-guidelines.md": "f8af2958b63baee5f48ea657203fa4941ae39952dfb3e583a8fc13cbd445f66f",
     "novel/chapters/chapter-01.md": "e6fbe1120e616925c93610b249d58297fef06738e3cdbadc1b40a33dc5ef6af0",
     "novel/chapters/chapter-02.md": "d9a2400b9ccffe09e49723b3f6ff628b2cd8ddf9b11c5db4fd410f1e1cd5dfd6",
-    "novel/chapters/chapter-03.md": "fdc8ddc05a17920c680268057a8946747efc5d927cc723812b17776a3fac1029",
-    "novel/chapters/chapter-04.md": "b8a84dca9f692d26d4819667d194f513e104737e9c680d741735791cb96ab60e",
+    "novel/chapters/chapter-03.md": "406033756352949db439236026fd11a368de8cf8eb953febdb69a66345671a89",
+    "novel/chapters/chapter-04.md": "eb3d1b5f78159efd758c5d25755d9164757130df254413beb3687911a7b5e537",
     "novel/chapters/chapter-05.md": "74df5be44ad372d5c25a552a191e654ae58d3ef296eb358d1766bb1e111d10fa",
-    "novel/chapters/chapter-06.md": "8cfa40df1a249420df45269c8e783b3fae16cdf56ef4e748e3b20031e80dece1",
-    "novel/chapters/chapter-07.md": "328a0440fcf4488cee061b3684c3bddba489d6476e4e1a879a273c0800de881c",
-    "novel/complete-novel.md": "04c0df17a0f3e64970e02a967a03e88b97efebdf727d125f991b2d7cd738be88",
-    "novel/INDEX.md": "1f181ce8f02aeec6ea4ffe4279ba869eabada9a08d90efbc2cbfac989aca5886",
-    "novel/scene-index.json": "b9eeaf6fdd686939de08c94c436f9444288014536843e19c418e55206ff8efb8",
-    "README.md": "3c228913cae77956b033335e51805dd046f70c8df893f96c31ff9df2cb0a3b43",
+    "novel/chapters/chapter-06.md": "ca6fba59fa630c26a175fa1e89ca83cf53516cc414bd0aa69cc6bd1c6af037ff",
+    "novel/chapters/chapter-07.md": "9048eba7cc5d395a4a00b353a2c8913603bd9df5e099f670e72bbac2623f9b8f",
+    "novel/complete-novel.md": "4986afcb08a669037834088b6adf2cbe032fd200ce00ac7ff38d4924753254c5",
+    "novel/INDEX.md": "9f891f39369c9996f5ddd3598ddda14f4ab16f0bce59996817c5ff048b853fad",
+    "novel/scene-index.json": "b6ddd31fcb6637c65f82fcba2b737db4054452989931ab57b7adf4a019fc6523",
+    "README.md": "efcfd58b770c08c3d5a2c80e9e44bda01344ef1760493a126a3bbbf991031dc3",
     "reference/characters/annette.md": "e99ae6c62573bc5c07d8f2c5a3aaae9ab5c17e95afcf29375059e1c353a7e215",
     "reference/characters/anton.md": "cc4231415f18b387a16633161108d4cf269ce74b1a6c638ca27eef0b130b5864",
     "reference/characters/aster-9.md": "fabbf3813816c21ba837fc4c9d7e07b7fb7ff3b8cf5e389dfc9dcf65ae3dcaed",
@@ -208,7 +208,8 @@
     "reference/side-stories/the-bottle-wager.md": "8cf7336eee97f91767bc9f77c74b35865bcd324aa81f7deb178ed647e8e179c1",
     "sources/bottle-wager-2026-11-05.json": "ac8c21a457fd40a9eb39dd07710a03cae474d516aa02755bce164054773ad179",
     "sources/chapter-08-removal-2026-11-08.json": "4b3201df8225025cdba0152e0b84500f7b12a286fb1dd6e5bfecda1596fd986b",
-    "sources/battle-horror-revision-2026-11-08.json": "68dd248cf168302a9694a82725cddae3b39fa22381271855ac806a725651c489"
+    "sources/battle-horror-revision-2026-11-08.json": "68dd248cf168302a9694a82725cddae3b39fa22381271855ac806a725651c489",
+    "sources/battle-horror-continuity-review-2026-11-08.json": "17fb3a3fc96711d25ce3c51fa0f70fdf09621f94ee4e60e73ae4e763b7aa2c94"
   },
   "supplemental_updates": [
     {
@@ -296,11 +297,17 @@
       "sha256": "68dd248cf168302a9694a82725cddae3b39fa22381271855ac806a725651c489",
       "date": "2026-11-08",
       "scope": "Owner-authorized battle and horror revision of Chapters 03–07"
+    },
+    {
+      "source_record": "sources/battle-horror-continuity-review-2026-11-08.json",
+      "sha256": "17fb3a3fc96711d25ce3c51fa0f70fdf09621f94ee4e60e73ae4e763b7aa2c94",
+      "date": "2026-11-08",
+      "scope": "Review and five continuity clarity corrections to revised Chapters 03–07"
     }
   ],
-  "current_edition": "battle-horror-2026-11-08",
+  "current_edition": "battle-horror-continuity-review-2026-11-08",
   "revised_on": "2026-11-08",
-  "revision_metadata": "sources/battle-horror-revision-2026-11-08.json",
+  "revision_metadata": "sources/battle-horror-continuity-review-2026-11-08.json",
   "side_story_count": 9,
   "side_story_reference_count": 9
 }

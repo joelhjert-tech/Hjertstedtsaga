@@ -1884,7 +1884,7 @@ Daniel examined the mess.
 
 He pulled one cable.
 
-Half the charges died. A warning flashed as a Garooth operator at the far end of the chamber diverted coolant away from systems supplying the occupied levels. The Talyrn engineer caught the change on her panel and held the local valve while Daniel pulled the second cable. The diversion stopped, but the remaining charges switched to local triggers.
+Half the charges died. A warning flashed as a Garooth operator at the far end of the chamber diverted coolant away from systems supplying the occupied levels. The Talyrn engineer caught the change on her panel and blocked the diversion at the local controls while Daniel pulled the second cable. The diversion stopped, but the remaining charges switched to local triggers.
 
 Daniel shot the detonator operator through the face.
 
@@ -3082,7 +3082,7 @@ The commander nodded once.
 
 The steward offered him a small cup and a milder alternative. He chose the latter. Dennis passed it across without comment.
 
-Soon even the Talyrn added wagers, though theirs were more restrained: cleanest breach lane, fastest secured extraction corridor, least friendly casualties in contested decks.
+Soon even the Talyrn added wagers, though theirs were more restrained: cleanest breach lane, strongest defended screen, and clearest handover between relief teams.
 
 Anton raised his cup.
 

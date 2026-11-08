@@ -1,6 +1,6 @@
 # Novel index
 
-Current repository edition: **Chapters 1–7**, including the [battle and horror revision](../sources/battle-horror-revision-2026-11-08.json) of Chapters 03–07. The owner removed Chapter 8 on 8 November 2026; see the [removal record](../sources/chapter-08-removal-2026-11-08.json). Chapter 01 remains unchanged by the 19 October rivalry revision. Chapter numbers are distinct from comic issue numbers; see the [historical revision record](../sources/house-rivalry-2026-10-19.json) and [standing writing guidelines](../guidelines/novel-writing-guidelines.md).
+Current repository edition: **Chapters 1–7**, including the [battle and horror revision](../sources/battle-horror-revision-2026-11-08.json) of Chapters 03–07 and its [continuity review](../sources/battle-horror-continuity-review-2026-11-08.json). The owner removed Chapter 8 on 8 November 2026; see the [removal record](../sources/chapter-08-removal-2026-11-08.json). Chapter 01 remains unchanged by the 19 October rivalry revision. Chapter numbers are distinct from comic issue numbers; see the [historical revision record](../sources/house-rivalry-2026-10-19.json) and [standing writing guidelines](../guidelines/novel-writing-guidelines.md).
 
 ## [Chapter 1: The Unwanted Fortress](chapters/chapter-01.md)
 
@@ -97,13 +97,13 @@ Current repository edition: **Chapters 1–7**, including the [battle and horror
 - [5. The Old Road](chapters/chapter-06.md#5-the-old-road) — lines 1939–2394
 - [6. The Gate That Should Not Have Opened](chapters/chapter-06.md#6-the-gate-that-should-not-have-opened) — lines 2395–2940
 - [7. Boarding the Beast](chapters/chapter-06.md#7-boarding-the-beast) — lines 2941–3156
-- [8. Let Him Have It](chapters/chapter-06.md#8-let-him-have-it) — lines 3157–3614
-- [9. Red Authorization](chapters/chapter-06.md#9-red-authorization) — lines 3615–3954
-- [10. The Line Surges](chapters/chapter-06.md#10-the-line-surges) — lines 3955–4376
-- [11. Recovery and Questions](chapters/chapter-06.md#11-recovery-and-questions) — lines 4377–4806
-- [12. Different Answers to the Same Nightmare](chapters/chapter-06.md#12-different-answers-to-the-same-nightmare) — lines 4807–5260
-- [13. The Veyr-Khal](chapters/chapter-06.md#13-the-veyr-khal) — lines 5261–5750
-- [14. The Dead Gate](chapters/chapter-06.md#14-the-dead-gate) — lines 5751–6162
+- [8. Let Him Have It](chapters/chapter-06.md#8-let-him-have-it) — lines 3157–3612
+- [9. Red Authorization](chapters/chapter-06.md#9-red-authorization) — lines 3613–3952
+- [10. The Line Surges](chapters/chapter-06.md#10-the-line-surges) — lines 3953–4374
+- [11. Recovery and Questions](chapters/chapter-06.md#11-recovery-and-questions) — lines 4375–4804
+- [12. Different Answers to the Same Nightmare](chapters/chapter-06.md#12-different-answers-to-the-same-nightmare) — lines 4805–5258
+- [13. The Veyr-Khal](chapters/chapter-06.md#13-the-veyr-khal) — lines 5259–5748
+- [14. The Dead Gate](chapters/chapter-06.md#14-the-dead-gate) — lines 5749–6160
 
 ## [Chapter 7: The Living First](chapters/chapter-07.md)
 

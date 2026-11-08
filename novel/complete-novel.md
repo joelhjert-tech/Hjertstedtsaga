@@ -2,7 +2,7 @@
 
 The Shattered Lane — voice and information revision
 
-Repository edition: Chapters 1–7. Chapters 03–07 include the owner-authorized battle and horror revision of 8 November 2026. Chapter 8 was removed on 8 November 2026; earlier editions are recorded in the source history.
+Repository edition: Chapters 1–7. Chapters 03–07 include the owner-authorized battle and horror revision and continuity review of 8 November 2026. Chapter 8 was removed on 8 November 2026; earlier editions are recorded in the source history.
 
 # Chapter 1: The Unwanted Fortress
 
@@ -25173,7 +25173,7 @@ Four more were dragged out wounded.
 
 Seven never left the breach alive.
 
-“Twelve surrendered,” the first marine reported. His partner pointed out that the breach was still open, so the argument became about who had left the better shield position. Both stopped when the medic asked them to carry a wounded defender clear.
+“Twelve surrendered,” one marine reported. His partner pointed out that the breach was still open, so the argument became about who had left the better shield position. When a medic asked for help moving a wounded defender, the first marine went to her while his partner kept watch. Another team took over the shield before they carried the wounded man clear.
 
 At Habitation Access Seven, another team found civilians trapped behind a jammed pressure door.
 
@@ -32157,7 +32157,7 @@ Lucy followed.
 
 “Husk Guard reserves confirmed. Additional experimental warforms present.”
 
-A voice came over the boarding net, apparently from a Hunter near the hatch, ordering Duskbringer to fall back. The identifier on Dennis’s display belonged to a soldier still beside him. “Hold your position,” Dennis ordered, and the soldier confirmed it on the suit-to-suit link. A second team checked the hatch visually before anyone moved. Neither the source nor the purpose of the false transmission was clear, so Dennis had it recorded and directed his people to verify orders through their existing checks.
+A voice came over the boarding net, apparently from a Hunter near the hatch, ordering Duskbringer to fall back. The identifier on Dennis’s display belonged to the Hunter beside him. She turned toward him and said over their suit-to-suit link, “I did not send that.” Dennis ordered his people to hold while the hatch team confirmed its position visually. The transmission’s source and purpose remained unclear, so he had it recorded and reminded the teams to verify orders through their existing checks.
 
 Dennis looked down the first corridor just as red emergency lights came alive.
 
@@ -43007,9 +43007,7 @@ Found the emergency breaching spike clipped to his armor.
 
 And drove it directly through the war boss’s forearm.
 
-The grip opened before Joel reached them. Anton dropped and seized the hanging arm; Joel stayed close enough to intervene.
-
-Twisted.
+The grip opened before Joel reached them. Anton dropped, seized the hanging arm and twisted. Joel stayed close enough to intervene.
 
 Powered joints screamed.
 
@@ -47567,7 +47565,7 @@ Daniel examined the mess.
 
 He pulled one cable.
 
-Half the charges died. A warning flashed as a Garooth operator at the far end of the chamber diverted coolant away from systems supplying the occupied levels. The Talyrn engineer caught the change on her panel and held the local valve while Daniel pulled the second cable. The diversion stopped, but the remaining charges switched to local triggers.
+Half the charges died. A warning flashed as a Garooth operator at the far end of the chamber diverted coolant away from systems supplying the occupied levels. The Talyrn engineer caught the change on her panel and blocked the diversion at the local controls while Daniel pulled the second cable. The diversion stopped, but the remaining charges switched to local triggers.
 
 Daniel shot the detonator operator through the face.
 
@@ -48765,7 +48763,7 @@ The commander nodded once.
 
 The steward offered him a small cup and a milder alternative. He chose the latter. Dennis passed it across without comment.
 
-Soon even the Talyrn added wagers, though theirs were more restrained: cleanest breach lane, fastest secured extraction corridor, least friendly casualties in contested decks.
+Soon even the Talyrn added wagers, though theirs were more restrained: cleanest breach lane, strongest defended screen, and clearest handover between relief teams.
 
 Anton raised his cup.
 

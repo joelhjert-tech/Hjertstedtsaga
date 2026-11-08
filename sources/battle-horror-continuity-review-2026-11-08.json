@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "edition": "battle-horror-continuity-review-2026-11-08",
+  "date": "2026-11-08",
+  "revision_type": "OWNER_REQUESTED_REVIEW_AND_CLARITY_CORRECTION",
+  "request": "Review revised Chapters 03–07 for battle, horror and story continuity.",
+  "base_commit": "541a5879c66653c2947b707c73d0f44cbdac2f43",
+  "review_scope": "Changes in the battle and horror revision, their surrounding scenes, established plot outcomes, command decisions, rescue priorities, casualty and equipment states, and affected references.",
+  "findings_and_corrections": [
+    "Chapter 3: make continued breach protection explicit during casualty movement.",
+    "Chapter 4: have the named Hunter explicitly deny sending the suspect order, making verification meaningful while retaining uncertainty about its source.",
+    "Chapter 6: keep the twisting action unambiguously with Anton.",
+    "Chapter 7: specify that the Talyrn engineer blocks the enemy coolant diversion at local controls.",
+    "Chapter 7: make the Talyrn wager measures operational rather than scoring casualties."
+  ],
+  "chapter_hashes": [
+    {
+      "file": "novel/chapters/chapter-03.md",
+      "before_sha256": "fdc8ddc05a17920c680268057a8946747efc5d927cc723812b17776a3fac1029",
+      "after_sha256": "406033756352949db439236026fd11a368de8cf8eb953febdb69a66345671a89"
+    },
+    {
+      "file": "novel/chapters/chapter-04.md",
+      "before_sha256": "b8a84dca9f692d26d4819667d194f513e104737e9c680d741735791cb96ab60e",
+      "after_sha256": "eb3d1b5f78159efd758c5d25755d9164757130df254413beb3687911a7b5e537"
+    },
+    {
+      "file": "novel/chapters/chapter-06.md",
+      "before_sha256": "8cfa40df1a249420df45269c8e783b3fae16cdf56ef4e748e3b20031e80dece1",
+      "after_sha256": "ca6fba59fa630c26a175fa1e89ca83cf53516cc414bd0aa69cc6bd1c6af037ff"
+    },
+    {
+      "file": "novel/chapters/chapter-07.md",
+      "before_sha256": "328a0440fcf4488cee061b3684c3bddba489d6476e4e1a879a273c0800de881c",
+      "after_sha256": "9048eba7cc5d395a4a00b353a2c8913603bd9df5e099f670e72bbac2623f9b8f"
+    }
+  ],
+  "changed_scenes": [
+    {
+      "chapter": 3,
+      "scene": 7,
+      "title": "The Maniacs of the Grey Nomad",
+      "before_sha256": "fed3bc72a5080fcb73049163b8e2b6b7522ee67cd3ef140a9bd1cd1dbdcf34fa",
+      "after_sha256": "eac1132c5c52bf2fe5d023e7644b276f5f02bc4bbe8a120292ea06c22543cb13",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 4,
+      "scene": 11,
+      "title": "All of Them Board",
+      "before_sha256": "2a415bb5cd4c79743084e6e2d996957d82c7e2de17047744cb30347e9d64ae0b",
+      "after_sha256": "d9f1fd4a717027639f2183fd54a59f89434bd920360ff6595c2f912ca419a6c6",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 6,
+      "scene": 8,
+      "title": "Let Him Have It",
+      "before_sha256": "e3c4f19e2c77f7dcdfc7e2c6da63f78d5b92d4a794d603de33843caf0dd28409",
+      "after_sha256": "67f5bf06e3083553b5e38f5a477e25702635bf7103bd114702a0364b4de14b79",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 7,
+      "scene": 5,
+      "title": "Four Ways to Kill a War",
+      "before_sha256": "84e3ece5425e3f539e79ef5108f8a671d804362787319a6fa19ef53a63b05100",
+      "after_sha256": "6dab4a92bbd198a36618fe7b4a65bb1133c1afc3326ec8aae7e2baf57a17dbb1",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    },
+    {
+      "chapter": 7,
+      "scene": 8,
+      "title": "Feast Before the Spear",
+      "before_sha256": "088b1011e0c541fb65a76272ec3dea1cfd3196fa7e483d29b7616af201a7a407",
+      "after_sha256": "405f600b7a65e98959157699c6a5d1b55e9a159000364ce7bb4844308b3b374d",
+      "hash_scope": "UTF-8 scene block including heading and trailing separator"
+    }
+  ],
+  "unchanged_chapters": [
+    1,
+    2,
+    5
+  ],
+  "scene_count": 100,
+  "outcome_preservation": "No mission, battle, casualty, character, or established plot outcome was changed. Chapter 8 remains outside the active edition.",
+  "website_deployed": false,
+  "comic_material_changed": false
+}

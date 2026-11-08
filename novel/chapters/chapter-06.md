@@ -3486,9 +3486,7 @@ Found the emergency breaching spike clipped to his armor.
 
 And drove it directly through the war boss’s forearm.
 
-The grip opened before Joel reached them. Anton dropped and seized the hanging arm; Joel stayed close enough to intervene.
-
-Twisted.
+The grip opened before Joel reached them. Anton dropped, seized the hanging arm and twisted. Joel stayed close enough to intervene.
 
 Powered joints screamed.
 

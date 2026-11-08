@@ -2798,7 +2798,7 @@ Four more were dragged out wounded.
 
 Seven never left the breach alive.
 
-“Twelve surrendered,” the first marine reported. His partner pointed out that the breach was still open, so the argument became about who had left the better shield position. Both stopped when the medic asked them to carry a wounded defender clear.
+“Twelve surrendered,” one marine reported. His partner pointed out that the breach was still open, so the argument became about who had left the better shield position. When a medic asked for help moving a wounded defender, the first marine went to her while his partner kept watch. Another team took over the shield before they carried the wounded man clear.
 
 At Habitation Access Seven, another team found civilians trapped behind a jammed pressure door.
 

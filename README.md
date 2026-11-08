@@ -62,7 +62,7 @@ This is wider-setting lore for the proposed forgotten-gate/Directorate mystery; 
 
 ## Battle and horror revision — 8 November 2026
 
-At the owner's direction, Chapters 03–07 were revised to strengthen fleet and boarding decisions, the Seraph threat, rescue priorities, and the effects of damage and injuries while retaining the existing story outcomes. Chapter 01 remains unchanged; Chapter 02 was outside this revision. [Revision record](sources/battle-horror-revision-2026-11-08.json).
+At the owner's direction, Chapters 03–07 were revised to strengthen fleet and boarding decisions, the Seraph threat, rescue priorities, and the effects of damage and injuries while retaining the existing story outcomes. Chapter 01 remains unchanged; Chapter 02 was outside this revision. [Revision record](sources/battle-horror-revision-2026-11-08.json) · [Continuity review](sources/battle-horror-continuity-review-2026-11-08.json).
 
 ## Main novel edition — 8 November 2026
 

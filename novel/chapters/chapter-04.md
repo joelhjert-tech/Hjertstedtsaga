@@ -4016,7 +4016,7 @@ Lucy followed.
 
 “Husk Guard reserves confirmed. Additional experimental warforms present.”
 
-A voice came over the boarding net, apparently from a Hunter near the hatch, ordering Duskbringer to fall back. The identifier on Dennis’s display belonged to a soldier still beside him. “Hold your position,” Dennis ordered, and the soldier confirmed it on the suit-to-suit link. A second team checked the hatch visually before anyone moved. Neither the source nor the purpose of the false transmission was clear, so Dennis had it recorded and directed his people to verify orders through their existing checks.
+A voice came over the boarding net, apparently from a Hunter near the hatch, ordering Duskbringer to fall back. The identifier on Dennis’s display belonged to the Hunter beside him. She turned toward him and said over their suit-to-suit link, “I did not send that.” Dennis ordered his people to hold while the hatch team confirmed its position visually. The transmission’s source and purpose remained unclear, so he had it recorded and reminded the teams to verify orders through their existing checks.
 
 Dennis looked down the first corridor just as red emergency lights came alive.
 
