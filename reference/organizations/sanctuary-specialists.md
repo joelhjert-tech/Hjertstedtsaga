@@ -32,3 +32,9 @@ On a failing deck, the arrival of a crimson hood can quiet a room more quickly t
 - **Protection:** Dedicated escort, secured treatment space and extraction
 - **Medical network:** Sanctuary Tenders and protected recovery facilities
 - **Order badge:** Stag; House winged shield retained separately
+
+## Owner-directed deployment rule — 8 November 2026
+
+Sanctuary Specialists are deployed only to dangerous and difficult locations, where their exceptional medical skills are needed in hazardous or demanding conditions. Ordinary medics and the wider medical network continue to provide everyday care. The House plans protection, treatment and extraction for both specialist and patient. This rule supersedes any broader deployment implied by the historical website snapshot above, including planned interventions that do not meet the location requirement.
+
+This is a setting-reference update directed by the owner; it does not alter novel events or grant comic production or publication approval.

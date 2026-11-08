@@ -42,3 +42,7 @@ Competitors cover one another and obey operational authority. No bottle override
 ## Proposed standalone story — 5 November 2026
 
 [The Bottle Wager](../../side-stories/the-bottle-wager.md) depicts House command rivalry at Tarnis through a Directorate observer. It is owner-supplied prose awaiting review decisions; its battle, outcome and proposed bottle claim do not establish or settle events in the main novel. See the [story-scoped reference](../side-stories/the-bottle-wager.md).
+
+## Sanctuary Specialists: deployment — 8 November 2026
+
+The House deploys its [Sanctuary Specialists](../organizations/sanctuary-specialists.md) only to dangerous and difficult locations, where exceptional medical care is needed under hazardous or demanding conditions. They support the wider medical network; ordinary House medics continue to provide everyday care. Escorts, secured treatment spaces and extraction planning protect both specialist and patient. This owner-directed deployment rule takes precedence over any broader deployment implied by the older website snapshot above.
