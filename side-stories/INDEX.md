@@ -53,9 +53,9 @@ The complete main-novel file does not include this side story. Comic scripts, vi
 
 ## The Forty Dead
 
-- [Owner-supplied story](the-forty-dead.md) — Terra rebuilds a gift of condemned Imperial warships.
-- Submitted 8 November 2026; prose preserved as supplied while review suggestions await the owner. **Proposed standalone continuity**; placement relative to the main novel remains unestablished.
-- [Story reference and spoilers](../reference/side-stories/the-forty-dead.md) · [Source record](../sources/forty-dead-2026-11-08.json).
+- [Revised story](the-forty-dead.md) — Terra rebuilds a gift of condemned Imperial warships.
+- Owner-authorized editorial revision, 8 November 2026; original ending preserved. **Proposed standalone continuity**; placement relative to the main novel remains unestablished. [Original edition](../sources/editions/the-forty-dead-original-2026-11-08.md).
+- [Story reference and spoilers](../reference/side-stories/the-forty-dead.md) · [Original source record](../sources/forty-dead-2026-11-08.json) · [Revision record](../sources/forty-dead-revision-2026-11-08.json).
 
 ## The Last Passenger of Veyr's Crossing
 

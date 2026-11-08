@@ -6,7 +6,7 @@
 
 ## New standalone story — 8 November 2026
 
-[The Forty Dead](side-stories/the-forty-dead.md) follows Terra's effort to rebuild condemned Imperial warships. The owner-supplied prose is preserved as submitted while review suggestions await the owner's decisions. Its placement is **proposed standalone continuity**, not an established main-novel event. [Story reference](reference/side-stories/the-forty-dead.md) · [Source record](sources/forty-dead-2026-11-08.json).
+[The Forty Dead](side-stories/the-forty-dead.md) follows Terra's effort to rebuild condemned Imperial warships. The owner-authorized revision clarifies the arrival, rebuilding, political limits and human cost while retaining the original ending. Its placement is **proposed standalone continuity**. [Original edition](sources/editions/the-forty-dead-original-2026-11-08.md) · [Story reference](reference/side-stories/the-forty-dead.md) · [Revision record](sources/forty-dead-revision-2026-11-08.json).
 
 ## New standalone story — 5 November 2026
 

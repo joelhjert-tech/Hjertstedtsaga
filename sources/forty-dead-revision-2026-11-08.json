@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-08",
+  "edition": "owner-authorized-editorial-revision-v01",
+  "authorization": "Please revise The Forty Dead using your suggestions, while keeping the story and its ending true to my original.",
+  "scope": [
+    "Pluto Gate arrival, clearance and transport to Jupiter",
+    "parallel reconstruction and industrial tradeoffs",
+    "Protectorate charter and transfer-agreement dispute",
+    "named yard engineer and remembrance",
+    "less repetition before the ending and clearer dialogue paragraphs"
+  ],
+  "original_source_record": "sources/forty-dead-2026-11-08.json",
+  "original_edition": "sources/editions/the-forty-dead-original-2026-11-08.md",
+  "base_commit": "36182919fd6663576e2881c728ea11272231113b",
+  "continuity_status": "Proposed standalone; relationship to the main novel remains unestablished.",
+  "story_prose_word_count_whitespace": 4755,
+  "files": {
+    "side-stories/the-forty-dead.md": "148113fb4a418f821ba547df07461f7b96538ab2e0f7a1652bcbfc1927c49006",
+    "sources/editions/the-forty-dead-original-2026-11-08.md": "e780cd348c764f7502ccd8c132de29f9a7f894bf98958aab534afdff66ff68f8",
+    "reference/side-stories/the-forty-dead.md": "7ad5558f11e8e88fda675908f91ddb7f10427ead4e888e2eea8743544eb60919",
+    "side-stories/INDEX.md": "09f20286073119c4363fac4ff287478164ee246c1c774de4a1a20ae224c63926",
+    "reference/INDEX.md": "ed066059d2155fcaad0d573e17871d8e5aa038a9ce7dd36ed4a76597d4f81d5d",
+    "README.md": "3f8d4f4a35d9e6bfd2d1bb3fe5084123c34af8e8a2ef7ecb0f5d2bf3434625af"
+  },
+  "website_or_comic_publication": false
+}
