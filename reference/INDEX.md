@@ -1,5 +1,7 @@
 # Universe reference
 
+[The Mercy Quota: Terran Reconstruction historical lore](side-stories/the-mercy-quota.md) — full-story spoilers and unresolved name and family-relationship notes.
+
 The [31 October appearance review](../sources/character-appearance-review-2026-10-31.json) records image sources and scope for all 20 character sheets, including an unresolved Aster-9 image/text discrepancy.
 
 Website dossiers are supplemental. Read each entry’s scope; compare claims with the relevant novel scene. These are not new canon approvals.

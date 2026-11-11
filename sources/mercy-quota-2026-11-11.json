@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-11",
+  "source": "Owner-directed adaptation in open ChatGPT Saga conversation; rendered text captured locally from the final assistant response",
+  "source_conversation": "https://chatgpt.com/g/g-p-699ff68534cc8191b2323d349a9b3c05-saga/c/6af4606d-9954-83eb-b7b5-62f8589aaad8",
+  "owner_direction": "add it as historical lore aswell",
+  "continuity_status": "Owner-directed historical lore, early Terran Reconstruction; exact date and relationship to modern characters not established",
+  "source_draft_sha256": "d3d419d93361d7b3c68d17a785c3abf1920d7886cb856de58fcb4b69ed2d66ef",
+  "story_export_sha256": "ab0c96058a3afad461c8c55f1921edadbc2caa20acb55f1aa2ab04e1edd6c50a",
+  "source_fidelity": "Exact rendered-text substring from THE MERCY QUOTA through END — THE MERCY QUOTA, with final newline; source postscript retained separately. Rich-text formatting is not represented.",
+  "sections": 9,
+  "unresolved": [
+    "Mara Vale shares a name with the modern captain; no relationship established",
+    "Tomas is described as Mara’s father, though Elin is Mara’s granddaughter and he is called Elin’s great-great-grandfather",
+    "The preserved draft exceeds the standing 6000-word side-story target and has section headings; no prose cuts authorized"
+  ],
+  "publication_scope": "Public story repository sync authorized by standing guideline. No website deployment, comic or audiovisual publication approval."
+}

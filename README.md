@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## Historical lore — 11 November 2026
+
+[The Mercy Quota](side-stories/the-mercy-quota.md) recounts an early Terran Reconstruction population program through Mara Vale’s memories. The owner requested its addition as historical lore; the original draft is preserved, and its naming and family-relationship questions are documented for review. [Story reference](reference/side-stories/the-mercy-quota.md) · [Source record](sources/mercy-quota-2026-11-11.json).
+
 ## In-progress standalone story — 11 November 2026
 
 [The Unfired Salvo](side-stories/the-unfired-salvo.md) begins with a Terran convoy detained at Verath. Chapters One–Four were continued after review in the source conversation; this is an incomplete reading edition and its main-novel placement remains **proposed standalone continuity**. Later material remains under review. [Story reference](reference/side-stories/the-unfired-salvo.md) · [Source record](sources/unfired-salvo-2026-11-11.json).

@@ -27,3 +27,7 @@ The Pluto Gate is fully controlled by the Terran Federal Protectorate beyond Plu
 ## Proposed in-progress standalone story — 11 November 2026
 
 [The Unfired Salvo](../../side-stories/the-unfired-salvo.md) presents a Terran–Imperial dispute at Verath. Chapters One–Four are available; later material remains under review. The events are proposed standalone continuity, with main-novel placement unestablished. [Scoped story reference](../side-stories/the-unfired-salvo.md).
+
+## Early Earth historical lore — 11 November 2026
+
+[The Mercy Quota](../../side-stories/the-mercy-quota.md), added as historical lore at the owner’s direction, depicts an early United Federation Reconstruction program before the interstellar lane era. It records a coercive population-selection and relocation system alongside Earth’s recovery. See the [story reference](../side-stories/the-mercy-quota.md) for scope, spoilers, and unresolved continuity questions.

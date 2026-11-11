@@ -1,5 +1,11 @@
 # Side-story index
 
+## The Mercy Quota
+
+- [Complete story](the-mercy-quota.md) — nine original sections, during early Terran Reconstruction.
+- Owner requested addition as historical lore on 11 November 2026; separate from the main novel, without an exact date.
+- [Story reference and continuity notes](../reference/side-stories/the-mercy-quota.md) · [Source record](../sources/mercy-quota-2026-11-11.json).
+
 Standalone stories in the Known Reach; continuity status is stated for each story. These are separate from the seven-chapter main novel; list order does not establish a shared timeline.
 
 ## The Kharad Trial: The Things Beneath the Ash

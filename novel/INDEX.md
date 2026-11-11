@@ -138,3 +138,7 @@ Current repository edition: **Chapters 1–7**, including the [battle and horror
 - [The Silence Beneath Shardveil](../side-stories/the-silence-beneath-shardveil.md) — owner-authorized revision; proposed standalone story, not part of main-novel chronology. [Side-story index](../side-stories/INDEX.md).
 
 - [The Unfired Salvo](../side-stories/the-unfired-salvo.md) — in-progress standalone story, Chapters One–Four; proposed continuity, separate from the main novel.
+
+## Separate historical side story
+
+[The Mercy Quota](../side-stories/the-mercy-quota.md) takes place in early Terran Reconstruction and is recorded as historical lore. It is not a chapter of the main novel. [Continuity notes](../reference/side-stories/the-mercy-quota.md).
