@@ -1,6 +1,6 @@
 # Universe reference
 
-[The Mercy Quota: Terran Reconstruction historical lore](side-stories/the-mercy-quota.md) — full-story spoilers and source-name history and an unresolved family-relationship note.
+[The Mercy Quota: Terran Reconstruction historical lore](side-stories/the-mercy-quota.md) — full-story spoilers and source-name and family-relationship revision notes.
 
 The [31 October appearance review](../sources/character-appearance-review-2026-10-31.json) records image sources and scope for all 20 character sheets, including an unresolved Aster-9 image/text discrepancy.
 

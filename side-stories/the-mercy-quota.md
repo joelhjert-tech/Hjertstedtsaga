@@ -2004,7 +2004,7 @@ Elin stared at the scar on her grandmother's shoulder.
 
 Mira looked down.
 
-"Your great-great-grandfather spent the rest of his life helping build the agricultural network that feeds this district."
+"Your great-grandfather spent the rest of his life helping build the agricultural network that feeds this district."
 
 "Was he a good man?"
 

@@ -4,18 +4,18 @@
   "source_conversation": "https://chatgpt.com/g/g-p-699ff68534cc8191b2323d349a9b3c05-saga/c/6af4606d-9954-83eb-b7b5-62f8589aaad8",
   "owner_direction": [
     "add it as historical lore aswell",
-    "change the name in the side storie"
+    "change the name in the side storie",
+    "Yes, correct the relationship"
   ],
   "continuity_status": "Owner-directed historical lore, early Terran Reconstruction; exact date and relationship to modern characters not established",
   "source_draft_sha256": "d3d419d93361d7b3c68d17a785c3abf1920d7886cb856de58fcb4b69ed2d66ef",
-  "story_export_sha256": "aac82c4538a8ad1bad73c6d0f2f9c8d5f59bd4ffc97df7d141f6abb27962dc02",
-  "source_fidelity": "The original story is an exact rendered-text substring of the preserved chat draft; this edition makes only the requested name substitutions and keeps the final newline. Rich-text formatting is not represented.",
+  "story_export_sha256": "c58d9780c85e262c6f56af15ad6e06e9a57a7e41d82a07bf1c24e21b8df2e113",
+  "source_fidelity": "Original rendered-text substring preserved; current edition changes only the owner-directed names and great-grandfather relationship. Rich-text formatting is not represented.",
   "sections": 9,
   "unresolved": [
-    "Tomas is Mira’s father, though Elin is Mira’s granddaughter and he is called Elin’s great-great-grandfather",
     "The preserved draft exceeds the standing 6000-word side-story target and has section headings; no prose cuts authorized"
   ],
   "publication_scope": "Public story repository sync authorized by standing guideline. No website deployment, comic or audiovisual publication approval.",
-  "revision": "Owner requested a name change on 2026-11-11; historical protagonist Mara Vale renamed Mira Dalen, with family surname Vale changed to Dalen throughout. No other prose edits.",
+  "revision": "Owner requested a name change on 2026-11-11; historical protagonist Mara Vale renamed Mira Dalen, with family surname Vale changed to Dalen throughout. No other prose edits. On 2026-11-11 the owner also directed correction of “great-great-grandfather” to “great-grandfather”.",
   "original_draft_name": "Mara Vale; family surname Vale. Original chat draft preserved."
 }

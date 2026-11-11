@@ -11,6 +11,6 @@ The owner directed on 11 November 2026 that this story be added as historical lo
 ## Continuity and editorial notes
 
 - The original draft named the historical protagonist Mara Vale, the same name as the later [captain of the Resolute Dawn](../characters/mara-vale.md). At the owner’s direction, she is now Mira Dalen, and her family surname is Dalen. No relationship to the captain is established.
-- Mira calls Elin her granddaughter and identifies Tomas as her father, but refers to Tomas as Elin's “great-great-grandfather”. The original wording is preserved pending an editorial decision.
+- Mira calls Elin her granddaughter and identifies Tomas as her father. At the owner’s direction, his relationship to Elin was corrected from “great-great-grandfather” to “great-grandfather”; the earlier wording is preserved in the source editions.
 - The source draft contains section headings and exceeds the current 6,000-word guideline for new standalone side stories. It is retained as requested for historical-lore and narration review without an unapproved prose cut.
 - The source conversation's original postscript labeled the lore proposed. The owner's later direction to add it as historical lore supersedes that status label; the preserved source still records it for provenance.
