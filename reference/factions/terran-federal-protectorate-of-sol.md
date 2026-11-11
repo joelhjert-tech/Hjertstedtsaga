@@ -22,3 +22,8 @@ The Pluto Gate is fully controlled by the Terran Federal Protectorate beyond Plu
 ## Proposed standalone story — 8 November 2026
 
 [The Forty Dead](../../side-stories/the-forty-dead.md) portrays the transfer and Terran reconstruction of condemned Imperial hulls. Its events and implications are proposed standalone continuity, with main-novel placement unestablished. See the [story reference](../side-stories/the-forty-dead.md).
+
+
+## Proposed in-progress standalone story — 11 November 2026
+
+[The Unfired Salvo](../../side-stories/the-unfired-salvo.md) presents a Terran–Imperial dispute at Verath. Chapters One–Four are available; later material remains under review. The events are proposed standalone continuity, with main-novel placement unestablished. [Scoped story reference](../side-stories/the-unfired-salvo.md).

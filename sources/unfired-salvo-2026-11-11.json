@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-11",
+  "edition": "in-progress-reviewed-chapters-01-04-v01",
+  "source": "Story rendered in the owner-directed Good sidestory conversation; Chapter One received Good next chapter and Chapters Two–Four were followed by requests to continue. Retrieved 11 November 2026.",
+  "status": "IN_PROGRESS_REVIEWED_CHAPTERS_01_04",
+  "coverage": "Chapters One–Four only. A subsequent rewritten Chapter Five is paused for review and is excluded; Chapter Six is not written.",
+  "continuity_status": "PROPOSED_STANDALONE; main-novel placement unestablished.",
+  "fidelity": "Story prose and chapter wording preserved from rendered source, with line ending normalization; chat pause notices and end markers excluded. Inline emphasis from the original rendered interface is not represented.",
+  "source_body_sha256_utf8": {
+    "1": "a45cc96c4fc152e54ee74e0e2787ed62f26fa36970323e137bf2660c72c519ca",
+    "2": "fbf3028f7716903de5483de9b3245a7c89c463167070c5b2df7fe86a7b5a53dc",
+    "3": "7460ceffad810357ee23a560ab318f776cc88b07bbe808c7807a3ee0ec7c7685",
+    "4": "a7152844535cd8e515935256eeb5bd1eb605669a3ba48f36d249cc91fa42effe"
+  },
+  "files": {
+    "side-stories/the-unfired-salvo.md": "c7488f5f416921f48ada6729cc2434d40dfedcbe0a29b5251c5497d26457a190",
+    "reference/side-stories/the-unfired-salvo.md": "755f4aad05bb08a4da181f147b83a2222528f5b5cf864de886b1d9cbb05add2b",
+    "side-stories/INDEX.md": "ebc9ef4e3085d666bf29b9933580c77f08f0368f3b2a27ec254f53ad45ac2072",
+    "novel/INDEX.md": "cff219ad216a8f57e1a28d3f6bac3c02e6ed88a1e8e7bce05484d1ef227dd3b7",
+    "reference/INDEX.md": "d191cc5ac0c941696ea6d031af2a712060af0ace77a19f23f7e202d81ce335c2",
+    "README.md": "cb9a70a4a7885427033c3edbfc0d4b891c1eab343461f0c67f8c79dcdbaf0adb",
+    "reference/factions/terran-federal-protectorate-of-sol.md": "c6a84209670569f24fb53f3075b895f2aa0c85cc88b99696e22cda351bf67b62",
+    "reference/factions/throne-imperium.md": "44e82ec3707ceb4b926d89af69f449acb0f787b6e1d3ee6cae24de42dc4a7515"
+  },
+  "website_or_comic_publication": false
+}

@@ -62,3 +62,9 @@ The complete main-novel file does not include this side story. Comic scripts, vi
 - [Revised story](the-last-passenger-of-veyrs-crossing.md) — a House frigate investigates a missing passenger transport and attempts a rescue.
 - Owner-authorized editorial revision and complete ending, 8 November 2026. **Proposed standalone continuity**; main-novel placement is unestablished and the underlying mystery remains unresolved.
 - [Original edition](../sources/editions/the-last-passenger-of-veyrs-crossing-original-2026-11-08.md) · [Story reference and spoilers](../reference/side-stories/the-last-passenger-of-veyrs-crossing.md) · [Revision record](../sources/last-passenger-veyrs-crossing-revision-2026-11-08.json) · [Original source record](../sources/last-passenger-veyrs-crossing-2026-11-08.json).
+
+## The Unfired Salvo — in progress
+
+- [Chapters One–Four](the-unfired-salvo.md) — the Verath Incident, a Terran–Imperial standoff over a detained convoy.
+- These chapters were continued after review in the source conversation. The story is incomplete; later material is not part of this public edition. **Proposed standalone continuity**, with main-novel placement unestablished.
+- [Chapter reference and spoilers](../reference/side-stories/the-unfired-salvo.md) · [Source record](../sources/unfired-salvo-2026-11-11.json).

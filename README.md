@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## In-progress standalone story — 11 November 2026
+
+[The Unfired Salvo](side-stories/the-unfired-salvo.md) begins with a Terran convoy detained at Verath. Chapters One–Four were continued after review in the source conversation; this is an incomplete reading edition and its main-novel placement remains **proposed standalone continuity**. Later material remains under review. [Story reference](reference/side-stories/the-unfired-salvo.md) · [Source record](sources/unfired-salvo-2026-11-11.json).
+
 ## Revised standalone story — 8 November 2026
 
 [The Last Passenger of Veyr's Crossing](side-stories/the-last-passenger-of-veyrs-crossing.md) follows a House frigate investigating a missing passenger ship. The owner-authorized revision completes the rescue story while preserving its mystery; main-novel placement is **proposed standalone continuity**. [Original edition](sources/editions/the-last-passenger-of-veyrs-crossing-original-2026-11-08.md) · [Story reference](reference/side-stories/the-last-passenger-of-veyrs-crossing.md) · [Revision record](sources/last-passenger-veyrs-crossing-revision-2026-11-08.json).
