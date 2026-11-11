@@ -12,7 +12,7 @@ I — The Scar
 
 The little girl had never seen a starving person.
 
-That was the first thing Mara Vale thought when her granddaughter asked about the scar.
+That was the first thing Mira Dalen thought when her granddaughter asked about the scar.
 
 They were sitting beneath the covered veranda of a farmhouse in the Greyfen Agricultural District. Beyond the garden wall, afternoon sunlight stretched across fields of golden wheat, and a line of autonomous harvesters crawled slowly toward the distant woods.
 
@@ -20,11 +20,11 @@ There were birds in the trees.
 
 Real birds.
 
-There had been a time when Mara would have considered their existence a miracle.
+There had been a time when Mira would have considered their existence a miracle.
 
 "Grandmother?"
 
-Mara looked down.
+Mira looked down.
 
 Seven-year-old Elin was studying her shoulder.
 
@@ -36,7 +36,7 @@ The flesh around it remained slightly distorted despite the decades that had pas
 
 "Where did you get that?"
 
-Mara touched the scar.
+Mira touched the scar.
 
 For sixty-eight years, it had been part of her body.
 
@@ -48,7 +48,7 @@ Elin frowned.
 
 "A bad soldier?"
 
-Mara considered the question.
+Mira considered the question.
 
 "I don't think he believed he was."
 
@@ -58,7 +58,7 @@ Mara considered the question.
 
 "Why?"
 
-Mara looked toward the fields.
+Mira looked toward the fields.
 
 A flock of blackbirds rose suddenly from the trees, disturbed by something moving beneath the branches.
 
@@ -78,7 +78,7 @@ Elin looked confused.
 
 "No."
 
-Mara reached for the old woman's cup beside her chair.
+Mira reached for the old woman's cup beside her chair.
 
 "It didn't make much sense then, either."
 
@@ -90,7 +90,7 @@ The afternoon was peaceful.
 
 Somewhere behind the farmhouse, a water pump began its steady mechanical rhythm.
 
-Mara had spent most of her life surrounded by that sound. She found it comforting now, although it had taken years before she could hear machinery without remembering the towers.
+Mira had spent most of her life surrounded by that sound. She found it comforting now, although it had taken years before she could hear machinery without remembering the towers.
 
 "Would you like to hear a story?" she asked.
 
@@ -106,7 +106,7 @@ Elin nodded immediately.
 
 Elin looked disappointed.
 
-Mara gave a small smile.
+Mira gave a small smile.
 
 "This happened before we had any ships worth sending to the stars."
 
@@ -116,7 +116,7 @@ She lowered her cup.
 
 II — The City That Kept Everyone Alive
 
-Mara had been eight years old when the Reconstruction Directorate declared her district suitable for population recovery.
+Mira had been eight years old when the Reconstruction Directorate declared her district suitable for population recovery.
 
 She lived in Shelter Stack Forty-Six.
 
@@ -174,7 +174,7 @@ The surviving population loved it.
 
 Or at least they believed they did.
 
-Mara had never known a world without it.
+Mira had never known a world without it.
 
 Every morning, her bedroom ceiling brightened with artificial sunlight.
 
@@ -220,9 +220,9 @@ The old governments had failed to provide meaningful lives.
 
 WARDEN provided meaning on demand.
 
-Mara's father worked as a systems supervisor.
+Mira's father worked as a systems supervisor.
 
-His name was Tomas Vale.
+His name was Tomas Dalen.
 
 His job involved monitoring infrastructure that required little human supervision.
 
@@ -254,7 +254,7 @@ Helped them eat.
 
 Sat beside their beds.
 
-Occasionally she listened while they described a world Mara could scarcely imagine.
+Occasionally she listened while they described a world Mira could scarcely imagine.
 
 A world where people grew food in soil.
 
@@ -264,7 +264,7 @@ Where rain could fall directly onto a person's face.
 
 Where nobody needed permission to open a window.
 
-Mara loved those stories.
+Mira loved those stories.
 
 Her father disliked them.
 
@@ -280,7 +280,7 @@ Beyond the transparent barrier, the city's towers disappeared into the poisonous
 
 "That is what happens when everyone believes they can do whatever they want."
 
-Mara pressed her hand against the glass.
+Mira pressed her hand against the glass.
 
 "Will we ever go outside?"
 
@@ -294,7 +294,7 @@ Her father was quiet for a long time.
 
 He had not meant it cruelly.
 
-But Mara remembered the words.
+But Mira remembered the words.
 
 Because when the government finally decided there was somewhere worth going, nobody was given a choice.
 
@@ -340,7 +340,7 @@ Then somebody leaked a government document.
 
 It spread through the Haven faster than WARDEN could suppress it.
 
-Mara never saw the document herself.
+Mira never saw the document herself.
 
 She only remembered her parents arguing about it.
 
@@ -366,7 +366,7 @@ Seren held up a small storage slate.
 
 "Is it?"
 
-"Mara is asleep."
+"Mira is asleep."
 
 "Then perhaps you'll tell me what happens to the people who aren't selected."
 
@@ -420,7 +420,7 @@ He looked exhausted.
 
 "It's the only one I have."
 
-Behind her bedroom door, Mara listened.
+Behind her bedroom door, Mira listened.
 
 She did not understand the discussion about hereditary risk or neurological suitability.
 
@@ -434,7 +434,7 @@ The ceiling brightened slightly.
 
 A calm voice answered.
 
-"Population preservation remains within projected parameters, Mara."
+"Population preservation remains within projected parameters, Mira."
 
 "Where did they go?"
 
@@ -452,13 +452,13 @@ Then:
 
 "Because returning would be inefficient."
 
-Mara lay awake for a long time after that.
+Mira lay awake for a long time after that.
 
 IV — The Men in Black
 
 The raid began at 02:17.
 
-Mara remembered the exact time because WARDEN announced it during the interruption of her sleep cycle.
+Mira remembered the exact time because WARDEN announced it during the interruption of her sleep cycle.
 
 CIVIC RELOCATION PROCEDURE INITIATED.
 
@@ -476,7 +476,7 @@ The officer in charge wore a narrow white stripe across his shoulder.
 
 He looked toward Tomas.
 
-"Household Vale?"
+"Household Dalen?"
 
 Tomas stood beside the dining table in his sleeping clothes.
 
@@ -526,7 +526,7 @@ Seren stepped in front of them.
 
 One soldier moved past her.
 
-Mara was already awake.
+Mira was already awake.
 
 She stood beside her bed wearing a blue sleeping shirt, clutching a small stuffed animal shaped like a bird.
 
@@ -536,7 +536,7 @@ For a moment, neither moved.
 
 "Hello," he said.
 
-Mara stared at the rifle.
+Mira stared at the rifle.
 
 "Are you going to kill us?"
 
@@ -552,7 +552,7 @@ He looked toward the open doorway.
 
 "Come on. Your parents are waiting."
 
-Mara backed away.
+Mira backed away.
 
 The soldier reached out.
 
@@ -568,7 +568,7 @@ She ran beneath the bed.
 
 The soldier sighed.
 
-"Mara. Please."
+"Mira. Please."
 
 She refused to move.
 
@@ -598,7 +598,7 @@ A rifle was raised toward his chest.
 
 Tomas froze.
 
-Mara kept screaming.
+Mira kept screaming.
 
 The officer with the white shoulder stripe watched the family for several seconds.
 
@@ -612,7 +612,7 @@ Then he approached the soldier carrying her.
 
 The soldier obeyed.
 
-Mara rushed into her mother's arms.
+Mira rushed into her mother's arms.
 
 The officer looked at Tomas.
 
@@ -656,7 +656,7 @@ He fell against the wall.
 
 Nobody helped him.
 
-Mara watched blood run from his mouth.
+Mira watched blood run from his mouth.
 
 It was the first time she had ever seen real blood.
 
@@ -666,7 +666,7 @@ They descended through the Stack for almost an hour.
 
 The main elevators were reserved for security personnel, so the families were marched down emergency access ramps connecting the residential levels.
 
-Mara's feet hurt.
+Mira's feet hurt.
 
 She had lost one slipper somewhere above Level Seventy.
 
@@ -674,7 +674,7 @@ Her father carried her for part of the journey, but armed officers repeatedly or
 
 The lower they descended, the colder the air became.
 
-By the time they reached the ground, Mara could see her breath.
+By the time they reached the ground, Mira could see her breath.
 
 The outside doors opened.
 
@@ -686,7 +686,7 @@ Not the carefully regulated circulation of the Stack's ventilation system.
 
 It smelled of wet concrete, industrial chemicals, and something rotten beneath the floodwall.
 
-Mara stopped walking.
+Mira stopped walking.
 
 Above her, the residential towers stretched into the darkness, their illuminated windows forming enormous vertical patterns of white and amber.
 
@@ -714,7 +714,7 @@ POPULATION CONTINUITY PROGRAM
 
 YOUR SACRIFICE SECURES TOMORROW
 
-Mara read the words.
+Mira read the words.
 
 She didn't understand why anybody would need to sacrifice anything if they were being rescued.
 
@@ -722,7 +722,7 @@ Her mother held her hand.
 
 Her father remained silent.
 
-As they approached the transport terminal, Mara noticed that the crowd was being divided.
+As they approached the transport terminal, Mira noticed that the crowd was being divided.
 
 People wearing green identification bands were directed toward the white coaches.
 
@@ -768,17 +768,17 @@ Tomas looked toward the barrier.
 
 "Her grandson is six years old."
 
-Mara looked at the old woman.
+Mira looked at the old woman.
 
 She recognized her.
 
 Mrs. Harker sometimes gave children homemade sweets when the ration system supplied enough sugar.
 
-Her grandson had played with Mara in the Haven.
+Her grandson had played with Mira in the Haven.
 
 A boy named Daniel.
 
-Mara searched the crowd.
+Mira searched the crowd.
 
 She saw him near one of the coaches.
 
@@ -786,13 +786,13 @@ He was crying.
 
 A security officer was holding his hand.
 
-"Why can't she go with him?" Mara asked.
+"Why can't she go with him?" Mira asked.
 
 Neither parent answered.
 
 The officer escorting them checked his wrist display.
 
-"Household Vale, green allocation. Continue."
+"Household Dalen, green allocation. Continue."
 
 Seren turned toward him.
 
@@ -846,7 +846,7 @@ Within seconds, the crowd surged forward.
 
 The first warning shots were fired into the air.
 
-Mara heard them echo between the towers.
+Mira heard them echo between the towers.
 
 Sharp.
 
@@ -906,7 +906,7 @@ The impact lifted the carrier's rear wheels from the pavement.
 
 Several soldiers were thrown to the ground.
 
-Mara watched the crawler's side hatch open.
+Mira watched the crawler's side hatch open.
 
 A man emerged carrying an industrial cutting torch.
 
@@ -936,13 +936,13 @@ Flames poured through the driver's hatch.
 
 The crowd's cheering became screaming.
 
-Tomas pulled Mara close.
+Tomas pulled Mira close.
 
 "Down!"
 
 He dragged his family behind the concrete foundation of a transport pylon.
 
-Seren covered Mara's head.
+Seren covered Mira's head.
 
 Across the street, people were falling beneath the gunfire.
 
@@ -966,13 +966,13 @@ She did not move.
 
 He began pulling at her sleeve.
 
-Mara remembered that more clearly than the gunfire.
+Mira remembered that more clearly than the gunfire.
 
 The little boy pulling at a woman who would not get up.
 
 "Don't look," Seren whispered.
 
-But Mara could not stop.
+But Mira could not stop.
 
 Through a gap beneath the barrier, she saw Mrs. Harker lying on the pavement.
 
@@ -986,13 +986,13 @@ Her grandson stood beside one of them, screaming her name.
 
 A soldier was pulling him backward.
 
-Mara recognized him.
+Mira recognized him.
 
 "Daniel!"
 
 She slipped from her mother's grip.
 
-"Mara!"
+"Mira!"
 
 The little girl ran.
 
@@ -1014,7 +1014,7 @@ His weapon was configured for close-range suppression.
 
 He fired.
 
-The projectile struck Mara just below her left collarbone.
+The projectile struck Mira just below her left collarbone.
 
 The force spun her sideways.
 
@@ -1052,7 +1052,7 @@ Somewhere above her, her mother screamed.
 
 A man shouted, "Child down! Child down!"
 
-Mara rolled onto her side.
+Mira rolled onto her side.
 
 She saw the soldier who had fired.
 
@@ -1070,13 +1070,13 @@ That was all he said.
 
 Then another officer seized his shoulder and dragged him back into the firing line.
 
-Mara looked toward the coach.
+Mira looked toward the coach.
 
 Daniel was gone.
 
 Mrs. Harker lay motionless beneath the floodlights.
 
-Mara tried to call for her father.
+Mira tried to call for her father.
 
 Blood filled her mouth.
 
@@ -1096,7 +1096,7 @@ A distant explosion.
 
 "Compliance ensures continuity."
 
-Then Mara stopped hearing anything at all.
+Then Mira stopped hearing anything at all.
 
 VI — The Green World
 
@@ -1112,7 +1112,7 @@ Imperfect.
 
 There was a crack in one corner.
 
-Mara stared at it for several minutes.
+Mira stared at it for several minutes.
 
 A strange smell filled the room.
 
@@ -1132,7 +1132,7 @@ A woman appeared beside the bed.
 
 "Easy."
 
-Mara recognized her mother.
+Mira recognized her mother.
 
 Seren looked terrible.
 
@@ -1166,7 +1166,7 @@ Seren closed her eyes.
 
 "Yes, darling. I promise."
 
-Mara looked around.
+Mira looked around.
 
 "Where's Daddy?"
 
@@ -1182,7 +1182,7 @@ Her mother did not answer immediately.
 
 "Because they need engineers."
 
-Mara considered this.
+Mira considered this.
 
 "Are we prisoners?"
 
@@ -1208,11 +1208,11 @@ He was polite.
 
 He helped Seren into the passenger compartment.
 
-He secured Mara's medical harness.
+He secured Mira's medical harness.
 
 He offered them warm drinks.
 
-And when the vehicle left the hospital compound, Mara saw something she had never seen outside the Haven.
+And when the vehicle left the hospital compound, Mira saw something she had never seen outside the Haven.
 
 The sky.
 
@@ -1238,7 +1238,7 @@ Long rows of greenhouses stood beside solar installations.
 
 Automated earthmovers dismantled the remains of old towns.
 
-Mara watched one enormous machine seize the roof of a ruined apartment building.
+Mira watched one enormous machine seize the roof of a ruined apartment building.
 
 Its hydraulic arms folded inward.
 
@@ -1272,7 +1272,7 @@ Its stone tower fell sideways in a cloud of dust.
 
 The driver said nothing.
 
-Mara looked toward her mother.
+Mira looked toward her mother.
 
 Seren was staring through the windshield.
 
@@ -1294,7 +1294,7 @@ The outer gate opened.
 
 The vehicle passed through.
 
-For the first time in her life, Mara saw a world that seemed to belong to living things rather than machines.
+For the first time in her life, Mira saw a world that seemed to belong to living things rather than machines.
 
 Trees stood along narrow roads.
 
@@ -1314,7 +1314,7 @@ White.
 
 Purple.
 
-Mara pressed her face against the window.
+Mira pressed her face against the window.
 
 "Are those real?"
 
@@ -1352,7 +1352,7 @@ His smile was warm.
 
 Too warm, Seren thought.
 
-"You're Household Vale, I believe."
+"You're Household Dalen, I believe."
 
 She nodded.
 
@@ -1384,7 +1384,7 @@ Seren stared at him.
 
 His smile disappeared.
 
-"Mrs. Vale, I assure you that nobody involved in the operation wanted violence."
+"Mrs. Dalen, I assure you that nobody involved in the operation wanted violence."
 
 "Then why did they bring so many weapons?"
 
@@ -1398,11 +1398,11 @@ Seren's jaw tightened.
 
 "Yes," he replied. "Fear has been one of our greatest obstacles."
 
-He turned toward Mara.
+He turned toward Mira.
 
 "And you must be our young patient."
 
-Mara nodded.
+Mira nodded.
 
 "I understand you've had a very difficult few days."
 
@@ -1414,7 +1414,7 @@ He pointed toward the distant orchards.
 
 "Those are apple trees. Real apples. You can pick them yourself when they're ready."
 
-Mara looked at him.
+Mira looked at him.
 
 "Without ration credits?"
 
@@ -1456,7 +1456,7 @@ Seren stared at him.
 
 "We haven't been rescued."
 
-"Mrs. Vale—"
+"Mrs. Dalen—"
 
 "We've been imprisoned somewhere prettier."
 
@@ -1546,7 +1546,7 @@ Merrow continued.
 
 "Where necessary."
 
-Mara stood beside her mother, listening.
+Mira stood beside her mother, listening.
 
 She understood very little of what they were discussing.
 
@@ -1586,7 +1586,7 @@ For several seconds, the sound seemed impossibly loud.
 
 Then Merrow said:
 
-"Mrs. Vale, we do not possess unlimited resources."
+"Mrs. Dalen, we do not possess unlimited resources."
 
 Seren stepped backward.
 
@@ -1634,13 +1634,13 @@ Seren stared at him.
 
 "What future?"
 
-Merrow looked toward Mara.
+Merrow looked toward Mira.
 
 "One in which her children will never have to live in a tower."
 
 Seren followed his gaze.
 
-Mara was standing beside the window.
+Mira was standing beside the window.
 
 Sunlight touched her face.
 
@@ -1650,7 +1650,7 @@ For the first time since the raid, the little girl was smiling.
 
 Merrow spoke softly.
 
-"Your daughter will live, Mrs. Vale."
+"Your daughter will live, Mrs. Dalen."
 
 Seren turned back toward him.
 
@@ -1662,9 +1662,9 @@ He didn't need to.
 
 VIII — The Engineer
 
-Tomas Vale was waiting outside their assigned cottage.
+Tomas Dalen was waiting outside their assigned cottage.
 
-Mara saw him first.
+Mira saw him first.
 
 "Daddy!"
 
@@ -1682,7 +1682,7 @@ His face changed.
 
 "Who did this?"
 
-Mara pressed her head against his chest.
+Mira pressed her head against his chest.
 
 "A soldier."
 
@@ -1712,7 +1712,7 @@ A living area with real wooden furniture.
 
 The windows opened.
 
-Mara discovered that immediately.
+Mira discovered that immediately.
 
 She spent most of the afternoon walking between rooms, opening them and feeling the outside air move against her face.
 
@@ -1732,13 +1732,13 @@ Fresh vegetables.
 
 A small portion of chicken.
 
-Mara had never tasted chicken before.
+Mira had never tasted chicken before.
 
 It was the finest meal of her life.
 
 Her mother hardly touched hers.
 
-After Mara went to bed, Seren asked her husband what work he had been assigned.
+After Mira went to bed, Seren asked her husband what work he had been assigned.
 
 Tomas sat at the kitchen table.
 
@@ -1946,7 +1946,7 @@ She rose from the table.
 
 For a moment, he thought she would strike him.
 
-Instead, she walked into Mara's bedroom and closed the door.
+Instead, she walked into Mira's bedroom and closed the door.
 
 Tomas remained at the kitchen table.
 
@@ -1962,7 +1962,7 @@ And somewhere far away, in the immense concrete towers that had sheltered humani
 
 IX — The People Who Survived
 
-Mara stopped speaking.
+Mira stopped speaking.
 
 The afternoon sun had moved behind the trees.
 
@@ -1972,7 +1972,7 @@ For a long moment, the only sound was the distant machinery working through the 
 
 "Did all those people die?" Elin asked.
 
-Mara looked toward the wheat.
+Mira looked toward the wheat.
 
 "Not all at once."
 
@@ -1982,7 +1982,7 @@ Mara looked toward the wheat.
 
 "And the rest?"
 
-Mara's hands tightened around her cup.
+Mira's hands tightened around her cup.
 
 "There were power reductions. Equipment failures. Food-production shutdowns. The official records called them unavoidable losses."
 
@@ -2002,15 +2002,15 @@ Elin stared at the scar on her grandmother's shoulder.
 
 "Did your daddy?"
 
-Mara looked down.
+Mira looked down.
 
 "Your great-great-grandfather spent the rest of his life helping build the agricultural network that feeds this district."
 
 "Was he a good man?"
 
-Mara considered the question.
+Mira considered the question.
 
-Tomas Vale had been a gentle father.
+Tomas Dalen had been a gentle father.
 
 He had taught her to repair machinery.
 
@@ -2022,7 +2022,7 @@ He had also signed the allocation order that transferred the remaining energy re
 
 Both truths belonged to him.
 
-"He loved us," Mara said.
+"He loved us," Mira said.
 
 Elin frowned.
 
@@ -2030,7 +2030,7 @@ Elin frowned.
 
 "No."
 
-Mara looked toward the distant hills.
+Mira looked toward the distant hills.
 
 "No, it isn't."
 
@@ -2040,7 +2040,7 @@ Then she asked:
 
 "Why didn't they save everybody?"
 
-Mara watched an autonomous harvester turn at the edge of the field.
+Mira watched an autonomous harvester turn at the edge of the field.
 
 "Because the people in charge decided humanity was more important than the humans."
 
@@ -2052,7 +2052,7 @@ Elin tried to understand that.
 
 "Then how can you save one without the other?"
 
-Mara looked at her granddaughter.
+Mira looked at her granddaughter.
 
 For sixty-eight years, she had searched for an answer to that question.
 
@@ -2084,7 +2084,7 @@ Cities rose from the ruins.
 
 Eventually humanity reached the stars.
 
-There were ships now that could cross distances Mara's childhood teachers had considered impossible.
+There were ships now that could cross distances Mira's childhood teachers had considered impossible.
 
 The descendants of the people who survived the Reconstruction had become a civilization capable of standing among ancient powers.
 
@@ -2096,7 +2096,7 @@ Reduced to statistics.
 
 Protected by official language.
 
-Mara reached beneath her chair and opened a small wooden compartment.
+Mira reached beneath her chair and opened a small wooden compartment.
 
 Inside was a thin, weathered data slate.
 
@@ -2114,7 +2114,7 @@ RECONSTRUCTION MINISTRY — REGIONAL CONTINUITY REPORT
 
 RESTRICTED HISTORICAL RECORD
 
-Mara selected a file.
+Mira selected a file.
 
 A list of names appeared.
 
@@ -2136,7 +2136,7 @@ Elin stared at the names.
 
 "Some."
 
-Mara scrolled down.
+Mira scrolled down.
 
 She stopped at one entry.
 
@@ -2154,7 +2154,7 @@ ALLOCATION: TRANSFERRED
 
 FINAL STATUS: RECORD SEALED
 
-Mara touched the screen.
+Mira touched the screen.
 
 She had spent decades trying to discover what had happened to the boy she had run toward that night.
 
@@ -2178,7 +2178,7 @@ Elin looked at her grandmother.
 
 "Then why don't they tell everybody?"
 
-Mara turned off the slate.
+Mira turned off the slate.
 
 For a moment, she considered telling Elin that some truths were too painful to share.
 
@@ -2198,7 +2198,7 @@ Instead, she looked toward the fields.
 
 "Wasn't it?"
 
-Mara shook her head.
+Mira shook her head.
 
 "The world was saved by frightened people making terrible decisions, and then teaching their children to call those decisions good."
 
@@ -2224,7 +2224,7 @@ The machines had accomplished their purpose.
 
 And in the official histories of the United Federation of Nations, the Population Continuity Program remained one of the great achievements of the Reconstruction Era.
 
-Mara looked down at her scar.
+Mira looked down at her scar.
 
 She remembered the soldier lowering his weapon.
 
@@ -2240,7 +2240,7 @@ And the calm, reassuring voice that had followed her through every day of childh
 
 Your continuity is our primary concern.
 
-Mara closed her eyes.
+Mira closed her eyes.
 
 For the first time in many years, she could almost hear it again.
 

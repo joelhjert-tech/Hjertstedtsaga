@@ -2,7 +2,7 @@
 
 ## Historical lore — 11 November 2026
 
-[The Mercy Quota](side-stories/the-mercy-quota.md) recounts an early Terran Reconstruction population program through Mara Vale’s memories. The owner requested its addition as historical lore; the original draft is preserved, and its naming and family-relationship questions are documented for review. [Story reference](reference/side-stories/the-mercy-quota.md) · [Source record](sources/mercy-quota-2026-11-11.json).
+[The Mercy Quota](side-stories/the-mercy-quota.md) recounts an early Terran Reconstruction population program through Mira Dalen’s memories. The owner requested its addition as historical lore; the original draft is preserved, and the original name is preserved in the source record, and a family-relationship question is documented for review. [Story reference](reference/side-stories/the-mercy-quota.md) · [Source record](sources/mercy-quota-2026-11-11.json).
 
 ## In-progress standalone story — 11 November 2026
 
