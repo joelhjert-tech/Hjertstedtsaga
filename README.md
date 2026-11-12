@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## Main novel continuation — 12 November 2026
+
+Chapter 8, *The Price of Victory*, now contains its first three owner-accepted scenes: the Garooth convoy ambush, Bjorn's death and the casualty reconciliation, and Bjorn's return to Vintergard. [Read Chapter 8](novel/chapters/chapter-08.md). Scene 4, *The Oldest Bottles*, remains an uncommitted draft. This is a **new Chapter 8**, not restoration of the different chapter removed on 8 November 2026. [Source record](sources/chapter-08-scenes-01-03-2026-11-12.json).
+
 ## New standalone story — 12 November 2026
 
 [The Ships That Stayed](side-stories/the-ships-that-stayed.md) follows a mining-world evacuation during a Garooth raid, from a mountain road to an aging frigate in orbit. The owner accepted the psychological-horror revision. Its placement is **proposed standalone continuity**, separate from the main novel. [Story reference](reference/side-stories/the-ships-that-stayed.md) · [Source record](sources/ships-that-stayed-2026-11-12.json).
@@ -53,7 +57,7 @@ A searchable writing reference for **Tales from the Known Reach / The Shattered 
 ## Start here
 
 - [Novel chapter and scene index](novel/INDEX.md)
-- [Complete novel, chapters 1–7](novel/complete-novel.md)
+- [Complete novel, chapters 1–8 (Chapter 8, Scenes 1–3)](novel/complete-novel.md)
 - [Standalone side stories](side-stories/INDEX.md)
 - [Characters, factions, locations, ships and other published lore](reference/INDEX.md)
 - [Vharok Brood — new faction README and slender ship study](reference/factions/vharok-brood/README.md)

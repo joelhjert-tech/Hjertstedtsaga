@@ -1,6 +1,6 @@
 # Novel index
 
-Current repository edition: **Chapters 1–7**, including the [battle and horror revision](../sources/battle-horror-revision-2026-11-08.json) of Chapters 03–07 and its [continuity review](../sources/battle-horror-continuity-review-2026-11-08.json). The owner removed Chapter 8 on 8 November 2026; see the [removal record](../sources/chapter-08-removal-2026-11-08.json). Chapter 01 remains unchanged by the 19 October rivalry revision. Chapter numbers are distinct from comic issue numbers; see the [historical revision record](../sources/house-rivalry-2026-10-19.json) and [standing writing guidelines](../guidelines/novel-writing-guidelines.md).
+Current repository edition: **Chapters 1–8 (Chapter 8, Scenes 1–3)**, including the [battle and horror revision](../sources/battle-horror-revision-2026-11-08.json) of Chapters 03–07 and its [continuity review](../sources/battle-horror-continuity-review-2026-11-08.json). The owner removed Chapter 8 on 8 November 2026; see the [removal record](../sources/chapter-08-removal-2026-11-08.json). Chapter 01 remains unchanged by the 19 October rivalry revision. Chapter numbers are distinct from comic issue numbers; see the [historical revision record](../sources/house-rivalry-2026-10-19.json) and [standing writing guidelines](../guidelines/novel-writing-guidelines.md).
 
 ## [Chapter 1: The Unwanted Fortress](chapters/chapter-01.md)
 
@@ -122,6 +122,12 @@ Current repository edition: **Chapters 1–7**, including the [battle and horror
 - [13. The Weight They Carried](chapters/chapter-07.md#13-the-weight-they-carried) — lines 4493–4662
 - [14. The Forge Falls Silent](chapters/chapter-07.md#14-the-forge-falls-silent) — lines 4663–4840
 - [15. The Living First](chapters/chapter-07.md#15-the-living-first) — lines 4841–4994
+
+## [Chapter 8: The Price of Victory](chapters/chapter-08.md)
+
+- [1. The Ships That Did Not Return](chapters/chapter-08.md#1-the-ships-that-did-not-return)
+- [2. The Names of the Lost](chapters/chapter-08.md#2-the-names-of-the-lost)
+- [3. The Last Journey of Bjorn](chapters/chapter-08.md#3-the-last-journey-of-bjorn)
 
 ## Standalone side stories
 

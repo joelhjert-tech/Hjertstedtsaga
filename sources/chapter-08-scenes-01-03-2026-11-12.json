@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-12",
+  "source": "Owner-approved Chapter 8 scenes 1–3 drafted in the current Saga conversation",
+  "status": "Accepted for main novel by explicit request to commit scenes 1–3",
+  "chapter": "The Price of Victory",
+  "chapter_number": 8,
+  "scene_coverage": [
+    {
+      "number": 1,
+      "title": "The Ships That Did Not Return"
+    },
+    {
+      "number": 2,
+      "title": "The Names of the Lost"
+    },
+    {
+      "number": 3,
+      "title": "The Last Journey of Bjorn"
+    }
+  ],
+  "source_scope": "Exact scene prose from current conversation; excludes interactive continuation options; scene 4 The Oldest Bottles is not included",
+  "previous_chapter_8": "The Smaller Ships was removed on 2026-11-08; this is a new, distinct chapter",
+  "continuity": [
+    "Garooth ambush destroys Transport Six, Transport Nine and one House destroyer",
+    "2,416 registered on Transport Six and 1,873 on Transport Nine; 411 confirmed recovered from the two transports and 96 additional unresolved signals at time of report",
+    "Bjorn dies following internal trauma during emergency surgery aboard Mercy",
+    "Recovery remains ongoing; no final casualty count declared",
+    "Bjorn and his damaged Crimson Warden return to Vintergard; funeral not yet held"
+  ],
+  "files": {
+    "novel/chapters/chapter-08.md": "c4a26b0171e5fbc147ebc114c37d7b7d38b64de93d605c3ed46f1c8e8c93840b",
+    "novel/complete-novel.md": "2114a93ad0dcd2df1648899b0f5d66b52686d066d2c7c6a25f6cbdc8f1a2f976",
+    "novel/INDEX.md": "9335105dd290c175f1905d7b50179eb806cf4bab1a5d3f0970e2779dab4eca75",
+    "README.md": "8d57e62f29eb01624faaa1998d54dfa3119adbacbce33f2a4dcdca89e8bf31c3"
+  },
+  "chapter_sha256": "c4a26b0171e5fbc147ebc114c37d7b7d38b64de93d605c3ed46f1c8e8c93840b",
+  "scene_count": 3,
+  "word_count": 4471,
+  "publication_scope": "Story library only. No website, comic, video or other publication gate passed."
+}
