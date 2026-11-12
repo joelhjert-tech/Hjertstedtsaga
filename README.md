@@ -2,6 +2,10 @@
 
 ## New standalone story — 12 November 2026
 
+[The Ships That Stayed](side-stories/the-ships-that-stayed.md) follows a mining-world evacuation during a Garooth raid, from a mountain road to an aging frigate in orbit. The owner accepted the psychological-horror revision. Its placement is **proposed standalone continuity**, separate from the main novel. [Story reference](reference/side-stories/the-ships-that-stayed.md) · [Source record](sources/ships-that-stayed-2026-11-12.json).
+
+## New standalone story — 12 November 2026
+
 [Dock Fees](side-stories/dock-fees.md) follows an independent repair station facing a damaged Directorate warship and a threat to its clinic. The superintendent's name was changed to Tamsin Korr at the owner's direction. Its placement is **proposed standalone continuity**; its relationship to the main novel is not established. [Story reference](reference/side-stories/dock-fees.md) · [Source record](sources/dock-fees-2026-11-12.json).
 
 ## Historical lore — 11 November 2026

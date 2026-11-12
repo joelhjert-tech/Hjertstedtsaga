@@ -1,5 +1,11 @@
 # Side-story index
 
+## The Ships That Stayed
+
+- [Complete story](the-ships-that-stayed.md) — an old frigate and ground defenders protect an evacuation during a Garooth raid on Bracken.
+- Owner-accepted psychological-horror revision, 12 November 2026. **Proposed standalone continuity**; placement relative to the main novel is unestablished.
+- [Story reference and spoilers](../reference/side-stories/the-ships-that-stayed.md) · [Source record](../sources/ships-that-stayed-2026-11-12.json).
+
 ## Dock Fees
 
 - [Complete story](dock-fees.md) — superintendent Tamsin Korr and the crew of Tern Station confront a coolant leak from a Directorate warship.
