@@ -7,7 +7,7 @@
   "source": {
     "file": "the-ships-that-stayed-review-v02.md",
     "sha256": "7b7f26dd26f92144b490ff6e419c74c0e97eb591519e4fcd405ba1533374f4d1",
-    "coverage": "complete approved story, exact bytes",
+    "coverage": "Complete story; prose identical. Git stores LF-normalized line endings.",
     "words": 3697
   },
   "previous_edition": {
@@ -33,5 +33,6 @@
     }
   ],
   "inspiration_scope": "Broad themes from HFY research; original story prose, not an authorized adaptation of these works.",
-  "publication_scope": "Story library sync only; video art, audio, comic and publication gates remain separate."
+  "publication_scope": "Story library sync only; video art, audio, comic and publication gates remain separate.",
+  "repository_story_sha256": "9d9fc5f44b1073b3a0963ecbf1b6884eba0e484fe264b6421513015f62910350"
 }
