@@ -1,5 +1,11 @@
 # Side-story index
 
+## Dock Fees
+
+- [Complete story](dock-fees.md) — superintendent Tamsin Korr and the crew of Tern Station confront a coolant leak from a Directorate warship.
+- Owner-directed superintendent name correction, 12 November 2026. **Proposed standalone continuity**; placement relative to the main novel is not established.
+- [Story reference and spoilers](../reference/side-stories/dock-fees.md) · [Source record](../sources/dock-fees-2026-11-12.json).
+
 ## The Mercy Quota
 
 - [Complete story](the-mercy-quota.md) — nine original sections, during early Terran Reconstruction.

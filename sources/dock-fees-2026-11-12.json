@@ -1,0 +1,24 @@
+{
+  "title": "Dock Fees",
+  "date": "2026-11-12",
+  "edition": "Owner-requested superintendent name correction",
+  "continuity": "Proposed standalone continuity; placement relative to the main novel is unestablished.",
+  "source": {
+    "file": "dock-fees-tamsin-korr-v02.md",
+    "sha256": "98f237276213129a5d030d148975a4f89607c774054b4d39eb29cd1d07cdb4c4",
+    "coverage": "complete story, exact bytes"
+  },
+  "previous_edition": {
+    "file": "dock-fees-review-v01.md",
+    "sha256": "1e7a44abd67be5335dfb81152b6ce835b1074b204a18f5e1ee50c4efbfd7aa28",
+    "preservation": "Retained in the project asset library."
+  },
+  "editorial_change": "At the owner’s direction, the station superintendent was renamed from Mara Venn to Tamsin Korr to distinguish her from the captain in The Unfired Salvo; no other story prose was changed.",
+  "inspiration": {
+    "description": "A broadly related HFY story was identified in the initial research; Dock Fees is original prose, not a verbatim reproduction.",
+    "title": "Human bureaucracy vs xeno firepower. Hilarity ensues.",
+    "author": "u/Chaotic_Boots",
+    "url": "https://www.reddit.com/r/HFY/comments/1sqbhfh/human_bureaucracy_vs_xeno_firepower_hilarity/"
+  },
+  "publication_scope": "Story-library sync only; the audio-video and comic production and publication gates remain separate."
+}

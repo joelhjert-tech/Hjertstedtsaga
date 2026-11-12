@@ -1,5 +1,9 @@
 # Known Reach Story Library
 
+## New standalone story — 12 November 2026
+
+[Dock Fees](side-stories/dock-fees.md) follows an independent repair station facing a damaged Directorate warship and a threat to its clinic. The superintendent's name was changed to Tamsin Korr at the owner's direction. Its placement is **proposed standalone continuity**; its relationship to the main novel is not established. [Story reference](reference/side-stories/dock-fees.md) · [Source record](sources/dock-fees-2026-11-12.json).
+
 ## Historical lore — 11 November 2026
 
 [The Mercy Quota](side-stories/the-mercy-quota.md) recounts an early Terran Reconstruction population program through Mira Dalen’s memories. The owner requested its addition as historical lore; the original draft is preserved, and the original name and the corrected family relationship are preserved in the source history. [Story reference](reference/side-stories/the-mercy-quota.md) · [Source record](sources/mercy-quota-2026-11-11.json).
