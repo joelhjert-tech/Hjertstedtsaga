@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-12",
+  "source": "Owner-accepted Scene 4: The Oldest Bottles from the current Saga conversation",
+  "status": "Accepted into main novel by explicit request to commit Scene 4",
+  "chapter": "The Price of Victory",
+  "chapter_number": 8,
+  "scene_number": 4,
+  "scene_title": "The Oldest Bottles",
+  "source_scope": "Scene prose as drafted in conversation, excludes four interactive continuation options; existing Chapter 8 Scenes 1–3 unchanged",
+  "continuity": [
+    "Bjorn's funeral is held at Vinterkrona; Crimson Wardens and Talyrn witnesses attend",
+    "Talyrn delegation carries a cloth bearing names of people rescued at Ghar-Kul",
+    "Joel brings three pre-Varanthi-collapse bottles from his private collection",
+    "The first bottle is opened for memorial small-cup service; the other two remain sealed",
+    "An unresolved convoy missing-person search continues; the last bottle is reserved pending accounting"
+  ],
+  "files": {
+    "novel/chapters/chapter-08.md": "cad555e6891f8737c0d935923741a8d503e5ea4336afd283f0af72eb030c2f7f",
+    "novel/complete-novel.md": "954b3b3b58e1bed450c945e6d3cad2bf8cb97c998ed1e4635ce644269504b1d1",
+    "novel/INDEX.md": "a1769c2402a0b5b12145247e98c28dd3537a40ddcc59a1edc87f40e2c3cc83d2",
+    "README.md": "37f04f8d8581ba42e0bed5b8636329630779e457eebc70e47fcec358c8ac2e7c"
+  },
+  "scene_sha256": "9d44c367a4298bef7822b788b832fc39af91d30b2c89fe95fb5d5a96ea55c06e",
+  "scene_word_count": 1566,
+  "publication_scope": "GitHub story library only; no website, visual, comic, audio or publication approval."
+}

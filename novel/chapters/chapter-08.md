@@ -774,3 +774,268 @@ The machine that had carried thousands of prisoners to safety would never again 
 
 And for the first time in generations, the surviving Crimson Wardens would have to stand together without the man who had always insisted he could hold the corridor a little longer.
 
+## 4. The Oldest Bottles
+
+The bells of Vinterkrona began sounding at dawn.
+
+Across the capital of Vinterholm, people stopped beside market stalls, industrial loading platforms, and the entrances of government buildings. Trains continued moving through the city, but their destination displays carried a narrow crimson memorial band. Above the mountain fortress, the banners of House von Hjertstedt hung at half-mast. The bells were not announcing a victory. They were marking the return of a man whose service had stretched across generations, and whose final battle had ended far beyond the safety of his ancestral home.
+
+Elder Bjorn had come home.
+
+The procession began at the eastern gates of the ancient fortress. Eight Crimson Wardens walked beside the ceremonial transport carrying his coffin. Behind them came the battered machine that had carried him through his final battle at Ghar-Kul. Its damaged armor had not been repaired. The left leg remained locked, the right shoulder was broken, and the great hammer rested across its chest.
+
+Lars von Hjertstedt had insisted that nothing be polished or replaced.
+
+"Let them see what it cost him," he had told the engineers.
+
+Thousands lined the road toward the memorial grounds. Veterans stood beside civilians. Shipyard workers bowed their heads as the procession passed. Children watched from behind their parents, some too young to understand why the enormous warrior machine was being carried rather than walking.
+
+At the entrance to the memorial grounds, Joel, Anton, Lars, and the surviving elders waited.
+
+Then an officer approached.
+
+"High Marshal. The Talyrn delegation has arrived."
+
+Joel turned.
+
+Five visitors had been admitted through Vintergard's restricted reception arrangements, their onward movement carefully escorted. Their vessel had never received the Winter Road's navigation credentials. Ortheva had remained with the joint defense beyond Gate Seventeen, but had sent representatives who had personally witnessed Bjorn's final actions.
+
+Among them stood the Thyrak commander who had helped recover the old man from Ghar-Kul.
+
+Beside him was a woman wearing simple civilian clothing.
+
+She carried a folded piece of fabric.
+
+Joel recognized it immediately.
+
+"The names," he said.
+
+The woman nodded.
+
+"I was in Prison Block Nine. When the old warrior opened the door, I gave you the names of the workers taken below us."
+
+"I remember."
+
+"We found them. Your people found every one on that list who was still there."
+
+She looked toward the Crimson Warden.
+
+"We wanted to thank him."
+
+Joel glanced at the coffin.
+
+"Then you've come to the right place."
+
+***
+
+The funeral began beneath the great stone arches overlooking Vinterkrona.
+
+Hundreds of Crimson Marines and House veterans stood in ordered formations. Among them were officers who had fought beside Bjorn decades earlier, men and women whose own children now served aboard the House's warships.
+
+Lars stepped forward.
+
+He looked at the coffin for a long moment before addressing the assembled mourners.
+
+"I have known Bjorn for longer than most of you have been alive. I knew him when he was young enough to believe every disagreement could be settled with a hammer."
+
+A few veterans smiled.
+
+"He never entirely abandoned that belief."
+
+Lars paused.
+
+"We fought together. We lost friends together. We argued over tactics, over command decisions, and over bottles that neither of us intended to surrender. He could be stubborn beyond reason. He could insult a superior officer with such precision that the officer sometimes thanked him before understanding what had happened."
+
+Quiet laughter passed through the older ranks.
+
+"But when a corridor had to be held, when civilians needed protection, or when a wounded comrade could not walk, there was no man I trusted more."
+
+His voice lowered.
+
+"At Ghar-Kul, he was ordered to withdraw. He knew his machine was failing. He knew his body could not endure much more. Yet he remained because there were still people behind him."
+
+Lars placed one hand upon the coffin.
+
+"He did not die because he sought glory. He died because he could not accept leaving someone else to face the darkness alone."
+
+The Thyrak commander stepped forward when Lars finished. With permission, he placed his unit's small service insignia beside Bjorn's name.
+
+"In the Continuance," he said, "we believe strength creates obligation. At Ghar-Kul, Elder Bjorn showed us that this belief does not belong to our people alone."
+
+The woman approached next.
+
+She unfolded the cloth.
+
+Names covered its surface, written in different hands.
+
+"These were people he helped save," she said. "Some could not come. Some are still in hospital. But they asked me to bring this."
+
+She laid the cloth beside the insignia.
+
+Mikael bowed his head.
+
+Rasmus turned away, his jaw working as he struggled to control himself.
+
+Anton stared at the names for several seconds. Then he approached the coffin, rested one enormous hand against it, and spoke.
+
+"You miserable old bastard. You still owe me an argument."
+
+His voice broke.
+
+He stepped back before anyone could answer.
+
+***
+
+That evening, after the public ceremonies had ended and the coffin had been laid to rest, Joel invited the family, surviving Wardens, and Talyrn guests into a private hall overlooking the memorial gardens.
+
+A long table stood prepared with food, water, and small drinking cups.
+
+At its center were three extraordinary bottles.
+
+Their bodies were dark, almost black beneath the protective cases that had held them for generations. The metal seals bore markings so ancient that few living historians could identify them without consulting the House archives.
+
+Daniel stopped when he saw them.
+
+"Joel."
+
+His voice was unusually serious.
+
+"Where did you get those?"
+
+"From my private cellar."
+
+Daniel approached the table.
+
+"No. I recognize those cases. Those are from the oldest collection."
+
+"They are."
+
+Anton leaned forward.
+
+"How old?"
+
+Joel carefully lifted the first bottle.
+
+"Older than the collapse of the Varanthi Dominion."
+
+Nobody spoke.
+
+The old Dominion had fallen three thousand years earlier. These bottles came from surviving pre-collapse stores, recovered and preserved through generations of careful custody. Their contents had been studied, their seals inspected, and their provenance recorded, but their original makers belonged to an age that had disappeared before Vintergard became the civilization it was today.
+
+Mikael stared at the bottle.
+
+"Those belong in an archive."
+
+"They've spent enough time in archives," Joel answered.
+
+Lars examined the ancient seal.
+
+"Do you understand what you're opening?"
+
+"Yes, Father."
+
+"Those may be among the oldest surviving spirits in human possession."
+
+Joel looked toward the empty chair reserved for Bjorn.
+
+"Then I cannot think of a better occasion."
+
+He broke the first seal.
+
+A faint, rich aroma rose from the neck of the bottle. Joel poured carefully measured portions into the small ceremonial cups. Most received only a little. Those who preferred something milder were offered it without question, and the Talyrn visitors accepted nonalcoholic drinks. The other two ancient bottles remained sealed beside the first.
+
+Anton looked at his cup.
+
+"How much is this worth?"
+
+"More than your last warship," Daniel answered.
+
+Anton raised an eyebrow.
+
+"Which warship?"
+
+"The expensive one."
+
+"That narrows nothing."
+
+Even Lars smiled.
+
+Joel raised his cup.
+
+"To Bjorn."
+
+The others followed.
+
+"To Bjorn."
+
+They drank.
+
+For several minutes, nobody spoke. The unfamiliar taste was less important than the knowledge that something preserved through millennia had been opened for a man who would never sit at their table again.
+
+Then Mikael began recounting a disastrous training exercise on Skold, when Bjorn had accidentally demolished the wrong fortified door and spent three days arguing that the architects had placed it incorrectly.
+
+Rasmus remembered Bjorn attempting to repair a damaged Warden using equipment borrowed without permission from an admiral's personal transport.
+
+Daniel remembered discovering that the old man's repair instructions consisted largely of insults directed at future engineers.
+
+Anton laughed until he had to put down his cup.
+
+And gradually, the room filled with stories.
+
+Not legends of an invincible warrior.
+
+Stories of a stubborn, difficult, generous old man who had spent his life refusing to leave people behind.
+
+***
+
+Much later, Lars found Joel standing beside the table.
+
+The first bottle was nearly empty. The other two remained untouched.
+
+"Why three?" Lars asked.
+
+Joel looked toward the memorial gardens.
+
+"One for those who knew him before us. One for those who fought beside him. And one for the people who will never have the chance."
+
+Lars regarded the bottles.
+
+"And the last?"
+
+"It stays sealed until the missing from the convoy have been accounted for as far as we can manage. Then we decide when to open it."
+
+Lars nodded.
+
+Outside, the last visitors were leaving the memorial grounds. The lights around Bjorn's grave remained lit, and beyond them the great city continued its ordinary life.
+
+For a moment, Joel imagined the old man sitting at the table, complaining that the ancient drink was inferior to his own reserve.
+
+He almost heard the insult.
+
+Almost.
+
+Lars rested a hand on his son's shoulder.
+
+"He would have hated this funeral."
+
+"Every minute."
+
+"Too many speeches."
+
+"Not enough food."
+
+"And someone else carrying his hammer."
+
+Joel smiled faintly.
+
+"He would have demanded a rematch."
+
+Lars looked toward the empty chair.
+
+"He always did."
+
+For the first time since the news of Bjorn's death, Joel allowed himself to sit.
+
+The family remained at the table long into the night.
+
+And the oldest bottles in Vintergard stood among them, witnesses from a civilization long dead, opened to remember a man who had spent his final strength keeping others alive.
